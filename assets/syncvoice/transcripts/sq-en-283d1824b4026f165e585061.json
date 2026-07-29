@@ -6,25 +6,25 @@
   "cues": [
     {
       "startMs": 0,
-      "endMs": 630,
+      "endMs": 75,
       "startChar": 0,
       "endChar": 6
     },
     {
-      "startMs": 630,
-      "endMs": 1260,
+      "startMs": 75,
+      "endMs": 150,
       "startChar": 6,
       "endChar": 11
     },
     {
-      "startMs": 1260,
-      "endMs": 1890,
+      "startMs": 150,
+      "endMs": 1560,
       "startChar": 11,
       "endChar": 15
     },
     {
-      "startMs": 1890,
-      "endMs": 2520,
+      "startMs": 1560,
+      "endMs": 1800,
       "startChar": 15,
       "endChar": 21
     }

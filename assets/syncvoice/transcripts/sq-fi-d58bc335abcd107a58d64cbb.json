@@ -6,31 +6,31 @@
   "cues": [
     {
       "startMs": 0,
-      "endMs": 848,
+      "endMs": 75,
       "startChar": 0,
       "endChar": 11
     },
     {
-      "startMs": 848,
-      "endMs": 1696,
+      "startMs": 75,
+      "endMs": 150,
       "startChar": 11,
       "endChar": 21
     },
     {
-      "startMs": 1696,
-      "endMs": 2544,
+      "startMs": 150,
+      "endMs": 1360,
       "startChar": 21,
       "endChar": 37
     },
     {
-      "startMs": 2544,
-      "endMs": 3392,
+      "startMs": 1360,
+      "endMs": 2600,
       "startChar": 37,
       "endChar": 46
     },
     {
-      "startMs": 3392,
-      "endMs": 4240,
+      "startMs": 2600,
+      "endMs": 3200,
       "startChar": 46,
       "endChar": 57
     }
