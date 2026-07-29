@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-54ee0840d05db1505ac64ffb",
+  "text": "Katsesuunta auttaa jakamaan huomion esineeseen tai tapahtumaan.",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2000,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2600,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3440,
+      "startChar": 47,
+      "endChar": 51
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3680,
+      "startChar": 51,
+      "endChar": 63
+    }
+  ]
+}

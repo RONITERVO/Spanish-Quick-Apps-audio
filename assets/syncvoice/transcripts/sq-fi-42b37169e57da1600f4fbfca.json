@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-42b37169e57da1600f4fbfca",
+  "text": "Erikoistuminen lisää kapasiteettia ja myös alttiutta häiriöille.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 35
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2160,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2760,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3520,
+      "startChar": 43,
+      "endChar": 53
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4360,
+      "startChar": 53,
+      "endChar": 64
+    }
+  ]
+}

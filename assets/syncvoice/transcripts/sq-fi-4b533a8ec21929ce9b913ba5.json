@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4b533a8ec21929ce9b913ba5",
+  "text": "Muistin avulla aikaisempi tila voi vaikuttaa myöhempään vasteeseen.",
+  "durationMs": 5360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 15,
+      "endChar": 26
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2080,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2600,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2920,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3560,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 67
+    }
+  ]
+}

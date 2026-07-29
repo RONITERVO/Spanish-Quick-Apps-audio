@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5a0b81d056e9716431a9ff5a",
+  "text": "Säikeiden risteykset",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 10,
+      "endChar": 20
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3f267f2ad0bbbc37325c90a8",
+  "text": "Havaittu ääni järjestää värähtelyt sävelkorkeuteen, sointiin, rytmiin, lähteeseen ja merkitykseen.",
+  "durationMs": 8640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 14,
+      "endChar": 24
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2000,
+      "startChar": 24,
+      "endChar": 35
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2840,
+      "startChar": 35,
+      "endChar": 52
+    },
+    {
+      "startMs": 2840,
+      "endMs": 4160,
+      "startChar": 52,
+      "endChar": 62
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5240,
+      "startChar": 62,
+      "endChar": 71
+    },
+    {
+      "startMs": 5240,
+      "endMs": 6240,
+      "startChar": 71,
+      "endChar": 82
+    },
+    {
+      "startMs": 6240,
+      "endMs": 7280,
+      "startChar": 82,
+      "endChar": 85
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7480,
+      "startChar": 85,
+      "endChar": 98
+    }
+  ]
+}

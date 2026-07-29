@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-399b390aa7c6cf22810c22b4",
+  "text": "Ensimmäinen vakuuttava vastaus osoittaisi luultavasti osittaista vastaanottoa ja ymmärrystä, ei ystävyyttä tai sopimusta.",
+  "durationMs": 8800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 23,
+      "endChar": 31
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2120,
+      "startChar": 31,
+      "endChar": 42
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2840,
+      "startChar": 42,
+      "endChar": 54
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3600,
+      "startChar": 54,
+      "endChar": 65
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4360,
+      "startChar": 65,
+      "endChar": 78
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4860,
+      "startChar": 78,
+      "endChar": 81
+    },
+    {
+      "startMs": 4860,
+      "endMs": 5360,
+      "startChar": 81,
+      "endChar": 93
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6320,
+      "startChar": 93,
+      "endChar": 96
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6395,
+      "startChar": 96,
+      "endChar": 107
+    },
+    {
+      "startMs": 6395,
+      "endMs": 7640,
+      "startChar": 107,
+      "endChar": 111
+    },
+    {
+      "startMs": 7640,
+      "endMs": 7920,
+      "startChar": 111,
+      "endChar": 121
+    }
+  ]
+}

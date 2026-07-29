@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4e9e422ae6eeb2df1934f114",
+  "text": "Ilmoituksen tulisi erottaa havaittu, päätelty ja vielä tuntematon, jotta todennäköisyys ei muuttaisi varmuutta.",
+  "durationMs": 9200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2080,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2920,
+      "startChar": 37,
+      "endChar": 46
+    },
+    {
+      "startMs": 2920,
+      "endMs": 4000,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4360,
+      "startChar": 49,
+      "endChar": 55
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4720,
+      "startChar": 55,
+      "endChar": 67
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5600,
+      "startChar": 67,
+      "endChar": 73
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6280,
+      "startChar": 73,
+      "endChar": 88
+    },
+    {
+      "startMs": 6280,
+      "endMs": 7320,
+      "startChar": 88,
+      "endChar": 91
+    },
+    {
+      "startMs": 7320,
+      "endMs": 7560,
+      "startChar": 91,
+      "endChar": 101
+    },
+    {
+      "startMs": 7560,
+      "endMs": 8160,
+      "startChar": 101,
+      "endChar": 111
+    }
+  ]
+}

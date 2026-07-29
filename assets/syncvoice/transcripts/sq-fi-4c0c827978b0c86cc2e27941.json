@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4c0c827978b0c86cc2e27941",
+  "text": "tähtienvälinen mieli",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 15,
+      "endChar": 20
+    }
+  ]
+}

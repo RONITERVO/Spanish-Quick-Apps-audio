@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-48b633b014b1f05196b84599",
+  "text": "RNA voi kuljettaa tietoa, säädellä prosesseja ja joissakin tapauksissa katalysoida reaktioita.",
+  "durationMs": 7360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2160,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2880,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3300,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 3300,
+      "endMs": 3720,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4680,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5440,
+      "startChar": 71,
+      "endChar": 83
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6240,
+      "startChar": 83,
+      "endChar": 94
+    }
+  ]
+}

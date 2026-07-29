@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-548089a88ab314218e3b4292",
+  "text": "Suuri osa planeettasta voi vaihtaa tietoja lähes välittömästi, vaikkakaan ei yhtäläisesti tai vapaasti.",
+  "durationMs": 7280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 23
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1800,
+      "startChar": 27,
+      "endChar": 35
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2200,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2760,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3120,
+      "startChar": 49,
+      "endChar": 63
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4040,
+      "startChar": 63,
+      "endChar": 74
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4960,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5200,
+      "startChar": 77,
+      "endChar": 90
+    },
+    {
+      "startMs": 5200,
+      "endMs": 6120,
+      "startChar": 90,
+      "endChar": 94
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6440,
+      "startChar": 94,
+      "endChar": 103
+    }
+  ]
+}

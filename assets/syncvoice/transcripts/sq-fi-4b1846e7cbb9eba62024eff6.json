@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4b1846e7cbb9eba62024eff6",
+  "text": "Elektronien ohjaaminen tyhjennetyssä säiliössä mahdollisti varhaisten signaalien vahvistamisen ja vaihtamisen.",
+  "durationMs": 7520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 23,
+      "endChar": 37
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2360,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3160,
+      "startChar": 47,
+      "endChar": 59
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4080,
+      "startChar": 59,
+      "endChar": 70
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4800,
+      "startChar": 70,
+      "endChar": 81
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5400,
+      "startChar": 81,
+      "endChar": 95
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5880,
+      "startChar": 95,
+      "endChar": 98
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6360,
+      "startChar": 98,
+      "endChar": 110
+    }
+  ]
+}

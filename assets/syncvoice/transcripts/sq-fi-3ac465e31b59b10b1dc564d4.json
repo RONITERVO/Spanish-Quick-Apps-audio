@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3ac465e31b59b10b1dc564d4",
+  "text": "Kylmät kaasupilvet romahtavat edelleen ja tuottavat uusia tähtien sukupolvia.",
+  "durationMs": 5960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2240,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2880,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3960,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4480,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5040,
+      "startChar": 66,
+      "endChar": 77
+    }
+  ]
+}

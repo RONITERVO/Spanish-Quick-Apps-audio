@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5a00401b7686e07d2be0a979",
+  "text": "Todelliset etäisyydet ovat valtavia. Reitti tiivistää ne, jotta niitä voidaan verrata samalla näytöllä.",
+  "durationMs": 8200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2120,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3040,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3960,
+      "startChar": 44,
+      "endChar": 54
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4680,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4960,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5400,
+      "startChar": 64,
+      "endChar": 70
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5720,
+      "startChar": 70,
+      "endChar": 78
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6120,
+      "startChar": 78,
+      "endChar": 86
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6680,
+      "startChar": 86,
+      "endChar": 94
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7240,
+      "startChar": 94,
+      "endChar": 103
+    }
+  ]
+}

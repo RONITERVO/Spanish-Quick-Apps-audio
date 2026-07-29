@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3e722c35390fda1f1037a9a2",
+  "text": "syvä kivi",
+  "durationMs": 850,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 425,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 425,
+      "endMs": 850,
+      "startChar": 5,
+      "endChar": 9
+    }
+  ]
+}

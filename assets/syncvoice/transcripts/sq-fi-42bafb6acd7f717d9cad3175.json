@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-42bafb6acd7f717d9cad3175",
+  "text": "keho tai substraatti",
+  "durationMs": 1990,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 663,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 663,
+      "endMs": 1327,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 1327,
+      "endMs": 1990,
+      "startChar": 9,
+      "endChar": 20
+    }
+  ]
+}

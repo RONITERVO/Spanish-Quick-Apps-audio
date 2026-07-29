@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-448b7b77bd9e16bf73296a99",
+  "text": "Lauseke voi koodata mahdollisuuksien jakaumia yhden tilan väittämisen sijaan.",
+  "durationMs": 5800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1480,
+      "startChar": 20,
+      "endChar": 37
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2520,
+      "startChar": 37,
+      "endChar": 46
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3400,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4000,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4320,
+      "startChar": 58,
+      "endChar": 70
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5040,
+      "startChar": 70,
+      "endChar": 77
+    }
+  ]
+}

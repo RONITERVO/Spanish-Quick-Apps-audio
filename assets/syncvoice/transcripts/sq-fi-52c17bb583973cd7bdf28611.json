@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-52c17bb583973cd7bdf28611",
+  "text": "Resurssit ja suoja voivat jakautua epätasaisesti mielenmuotojen välillä.",
+  "durationMs": 5960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1760,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2200,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2920,
+      "startChar": 35,
+      "endChar": 49
+    },
+    {
+      "startMs": 2920,
+      "endMs": 4040,
+      "startChar": 49,
+      "endChar": 64
+    },
+    {
+      "startMs": 4040,
+      "endMs": 5120,
+      "startChar": 64,
+      "endChar": 72
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4873fe8601db7c86f6bb5bf2",
+  "text": "Tummat pölyvyöt halkovat kiekkoa ja paljastavat sen kallistuneen rakenteen.",
+  "durationMs": 5600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1760,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2520,
+      "startChar": 33,
+      "endChar": 36
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2840,
+      "startChar": 36,
+      "endChar": 48
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3560,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3840,
+      "startChar": 52,
+      "endChar": 65
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4600,
+      "startChar": 65,
+      "endChar": 75
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-408cc1d473804923c92c3ec5",
+  "text": "Säie voi haarautua ja yhdistää eri solmuja.",
+  "durationMs": 3720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 953,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 953,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2520,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2800,
+      "startChar": 35,
+      "endChar": 43
+    }
+  ]
+}

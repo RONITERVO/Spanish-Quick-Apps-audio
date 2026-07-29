@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-49240b2c0ccdf3ba7cc1590c",
+  "text": "Jaetut kellot koordinoivat navigointia, teollisuutta, viestintää ja kokeiluja.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 14,
+      "endChar": 27
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2160,
+      "startChar": 27,
+      "endChar": 40
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3120,
+      "startChar": 40,
+      "endChar": 54
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4440,
+      "startChar": 54,
+      "endChar": 65
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5600,
+      "startChar": 65,
+      "endChar": 68
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5920,
+      "startChar": 68,
+      "endChar": 78
+    }
+  ]
+}

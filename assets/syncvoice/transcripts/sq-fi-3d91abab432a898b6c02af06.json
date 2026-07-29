@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3d91abab432a898b6c02af06",
+  "text": "Kokemukseen perustuva adaptiivinen käsittely",
+  "durationMs": 3400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 35
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2520,
+      "startChar": 35,
+      "endChar": 44
+    }
+  ]
+}

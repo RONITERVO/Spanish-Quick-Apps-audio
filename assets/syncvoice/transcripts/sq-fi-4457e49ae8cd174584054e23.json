@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4457e49ae8cd174584054e23",
+  "text": "hajautettu muisti",
+  "durationMs": 1800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 900,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 900,
+      "endMs": 1800,
+      "startChar": 11,
+      "endChar": 17
+    }
+  ]
+}

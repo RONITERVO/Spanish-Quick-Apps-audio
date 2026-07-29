@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3c7beb3d668ddf17ca0c47ee",
+  "text": "pimeän aineen halo",
+  "durationMs": 1690,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 563,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 563,
+      "endMs": 1127,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 1127,
+      "endMs": 1690,
+      "startChar": 14,
+      "endChar": 18
+    }
+  ]
+}

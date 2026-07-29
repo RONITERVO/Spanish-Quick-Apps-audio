@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4d777a981eedb857e77459c6",
+  "text": "kosminen säteily",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 9,
+      "endChar": 16
+    }
+  ]
+}

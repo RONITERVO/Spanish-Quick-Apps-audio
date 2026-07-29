@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-41b72000a5a29579f71cd19a",
+  "text": "toinen kaukoputki",
+  "durationMs": 1420,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 710,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 710,
+      "endMs": 1420,
+      "startChar": 7,
+      "endChar": 17
+    }
+  ]
+}

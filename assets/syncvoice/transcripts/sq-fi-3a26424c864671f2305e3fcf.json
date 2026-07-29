@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3a26424c864671f2305e3fcf",
+  "text": "Testattava esitys · yksinkertaistaa selittämistä ja ennustamista",
+  "durationMs": 5120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 36
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2720,
+      "startChar": 36,
+      "endChar": 49
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3640,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4000,
+      "startChar": 52,
+      "endChar": 64
+    }
+  ]
+}

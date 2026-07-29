@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-572d4fb6183704b70f0594af",
+  "text": "Paikallinen sääntö määrittää, kuinka elementti reagoi välittömään ympäristöönsä.",
+  "durationMs": 5720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1920,
+      "startChar": 30,
+      "endChar": 37
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2440,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3080,
+      "startChar": 47,
+      "endChar": 54
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3680,
+      "startChar": 54,
+      "endChar": 66
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4440,
+      "startChar": 66,
+      "endChar": 80
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5c1d469c21fcc7a0243ff966",
+  "text": "toinen pallonpuolisko",
+  "durationMs": 1630,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 815,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 815,
+      "endMs": 1630,
+      "startChar": 7,
+      "endChar": 21
+    }
+  ]
+}

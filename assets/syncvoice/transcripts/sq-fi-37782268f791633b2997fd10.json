@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-37782268f791633b2997fd10",
+  "text": "nestemäinen rauta ja nikkeli",
+  "durationMs": 3320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 2080,
+      "startChar": 18,
+      "endChar": 21
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2360,
+      "startChar": 21,
+      "endChar": 28
+    }
+  ]
+}

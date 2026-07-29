@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-428db5a6457c82cb58ba1d0a",
+  "text": "Kiekon ulkopuolella · laaja ulkokehä",
+  "durationMs": 3920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2080,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2800,
+      "startChar": 28,
+      "endChar": 36
+    }
+  ]
+}

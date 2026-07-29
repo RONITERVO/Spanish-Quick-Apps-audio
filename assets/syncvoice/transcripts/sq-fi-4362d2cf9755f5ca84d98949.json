@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4362d2cf9755f5ca84d98949",
+  "text": "Jaksottaiset muutokset voivat seurata biologisia, ilmastollisia tai geologisia kiertokulkuja.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1600,
+      "startChar": 38,
+      "endChar": 50
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2520,
+      "startChar": 50,
+      "endChar": 64
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3760,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4320,
+      "startChar": 68,
+      "endChar": 79
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5080,
+      "startChar": 79,
+      "endChar": 93
+    }
+  ]
+}

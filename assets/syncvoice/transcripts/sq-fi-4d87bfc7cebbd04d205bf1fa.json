@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4d87bfc7cebbd04d205bf1fa",
+  "text": "tumma oranssi",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 625,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 625,
+      "endMs": 1250,
+      "startChar": 6,
+      "endChar": 13
+    }
+  ]
+}

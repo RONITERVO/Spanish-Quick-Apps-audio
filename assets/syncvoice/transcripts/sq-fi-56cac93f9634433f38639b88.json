@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-56cac93f9634433f38639b88",
+  "text": "Suuri lähisolmu · tuhansia galakseja",
+  "durationMs": 3920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2080,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2800,
+      "startChar": 27,
+      "endChar": 36
+    }
+  ]
+}

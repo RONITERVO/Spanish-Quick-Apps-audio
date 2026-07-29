@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5b809c26a3a0777098439e14",
+  "text": "Raja koskee havaintojamme; se ei osoita, että avaruus päättyisi siihen.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 12,
+      "endChar": 27
+    },
+    {
+      "startMs": 1040,
+      "endMs": 2080,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2560,
+      "startChar": 30,
+      "endChar": 33
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2800,
+      "startChar": 33,
+      "endChar": 41
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3400,
+      "startChar": 41,
+      "endChar": 46
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3760,
+      "startChar": 46,
+      "endChar": 54
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4400,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 4400,
+      "endMs": 5080,
+      "startChar": 64,
+      "endChar": 71
+    }
+  ]
+}

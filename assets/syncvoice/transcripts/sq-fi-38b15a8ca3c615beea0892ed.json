@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-38b15a8ca3c615beea0892ed",
+  "text": "keinotekoinen radiosignaali",
+  "durationMs": 2330,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1165,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 1165,
+      "endMs": 2330,
+      "startChar": 14,
+      "endChar": 27
+    }
+  ]
+}

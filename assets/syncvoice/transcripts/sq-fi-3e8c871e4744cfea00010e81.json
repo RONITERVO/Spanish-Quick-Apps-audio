@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3e8c871e4744cfea00010e81",
+  "text": "Kopiointi säilyttää organisaation tai sekvenssin uusissa ilmentymissä.",
+  "durationMs": 5320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 20,
+      "endChar": 34
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2560,
+      "startChar": 34,
+      "endChar": 38
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2760,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3600,
+      "startChar": 49,
+      "endChar": 57
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4200,
+      "startChar": 57,
+      "endChar": 70
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-51e8c1bbcd66fc1f3586284d",
+  "text": "erittäin hidas menetys",
+  "durationMs": 1880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 627,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 627,
+      "endMs": 1253,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 1253,
+      "endMs": 1880,
+      "startChar": 15,
+      "endChar": 22
+    }
+  ]
+}

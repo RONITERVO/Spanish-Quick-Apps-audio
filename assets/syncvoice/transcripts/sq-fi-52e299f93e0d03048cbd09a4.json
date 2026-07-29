@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-52e299f93e0d03048cbd09a4",
+  "text": "Tähtien naapurusto",
+  "durationMs": 1500,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 750,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 750,
+      "endMs": 1500,
+      "startChar": 8,
+      "endChar": 18
+    }
+  ]
+}

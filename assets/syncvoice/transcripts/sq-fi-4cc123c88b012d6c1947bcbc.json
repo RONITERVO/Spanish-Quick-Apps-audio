@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4cc123c88b012d6c1947bcbc",
+  "text": "jaettu tieto",
+  "durationMs": 1080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 540,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 540,
+      "endMs": 1080,
+      "startChar": 7,
+      "endChar": 12
+    }
+  ]
+}
