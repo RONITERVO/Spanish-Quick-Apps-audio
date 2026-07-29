@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-efc4120f968b4252469fec9e",
+  "text": "Alpha Centauri B",
+  "durationMs": 1630,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 543,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 543,
+      "endMs": 1087,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 1087,
+      "endMs": 1630,
+      "startChar": 15,
+      "endChar": 16
+    }
+  ]
+}

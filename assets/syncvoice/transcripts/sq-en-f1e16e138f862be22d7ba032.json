@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f1e16e138f862be22d7ba032",
+  "text": "communication delays",
+  "durationMs": 1540,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 770,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 770,
+      "endMs": 1540,
+      "startChar": 14,
+      "endChar": 20
+    }
+  ]
+}

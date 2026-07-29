@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ed876bc602aea84f828607a7",
+  "text": "Sparse region · links between large concentrations",
+  "durationMs": 4000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1480,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2000,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2560,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2920,
+      "startChar": 36,
+      "endChar": 50
+    }
+  ]
+}

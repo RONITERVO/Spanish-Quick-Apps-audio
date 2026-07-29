@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ede89a803e0d3fbb1e96ed5a",
+  "text": "A global layer of sulfuric acid clouds almost completely obscures the surface.",
+  "durationMs": 6680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 15,
+      "endChar": 18
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1520,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2880,
+      "startChar": 32,
+      "endChar": 39
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3520,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4120,
+      "startChar": 46,
+      "endChar": 57
+    },
+    {
+      "startMs": 4120,
+      "endMs": 5080,
+      "startChar": 57,
+      "endChar": 66
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5420,
+      "startChar": 66,
+      "endChar": 70
+    },
+    {
+      "startMs": 5420,
+      "endMs": 5760,
+      "startChar": 70,
+      "endChar": 78
+    }
+  ]
+}

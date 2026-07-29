@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-01358e7d2350c85164897dbf",
+  "text": "lähes muuttumaton tahti",
+  "durationMs": 1950,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 650,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 650,
+      "endMs": 1300,
+      "startChar": 6,
+      "endChar": 18
+    },
+    {
+      "startMs": 1300,
+      "endMs": 1950,
+      "startChar": 18,
+      "endChar": 23
+    }
+  ]
+}

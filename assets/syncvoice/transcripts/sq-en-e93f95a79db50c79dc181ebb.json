@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e93f95a79db50c79dc181ebb",
+  "text": "light indigo",
+  "durationMs": 1320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 660,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 660,
+      "endMs": 1320,
+      "startChar": 6,
+      "endChar": 12
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f9dc9973b629b4785da78904",
+  "text": "The personal meaning",
+  "durationMs": 1320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 440,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 440,
+      "endMs": 880,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 880,
+      "endMs": 1320,
+      "startChar": 13,
+      "endChar": 20
+    }
+  ]
+}

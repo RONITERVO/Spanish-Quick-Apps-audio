@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0418a6eabe8e0abc4eb1ff4c",
+  "text": "hämärä valo",
+  "durationMs": 970,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 485,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 485,
+      "endMs": 970,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

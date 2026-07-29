@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e87ec59f4ef8b2f99a449485",
+  "text": "another wavelength",
+  "durationMs": 1260,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 630,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 630,
+      "endMs": 1260,
+      "startChar": 8,
+      "endChar": 18
+    }
+  ]
+}

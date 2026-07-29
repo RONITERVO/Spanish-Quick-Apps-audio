@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f2a6fb5461778d6afad09674",
+  "text": "underground ice",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 12,
+      "endChar": 15
+    }
+  ]
+}

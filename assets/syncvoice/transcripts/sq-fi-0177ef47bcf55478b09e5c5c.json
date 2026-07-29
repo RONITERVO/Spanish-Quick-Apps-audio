@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0177ef47bcf55478b09e5c5c",
+  "text": "Sen mukaan diskreetti kausaalijärjestys voi olla perustavampi kuin jatkuva monisto.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 22
+    },
+    {
+      "startMs": 960,
+      "endMs": 1880,
+      "startChar": 22,
+      "endChar": 40
+    },
+    {
+      "startMs": 1880,
+      "endMs": 3360,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3880,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4240,
+      "startChar": 49,
+      "endChar": 62
+    },
+    {
+      "startMs": 4240,
+      "endMs": 5280,
+      "startChar": 62,
+      "endChar": 67
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5680,
+      "startChar": 67,
+      "endChar": 75
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6440,
+      "startChar": 75,
+      "endChar": 83
+    }
+  ]
+}

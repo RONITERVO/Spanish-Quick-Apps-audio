@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-09cb87e0c9f304c08ef77754",
+  "text": "Proxima Centauri · 4,24 valovuotta",
+  "durationMs": 5320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2120,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3840,
+      "startChar": 24,
+      "endChar": 34
+    }
+  ]
+}

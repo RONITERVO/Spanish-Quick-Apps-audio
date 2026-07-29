@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0e58857b77325493471d842c",
+  "text": "Alueiden väliset etäisyydet kasvavat, koska avaruuden geometria muuttuu kaikkialla samanaikaisesti.",
+  "durationMs": 8240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 17,
+      "endChar": 28
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2960,
+      "startChar": 38,
+      "endChar": 44
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3720,
+      "startChar": 44,
+      "endChar": 54
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4480,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5280,
+      "startChar": 64,
+      "endChar": 72
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5960,
+      "startChar": 72,
+      "endChar": 83
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6800,
+      "startChar": 83,
+      "endChar": 99
+    }
+  ]
+}

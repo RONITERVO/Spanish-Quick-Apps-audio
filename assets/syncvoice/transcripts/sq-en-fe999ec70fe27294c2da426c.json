@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fe999ec70fe27294c2da426c",
+  "text": "Matter occupies less volume and becomes denser with depth.",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2400,
+      "startChar": 28,
+      "endChar": 32
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2680,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3280,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3800,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4040,
+      "startChar": 52,
+      "endChar": 58
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-02d421ba9b3c7fd972b3a25e",
+  "text": "Ihon ja kudosten reseptorit havaitsevat muodonmuutoksia, kosketusta, tärinää ja venymistä.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 17,
+      "endChar": 28
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 40
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2840,
+      "startChar": 40,
+      "endChar": 57
+    },
+    {
+      "startMs": 2840,
+      "endMs": 4080,
+      "startChar": 57,
+      "endChar": 69
+    },
+    {
+      "startMs": 4080,
+      "endMs": 5240,
+      "startChar": 69,
+      "endChar": 77
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5700,
+      "startChar": 77,
+      "endChar": 80
+    },
+    {
+      "startMs": 5700,
+      "endMs": 6160,
+      "startChar": 80,
+      "endChar": 90
+    }
+  ]
+}

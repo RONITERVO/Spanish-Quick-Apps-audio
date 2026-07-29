@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-09587007eebc8958bc2272b3",
+  "text": "Yhtä suurista transneptunisista kappaleista peittää kirkas, jäärikas pinta.",
+  "durationMs": 5640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 32
+    },
+    {
+      "startMs": 225,
+      "endMs": 2120,
+      "startChar": 32,
+      "endChar": 44
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3000,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3600,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4280,
+      "startChar": 60,
+      "endChar": 69
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4960,
+      "startChar": 69,
+      "endChar": 75
+    }
+  ]
+}

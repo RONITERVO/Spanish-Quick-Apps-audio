@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-082ec9556fcdd9cfab90aedc",
+  "text": "Galaksi ei pääty terävään linjaan. Sen valo himmenee ja sen halo sulautuu galaksien väliseen tilaan.",
+  "durationMs": 8280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1560,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2240,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2880,
+      "startChar": 35,
+      "endChar": 39
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3000,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3880,
+      "startChar": 44,
+      "endChar": 53
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4680,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4960,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5240,
+      "startChar": 60,
+      "endChar": 65
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5600,
+      "startChar": 65,
+      "endChar": 74
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6320,
+      "startChar": 74,
+      "endChar": 84
+    },
+    {
+      "startMs": 6320,
+      "endMs": 7000,
+      "startChar": 84,
+      "endChar": 93
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7520,
+      "startChar": 93,
+      "endChar": 100
+    }
+  ]
+}

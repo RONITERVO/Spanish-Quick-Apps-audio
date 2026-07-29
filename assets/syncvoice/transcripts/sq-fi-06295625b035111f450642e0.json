@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-06295625b035111f450642e0",
+  "text": "Hyvin testattu standardimalli",
+  "durationMs": 2190,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 730,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 730,
+      "endMs": 1460,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 1460,
+      "endMs": 2190,
+      "startChar": 15,
+      "endChar": 29
+    }
+  ]
+}

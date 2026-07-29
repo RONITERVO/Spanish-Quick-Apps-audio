@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-075ff883a664c97d003670f5",
+  "text": "Uusi fysiikka voi täysin muuttaa nykyisyydestä tehtyjä ennusteita.",
+  "durationMs": 4680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 960,
+      "endMs": 1160,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2400,
+      "startChar": 33,
+      "endChar": 47
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3240,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3720,
+      "startChar": 55,
+      "endChar": 66
+    }
+  ]
+}

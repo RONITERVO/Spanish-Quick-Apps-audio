@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1080bbd7f6f8f1fc40ce0283",
+  "text": "Vastaavuus on paikallinen: suurilla alueilla painovoimaerot paljastavat kaarevuus- ja vuorovesivoimat.",
+  "durationMs": 8440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 14,
+      "endChar": 27
+    },
+    {
+      "startMs": 1040,
+      "endMs": 2000,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 3040,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3760,
+      "startChar": 45,
+      "endChar": 60
+    },
+    {
+      "startMs": 3760,
+      "endMs": 5000,
+      "startChar": 60,
+      "endChar": 72
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5880,
+      "startChar": 72,
+      "endChar": 83
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6720,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 6720,
+      "endMs": 6960,
+      "startChar": 86,
+      "endChar": 102
+    }
+  ]
+}

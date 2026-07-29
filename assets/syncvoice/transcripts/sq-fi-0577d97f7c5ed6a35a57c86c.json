@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0577d97f7c5ed6a35a57c86c",
+  "text": "Mineraalien rakenne muuttuu täällä, jolloin tiheys kasvaa mutta peruskoostumus säilyy samana.",
+  "durationMs": 6960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1920,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2480,
+      "startChar": 36,
+      "endChar": 44
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3240,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3760,
+      "startChar": 51,
+      "endChar": 58
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4360,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4760,
+      "startChar": 64,
+      "endChar": 79
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5800,
+      "startChar": 79,
+      "endChar": 86
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6200,
+      "startChar": 86,
+      "endChar": 93
+    }
+  ]
+}

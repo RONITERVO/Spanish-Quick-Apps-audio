@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0b7eb4a24c8983804bb1981f",
+  "text": "Tähdet voivat syntyä ja kuolla ilman, että prosessi erottaa onnistumisen ja epäonnistumisen; Kysymys merkityksestä on edelleen avoin.",
+  "durationMs": 10560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 24
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1760,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2440,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3000,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3280,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3880,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4480,
+      "startChar": 60,
+      "endChar": 73
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5440,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5720,
+      "startChar": 76,
+      "endChar": 93
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6840,
+      "startChar": 93,
+      "endChar": 101
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7920,
+      "startChar": 101,
+      "endChar": 115
+    },
+    {
+      "startMs": 7920,
+      "endMs": 8920,
+      "startChar": 115,
+      "endChar": 118
+    },
+    {
+      "startMs": 8920,
+      "endMs": 9160,
+      "startChar": 118,
+      "endChar": 127
+    },
+    {
+      "startMs": 9160,
+      "endMs": 9760,
+      "startChar": 127,
+      "endChar": 133
+    }
+  ]
+}

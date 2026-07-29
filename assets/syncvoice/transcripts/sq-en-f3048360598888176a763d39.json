@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f3048360598888176a763d39",
+  "text": "slow symbol",
+  "durationMs": 1290,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 645,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 645,
+      "endMs": 1290,
+      "startChar": 5,
+      "endChar": 11
+    }
+  ]
+}

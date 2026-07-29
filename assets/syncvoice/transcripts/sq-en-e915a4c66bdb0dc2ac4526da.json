@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e915a4c66bdb0dc2ac4526da",
+  "text": "Sounds or gestures + symbols + rules + dialogue",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2000,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2760,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3640,
+      "startChar": 29,
+      "endChar": 31
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4440,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5200,
+      "startChar": 37,
+      "endChar": 39
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5880,
+      "startChar": 39,
+      "endChar": 47
+    }
+  ]
+}

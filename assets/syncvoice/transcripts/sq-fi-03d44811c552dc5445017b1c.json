@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-03d44811c552dc5445017b1c",
+  "text": "Tulevaisuuden ominaisuudet jakautuvat epätasaisesti",
+  "durationMs": 4320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 27
+    },
+    {
+      "startMs": 150,
+      "endMs": 1960,
+      "startChar": 27,
+      "endChar": 38
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2880,
+      "startChar": 38,
+      "endChar": 51
+    }
+  ]
+}

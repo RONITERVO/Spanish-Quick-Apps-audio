@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e8d191044ecfbbd8bde73e23",
+  "text": "local movement",
+  "durationMs": 1180,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 590,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 590,
+      "endMs": 1180,
+      "startChar": 6,
+      "endChar": 14
+    }
+  ]
+}

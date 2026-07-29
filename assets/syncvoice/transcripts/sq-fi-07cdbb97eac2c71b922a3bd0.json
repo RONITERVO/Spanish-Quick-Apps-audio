@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-07cdbb97eac2c71b922a3bd0",
+  "text": "Suuri jäykkä kappale liikkuu hitaasti sitkeämmän kiven yli.",
+  "durationMs": 6320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2400,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3240,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4120,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 4120,
+      "endMs": 5200,
+      "startChar": 49,
+      "endChar": 55
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5680,
+      "startChar": 55,
+      "endChar": 59
+    }
+  ]
+}

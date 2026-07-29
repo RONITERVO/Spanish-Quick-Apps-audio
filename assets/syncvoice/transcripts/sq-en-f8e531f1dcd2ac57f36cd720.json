@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f8e531f1dcd2ac57f36cd720",
+  "text": "Thermoreceptors detect changes that affect metabolism, damage and behavior.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 23,
+      "endChar": 31
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2200,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2440,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2960,
+      "startChar": 43,
+      "endChar": 55
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3960,
+      "startChar": 55,
+      "endChar": 62
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4800,
+      "startChar": 62,
+      "endChar": 66
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5200,
+      "startChar": 66,
+      "endChar": 75
+    }
+  ]
+}

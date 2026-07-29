@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-08c7be9b377ace517734250b",
+  "text": "Tapahtumat aiheuttavat seurauksia, vaikka kukaan ei muista tai tulkitse niitä.",
+  "durationMs": 5880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 23,
+      "endChar": 35
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2520,
+      "startChar": 35,
+      "endChar": 42
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3040,
+      "startChar": 42,
+      "endChar": 49
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3520,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3680,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4280,
+      "startChar": 59,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4560,
+      "startChar": 63,
+      "endChar": 72
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5200,
+      "startChar": 72,
+      "endChar": 78
+    }
+  ]
+}

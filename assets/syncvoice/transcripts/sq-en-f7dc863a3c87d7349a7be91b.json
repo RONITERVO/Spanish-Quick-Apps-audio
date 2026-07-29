@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f7dc863a3c87d7349a7be91b",
+  "text": "Two neighboring irregular galaxies",
+  "durationMs": 2840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1840,
+      "startChar": 26,
+      "endChar": 34
+    }
+  ]
+}

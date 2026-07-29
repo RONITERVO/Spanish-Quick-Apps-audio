@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f1da0c83d9fe8ea7b18ec66d",
+  "text": "edge of the Local Void",
+  "durationMs": 1960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 300,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 22
+    }
+  ]
+}

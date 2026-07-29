@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f94fd0fa3fceb964a182a8ac",
+  "text": "dark violet",
+  "durationMs": 1260,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 630,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 630,
+      "endMs": 1260,
+      "startChar": 5,
+      "endChar": 11
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0b3200168609a22b233c765e",
+  "text": "Kehon kykyjen suora laajennus",
+  "durationMs": 3080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 14,
+      "endChar": 20
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1840,
+      "startChar": 20,
+      "endChar": 29
+    }
+  ]
+}

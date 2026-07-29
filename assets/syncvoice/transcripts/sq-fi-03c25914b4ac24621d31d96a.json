@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-03c25914b4ac24621d31d96a",
+  "text": "Se on paksumpi, vähemmän tiheä ja säilyttää hyvin vanhoja kiviä.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1520,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2480,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3120,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3800,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4480,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 4480,
+      "endMs": 4800,
+      "startChar": 50,
+      "endChar": 58
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5360,
+      "startChar": 58,
+      "endChar": 64
+    }
+  ]
+}

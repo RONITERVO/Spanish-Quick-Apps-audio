@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fc38be2d1c316b20838ff4ef",
+  "text": "Multiple active research paths",
+  "durationMs": 2600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1760,
+      "startChar": 25,
+      "endChar": 30
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0a07714e0114950c966c5a5d",
+  "text": "Paikallinen jakauma liittyy Neitsyen galaksijoukon suunnassa tiheämpiin rakenteisiin.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1720,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2360,
+      "startChar": 37,
+      "endChar": 51
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3240,
+      "startChar": 51,
+      "endChar": 61
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3880,
+      "startChar": 61,
+      "endChar": 72
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4600,
+      "startChar": 72,
+      "endChar": 85
+    }
+  ]
+}

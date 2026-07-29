@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0c2bf466e70ef6311dc2b3a2",
+  "text": "Kaarevuus kuvaa kuinka alueen geometriset suhteet muuttuvat tasogeometriasta.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1640,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2200,
+      "startChar": 30,
+      "endChar": 42
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3120,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3720,
+      "startChar": 50,
+      "endChar": 60
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4400,
+      "startChar": 60,
+      "endChar": 77
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0b2526fba7136bbfd62b1720",
+  "text": "Pysyvyys mahdollistaa erikoistumisen, vaikka tehtävät ovat edelleen päällekkäisiä.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 38
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2800,
+      "startChar": 38,
+      "endChar": 45
+    },
+    {
+      "startMs": 2800,
+      "endMs": 2880,
+      "startChar": 45,
+      "endChar": 54
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3960,
+      "startChar": 54,
+      "endChar": 59
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4280,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4840,
+      "startChar": 68,
+      "endChar": 82
+    }
+  ]
+}

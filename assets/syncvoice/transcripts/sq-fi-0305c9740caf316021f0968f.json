@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0305c9740caf316021f0968f",
+  "text": "Signaalien suodattaminen, näytteenotto ja muuntaminen paljastaa kohinan tai mittakaavan piilossa olevan tiedon.",
+  "durationMs": 8320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 26
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 26,
+      "endChar": 39
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2320,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2920,
+      "startChar": 42,
+      "endChar": 54
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3880,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4840,
+      "startChar": 64,
+      "endChar": 72
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5480,
+      "startChar": 72,
+      "endChar": 76
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5840,
+      "startChar": 76,
+      "endChar": 88
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6640,
+      "startChar": 88,
+      "endChar": 97
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7160,
+      "startChar": 97,
+      "endChar": 104
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7520,
+      "startChar": 104,
+      "endChar": 111
+    }
+  ]
+}

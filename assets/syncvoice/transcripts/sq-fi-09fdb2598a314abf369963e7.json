@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-09fdb2598a314abf369963e7",
+  "text": "Ensimmäiset minuutit · muodostuu kevyitä ytimiä",
+  "durationMs": 4240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 21,
+      "endChar": 23
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2000,
+      "startChar": 23,
+      "endChar": 33
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2680,
+      "startChar": 33,
+      "endChar": 41
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3360,
+      "startChar": 41,
+      "endChar": 47
+    }
+  ]
+}

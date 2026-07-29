@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ea21614f2f9b3f181984b348",
+  "text": "before dawn",
+  "durationMs": 900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 450,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 450,
+      "endMs": 900,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

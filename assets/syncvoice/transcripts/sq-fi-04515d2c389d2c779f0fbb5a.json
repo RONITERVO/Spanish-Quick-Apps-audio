@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-04515d2c389d2c779f0fbb5a",
+  "text": "Joustava käyttäytyminen mahdollistaa reagoinnin tilanteisiin, jotka eivät ole samanlaisia kuin aiemmat.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 24,
+      "endChar": 37
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2400,
+      "startChar": 37,
+      "endChar": 48
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3120,
+      "startChar": 48,
+      "endChar": 62
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4000,
+      "startChar": 62,
+      "endChar": 68
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4760,
+      "startChar": 68,
+      "endChar": 74
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5160,
+      "startChar": 74,
+      "endChar": 78
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5360,
+      "startChar": 78,
+      "endChar": 90
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6160,
+      "startChar": 90,
+      "endChar": 95
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6400,
+      "startChar": 95,
+      "endChar": 103
+    }
+  ]
+}

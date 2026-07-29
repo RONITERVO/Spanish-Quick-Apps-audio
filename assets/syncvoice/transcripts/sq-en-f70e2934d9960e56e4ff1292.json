@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f70e2934d9960e56e4ff1292",
+  "text": "A column of hot material can rise from great depths.",
+  "durationMs": 5000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 1120,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1520,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2360,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2640,
+      "startChar": 29,
+      "endChar": 34
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3240,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3640,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4120,
+      "startChar": 45,
+      "endChar": 52
+    }
+  ]
+}

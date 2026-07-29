@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ff17085081badb34a86c44c2",
+  "text": "The robot needs to measure its own state and relevant aspects of the environment.",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 673,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 673,
+      "endMs": 1120,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2160,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2440,
+      "startChar": 35,
+      "endChar": 41
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2960,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 54
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3960,
+      "startChar": 54,
+      "endChar": 62
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4220,
+      "startChar": 62,
+      "endChar": 65
+    },
+    {
+      "startMs": 4220,
+      "endMs": 4480,
+      "startChar": 65,
+      "endChar": 69
+    },
+    {
+      "startMs": 4480,
+      "endMs": 4720,
+      "startChar": 69,
+      "endChar": 81
+    }
+  ]
+}

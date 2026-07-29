@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0f123d052f0fee4a130afd67",
+  "text": "Kemialliset potentiaalierot ohjaavat reaktioita ja komponenttien kulkeutumista.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 28
+    },
+    {
+      "startMs": 150,
+      "endMs": 2440,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3160,
+      "startChar": 37,
+      "endChar": 48
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4160,
+      "startChar": 48,
+      "endChar": 51
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4560,
+      "startChar": 51,
+      "endChar": 65
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5520,
+      "startChar": 65,
+      "endChar": 79
+    }
+  ]
+}

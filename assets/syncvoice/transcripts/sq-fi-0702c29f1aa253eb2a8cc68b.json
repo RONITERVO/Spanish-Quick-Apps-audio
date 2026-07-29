@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0702c29f1aa253eb2a8cc68b",
+  "text": "ei ole kokonaan painovoiman sitoma",
+  "durationMs": 2800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 34
+    }
+  ]
+}

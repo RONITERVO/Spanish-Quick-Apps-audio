@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f33e76665f61125dac4e5b79",
+  "text": "planets and matter",
+  "durationMs": 1500,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1500,
+      "startChar": 12,
+      "endChar": 18
+    }
+  ]
+}
