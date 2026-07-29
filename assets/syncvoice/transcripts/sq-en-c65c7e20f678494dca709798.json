@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c65c7e20f678494dca709798",
+  "text": "Region of icy worlds",
+  "durationMs": 2680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 10,
+      "endChar": 14
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1680,
+      "startChar": 14,
+      "endChar": 20
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-bfce5cb656808e608749c804",
+  "text": "from the stars",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 417,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 417,
+      "endMs": 833,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 833,
+      "endMs": 1250,
+      "startChar": 9,
+      "endChar": 14
+    }
+  ]
+}

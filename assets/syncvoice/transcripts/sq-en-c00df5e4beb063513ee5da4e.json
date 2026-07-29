@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c00df5e4beb063513ee5da4e",
+  "text": "Local Bubble",
+  "durationMs": 900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 450,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 450,
+      "endMs": 900,
+      "startChar": 6,
+      "endChar": 12
+    }
+  ]
+}

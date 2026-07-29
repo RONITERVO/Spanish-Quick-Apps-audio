@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c6562f0cf12ec08ad3d055d5",
+  "text": "A skilled person can gradually increase the difficulty and withdraw help.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1240,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1520,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2400,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2780,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 2780,
+      "endMs": 3160,
+      "startChar": 44,
+      "endChar": 55
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4080,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4560,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5080,
+      "startChar": 68,
+      "endChar": 73
+    }
+  ]
+}

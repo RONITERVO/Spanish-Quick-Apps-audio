@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e1a54b1c415e947608394224",
+  "text": "conflicting observations",
+  "durationMs": 2060,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1030,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 1030,
+      "endMs": 2060,
+      "startChar": 12,
+      "endChar": 24
+    }
+  ]
+}

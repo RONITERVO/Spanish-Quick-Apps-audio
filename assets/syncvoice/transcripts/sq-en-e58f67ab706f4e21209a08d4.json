@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e58f67ab706f4e21209a08d4",
+  "text": "Open pathways · no single destination",
+  "durationMs": 3560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1480,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1880,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2400,
+      "startChar": 26,
+      "endChar": 37
+    }
+  ]
+}

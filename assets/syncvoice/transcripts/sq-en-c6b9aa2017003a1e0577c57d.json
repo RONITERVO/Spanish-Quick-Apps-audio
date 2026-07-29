@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c6b9aa2017003a1e0577c57d",
+  "text": "Rocky planet · point of continuity",
+  "durationMs": 3120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1360,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1840,
+      "startChar": 21,
+      "endChar": 24
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2000,
+      "startChar": 24,
+      "endChar": 34
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c338f620462f293328a6cd4a",
+  "text": "Decision to respond",
+  "durationMs": 1480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 493,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 493,
+      "endMs": 987,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 987,
+      "endMs": 1480,
+      "startChar": 12,
+      "endChar": 19
+    }
+  ]
+}

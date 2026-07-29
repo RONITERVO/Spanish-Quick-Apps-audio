@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-cd19b44f54f414a5dfa1f807",
+  "text": "Distributed system of interoperable networks",
+  "durationMs": 3600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1800,
+      "startChar": 22,
+      "endChar": 36
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2680,
+      "startChar": 36,
+      "endChar": 44
+    }
+  ]
+}

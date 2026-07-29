@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d544b70acd08fa576f00f0a9",
+  "text": "muted olive green",
+  "durationMs": 1700,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 567,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 567,
+      "endMs": 1133,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 1133,
+      "endMs": 1700,
+      "startChar": 12,
+      "endChar": 17
+    }
+  ]
+}

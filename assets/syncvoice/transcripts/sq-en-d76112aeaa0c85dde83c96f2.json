@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d76112aeaa0c85dde83c96f2",
+  "text": "you are here",
+  "durationMs": 1490,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 497,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 497,
+      "endMs": 993,
+      "startChar": 4,
+      "endChar": 8
+    },
+    {
+      "startMs": 993,
+      "endMs": 1490,
+      "startChar": 8,
+      "endChar": 12
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e2350d87f20c44d7058066c7",
+  "text": "Changing temperature, pressure or field can rearrange the whole and create a different phase.",
+  "durationMs": 6880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2200,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2560,
+      "startChar": 34,
+      "endChar": 40
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3200,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3520,
+      "startChar": 44,
+      "endChar": 54
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3880,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4240,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4800,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5200,
+      "startChar": 68,
+      "endChar": 75
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5500,
+      "startChar": 75,
+      "endChar": 77
+    },
+    {
+      "startMs": 5500,
+      "endMs": 5800,
+      "startChar": 77,
+      "endChar": 87
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6240,
+      "startChar": 87,
+      "endChar": 93
+    }
+  ]
+}

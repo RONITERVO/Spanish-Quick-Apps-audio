@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-cc532aa8bae0581db5c7cb9c",
+  "text": "Invisible power and control infrastructure",
+  "durationMs": 3160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1600,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 42
+    }
+  ]
+}

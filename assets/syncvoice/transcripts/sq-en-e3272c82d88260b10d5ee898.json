@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e3272c82d88260b10d5ee898",
+  "text": "Intervention on terrestrial scale systems",
+  "durationMs": 3200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1920,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2560,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3200,
+      "startChar": 34,
+      "endChar": 41
+    }
+  ]
+}

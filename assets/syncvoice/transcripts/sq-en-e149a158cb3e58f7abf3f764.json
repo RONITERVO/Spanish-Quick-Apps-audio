@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e149a158cb3e58f7abf3f764",
+  "text": "light in transit",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 533,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 533,
+      "endMs": 1067,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 1067,
+      "endMs": 1600,
+      "startChar": 9,
+      "endChar": 16
+    }
+  ]
+}

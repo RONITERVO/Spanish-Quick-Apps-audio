@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d36d789302eee2ecfa2b064e",
+  "text": "Growth coordinates increase in size, cell division and availability of resources.",
+  "durationMs": 6360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1760,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2080,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2840,
+      "startChar": 37,
+      "endChar": 42
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3360,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4040,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4440,
+      "startChar": 55,
+      "endChar": 68
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4860,
+      "startChar": 68,
+      "endChar": 71
+    },
+    {
+      "startMs": 4860,
+      "endMs": 5280,
+      "startChar": 71,
+      "endChar": 81
+    }
+  ]
+}

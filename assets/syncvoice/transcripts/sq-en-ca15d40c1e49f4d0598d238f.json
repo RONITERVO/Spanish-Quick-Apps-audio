@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ca15d40c1e49f4d0598d238f",
+  "text": "seismic discontinuity",
+  "durationMs": 2200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1100,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 1100,
+      "endMs": 2200,
+      "startChar": 8,
+      "endChar": 21
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c8d77fc6a3c288dbd3f693fc",
+  "text": "Some currents exceed two thousand kilometers per hour.",
+  "durationMs": 4080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1480,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2640,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2940,
+      "startChar": 45,
+      "endChar": 49
+    },
+    {
+      "startMs": 2940,
+      "endMs": 3240,
+      "startChar": 49,
+      "endChar": 54
+    }
+  ]
+}

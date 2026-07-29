@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-dbac2bd05d83273eaca33c63",
+  "text": "water stored in minerals",
+  "durationMs": 2280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1440,
+      "startChar": 16,
+      "endChar": 24
+    }
+  ]
+}

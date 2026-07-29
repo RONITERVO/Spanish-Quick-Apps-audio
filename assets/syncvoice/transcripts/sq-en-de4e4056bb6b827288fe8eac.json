@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-de4e4056bb6b827288fe8eac",
+  "text": "Internal signals inform about position, tension and movement of the body.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 17,
+      "endChar": 24
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1880,
+      "startChar": 24,
+      "endChar": 30
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2240,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2960,
+      "startChar": 40,
+      "endChar": 48
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3880,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4400,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4660,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 4660,
+      "endMs": 4920,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5120,
+      "startChar": 68,
+      "endChar": 73
+    }
+  ]
+}

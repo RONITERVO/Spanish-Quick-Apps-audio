@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-db9c3d3aff351325b329d309",
+  "text": "Received message",
+  "durationMs": 1040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 520,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 520,
+      "endMs": 1040,
+      "startChar": 9,
+      "endChar": 16
+    }
+  ]
+}

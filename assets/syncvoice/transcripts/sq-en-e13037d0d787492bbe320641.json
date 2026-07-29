@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e13037d0d787492bbe320641",
+  "text": "signals in the noise",
+  "durationMs": 2640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1720,
+      "startChar": 15,
+      "endChar": 20
+    }
+  ]
+}

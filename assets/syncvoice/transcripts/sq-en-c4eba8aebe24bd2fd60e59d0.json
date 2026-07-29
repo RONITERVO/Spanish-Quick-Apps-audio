@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c4eba8aebe24bd2fd60e59d0",
+  "text": "Feedback points out differences between the attempt and the desired result.",
+  "durationMs": 5040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 32
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2000,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2260,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 2260,
+      "endMs": 2520,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3360,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3520,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3680,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4280,
+      "startChar": 68,
+      "endChar": 75
+    }
+  ]
+}

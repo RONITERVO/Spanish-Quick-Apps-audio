@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-db04b6612e3c960ba103d5f4",
+  "text": "Open problem · interacting hypotheses",
+  "durationMs": 3440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1320,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2240,
+      "startChar": 27,
+      "endChar": 37
+    }
+  ]
+}

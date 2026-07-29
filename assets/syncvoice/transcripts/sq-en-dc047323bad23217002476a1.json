@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-dc047323bad23217002476a1",
+  "text": "Testable predictions",
+  "durationMs": 1630,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 815,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 815,
+      "endMs": 1630,
+      "startChar": 9,
+      "endChar": 20
+    }
+  ]
+}

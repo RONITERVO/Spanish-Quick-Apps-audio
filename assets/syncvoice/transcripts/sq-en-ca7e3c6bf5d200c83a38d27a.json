@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ca7e3c6bf5d200c83a38d27a",
+  "text": "A signal without a definitive explanation",
+  "durationMs": 3880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 960,
+      "endMs": 1300,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1300,
+      "endMs": 1640,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2680,
+      "startChar": 30,
+      "endChar": 41
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e174784cf2b571da655864dd",
+  "text": "quantum tunneling and slow reactions",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 320,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 320,
+      "endMs": 640,
+      "startChar": 8,
+      "endChar": 18
+    },
+    {
+      "startMs": 640,
+      "endMs": 960,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 960,
+      "endMs": 1280,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1600,
+      "startChar": 27,
+      "endChar": 36
+    }
+  ]
+}

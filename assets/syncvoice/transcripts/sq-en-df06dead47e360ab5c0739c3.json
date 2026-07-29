@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-df06dead47e360ab5c0739c3",
+  "text": "pale olive green",
+  "durationMs": 1980,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 660,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 660,
+      "endMs": 1320,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1980,
+      "startChar": 11,
+      "endChar": 16
+    }
+  ]
+}

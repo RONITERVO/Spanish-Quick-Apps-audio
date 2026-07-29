@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d3db511711e7b4805cb17f87",
+  "text": "The fate of information",
+  "durationMs": 2080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 23
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-dc5e87e0360a3dbdf01894f0",
+  "text": "Permanence allows specialization, although tasks continue to overlap.",
+  "durationMs": 5240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 18,
+      "endChar": 34
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2440,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2515,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 2515,
+      "endMs": 3680,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3940,
+      "startChar": 58,
+      "endChar": 61
+    },
+    {
+      "startMs": 3940,
+      "endMs": 4200,
+      "startChar": 61,
+      "endChar": 69
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-cb9d5b19d4e749586301ed06",
+  "text": "The action potential propagates a regenerative signal across the membrane.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 21,
+      "endChar": 32
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1800,
+      "startChar": 32,
+      "endChar": 34
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2200,
+      "startChar": 34,
+      "endChar": 47
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3280,
+      "startChar": 47,
+      "endChar": 54
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3840,
+      "startChar": 54,
+      "endChar": 61
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4140,
+      "startChar": 61,
+      "endChar": 65
+    },
+    {
+      "startMs": 4140,
+      "endMs": 4440,
+      "startChar": 65,
+      "endChar": 74
+    }
+  ]
+}

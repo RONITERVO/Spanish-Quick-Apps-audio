@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ce9db13c8b8f54739d8ded3d",
+  "text": "The multiplication of worlds",
+  "durationMs": 2600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1720,
+      "startChar": 22,
+      "endChar": 28
+    }
+  ]
+}

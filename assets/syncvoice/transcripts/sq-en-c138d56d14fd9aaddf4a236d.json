@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c138d56d14fd9aaddf4a236d",
+  "text": "Persistent physical states retain data and instructions for various intervals.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1960,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2520,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3000,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3400,
+      "startChar": 43,
+      "endChar": 56
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4200,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4480,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5080,
+      "startChar": 68,
+      "endChar": 78
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-da303588939110847063a85b",
+  "text": "Ionized bubbles · light transforms neutral hydrogen",
+  "durationMs": 4680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1600,
+      "startChar": 18,
+      "endChar": 24
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2480,
+      "startChar": 24,
+      "endChar": 35
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3360,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3840,
+      "startChar": 43,
+      "endChar": 51
+    }
+  ]
+}

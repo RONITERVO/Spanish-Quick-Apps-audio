@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c54850296912eff06a1577a6",
+  "text": "Data is divided into units that can travel along different routes and be reunited at the end.",
+  "durationMs": 7160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1800,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2640,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2920,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3440,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3920,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4320,
+      "startChar": 59,
+      "endChar": 66
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4720,
+      "startChar": 66,
+      "endChar": 70
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5240,
+      "startChar": 70,
+      "endChar": 73
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5480,
+      "startChar": 73,
+      "endChar": 82
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5880,
+      "startChar": 82,
+      "endChar": 85
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6280,
+      "startChar": 85,
+      "endChar": 89
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6560,
+      "startChar": 89,
+      "endChar": 93
+    }
+  ]
+}
