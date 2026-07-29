@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2ce5cdb31e861e96ae4ef7cf",
+  "text": "galactic edge",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 9,
+      "endChar": 13
+    }
+  ]
+}

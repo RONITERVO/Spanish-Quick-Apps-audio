@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-25cd154c6f852739aa81e808",
+  "text": "Local Plane",
+  "durationMs": 810,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 405,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 405,
+      "endMs": 810,
+      "startChar": 6,
+      "endChar": 11
+    }
+  ]
+}

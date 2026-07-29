@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-44b2f5325ba843cbc03286db",
+  "text": "next trip",
+  "durationMs": 550,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 275,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 275,
+      "endMs": 550,
+      "startChar": 5,
+      "endChar": 9
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-310160b8349b89e97d3a6600",
+  "text": "gas wall",
+  "durationMs": 890,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 445,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 445,
+      "endMs": 890,
+      "startChar": 4,
+      "endChar": 8
+    }
+  ]
+}

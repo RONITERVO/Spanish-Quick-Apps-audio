@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2c3a8c53321e6013517fa9f4",
+  "text": "dust lane",
+  "durationMs": 980,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 490,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 490,
+      "endMs": 980,
+      "startChar": 5,
+      "endChar": 9
+    }
+  ]
+}

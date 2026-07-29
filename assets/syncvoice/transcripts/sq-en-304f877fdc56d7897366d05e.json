@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-304f877fdc56d7897366d05e",
+  "text": "A skill can be passed on deliberately rather than rediscovered from scratch.",
+  "durationMs": 5040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 300,
+      "endMs": 1000,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1480,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 38
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2600,
+      "startChar": 38,
+      "endChar": 45
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3000,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3360,
+      "startChar": 50,
+      "endChar": 63
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4120,
+      "startChar": 63,
+      "endChar": 68
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4280,
+      "startChar": 68,
+      "endChar": 76
+    }
+  ]
+}

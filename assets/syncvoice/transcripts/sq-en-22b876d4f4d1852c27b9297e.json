@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-22b876d4f4d1852c27b9297e",
+  "text": "dry and stable air",
+  "durationMs": 2120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1600,
+      "startChar": 15,
+      "endChar": 18
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2f19fb19eeaeba42dcc36d13",
+  "text": "The received message would describe the sender's past, not necessarily their present.",
+  "durationMs": 5960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1640,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1920,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2200,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2880,
+      "startChar": 49,
+      "endChar": 55
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3640,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4160,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4920,
+      "startChar": 71,
+      "endChar": 77
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5120,
+      "startChar": 77,
+      "endChar": 85
+    }
+  ]
+}

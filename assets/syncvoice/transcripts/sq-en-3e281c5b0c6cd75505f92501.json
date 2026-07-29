@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3e281c5b0c6cd75505f92501",
+  "text": "exchange knowledge",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 9,
+      "endChar": 18
+    }
+  ]
+}

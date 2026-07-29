@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2eefd63802731c5cef61355e",
+  "text": "Hidden assumptions + lost context + delay → persistent errors",
+  "durationMs": 6840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2200,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2720,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3560,
+      "startChar": 34,
+      "endChar": 36
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4240,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4920,
+      "startChar": 42,
+      "endChar": 44
+    },
+    {
+      "startMs": 4920,
+      "endMs": 4995,
+      "startChar": 44,
+      "endChar": 55
+    },
+    {
+      "startMs": 4995,
+      "endMs": 6040,
+      "startChar": 55,
+      "endChar": 61
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4039d1a3d5c7aab06a222ed5",
+  "text": "Wells, fountains and canals determine size, health and location.",
+  "durationMs": 5440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1840,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2440,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3000,
+      "startChar": 38,
+      "endChar": 44
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3680,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4240,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4600,
+      "startChar": 55,
+      "endChar": 64
+    }
+  ]
+}

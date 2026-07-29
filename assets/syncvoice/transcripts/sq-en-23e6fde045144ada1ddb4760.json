@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-23e6fde045144ada1ddb4760",
+  "text": "Planets can exist around one or two stars, although orbital stability varies.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2200,
+      "startChar": 29,
+      "endChar": 32
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2480,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2760,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3280,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3360,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4480,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5080,
+      "startChar": 70,
+      "endChar": 77
+    }
+  ]
+}

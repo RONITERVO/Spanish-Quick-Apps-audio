@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3b40c9903a44aad9e26bcc96",
+  "text": "Some systems only reveal their behavior by executing step by step, with no known predictive shortcut.",
+  "durationMs": 7720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 18
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1560,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1960,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2120,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2760,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3080,
+      "startChar": 43,
+      "endChar": 53
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3920,
+      "startChar": 53,
+      "endChar": 58
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4400,
+      "startChar": 58,
+      "endChar": 61
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4560,
+      "startChar": 61,
+      "endChar": 67
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5120,
+      "startChar": 67,
+      "endChar": 72
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5640,
+      "startChar": 72,
+      "endChar": 75
+    },
+    {
+      "startMs": 5640,
+      "endMs": 5960,
+      "startChar": 75,
+      "endChar": 81
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6360,
+      "startChar": 81,
+      "endChar": 92
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6920,
+      "startChar": 92,
+      "endChar": 101
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3cfb9026639acc011574ec4a",
+  "text": "Center of the Local Group",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 10,
+      "endChar": 14
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1160,
+      "startChar": 14,
+      "endChar": 20
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1640,
+      "startChar": 20,
+      "endChar": 25
+    }
+  ]
+}

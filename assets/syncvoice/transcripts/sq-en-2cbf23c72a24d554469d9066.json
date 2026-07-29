@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2cbf23c72a24d554469d9066",
+  "text": "matter bridge",
+  "durationMs": 880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 440,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 440,
+      "endMs": 880,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

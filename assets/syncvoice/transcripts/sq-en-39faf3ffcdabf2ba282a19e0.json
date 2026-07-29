@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-39faf3ffcdabf2ba282a19e0",
+  "text": "A stream of particles from the Sun passes through nearby space.",
+  "durationMs": 5240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 960,
+      "endMs": 1800,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1800,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2040,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2720,
+      "startChar": 35,
+      "endChar": 42
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3560,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3960,
+      "startChar": 50,
+      "endChar": 57
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4520,
+      "startChar": 57,
+      "endChar": 63
+    }
+  ]
+}

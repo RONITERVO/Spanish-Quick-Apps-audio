@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-37182d02493322e02ca711bc",
+  "text": "unusual transit",
+  "durationMs": 1820,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 910,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 910,
+      "endMs": 1820,
+      "startChar": 8,
+      "endChar": 15
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-29d4a45c004b0d2510e9358d",
+  "text": "A neuron receives, integrates and transmits signals through electrical and chemical changes.",
+  "durationMs": 7160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1720,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2720,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3080,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3720,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4240,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4680,
+      "startChar": 60,
+      "endChar": 71
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5600,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5960,
+      "startChar": 75,
+      "endChar": 84
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6360,
+      "startChar": 84,
+      "endChar": 92
+    }
+  ]
+}

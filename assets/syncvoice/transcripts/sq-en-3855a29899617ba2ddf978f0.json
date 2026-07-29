@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3855a29899617ba2ddf978f0",
+  "text": "Compartment + energy + copy + variation",
+  "durationMs": 6960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 14
+    },
+    {
+      "startMs": 960,
+      "endMs": 1880,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2800,
+      "startChar": 21,
+      "endChar": 23
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3880,
+      "startChar": 23,
+      "endChar": 28
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4760,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5720,
+      "startChar": 30,
+      "endChar": 39
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-449db6e50e0f8b2b1ebac962",
+  "text": "Differences in temperature and density are reduced, limiting motors, metabolism and calculation.",
+  "durationMs": 7880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2080,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2800,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3080,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3840,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4680,
+      "startChar": 61,
+      "endChar": 69
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5480,
+      "startChar": 69,
+      "endChar": 80
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6520,
+      "startChar": 80,
+      "endChar": 84
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6880,
+      "startChar": 84,
+      "endChar": 96
+    }
+  ]
+}

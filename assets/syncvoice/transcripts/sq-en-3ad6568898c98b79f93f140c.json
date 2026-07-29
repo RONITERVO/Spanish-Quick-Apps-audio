@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3ad6568898c98b79f93f140c",
+  "text": "plant selection",
+  "durationMs": 1000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 6,
+      "endChar": 15
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-492ae9dc1706b1f06168e1b2",
+  "text": "An organ integrates several tissues into a functional unit.",
+  "durationMs": 4440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2840,
+      "startChar": 36,
+      "endChar": 41
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3040,
+      "startChar": 41,
+      "endChar": 43
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3240,
+      "startChar": 43,
+      "endChar": 54
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3880,
+      "startChar": 54,
+      "endChar": 59
+    }
+  ]
+}

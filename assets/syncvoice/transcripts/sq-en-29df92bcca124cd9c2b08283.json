@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-29df92bcca124cd9c2b08283",
+  "text": "Almost all atmospheric vapor is concentrated in this lower layer.",
+  "durationMs": 4800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 11,
+      "endChar": 23
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1680,
+      "startChar": 23,
+      "endChar": 29
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2160,
+      "startChar": 29,
+      "endChar": 32
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2440,
+      "startChar": 32,
+      "endChar": 45
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3280,
+      "startChar": 45,
+      "endChar": 48
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3440,
+      "startChar": 48,
+      "endChar": 53
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3720,
+      "startChar": 53,
+      "endChar": 59
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4080,
+      "startChar": 59,
+      "endChar": 65
+    }
+  ]
+}

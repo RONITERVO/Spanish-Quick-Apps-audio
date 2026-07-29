@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2aa4b585fefa7619513128c2",
+  "text": "Stories and civilizations",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2400,
+      "startChar": 12,
+      "endChar": 25
+    }
+  ]
+}

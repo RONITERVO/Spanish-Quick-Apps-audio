@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-30bf1114a4055df308da21ca",
+  "text": "Coordinated groups share vigilance, food, child-rearing, or knowledge.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2560,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 57
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4520,
+      "startChar": 57,
+      "endChar": 60
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4880,
+      "startChar": 60,
+      "endChar": 70
+    }
+  ]
+}

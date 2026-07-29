@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2ae9a3254cd1baf6fd521762",
+  "text": "Well-tested causal structure",
+  "durationMs": 2280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 760,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 760,
+      "endMs": 1520,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2280,
+      "startChar": 19,
+      "endChar": 28
+    }
+  ]
+}

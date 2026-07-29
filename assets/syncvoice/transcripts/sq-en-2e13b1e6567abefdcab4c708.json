@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2e13b1e6567abefdcab4c708",
+  "text": "Ships or mobile habitats could travel without claiming planets as permanent homes.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1560,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2320,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2600,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3240,
+      "startChar": 38,
+      "endChar": 46
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3800,
+      "startChar": 46,
+      "endChar": 55
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4240,
+      "startChar": 55,
+      "endChar": 63
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4840,
+      "startChar": 63,
+      "endChar": 66
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5120,
+      "startChar": 66,
+      "endChar": 76
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5640,
+      "startChar": 76,
+      "endChar": 82
+    }
+  ]
+}

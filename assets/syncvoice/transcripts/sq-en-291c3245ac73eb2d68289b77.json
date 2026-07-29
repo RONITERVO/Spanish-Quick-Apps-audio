@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-291c3245ac73eb2d68289b77",
+  "text": "A promise connects a future action with present reputation.",
+  "durationMs": 4600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 793,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 793,
+      "endMs": 1360,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2760,
+      "startChar": 35,
+      "endChar": 40
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3120,
+      "startChar": 40,
+      "endChar": 48
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3600,
+      "startChar": 48,
+      "endChar": 59
+    }
+  ]
+}

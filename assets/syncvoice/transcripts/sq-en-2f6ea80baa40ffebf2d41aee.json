@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2f6ea80baa40ffebf2d41aee",
+  "text": "One plate sinks under another and transports material into the mantle.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2360,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2720,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 54
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4120,
+      "startChar": 54,
+      "endChar": 59
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4320,
+      "startChar": 59,
+      "endChar": 63
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4520,
+      "startChar": 63,
+      "endChar": 70
+    }
+  ]
+}

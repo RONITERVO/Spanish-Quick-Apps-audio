@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3544add53283a9e01e870daa",
+  "text": "dark lime green",
+  "durationMs": 1840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 613,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 613,
+      "endMs": 1227,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 1227,
+      "endMs": 1840,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}
