@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7ca97164fdabb9865f52eeed",
+  "text": "Lahja voi luoda velvoitetta, liittoa, arvovaltaa tai huolenpitoa ilman hintaa.",
+  "durationMs": 6760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 16,
+      "endChar": 29
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2120,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3120,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4240,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4560,
+      "startChar": 53,
+      "endChar": 65
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5440,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5880,
+      "startChar": 71,
+      "endChar": 78
+    }
+  ]
+}

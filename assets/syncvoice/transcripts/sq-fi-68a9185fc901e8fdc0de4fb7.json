@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-68a9185fc901e8fdc0de4fb7",
+  "text": "Suhteellinen liike johtimien ja magneettikenttien välillä voi tuottaa sähköjännitteen.",
+  "durationMs": 6040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2160,
+      "startChar": 29,
+      "endChar": 32
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2360,
+      "startChar": 32,
+      "endChar": 50
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3400,
+      "startChar": 50,
+      "endChar": 58
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3960,
+      "startChar": 58,
+      "endChar": 62
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4240,
+      "startChar": 62,
+      "endChar": 70
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4680,
+      "startChar": 70,
+      "endChar": 86
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6772bd113e29416e971b3774",
+  "text": "Kromosomit vaihtavat segmenttejä tuottaen yhdistelmiä, joita ei tarkalleen ole vanhemmissa.",
+  "durationMs": 7560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 21,
+      "endChar": 33
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2360,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 55
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4320,
+      "startChar": 55,
+      "endChar": 61
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5120,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5360,
+      "startChar": 64,
+      "endChar": 75
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6120,
+      "startChar": 75,
+      "endChar": 79
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6360,
+      "startChar": 79,
+      "endChar": 91
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-729fa07f6132c871392b1a0d",
+  "text": "Magneettikentät muuttavat sähkövirran vääntömomentiksi tehokkaalla ja tarkalla ohjauksella.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 26,
+      "endChar": 38
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2840,
+      "startChar": 38,
+      "endChar": 55
+    },
+    {
+      "startMs": 2840,
+      "endMs": 4080,
+      "startChar": 55,
+      "endChar": 67
+    },
+    {
+      "startMs": 4080,
+      "endMs": 5040,
+      "startChar": 67,
+      "endChar": 70
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5240,
+      "startChar": 70,
+      "endChar": 79
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5800,
+      "startChar": 79,
+      "endChar": 91
+    }
+  ]
+}

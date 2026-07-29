@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-84d7b651d3fdcd374a90b9fb",
+  "text": "Kemoreseptorit havaitsevat ruokaan, vaaraan, kumppaniin tai sisäiseen tilaan liittyviä molekyylejä.",
+  "durationMs": 8440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 150,
+      "endMs": 2080,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3040,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 3040,
+      "endMs": 4160,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5160,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5560,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6320,
+      "startChar": 70,
+      "endChar": 77
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6720,
+      "startChar": 77,
+      "endChar": 87
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7320,
+      "startChar": 87,
+      "endChar": 99
+    }
+  ]
+}

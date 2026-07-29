@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-728fb64fa188b72affcb5b3e",
+  "text": "venytetty kuva",
+  "durationMs": 1100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

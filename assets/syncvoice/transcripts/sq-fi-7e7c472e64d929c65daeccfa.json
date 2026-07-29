@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7e7c472e64d929c65daeccfa",
+  "text": "puuttua vai pidättäytyä",
+  "durationMs": 2140,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 713,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 713,
+      "endMs": 1427,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 1427,
+      "endMs": 2140,
+      "startChar": 12,
+      "endChar": 23
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-77dd7528f43e0733b1b75475",
+  "text": "jäykkä kivi",
+  "durationMs": 1240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 620,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 620,
+      "endMs": 1240,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

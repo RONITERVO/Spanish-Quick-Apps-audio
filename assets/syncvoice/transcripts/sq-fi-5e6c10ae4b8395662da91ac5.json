@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5e6c10ae4b8395662da91ac5",
+  "text": "Pyöriminen voi simuloida painoa, mutta vaatii suuria rakenteita, liikkeenhallintaa ja ihmisen mukautumista.",
+  "durationMs": 8720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1760,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2360,
+      "startChar": 33,
+      "endChar": 39
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3080,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3600,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4080,
+      "startChar": 53,
+      "endChar": 65
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4960,
+      "startChar": 65,
+      "endChar": 83
+    },
+    {
+      "startMs": 4960,
+      "endMs": 6520,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6920,
+      "startChar": 86,
+      "endChar": 94
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7520,
+      "startChar": 94,
+      "endChar": 107
+    }
+  ]
+}

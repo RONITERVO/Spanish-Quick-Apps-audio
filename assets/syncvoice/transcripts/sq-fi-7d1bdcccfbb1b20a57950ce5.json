@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7d1bdcccfbb1b20a57950ce5",
+  "text": "Ajatus, joka valvoo ajatusta",
+  "durationMs": 3360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2160,
+      "startChar": 20,
+      "endChar": 28
+    }
+  ]
+}

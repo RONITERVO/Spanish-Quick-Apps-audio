@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5e948ac306a4c70bb38339f8",
+  "text": "Sen pinnalla on säilynyt pitkä törmäyshistoria, joka muistuttaa Kuun pintaa.",
+  "durationMs": 5840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1080,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1680,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2120,
+      "startChar": 31,
+      "endChar": 48
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3360,
+      "startChar": 48,
+      "endChar": 53
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3920,
+      "startChar": 53,
+      "endChar": 64
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4640,
+      "startChar": 64,
+      "endChar": 69
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5000,
+      "startChar": 69,
+      "endChar": 76
+    }
+  ]
+}

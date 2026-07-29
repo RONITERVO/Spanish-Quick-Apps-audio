@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5ef239036596d5d750ede4e8",
+  "text": "M31 · matkan suuri pääkohde",
+  "durationMs": 2160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 1040,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1280,
+      "startChar": 19,
+      "endChar": 27
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6c134b6bef0d7720d40dcf26",
+  "text": "Ärsyke → reseptori → signaali → vaste",
+  "durationMs": 5480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 783,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 783,
+      "endMs": 1566,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 1566,
+      "endMs": 2349,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 2349,
+      "endMs": 3131,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 3131,
+      "endMs": 3914,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 3914,
+      "endMs": 4697,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 4697,
+      "endMs": 5480,
+      "startChar": 32,
+      "endChar": 37
+    }
+  ]
+}

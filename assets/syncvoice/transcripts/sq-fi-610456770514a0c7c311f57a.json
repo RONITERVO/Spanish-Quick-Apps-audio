@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-610456770514a0c7c311f57a",
+  "text": "Mieli ryhmittelee tapahtumat pulsseihin ja ajallisiin malleihin, jotka eivät sisälly yksittäiseen hetkeen.",
+  "durationMs": 8040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 18,
+      "endChar": 29
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1960,
+      "startChar": 29,
+      "endChar": 40
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2800,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3080,
+      "startChar": 43,
+      "endChar": 54
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3880,
+      "startChar": 54,
+      "endChar": 65
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4640,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5400,
+      "startChar": 71,
+      "endChar": 77
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5800,
+      "startChar": 77,
+      "endChar": 85
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6360,
+      "startChar": 85,
+      "endChar": 98
+    },
+    {
+      "startMs": 6360,
+      "endMs": 7200,
+      "startChar": 98,
+      "endChar": 106
+    }
+  ]
+}

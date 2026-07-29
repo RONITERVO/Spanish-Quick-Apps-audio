@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6f91a63ef2924bf61d965885",
+  "text": "Valtavien rakenteiden avaruudellinen kokonaisuus, joka voi sisältää lukuisia galaksijoukkoja ja superjoukkoja.",
+  "durationMs": 8200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 22,
+      "endChar": 37
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2520,
+      "startChar": 37,
+      "endChar": 50
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3440,
+      "startChar": 50,
+      "endChar": 55
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4080,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4280,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4920,
+      "startChar": 68,
+      "endChar": 77
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5600,
+      "startChar": 77,
+      "endChar": 93
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6180,
+      "startChar": 93,
+      "endChar": 96
+    },
+    {
+      "startMs": 6180,
+      "endMs": 6760,
+      "startChar": 96,
+      "endChar": 110
+    }
+  ]
+}

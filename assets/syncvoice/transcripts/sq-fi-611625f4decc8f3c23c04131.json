@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-611625f4decc8f3c23c04131",
+  "text": "Absoluuttisen todisteen puuttuminen ei tee kaikista seurauksista vastaavia.",
+  "durationMs": 5080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 24,
+      "endChar": 36
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2360,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2600,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2880,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3440,
+      "startChar": 52,
+      "endChar": 65
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4120,
+      "startChar": 65,
+      "endChar": 75
+    }
+  ]
+}

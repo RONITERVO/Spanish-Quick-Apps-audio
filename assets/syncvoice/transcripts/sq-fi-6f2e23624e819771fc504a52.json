@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6f2e23624e819771fc504a52",
+  "text": "Numerokanta, symbolit ja kirjoitusjärjestys voivat olla erilaisia muuttamatta esitettyä suhdetta.",
+  "durationMs": 8560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 2400,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2760,
+      "startChar": 25,
+      "endChar": 44
+    },
+    {
+      "startMs": 2760,
+      "endMs": 4240,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4720,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5040,
+      "startChar": 56,
+      "endChar": 66
+    },
+    {
+      "startMs": 5040,
+      "endMs": 6040,
+      "startChar": 66,
+      "endChar": 78
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6880,
+      "startChar": 78,
+      "endChar": 88
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7680,
+      "startChar": 88,
+      "endChar": 97
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-811494b7b3e515d392cb82b4",
+  "text": "käsitteellinen hiljaisuus",
+  "durationMs": 2050,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1025,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 1025,
+      "endMs": 2050,
+      "startChar": 15,
+      "endChar": 25
+    }
+  ]
+}

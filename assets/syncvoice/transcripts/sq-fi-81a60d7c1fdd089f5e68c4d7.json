@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-81a60d7c1fdd089f5e68c4d7",
+  "text": "Taitojen tietoinen siirto",
+  "durationMs": 2160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2160,
+      "startChar": 19,
+      "endChar": 25
+    }
+  ]
+}

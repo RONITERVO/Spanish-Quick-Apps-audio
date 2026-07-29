@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7ab8d19d9da66ac05137a6e7",
+  "text": "Fysikaaliset tilat + logiikka + muisti + ohjeet → laskenta",
+  "durationMs": 8040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2520,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3520,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3680,
+      "startChar": 32,
+      "endChar": 39
+    },
+    {
+      "startMs": 3680,
+      "endMs": 5200,
+      "startChar": 39,
+      "endChar": 41
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5920,
+      "startChar": 41,
+      "endChar": 48
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6840,
+      "startChar": 48,
+      "endChar": 50
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7160,
+      "startChar": 50,
+      "endChar": 58
+    }
+  ]
+}

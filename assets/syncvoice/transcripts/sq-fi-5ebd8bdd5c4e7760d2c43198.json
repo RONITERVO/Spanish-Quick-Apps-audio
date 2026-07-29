@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5ebd8bdd5c4e7760d2c43198",
+  "text": "Arvostusjärjestelmät, keho ja toiminta",
+  "durationMs": 3600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 22
+    },
+    {
+      "startMs": 75,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2720,
+      "startChar": 30,
+      "endChar": 38
+    }
+  ]
+}

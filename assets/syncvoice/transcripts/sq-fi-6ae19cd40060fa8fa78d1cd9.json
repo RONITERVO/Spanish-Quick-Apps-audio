@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6ae19cd40060fa8fa78d1cd9",
+  "text": "Monille ei ollut vielä kehittynyt myöhemmille aikakausille tyypillisiä vakiintuneita kiekkoja ja kierrehaaroja.",
+  "durationMs": 8800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 23
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1680,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2560,
+      "startChar": 34,
+      "endChar": 46
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3400,
+      "startChar": 46,
+      "endChar": 59
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4280,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4280,
+      "endMs": 5240,
+      "startChar": 71,
+      "endChar": 85
+    },
+    {
+      "startMs": 5240,
+      "endMs": 6280,
+      "startChar": 85,
+      "endChar": 94
+    },
+    {
+      "startMs": 6280,
+      "endMs": 7000,
+      "startChar": 94,
+      "endChar": 97
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7440,
+      "startChar": 97,
+      "endChar": 111
+    }
+  ]
+}

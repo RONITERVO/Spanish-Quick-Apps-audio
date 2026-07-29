@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-62f8834c8832e31637f75d52",
+  "text": "Näkyvän pinnan lämpötila on lähellä viisituhatta viisisataa celsiusastetta.",
+  "durationMs": 5880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2600,
+      "startChar": 36,
+      "endChar": 49
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3400,
+      "startChar": 49,
+      "endChar": 60
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4320,
+      "startChar": 60,
+      "endChar": 75
+    }
+  ]
+}

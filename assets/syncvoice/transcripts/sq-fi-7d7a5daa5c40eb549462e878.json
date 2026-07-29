@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7d7a5daa5c40eb549462e878",
+  "text": "Elämän kirjo: ensimmäisestä solusta tietoisuuteen.",
+  "durationMs": 4920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 14,
+      "endChar": 28
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2640,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3360,
+      "startChar": 36,
+      "endChar": 50
+    }
+  ]
+}

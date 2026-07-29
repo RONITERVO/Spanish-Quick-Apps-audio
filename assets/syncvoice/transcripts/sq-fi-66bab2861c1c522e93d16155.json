@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-66bab2861c1c522e93d16155",
+  "text": "Jokainen alue voi rakentaa todellisen, mutta epätäydellisen historian oman havainnoitavissa olevan horisonttinsa perusteella.",
+  "durationMs": 9800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1640,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2280,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3200,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3920,
+      "startChar": 45,
+      "endChar": 60
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4960,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5800,
+      "startChar": 70,
+      "endChar": 75
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6280,
+      "startChar": 75,
+      "endChar": 92
+    },
+    {
+      "startMs": 6280,
+      "endMs": 7360,
+      "startChar": 92,
+      "endChar": 99
+    },
+    {
+      "startMs": 7360,
+      "endMs": 7840,
+      "startChar": 99,
+      "endChar": 113
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8760,
+      "startChar": 113,
+      "endChar": 125
+    }
+  ]
+}

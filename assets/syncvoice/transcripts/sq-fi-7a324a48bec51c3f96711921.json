@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7a324a48bec51c3f96711921",
+  "text": "Vety ja helium täyttävät tilan, kun taas pienet vaihtelut tiheydessä kasvavat painovoiman vaikutuksesta.",
+  "durationMs": 8600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 960,
+      "endMs": 1560,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2280,
+      "startChar": 25,
+      "endChar": 32
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2800,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2800,
+      "endMs": 2875,
+      "startChar": 36,
+      "endChar": 41
+    },
+    {
+      "startMs": 2875,
+      "endMs": 3440,
+      "startChar": 41,
+      "endChar": 48
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4120,
+      "startChar": 48,
+      "endChar": 58
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4840,
+      "startChar": 58,
+      "endChar": 69
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5720,
+      "startChar": 69,
+      "endChar": 78
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6520,
+      "startChar": 78,
+      "endChar": 90
+    },
+    {
+      "startMs": 6520,
+      "endMs": 7320,
+      "startChar": 90,
+      "endChar": 104
+    }
+  ]
+}

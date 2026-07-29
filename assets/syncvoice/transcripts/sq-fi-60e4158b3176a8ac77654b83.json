@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-60e4158b3176a8ac77654b83",
+  "text": "Dialogia rajoittaa valon nopeus",
+  "durationMs": 3440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1880,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2400,
+      "startChar": 25,
+      "endChar": 31
+    }
+  ]
+}

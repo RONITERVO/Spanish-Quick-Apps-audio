@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7c838132ab562240f0541899",
+  "text": "Muuntaminen, pakkaus, puhdistus ja automaattinen lajittelu on tallennettava toistettavissa olevien virheiden löytämiseksi.",
+  "durationMs": 10320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 1120,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2440,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3920,
+      "startChar": 32,
+      "endChar": 35
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4320,
+      "startChar": 35,
+      "endChar": 49
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5200,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 5200,
+      "endMs": 6000,
+      "startChar": 59,
+      "endChar": 62
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6240,
+      "startChar": 62,
+      "endChar": 76
+    },
+    {
+      "startMs": 6240,
+      "endMs": 7120,
+      "startChar": 76,
+      "endChar": 91
+    },
+    {
+      "startMs": 7120,
+      "endMs": 8080,
+      "startChar": 91,
+      "endChar": 99
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8560,
+      "startChar": 99,
+      "endChar": 109
+    },
+    {
+      "startMs": 8560,
+      "endMs": 9160,
+      "startChar": 109,
+      "endChar": 122
+    }
+  ]
+}

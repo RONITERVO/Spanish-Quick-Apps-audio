@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-82c0bc5c507df942b7e2b686",
+  "text": "Avaruus muuttaa mittakaavaa näyttämättä mieltymystä tiettyyn galaksijakaumaan.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2200,
+      "startChar": 28,
+      "endChar": 40
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2960,
+      "startChar": 40,
+      "endChar": 52
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3680,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4240,
+      "startChar": 61,
+      "endChar": 78
+    }
+  ]
+}

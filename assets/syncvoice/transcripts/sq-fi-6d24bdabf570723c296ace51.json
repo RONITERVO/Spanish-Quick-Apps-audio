@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6d24bdabf570723c296ace51",
+  "text": "viimeinen sironta",
+  "durationMs": 1420,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 710,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 710,
+      "endMs": 1420,
+      "startChar": 10,
+      "endChar": 17
+    }
+  ]
+}

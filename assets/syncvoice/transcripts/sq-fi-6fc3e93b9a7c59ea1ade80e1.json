@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6fc3e93b9a7c59ea1ade80e1",
+  "text": "Jättimäinen antisykloninen myrsky on pyörinyt vuosisatoja.",
+  "durationMs": 5520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 27
+    },
+    {
+      "startMs": 150,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3040,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3360,
+      "startChar": 37,
+      "endChar": 46
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4080,
+      "startChar": 46,
+      "endChar": 58
+    }
+  ]
+}

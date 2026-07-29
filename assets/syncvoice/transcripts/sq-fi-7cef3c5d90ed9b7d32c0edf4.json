@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7cef3c5d90ed9b7d32c0edf4",
+  "text": "Noin 10¹⁴ vuotta · tavallinen tähtien muodostuminen päättyy",
+  "durationMs": 5520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1920,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2080,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3000,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3560,
+      "startChar": 38,
+      "endChar": 52
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4560,
+      "startChar": 52,
+      "endChar": 59
+    }
+  ]
+}

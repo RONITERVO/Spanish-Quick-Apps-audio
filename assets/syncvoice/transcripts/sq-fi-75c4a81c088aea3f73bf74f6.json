@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-75c4a81c088aea3f73bf74f6",
+  "text": "ei suoraa keskustelua",
+  "durationMs": 1540,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 513,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 513,
+      "endMs": 1027,
+      "startChar": 3,
+      "endChar": 10
+    },
+    {
+      "startMs": 1027,
+      "endMs": 1540,
+      "startChar": 10,
+      "endChar": 21
+    }
+  ]
+}

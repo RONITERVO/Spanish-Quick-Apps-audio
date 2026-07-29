@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-828950b2a0d71d520eb65281",
+  "text": "Yhä avoin tieteen rintama",
+  "durationMs": 2320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 960,
+      "endMs": 1480,
+      "startChar": 18,
+      "endChar": 25
+    }
+  ]
+}

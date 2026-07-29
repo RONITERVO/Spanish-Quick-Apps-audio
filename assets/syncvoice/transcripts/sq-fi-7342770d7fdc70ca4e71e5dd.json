@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7342770d7fdc70ca4e71e5dd",
+  "text": "mustan aukon energiaa",
+  "durationMs": 2060,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 687,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 687,
+      "endMs": 1373,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 1373,
+      "endMs": 2060,
+      "startChar": 13,
+      "endChar": 21
+    }
+  ]
+}

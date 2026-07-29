@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7365e13224f9ae8e73ab59cb",
+  "text": "Pitkäaikainen asumiskelpoisuus edellyttää, että vältetään häiriöitä, jotka muuttavat merkittävästi lämpötilaa tai lentorataa.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 31
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2120,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2920,
+      "startChar": 43,
+      "endChar": 48
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3440,
+      "startChar": 48,
+      "endChar": 58
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4000,
+      "startChar": 58,
+      "endChar": 69
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4840,
+      "startChar": 69,
+      "endChar": 75
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5360,
+      "startChar": 75,
+      "endChar": 85
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5920,
+      "startChar": 85,
+      "endChar": 99
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6720,
+      "startChar": 99,
+      "endChar": 110
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7480,
+      "startChar": 110,
+      "endChar": 114
+    },
+    {
+      "startMs": 7480,
+      "endMs": 7720,
+      "startChar": 114,
+      "endChar": 125
+    }
+  ]
+}

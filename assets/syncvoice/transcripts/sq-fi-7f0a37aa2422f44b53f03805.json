@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7f0a37aa2422f44b53f03805",
+  "text": "Sattuma voi myös muuttaa muunnelmien yleisyyttä etenkin pienissä populaatioissa.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 17,
+      "endChar": 25
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2520,
+      "startChar": 37,
+      "endChar": 48
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3400,
+      "startChar": 48,
+      "endChar": 56
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3960,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4600,
+      "startChar": 65,
+      "endChar": 80
+    }
+  ]
+}

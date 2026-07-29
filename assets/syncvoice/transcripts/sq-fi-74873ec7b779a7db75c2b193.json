@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-74873ec7b779a7db75c2b193",
+  "text": "Toisto voi olla korostusta, ajoitusta, virheenkorjausta tai yksinkertaisesti lähettäjän ominaisuutta.",
+  "durationMs": 8320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1960,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 1960,
+      "endMs": 3120,
+      "startChar": 39,
+      "endChar": 56
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4680,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5200,
+      "startChar": 60,
+      "endChar": 77
+    },
+    {
+      "startMs": 5200,
+      "endMs": 6400,
+      "startChar": 77,
+      "endChar": 88
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7160,
+      "startChar": 88,
+      "endChar": 101
+    }
+  ]
+}

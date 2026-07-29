@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6f820811020e13b2887900d9",
+  "text": "ei havaittua singulariteettia",
+  "durationMs": 2440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 813,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 813,
+      "endMs": 1627,
+      "startChar": 3,
+      "endChar": 13
+    },
+    {
+      "startMs": 1627,
+      "endMs": 2440,
+      "startChar": 13,
+      "endChar": 29
+    }
+  ]
+}

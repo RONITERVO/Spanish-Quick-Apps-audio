@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6eecc39c1af99cdabf4597e3",
+  "text": "Syklissä reaktiosarja regeneroi komponentteja, joita tarvitaan jatkamaan.",
+  "durationMs": 5880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 2080,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2760,
+      "startChar": 32,
+      "endChar": 47
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3680,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4280,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4880,
+      "startChar": 63,
+      "endChar": 73
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7ce74128a20d1c901edc0194",
+  "text": "Kansainvälinen avaruusasema kiertää Maata termosfäärissä.",
+  "durationMs": 4760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 28
+    },
+    {
+      "startMs": 150,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2720,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3280,
+      "startChar": 42,
+      "endChar": 57
+    }
+  ]
+}

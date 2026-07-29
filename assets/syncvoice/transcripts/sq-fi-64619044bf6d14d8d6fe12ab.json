@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-64619044bf6d14d8d6fe12ab",
+  "text": "Laki voi olla symmetrinen, vaikka sen tuottama tila ei olisi. Pienet vaihtelut voivat päättää, minkä suunnan kukin alue ottaa.",
+  "durationMs": 10240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 960,
+      "startChar": 14,
+      "endChar": 27
+    },
+    {
+      "startMs": 960,
+      "endMs": 1960,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2560,
+      "startChar": 34,
+      "endChar": 38
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2800,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3360,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3800,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4080,
+      "startChar": 55,
+      "endChar": 62
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4640,
+      "startChar": 62,
+      "endChar": 69
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5880,
+      "startChar": 69,
+      "endChar": 79
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6640,
+      "startChar": 79,
+      "endChar": 86
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7040,
+      "startChar": 86,
+      "endChar": 95
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7680,
+      "startChar": 95,
+      "endChar": 101
+    },
+    {
+      "startMs": 7680,
+      "endMs": 8080,
+      "startChar": 101,
+      "endChar": 109
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8560,
+      "startChar": 109,
+      "endChar": 115
+    },
+    {
+      "startMs": 8560,
+      "endMs": 9000,
+      "startChar": 115,
+      "endChar": 120
+    },
+    {
+      "startMs": 9000,
+      "endMs": 9440,
+      "startChar": 120,
+      "endChar": 126
+    }
+  ]
+}

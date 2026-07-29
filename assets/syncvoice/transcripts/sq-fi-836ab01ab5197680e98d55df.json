@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-836ab01ab5197680e98d55df",
+  "text": "Etäisyys valovuosina × edestakainen matka → vuoropuhelun vähimmäistahti",
+  "durationMs": 6520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1840,
+      "startChar": 21,
+      "endChar": 23
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2320,
+      "startChar": 23,
+      "endChar": 36
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3240,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3840,
+      "startChar": 42,
+      "endChar": 44
+    },
+    {
+      "startMs": 3840,
+      "endMs": 3920,
+      "startChar": 44,
+      "endChar": 57
+    },
+    {
+      "startMs": 3920,
+      "endMs": 5120,
+      "startChar": 57,
+      "endChar": 71
+    }
+  ]
+}

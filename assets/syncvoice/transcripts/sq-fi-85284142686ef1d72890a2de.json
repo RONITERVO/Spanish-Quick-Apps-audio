@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-85284142686ef1d72890a2de",
+  "text": "Alitiheä alue · vähän galakseja",
+  "durationMs": 2960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1680,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2080,
+      "startChar": 22,
+      "endChar": 31
+    }
+  ]
+}

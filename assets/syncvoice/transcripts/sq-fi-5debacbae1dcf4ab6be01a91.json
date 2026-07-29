@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5debacbae1dcf4ab6be01a91",
+  "text": "Saattaa tulla aika, jolloin mikään rakenne ei sisällä palautettavaa esitystä tapahtuneesta.",
+  "durationMs": 6520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 14,
+      "endChar": 20
+    },
+    {
+      "startMs": 960,
+      "endMs": 1480,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2000,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2440,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3040,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3240,
+      "startChar": 46,
+      "endChar": 54
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3760,
+      "startChar": 54,
+      "endChar": 68
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4760,
+      "startChar": 68,
+      "endChar": 77
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5360,
+      "startChar": 77,
+      "endChar": 91
+    }
+  ]
+}

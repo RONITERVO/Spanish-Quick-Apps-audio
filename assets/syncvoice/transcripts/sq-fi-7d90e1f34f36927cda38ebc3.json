@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7d90e1f34f36927cda38ebc3",
+  "text": "Visuaaliset kuviot muunnetaan tarroiksi, paikoiksi tai sisäisiksi esityksiksi.",
+  "durationMs": 6480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2160,
+      "startChar": 30,
+      "endChar": 41
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3000,
+      "startChar": 41,
+      "endChar": 51
+    },
+    {
+      "startMs": 3000,
+      "endMs": 4120,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4640,
+      "startChar": 55,
+      "endChar": 66
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5360,
+      "startChar": 66,
+      "endChar": 78
+    }
+  ]
+}

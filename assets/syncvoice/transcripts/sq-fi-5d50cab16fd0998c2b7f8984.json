@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5d50cab16fd0998c2b7f8984",
+  "text": "Tämä kivi muodostaa litosfäärin vahvan pohjan.",
+  "durationMs": 4440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 32
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2880,
+      "startChar": 32,
+      "endChar": 39
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3560,
+      "startChar": 39,
+      "endChar": 46
+    }
+  ]
+}

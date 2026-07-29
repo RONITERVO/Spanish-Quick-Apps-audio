@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-84611a6feb619362f3381080",
+  "text": "Rajalla ei ole havaittua singulariteettia, valokuvattua ensimmäistä hetkeä eikä lopullista vastausta alkuperään.",
+  "durationMs": 8960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1360,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2000,
+      "startChar": 25,
+      "endChar": 43
+    },
+    {
+      "startMs": 2000,
+      "endMs": 3320,
+      "startChar": 43,
+      "endChar": 56
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4560,
+      "startChar": 56,
+      "endChar": 68
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5360,
+      "startChar": 68,
+      "endChar": 75
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5960,
+      "startChar": 75,
+      "endChar": 80
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6600,
+      "startChar": 80,
+      "endChar": 91
+    },
+    {
+      "startMs": 6600,
+      "endMs": 7280,
+      "startChar": 91,
+      "endChar": 101
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7920,
+      "startChar": 101,
+      "endChar": 112
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7ce52c92372cd11a22585aca",
+  "text": "Orbitaalinen luotain tai lähetin voi liikkua, joten sijainti voi muuttua johdonmukaisesti.",
+  "durationMs": 7480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2160,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2800,
+      "startChar": 33,
+      "endChar": 37
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3040,
+      "startChar": 37,
+      "endChar": 46
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3760,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4480,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5040,
+      "startChar": 61,
+      "endChar": 65
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5280,
+      "startChar": 65,
+      "endChar": 73
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5920,
+      "startChar": 73,
+      "endChar": 90
+    }
+  ]
+}

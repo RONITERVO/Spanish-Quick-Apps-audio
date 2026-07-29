@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7011339b87aa803d4edf4247",
+  "text": "Käsien ja tarttujan tulee hallita asentoa, voimaa ja kosketusta eri esineisiin.",
+  "durationMs": 6880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1600,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1920,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2560,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3440,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4320,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4560,
+      "startChar": 53,
+      "endChar": 64
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5440,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5760,
+      "startChar": 68,
+      "endChar": 79
+    }
+  ]
+}

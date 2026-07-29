@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8006dc0e1272072d31c1b6f6",
+  "text": "pimeään energiaan liittyvä epävarmuus",
+  "durationMs": 3600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2280,
+      "startChar": 27,
+      "endChar": 37
+    }
+  ]
+}

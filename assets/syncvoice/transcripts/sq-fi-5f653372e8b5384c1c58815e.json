@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5f653372e8b5384c1c58815e",
+  "text": "Tähdet tarjoavat runsaasti gradientteja rajallisiin aikoihin ja nopeuksilla, jotka vaihtelevat niiden massasta riippuen.",
+  "durationMs": 9680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2440,
+      "startChar": 27,
+      "endChar": 40
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3480,
+      "startChar": 40,
+      "endChar": 52
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4360,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5200,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5600,
+      "startChar": 64,
+      "endChar": 77
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6560,
+      "startChar": 77,
+      "endChar": 83
+    },
+    {
+      "startMs": 6560,
+      "endMs": 7080,
+      "startChar": 83,
+      "endChar": 95
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7880,
+      "startChar": 95,
+      "endChar": 102
+    },
+    {
+      "startMs": 7880,
+      "endMs": 8280,
+      "startChar": 102,
+      "endChar": 111
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8840,
+      "startChar": 111,
+      "endChar": 120
+    }
+  ]
+}

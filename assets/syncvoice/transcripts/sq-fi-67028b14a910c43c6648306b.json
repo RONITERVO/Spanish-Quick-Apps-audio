@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-67028b14a910c43c6648306b",
+  "text": "Se on valon vuodessa kulkema matka, ei ajan mittayksikkö.",
+  "durationMs": 5200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 1160,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1800,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2280,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2920,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3600,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3960,
+      "startChar": 44,
+      "endChar": 57
+    }
+  ]
+}

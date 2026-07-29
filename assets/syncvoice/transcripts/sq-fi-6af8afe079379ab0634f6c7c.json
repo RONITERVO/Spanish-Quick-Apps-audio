@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6af8afe079379ab0634f6c7c",
+  "text": "Ehdokasmallit · ei vahvistettuja",
+  "durationMs": 2800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1600,
+      "startChar": 19,
+      "endChar": 32
+    }
+  ]
+}

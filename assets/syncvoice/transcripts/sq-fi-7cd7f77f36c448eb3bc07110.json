@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7cd7f77f36c448eb3bc07110",
+  "text": "Poissa olevat ihmiset voivat säilyttää ja toistaa toimintosarjan.",
+  "durationMs": 4960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 960,
+      "endMs": 1600,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2040,
+      "startChar": 29,
+      "endChar": 39
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3040,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3680,
+      "startChar": 50,
+      "endChar": 65
+    }
+  ]
+}

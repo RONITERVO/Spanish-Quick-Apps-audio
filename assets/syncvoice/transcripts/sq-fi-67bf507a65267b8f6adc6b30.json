@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-67bf507a65267b8f6adc6b30",
+  "text": "lähes täydellinen tyhjiö",
+  "durationMs": 1850,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 617,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 617,
+      "endMs": 1233,
+      "startChar": 6,
+      "endChar": 18
+    },
+    {
+      "startMs": 1233,
+      "endMs": 1850,
+      "startChar": 18,
+      "endChar": 24
+    }
+  ]
+}

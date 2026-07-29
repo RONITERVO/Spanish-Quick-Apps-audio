@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7244b2cda8e393386b28d1e1",
+  "text": "Saatavilla olevien tietojen kanssa yhteensopivat mallit voivat vaihdella alkuolosuhteissa tai aiemmissa jaksoissa.",
+  "durationMs": 7800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1840,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2240,
+      "startChar": 35,
+      "endChar": 49
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3120,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3600,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3960,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4520,
+      "startChar": 73,
+      "endChar": 90
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5840,
+      "startChar": 90,
+      "endChar": 94
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6160,
+      "startChar": 94,
+      "endChar": 104
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6840,
+      "startChar": 104,
+      "endChar": 114
+    }
+  ]
+}

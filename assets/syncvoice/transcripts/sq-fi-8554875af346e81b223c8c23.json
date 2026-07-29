@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8554875af346e81b223c8c23",
+  "text": "Kuollut kieli eliminoi tietyt muistimuodot, suhteet ja käsitteelliset mahdollisuudet.",
+  "durationMs": 6680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 23
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1640,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2200,
+      "startChar": 30,
+      "endChar": 44
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3280,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4240,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4520,
+      "startChar": 55,
+      "endChar": 70
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5480,
+      "startChar": 70,
+      "endChar": 85
+    }
+  ]
+}

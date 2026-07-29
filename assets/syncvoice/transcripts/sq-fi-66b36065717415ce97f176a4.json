@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-66b36065717415ce97f176a4",
+  "text": "Avaruuden mittakaava muuttuu kosmisen ajan mukana",
+  "durationMs": 4040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2160,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2800,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3200,
+      "startChar": 43,
+      "endChar": 49
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-697e478100e6ae06b77b4692",
+  "text": "Sadattuhannet vanhat tähdet voivat pakkautua tiiviiksi palloksi, joka kiertää kaukana kiekosta.",
+  "durationMs": 7440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2280,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2720,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 55
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4120,
+      "startChar": 55,
+      "endChar": 65
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4800,
+      "startChar": 65,
+      "endChar": 70
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5400,
+      "startChar": 70,
+      "endChar": 78
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5960,
+      "startChar": 78,
+      "endChar": 86
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6520,
+      "startChar": 86,
+      "endChar": 95
+    }
+  ]
+}

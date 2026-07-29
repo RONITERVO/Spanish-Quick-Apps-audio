@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8065b08c11ff920382486ffc",
+  "text": "Suodattamaton raakadata mahdollistaa myöhempien analyysien toistamisen ja käsittelyn synnyttämien artefaktien havaitsemisen.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 24,
+      "endChar": 37
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2640,
+      "startChar": 37,
+      "endChar": 48
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3360,
+      "startChar": 48,
+      "endChar": 59
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4160,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4580,
+      "startChar": 71,
+      "endChar": 74
+    },
+    {
+      "startMs": 4580,
+      "endMs": 5000,
+      "startChar": 74,
+      "endChar": 85
+    },
+    {
+      "startMs": 5000,
+      "endMs": 6000,
+      "startChar": 85,
+      "endChar": 98
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6760,
+      "startChar": 98,
+      "endChar": 110
+    },
+    {
+      "startMs": 6760,
+      "endMs": 7600,
+      "startChar": 110,
+      "endChar": 124
+    }
+  ]
+}
