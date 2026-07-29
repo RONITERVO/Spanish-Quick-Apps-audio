@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-95be4069b8ced65f693b24f1",
+  "text": "invisible map",
+  "durationMs": 1110,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 555,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 555,
+      "endMs": 1110,
+      "startChar": 10,
+      "endChar": 13
+    }
+  ]
+}

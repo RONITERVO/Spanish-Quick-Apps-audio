@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8b794d3aa624d54b4aff82c3",
+  "text": "signal market",
+  "durationMs": 960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 480,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 480,
+      "endMs": 960,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

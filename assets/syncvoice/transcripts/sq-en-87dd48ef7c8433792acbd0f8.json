@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-87dd48ef7c8433792acbd0f8",
+  "text": "Essential services may become inaccessible to those without compatible devices, connections or identification.",
+  "durationMs": 7800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 19,
+      "endChar": 23
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1560,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2080,
+      "startChar": 30,
+      "endChar": 43
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2520,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2960,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3480,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3920,
+      "startChar": 60,
+      "endChar": 71
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4520,
+      "startChar": 71,
+      "endChar": 80
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5200,
+      "startChar": 80,
+      "endChar": 92
+    },
+    {
+      "startMs": 5200,
+      "endMs": 6240,
+      "startChar": 92,
+      "endChar": 95
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6640,
+      "startChar": 95,
+      "endChar": 110
+    }
+  ]
+}

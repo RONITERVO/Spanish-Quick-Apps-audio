@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-96131673767b13c057220481",
+  "text": "ocean world",
+  "durationMs": 900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 450,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 450,
+      "endMs": 900,
+      "startChar": 6,
+      "endChar": 11
+    }
+  ]
+}

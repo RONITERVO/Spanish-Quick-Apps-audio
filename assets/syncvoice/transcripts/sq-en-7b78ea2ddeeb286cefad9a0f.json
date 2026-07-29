@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7b78ea2ddeeb286cefad9a0f",
+  "text": "Signal control using microscopic components",
+  "durationMs": 3520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 33
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2600,
+      "startChar": 33,
+      "endChar": 43
+    }
+  ]
+}

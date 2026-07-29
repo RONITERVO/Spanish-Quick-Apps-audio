@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-88bdb3c5e036398a7ff0146e",
+  "text": "Center of the solar system",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 555,
+      "startChar": 10,
+      "endChar": 14
+    },
+    {
+      "startMs": 555,
+      "endMs": 960,
+      "startChar": 14,
+      "endChar": 20
+    },
+    {
+      "startMs": 960,
+      "endMs": 1480,
+      "startChar": 20,
+      "endChar": 26
+    }
+  ]
+}

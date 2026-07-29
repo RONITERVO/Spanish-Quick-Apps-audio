@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-78329087aa1eb47e4d8e9ce4",
+  "text": "travel time",
+  "durationMs": 760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 380,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 380,
+      "endMs": 760,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

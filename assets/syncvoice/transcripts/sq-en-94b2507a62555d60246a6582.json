@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-94b2507a62555d60246a6582",
+  "text": "Shared reference + transformed echo + new information → two-way communication",
+  "durationMs": 8040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1840,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2760,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3360,
+      "startChar": 36,
+      "endChar": 38
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3440,
+      "startChar": 38,
+      "endChar": 42
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4640,
+      "startChar": 42,
+      "endChar": 54
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5600,
+      "startChar": 54,
+      "endChar": 56
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6280,
+      "startChar": 56,
+      "endChar": 64
+    },
+    {
+      "startMs": 6280,
+      "endMs": 7000,
+      "startChar": 64,
+      "endChar": 77
+    }
+  ]
+}

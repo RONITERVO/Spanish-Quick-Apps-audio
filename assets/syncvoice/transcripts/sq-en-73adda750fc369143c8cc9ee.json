@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-73adda750fc369143c8cc9ee",
+  "text": "vanished sender",
+  "durationMs": 760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 380,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 380,
+      "endMs": 760,
+      "startChar": 9,
+      "endChar": 15
+    }
+  ]
+}

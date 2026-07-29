@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-736b0d74a5b49fda937087c4",
+  "text": "clay and glass",
+  "durationMs": 1530,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 510,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 510,
+      "endMs": 1020,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 1020,
+      "endMs": 1530,
+      "startChar": 9,
+      "endChar": 14
+    }
+  ]
+}

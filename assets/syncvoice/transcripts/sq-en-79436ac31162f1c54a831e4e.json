@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-79436ac31162f1c54a831e4e",
+  "text": "machine tool",
+  "durationMs": 900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 450,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 450,
+      "endMs": 900,
+      "startChar": 8,
+      "endChar": 12
+    }
+  ]
+}

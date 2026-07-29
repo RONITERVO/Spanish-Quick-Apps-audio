@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7c7ad1b10b3a3ed70fca3289",
+  "text": "Recognizing structure does not guarantee understanding symbols, references or intentions.",
+  "durationMs": 7000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1880,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 41
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2960,
+      "startChar": 41,
+      "endChar": 55
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3760,
+      "startChar": 55,
+      "endChar": 64
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4520,
+      "startChar": 64,
+      "endChar": 75
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5640,
+      "startChar": 75,
+      "endChar": 78
+    },
+    {
+      "startMs": 5640,
+      "endMs": 6080,
+      "startChar": 78,
+      "endChar": 89
+    }
+  ]
+}

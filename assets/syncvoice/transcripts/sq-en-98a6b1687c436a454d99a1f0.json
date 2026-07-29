@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-98a6b1687c436a454d99a1f0",
+  "text": "Different cell types perform complementary tasks.",
+  "durationMs": 3360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1760,
+      "startChar": 29,
+      "endChar": 43
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2520,
+      "startChar": 43,
+      "endChar": 49
+    }
+  ]
+}

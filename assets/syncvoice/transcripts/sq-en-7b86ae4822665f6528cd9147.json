@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7b86ae4822665f6528cd9147",
+  "text": "Visible buildings concentrate memory, worship, authority or identity.",
+  "durationMs": 6480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 30
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2120,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2880,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 57
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4840,
+      "startChar": 57,
+      "endChar": 60
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5480,
+      "startChar": 60,
+      "endChar": 69
+    }
+  ]
+}

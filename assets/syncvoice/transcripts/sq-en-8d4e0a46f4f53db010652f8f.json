@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8d4e0a46f4f53db010652f8f",
+  "text": "An attractor is a dynamic state or pattern toward which multiple trajectories of the system converge.",
+  "durationMs": 8000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 960,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1440,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2200,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2840,
+      "startChar": 32,
+      "endChar": 35
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3120,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3720,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 3720,
+      "endMs": 3800,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4520,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5280,
+      "startChar": 65,
+      "endChar": 78
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5760,
+      "startChar": 78,
+      "endChar": 81
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6240,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6480,
+      "startChar": 85,
+      "endChar": 92
+    },
+    {
+      "startMs": 6480,
+      "endMs": 7080,
+      "startChar": 92,
+      "endChar": 101
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-96a2cbeaacfbc22d4dbda956",
+  "text": "Delegating targeting or attack to machines creates extreme control, attribution, and escalation risks.",
+  "durationMs": 8680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 21,
+      "endChar": 24
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2040,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2520,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3360,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4000,
+      "startChar": 51,
+      "endChar": 59
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4800,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5560,
+      "startChar": 68,
+      "endChar": 81
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6840,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7240,
+      "startChar": 85,
+      "endChar": 96
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7960,
+      "startChar": 96,
+      "endChar": 102
+    }
+  ]
+}

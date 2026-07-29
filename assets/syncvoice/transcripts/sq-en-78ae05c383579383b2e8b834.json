@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-78ae05c383579383b2e8b834",
+  "text": "The heat drives slow movements that help move the plates.",
+  "durationMs": 4400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1800,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2560,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2840,
+      "startChar": 36,
+      "endChar": 41
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3240,
+      "startChar": 41,
+      "endChar": 46
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3380,
+      "startChar": 46,
+      "endChar": 50
+    },
+    {
+      "startMs": 3380,
+      "endMs": 3520,
+      "startChar": 50,
+      "endChar": 57
+    }
+  ]
+}

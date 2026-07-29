@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7ce98c2d80a77548f6e88e43",
+  "text": "Physical manipulation of symbols according to rules",
+  "durationMs": 4080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1720,
+      "endMs": 1960,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2600,
+      "startChar": 33,
+      "endChar": 43
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3200,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3400,
+      "startChar": 46,
+      "endChar": 51
+    }
+  ]
+}

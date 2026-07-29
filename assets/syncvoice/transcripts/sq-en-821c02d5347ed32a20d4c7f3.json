@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-821c02d5347ed32a20d4c7f3",
+  "text": "Information beyond living memory",
+  "durationMs": 3040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2240,
+      "startChar": 26,
+      "endChar": 32
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7693096d33039717a6113f7d",
+  "text": "Ejecting mass at high speed produces thrust even in a vacuum.",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 14,
+      "endChar": 17
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1440,
+      "startChar": 17,
+      "endChar": 22
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1640,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2200,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2800,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3360,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3760,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3760,
+      "endMs": 3840,
+      "startChar": 52,
+      "endChar": 54
+    },
+    {
+      "startMs": 3840,
+      "endMs": 3920,
+      "startChar": 54,
+      "endChar": 61
+    }
+  ]
+}

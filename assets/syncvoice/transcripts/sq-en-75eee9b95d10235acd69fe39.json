@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-75eee9b95d10235acd69fe39",
+  "text": "Economic activity beyond the earth's surface",
+  "durationMs": 3520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1820,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 1820,
+      "endMs": 2120,
+      "startChar": 29,
+      "endChar": 37
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2640,
+      "startChar": 37,
+      "endChar": 44
+    }
+  ]
+}

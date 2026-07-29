@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-9809e984a80afb8049dd90f0",
+  "text": "Filaments, nodes, walls and voids replace a single dominant direction.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 2040,
+      "startChar": 18,
+      "endChar": 24
+    },
+    {
+      "startMs": 2040,
+      "endMs": 3040,
+      "startChar": 24,
+      "endChar": 28
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3280,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3960,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4360,
+      "startChar": 42,
+      "endChar": 44
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4760,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5560,
+      "startChar": 51,
+      "endChar": 60
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6240,
+      "startChar": 60,
+      "endChar": 70
+    }
+  ]
+}

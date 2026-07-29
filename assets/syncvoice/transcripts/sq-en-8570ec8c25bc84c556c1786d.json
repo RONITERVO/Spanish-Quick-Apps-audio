@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8570ec8c25bc84c556c1786d",
+  "text": "years of travel time",
+  "durationMs": 2040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 20
+    }
+  ]
+}

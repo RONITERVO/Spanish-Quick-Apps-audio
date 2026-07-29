@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-80c24cc7d5372024dbc62e68",
+  "text": "Widely established cellular mechanisms",
+  "durationMs": 3320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 38
+    }
+  ]
+}

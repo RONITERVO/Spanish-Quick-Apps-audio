@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-799993f50061f92ab73c86f5",
+  "text": "Jupiter's repeated gravity empties certain resonant orbits.",
+  "durationMs": 4800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2320,
+      "startChar": 27,
+      "endChar": 35
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3000,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3480,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4000,
+      "startChar": 52,
+      "endChar": 59
+    }
+  ]
+}

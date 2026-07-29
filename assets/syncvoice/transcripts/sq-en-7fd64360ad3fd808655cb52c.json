@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7fd64360ad3fd808655cb52c",
+  "text": "Biological production systems and environmental control",
+  "durationMs": 4760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2480,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3040,
+      "startChar": 34,
+      "endChar": 48
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3960,
+      "startChar": 48,
+      "endChar": 55
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-77e434c92c0562e749abcd9d",
+  "text": "slow hibernation",
+  "durationMs": 1810,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 905,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 905,
+      "endMs": 1810,
+      "startChar": 5,
+      "endChar": 16
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8136755ba7202752f30a2f38",
+  "text": "neighbor of Andromeda",
+  "durationMs": 1730,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 577,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 577,
+      "endMs": 1153,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 1153,
+      "endMs": 1730,
+      "startChar": 12,
+      "endChar": 21
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-86ed40944dcc15e4b79a4851",
+  "text": "A protocell can incorporate components and increase its membrane or content.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2240,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3000,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3400,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4080,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4360,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5040,
+      "startChar": 65,
+      "endChar": 68
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5360,
+      "startChar": 68,
+      "endChar": 76
+    }
+  ]
+}

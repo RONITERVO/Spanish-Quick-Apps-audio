@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-94c36e2d249b03128ef13f7b",
+  "text": "Chance can change gene frequencies, especially in small populations.",
+  "durationMs": 5040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1360,
+      "startChar": 18,
+      "endChar": 23
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1640,
+      "startChar": 23,
+      "endChar": 36
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2440,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3400,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3600,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3920,
+      "startChar": 56,
+      "endChar": 68
+    }
+  ]
+}

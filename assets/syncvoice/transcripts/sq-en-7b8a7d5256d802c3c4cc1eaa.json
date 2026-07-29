@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7b8a7d5256d802c3c4cc1eaa",
+  "text": "Edge of the Milky Way",
+  "durationMs": 1920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 300,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 21
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-782832f99c7e6ce33f95edd4",
+  "text": "The first anomaly",
+  "durationMs": 1650,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 4,
+      "endChar": 10
+    },
+    {
+      "startMs": 1100,
+      "endMs": 1650,
+      "startChar": 10,
+      "endChar": 17
+    }
+  ]
+}
