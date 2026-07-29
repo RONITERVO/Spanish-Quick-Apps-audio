@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f22b6446e58cde4390367b49",
+  "text": "Komponenttien menetys voi olla vamma, unohtaminen, eroaminen tai uuden kokonaisuuden syntymä järjestelmästä riippuen.",
+  "durationMs": 9600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1840,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2080,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2680,
+      "startChar": 38,
+      "endChar": 51
+    },
+    {
+      "startMs": 2680,
+      "endMs": 4040,
+      "startChar": 51,
+      "endChar": 61
+    },
+    {
+      "startMs": 4040,
+      "endMs": 5160,
+      "startChar": 61,
+      "endChar": 65
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5680,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6200,
+      "startChar": 71,
+      "endChar": 85
+    },
+    {
+      "startMs": 6200,
+      "endMs": 7040,
+      "startChar": 85,
+      "endChar": 93
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7640,
+      "startChar": 93,
+      "endChar": 108
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8720,
+      "startChar": 108,
+      "endChar": 117
+    }
+  ]
+}

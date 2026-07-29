@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fbbc2b1110ab8be551da8ece",
+  "text": "Ylöspäin siirtyminen tarkoittaa jälleen etenemistä ajassa eikä etääntymistä alkuperää koskevasta todistusaineistosta.",
+  "durationMs": 8720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 21,
+      "endChar": 32
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2040,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2600,
+      "startChar": 40,
+      "endChar": 51
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3560,
+      "startChar": 51,
+      "endChar": 58
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4160,
+      "startChar": 58,
+      "endChar": 63
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4920,
+      "startChar": 63,
+      "endChar": 76
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5800,
+      "startChar": 76,
+      "endChar": 86
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6480,
+      "startChar": 86,
+      "endChar": 97
+    },
+    {
+      "startMs": 6480,
+      "endMs": 7120,
+      "startChar": 97,
+      "endChar": 117
+    }
+  ]
+}

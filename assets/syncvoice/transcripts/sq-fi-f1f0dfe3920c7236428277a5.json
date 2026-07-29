@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f1f0dfe3920c7236428277a5",
+  "text": "Jotkut molekyylit kokoontuvat itsestään vesikkeleiksi, jotka erottavat sisäosan ympäristöstä.",
+  "durationMs": 6520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 18,
+      "endChar": 30
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1920,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2640,
+      "startChar": 40,
+      "endChar": 55
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3720,
+      "startChar": 55,
+      "endChar": 61
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4440,
+      "startChar": 61,
+      "endChar": 71
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5080,
+      "startChar": 71,
+      "endChar": 80
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5720,
+      "startChar": 80,
+      "endChar": 93
+    }
+  ]
+}

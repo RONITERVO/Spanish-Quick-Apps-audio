@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fe13c688485b79bd7c42e879",
+  "text": "Yleisessä kokemuksessa käsittelemme monia tapahtumia samanaikaisina; suurella etäisyydellä ja suurella nopeudella tämä suhde riippuu tarkkailijasta.",
+  "durationMs": 11120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 23,
+      "endChar": 36
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2200,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2760,
+      "startChar": 42,
+      "endChar": 53
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3520,
+      "startChar": 53,
+      "endChar": 69
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4680,
+      "startChar": 69,
+      "endChar": 78
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5720,
+      "startChar": 78,
+      "endChar": 91
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6680,
+      "startChar": 91,
+      "endChar": 94
+    },
+    {
+      "startMs": 6680,
+      "endMs": 6920,
+      "startChar": 94,
+      "endChar": 103
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7440,
+      "startChar": 103,
+      "endChar": 114
+    },
+    {
+      "startMs": 7440,
+      "endMs": 8240,
+      "startChar": 114,
+      "endChar": 119
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8800,
+      "startChar": 119,
+      "endChar": 125
+    },
+    {
+      "startMs": 8800,
+      "endMs": 9200,
+      "startChar": 125,
+      "endChar": 133
+    },
+    {
+      "startMs": 9200,
+      "endMs": 9840,
+      "startChar": 133,
+      "endChar": 148
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e8b7a51155e45548a784ac6b",
+  "text": "Havaittu hajautunut järjestys",
+  "durationMs": 2330,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 777,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 777,
+      "endMs": 1553,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 1553,
+      "endMs": 2330,
+      "startChar": 20,
+      "endChar": 29
+    }
+  ]
+}

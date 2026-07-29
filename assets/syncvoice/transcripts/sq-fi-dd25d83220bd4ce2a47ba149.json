@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dd25d83220bd4ce2a47ba149",
+  "text": "haalea vihreä",
+  "durationMs": 1300,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 650,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 650,
+      "endMs": 1300,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

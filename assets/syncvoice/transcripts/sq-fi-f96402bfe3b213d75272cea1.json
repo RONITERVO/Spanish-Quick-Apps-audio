@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f96402bfe3b213d75272cea1",
+  "text": "Kemiallinen resurssi voi tarjota ainetta tai energiaa sisäisiin prosesseihin.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2280,
+      "startChar": 33,
+      "endChar": 41
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3080,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 54
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4200,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4880,
+      "startChar": 64,
+      "endChar": 77
+    }
+  ]
+}

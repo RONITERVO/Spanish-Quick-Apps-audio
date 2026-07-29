@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ff77a7624c9584cf653cf049",
+  "text": "Havaittava vaihe voi olla lyhytikäinen planeetan ikään verrattuna.",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1840,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2160,
+      "startChar": 26,
+      "endChar": 39
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3400,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4240,
+      "startChar": 49,
+      "endChar": 55
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4680,
+      "startChar": 55,
+      "endChar": 66
+    }
+  ]
+}

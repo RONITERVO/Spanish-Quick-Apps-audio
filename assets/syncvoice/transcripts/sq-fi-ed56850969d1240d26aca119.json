@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ed56850969d1240d26aca119",
+  "text": "Venus pyörii hitaasti vastakkaiseen suuntaan kuin useimmat planeetat.",
+  "durationMs": 5360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2000,
+      "startChar": 22,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2960,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3520,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3800,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4440,
+      "startChar": 59,
+      "endChar": 69
+    }
+  ]
+}

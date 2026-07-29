@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e47b6c7e92d39d9deb29fc8a",
+  "text": "Maaton laji voisi järjestää jokapäiväisen fysiikan virtauksen, paineen, syvyyden ja gradientin ympärille.",
+  "durationMs": 8200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 28
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1920,
+      "startChar": 28,
+      "endChar": 42
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2960,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3600,
+      "startChar": 51,
+      "endChar": 63
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4720,
+      "startChar": 63,
+      "endChar": 72
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5600,
+      "startChar": 72,
+      "endChar": 81
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6020,
+      "startChar": 81,
+      "endChar": 84
+    },
+    {
+      "startMs": 6020,
+      "endMs": 6440,
+      "startChar": 84,
+      "endChar": 95
+    },
+    {
+      "startMs": 6440,
+      "endMs": 7360,
+      "startChar": 95,
+      "endChar": 105
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ff6ba4b2e7225fb4de408c98",
+  "text": "kuivaa ja vakaata ilmaa",
+  "durationMs": 2480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 960,
+      "endMs": 1640,
+      "startChar": 18,
+      "endChar": 23
+    }
+  ]
+}

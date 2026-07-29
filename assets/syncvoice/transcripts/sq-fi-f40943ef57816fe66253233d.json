@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f40943ef57816fe66253233d",
+  "text": "Arvottavat järjestelmät vahvistavat merkityksellisiin tuloksiin liittyviä toimintoja.",
+  "durationMs": 5880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 24,
+      "endChar": 36
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2600,
+      "startChar": 36,
+      "endChar": 54
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3720,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4360,
+      "startChar": 64,
+      "endChar": 74
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4960,
+      "startChar": 74,
+      "endChar": 85
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-de6ab1a08ebbbf3ee1d7bdd7",
+  "text": "Mikä määritti alkuhäiriöiden tilan ja tarkat ominaisuudet?",
+  "durationMs": 4760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 29
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2120,
+      "startChar": 29,
+      "endChar": 35
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2680,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 2680,
+      "endMs": 2960,
+      "startChar": 38,
+      "endChar": 45
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3520,
+      "startChar": 45,
+      "endChar": 58
+    }
+  ]
+}

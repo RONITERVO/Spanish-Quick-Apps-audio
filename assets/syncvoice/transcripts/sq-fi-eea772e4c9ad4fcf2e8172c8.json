@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eea772e4c9ad4fcf2e8172c8",
+  "text": "Koordinointi ilman yhtä institutionaalista kohdetta",
+  "durationMs": 4680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2360,
+      "startChar": 24,
+      "endChar": 43
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3720,
+      "startChar": 43,
+      "endChar": 51
+    }
+  ]
+}

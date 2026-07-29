@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dba39bebdae129b19e0939f2",
+  "text": "Galaksit keskittyvät haaroihin eivätkä täytä avaruutta tasaisesti.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2440,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3120,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3560,
+      "startChar": 45,
+      "endChar": 55
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4240,
+      "startChar": 55,
+      "endChar": 66
+    }
+  ]
+}

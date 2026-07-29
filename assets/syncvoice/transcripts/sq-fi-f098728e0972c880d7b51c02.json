@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f098728e0972c880d7b51c02",
+  "text": "Tavoitteiden muuttaminen voi tarkoittaa autonomiaa tai yksinkertaisesti toista ohjelmointitasoa.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2040,
+      "startChar": 29,
+      "endChar": 40
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 40,
+      "endChar": 51
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3680,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4120,
+      "startChar": 55,
+      "endChar": 72
+    },
+    {
+      "startMs": 4120,
+      "endMs": 5320,
+      "startChar": 72,
+      "endChar": 79
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5880,
+      "startChar": 79,
+      "endChar": 96
+    }
+  ]
+}

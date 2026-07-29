@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e1ca5b94b036dc54582d96aa",
+  "text": "Jotkut mineraalit voivat varastoida vetyä kiteiseen rakenteeseensa.",
+  "durationMs": 4800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1640,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2320,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2880,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3560,
+      "startChar": 52,
+      "endChar": 67
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d9b57f58ddc9e956e70f94c3",
+  "text": "Aurinkoa lähimpänä oleva tähtijärjestelmä sisältää kolme tähteä. Proxima Centauri on lähin kaikista.",
+  "durationMs": 7480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1400,
+      "startChar": 25,
+      "endChar": 42
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2600,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3280,
+      "startChar": 51,
+      "endChar": 57
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3680,
+      "startChar": 57,
+      "endChar": 65
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4280,
+      "startChar": 65,
+      "endChar": 73
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4360,
+      "startChar": 73,
+      "endChar": 82
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5400,
+      "startChar": 82,
+      "endChar": 85
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5840,
+      "startChar": 85,
+      "endChar": 91
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6560,
+      "startChar": 91,
+      "endChar": 100
+    }
+  ]
+}

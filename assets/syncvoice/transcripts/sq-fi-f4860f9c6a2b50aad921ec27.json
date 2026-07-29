@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f4860f9c6a2b50aad921ec27",
+  "text": "Pitkä kaasunauha seuraa pilviä niiden kiertäessä Linnunrataa.",
+  "durationMs": 4560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 17,
+      "endChar": 24
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1760,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2360,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2760,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3400,
+      "startChar": 49,
+      "endChar": 61
+    }
+  ]
+}

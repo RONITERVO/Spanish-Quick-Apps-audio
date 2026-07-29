@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eda958bc1684c3910dfca83d",
+  "text": "Matka esittää tieteellisen ekstrapolaation, ei vahvistettua elokuvaa maailmankaikkeuden kohtalosta.",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 27
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 44
+    },
+    {
+      "startMs": 1840,
+      "endMs": 3000,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3075,
+      "startChar": 47,
+      "endChar": 60
+    },
+    {
+      "startMs": 3075,
+      "endMs": 4360,
+      "startChar": 60,
+      "endChar": 69
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4960,
+      "startChar": 69,
+      "endChar": 88
+    },
+    {
+      "startMs": 4960,
+      "endMs": 6000,
+      "startChar": 88,
+      "endChar": 99
+    }
+  ]
+}

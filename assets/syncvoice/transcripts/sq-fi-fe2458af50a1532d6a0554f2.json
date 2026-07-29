@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fe2458af50a1532d6a0554f2",
+  "text": "teollinen kemia",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 625,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 625,
+      "endMs": 1250,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eca2b5e9f9b3bd21ce555a78",
+  "text": "Koordinointi voi jakaa seurantaa, ajoa, sieppausta ja toimitusta.",
+  "durationMs": 5520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 17,
+      "endChar": 23
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1520,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2480,
+      "startChar": 34,
+      "endChar": 40
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3280,
+      "startChar": 40,
+      "endChar": 51
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4320,
+      "startChar": 51,
+      "endChar": 54
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4600,
+      "startChar": 54,
+      "endChar": 65
+    }
+  ]
+}

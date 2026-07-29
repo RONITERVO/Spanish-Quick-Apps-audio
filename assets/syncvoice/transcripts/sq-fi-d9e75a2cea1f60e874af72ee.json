@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d9e75a2cea1f60e874af72ee",
+  "text": "Pyörässä oleva köysi muuttaa voiman suuntaa; useat hihnapyörät voivat jakaa kuorman.",
+  "durationMs": 7120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1720,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2320,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2800,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3560,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3640,
+      "startChar": 51,
+      "endChar": 63
+    },
+    {
+      "startMs": 3640,
+      "endMs": 5440,
+      "startChar": 63,
+      "endChar": 70
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5840,
+      "startChar": 70,
+      "endChar": 76
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6280,
+      "startChar": 76,
+      "endChar": 84
+    }
+  ]
+}

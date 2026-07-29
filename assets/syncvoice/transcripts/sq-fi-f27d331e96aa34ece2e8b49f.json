@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f27d331e96aa34ece2e8b49f",
+  "text": "teollinen tuotanto",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 10,
+      "endChar": 18
+    }
+  ]
+}

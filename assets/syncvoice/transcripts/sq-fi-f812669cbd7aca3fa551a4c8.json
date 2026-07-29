@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f812669cbd7aca3fa551a4c8",
+  "text": "Se on Aurinkoa lähinnä oleva planeetta ja pienin kahdeksasta planeetasta.",
+  "durationMs": 6760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 15,
+      "endChar": 23
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2200,
+      "startChar": 23,
+      "endChar": 29
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2600,
+      "startChar": 29,
+      "endChar": 39
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3400,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4040,
+      "startChar": 42,
+      "endChar": 49
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4800,
+      "startChar": 49,
+      "endChar": 61
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5680,
+      "startChar": 61,
+      "endChar": 73
+    }
+  ]
+}

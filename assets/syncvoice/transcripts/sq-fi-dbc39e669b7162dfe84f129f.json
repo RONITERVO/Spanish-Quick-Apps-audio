@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dbc39e669b7162dfe84f129f",
+  "text": "Epävarmuus kokemuksesta edellyttää moraalisen varovaisuuden ja todisteiden tasapainottamista.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 24,
+      "endChar": 35
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2400,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3120,
+      "startChar": 46,
+      "endChar": 60
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3600,
+      "startChar": 60,
+      "endChar": 63
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4080,
+      "startChar": 63,
+      "endChar": 75
+    },
+    {
+      "startMs": 4080,
+      "endMs": 5000,
+      "startChar": 75,
+      "endChar": 93
+    }
+  ]
+}

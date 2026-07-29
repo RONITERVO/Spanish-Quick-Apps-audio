@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fe6b36502e9264a4781f293b",
+  "text": "Lyhyt kuittaus rajoittaa sisältöä ja osoittaa, että signaali on ymmärretty ainakin viestintänä.",
+  "durationMs": 6640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1640,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2400,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2680,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3240,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3560,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4120,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4360,
+      "startChar": 64,
+      "endChar": 75
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5080,
+      "startChar": 75,
+      "endChar": 83
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5640,
+      "startChar": 83,
+      "endChar": 95
+    }
+  ]
+}

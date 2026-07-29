@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e9061786858ddc8f3bde20a0",
+  "text": "Häiriintyneet kiertoradat voivat ohjata jäisiä kappaleita aurinkokunnan sisäosiin.",
+  "durationMs": 6560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 26
+    },
+    {
+      "startMs": 150,
+      "endMs": 1880,
+      "startChar": 26,
+      "endChar": 33
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2320,
+      "startChar": 33,
+      "endChar": 40
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2920,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3560,
+      "startChar": 47,
+      "endChar": 58
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4360,
+      "startChar": 58,
+      "endChar": 72
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5320,
+      "startChar": 72,
+      "endChar": 82
+    }
+  ]
+}

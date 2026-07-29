@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e68045081a3785c630f5874c",
+  "text": "kuuma pöly",
+  "durationMs": 1160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 580,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 580,
+      "endMs": 1160,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}

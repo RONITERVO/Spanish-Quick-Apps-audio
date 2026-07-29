@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eaeb4641e8bf7e4c1c0baaa4",
+  "text": "Magellanin virtaus",
+  "durationMs": 1750,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 875,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 875,
+      "endMs": 1750,
+      "startChar": 11,
+      "endChar": 18
+    }
+  ]
+}

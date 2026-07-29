@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f849db5cc7aee6be373eb099",
+  "text": "Apu muuttaa lentoratoja; Puuttumatta jättäminen jättää myös ennakoitavia seurauksia.",
+  "durationMs": 6320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 25
+    },
+    {
+      "startMs": 225,
+      "endMs": 1760,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2880,
+      "startChar": 37,
+      "endChar": 48
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3600,
+      "startChar": 48,
+      "endChar": 55
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4040,
+      "startChar": 55,
+      "endChar": 60
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4480,
+      "startChar": 60,
+      "endChar": 73
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5320,
+      "startChar": 73,
+      "endChar": 84
+    }
+  ]
+}

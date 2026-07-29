@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-db324a34766dfebc4771315e",
+  "text": "Laaja ja litteä rakenne, joka on paljon leveyttään ohuempi.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1600,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2280,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2960,
+      "startChar": 30,
+      "endChar": 33
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3200,
+      "startChar": 33,
+      "endChar": 40
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3840,
+      "startChar": 40,
+      "endChar": 51
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4720,
+      "startChar": 51,
+      "endChar": 59
+    }
+  ]
+}

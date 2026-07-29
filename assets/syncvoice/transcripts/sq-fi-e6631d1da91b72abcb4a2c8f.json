@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e6631d1da91b72abcb4a2c8f",
+  "text": "Vestibulaarinen järjestelmä rekisteröi kiihdytykset ja pään suunnan vakauttaakseen asennon ja katseen.",
+  "durationMs": 8120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 150,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2920,
+      "startChar": 39,
+      "endChar": 52
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3880,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4080,
+      "startChar": 55,
+      "endChar": 60
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4480,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5160,
+      "startChar": 68,
+      "endChar": 83
+    },
+    {
+      "startMs": 5160,
+      "endMs": 6400,
+      "startChar": 83,
+      "endChar": 91
+    },
+    {
+      "startMs": 6400,
+      "endMs": 6720,
+      "startChar": 91,
+      "endChar": 94
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7040,
+      "startChar": 94,
+      "endChar": 102
+    }
+  ]
+}

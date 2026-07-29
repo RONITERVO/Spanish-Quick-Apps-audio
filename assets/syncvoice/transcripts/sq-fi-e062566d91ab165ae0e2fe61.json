@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e062566d91ab165ae0e2fe61",
+  "text": "Organismit rakentavat vasteita oman ympäristönsä kannalta merkityksellisten signaalien perusteella.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2400,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2840,
+      "startChar": 36,
+      "endChar": 49
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3760,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4320,
+      "startChar": 58,
+      "endChar": 76
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5520,
+      "startChar": 76,
+      "endChar": 87
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6240,
+      "startChar": 87,
+      "endChar": 99
+    }
+  ]
+}

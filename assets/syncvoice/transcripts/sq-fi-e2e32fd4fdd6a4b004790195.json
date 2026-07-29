@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e2e32fd4fdd6a4b004790195",
+  "text": "Hyödyllinen työkalu riippuu teroituksesta, korjauksesta, taidosta ja materiaalien saatavuudesta.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1800,
+      "startChar": 28,
+      "endChar": 43
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2880,
+      "startChar": 43,
+      "endChar": 57
+    },
+    {
+      "startMs": 2880,
+      "endMs": 4080,
+      "startChar": 57,
+      "endChar": 66
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4540,
+      "startChar": 66,
+      "endChar": 69
+    },
+    {
+      "startMs": 4540,
+      "endMs": 5000,
+      "startChar": 69,
+      "endChar": 82
+    },
+    {
+      "startMs": 5000,
+      "endMs": 6040,
+      "startChar": 82,
+      "endChar": 96
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e00094188f8ef9a74a7fcbae",
+  "text": "sitkeä kivi",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

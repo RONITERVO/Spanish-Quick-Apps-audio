@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f3c4eb68fa2f0b412191e313",
+  "text": "alkuperäinen halo",
+  "durationMs": 1550,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 775,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 775,
+      "endMs": 1550,
+      "startChar": 13,
+      "endChar": 17
+    }
+  ]
+}

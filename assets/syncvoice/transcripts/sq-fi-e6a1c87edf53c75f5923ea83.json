@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e6a1c87edf53c75f5923ea83",
+  "text": "tyhjä tulos",
+  "durationMs": 880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 440,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 440,
+      "endMs": 880,
+      "startChar": 6,
+      "endChar": 11
+    }
+  ]
+}

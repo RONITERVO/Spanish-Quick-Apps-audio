@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e167e1b62856bb29658ff341",
+  "text": "Jopa miljoonavuotisten hankkeiden on oltava fyysisiä ja ajallisia rajoja.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2440,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2760,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3280,
+      "startChar": 44,
+      "endChar": 53
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4160,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4440,
+      "startChar": 56,
+      "endChar": 66
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5200,
+      "startChar": 66,
+      "endChar": 73
+    }
+  ]
+}

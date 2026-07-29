@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f6b8d56666070ae105bb3484",
+  "text": "Syväkenttä · monta aikakautta samassa näkymässä",
+  "durationMs": 4240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 1120,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1560,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2040,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2720,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3280,
+      "startChar": 38,
+      "endChar": 47
+    }
+  ]
+}

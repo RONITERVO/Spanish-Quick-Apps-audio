@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dcb6229cf8b7d6b3220c04b0",
+  "text": "Pieni osa kivestä voi sulaa ja ruokkia magmoja.",
+  "durationMs": 4480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1680,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1920,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2560,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2800,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3480,
+      "startChar": 39,
+      "endChar": 47
+    }
+  ]
+}

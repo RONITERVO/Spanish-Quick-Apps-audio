@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-da944afa9833fc2193fed096",
+  "text": "Kaksi yhdistettyä kaltevaa tasoa muuntaa etenemisen sivuttaisiksi voimiksi erottaakseen tai kiinnittääkseen.",
+  "durationMs": 7240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1720,
+      "startChar": 27,
+      "endChar": 33
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2280,
+      "startChar": 33,
+      "endChar": 41
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2720,
+      "startChar": 41,
+      "endChar": 52
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3480,
+      "startChar": 52,
+      "endChar": 66
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4280,
+      "startChar": 66,
+      "endChar": 75
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4920,
+      "startChar": 75,
+      "endChar": 88
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5800,
+      "startChar": 88,
+      "endChar": 92
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6040,
+      "startChar": 92,
+      "endChar": 108
+    }
+  ]
+}

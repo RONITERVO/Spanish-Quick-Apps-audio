@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ddebef0aa7730ef811691431",
+  "text": "Muutoksen jälkeen fotoni pysyy massattomana ja välittää sähkömagneettisen vuorovaikutuksen.",
+  "durationMs": 6480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1800,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2200,
+      "startChar": 31,
+      "endChar": 44
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2680,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3160,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4000,
+      "startChar": 56,
+      "endChar": 74
+    },
+    {
+      "startMs": 4000,
+      "endMs": 5160,
+      "startChar": 74,
+      "endChar": 91
+    }
+  ]
+}

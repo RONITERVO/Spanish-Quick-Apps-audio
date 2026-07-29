@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-df187d5b638d3c964362da01",
+  "text": "Aivot yhdistävät signaaleja edustamaan kehon asentoja, esineitä ja reittejä.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 17,
+      "endChar": 28
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1920,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2720,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3160,
+      "startChar": 45,
+      "endChar": 55
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3960,
+      "startChar": 55,
+      "endChar": 64
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5000,
+      "startChar": 64,
+      "endChar": 67
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5240,
+      "startChar": 67,
+      "endChar": 76
+    }
+  ]
+}

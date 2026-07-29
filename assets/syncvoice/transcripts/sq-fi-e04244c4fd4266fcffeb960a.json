@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e04244c4fd4266fcffeb960a",
+  "text": "Automaattinen tunnistus ja vaihtoehtoiset reitit voivat ylläpitää palveluita, vaikka ne eivät poista järjestelmävikoja.",
+  "durationMs": 7960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 24,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 42
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2720,
+      "startChar": 42,
+      "endChar": 49
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3280,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3680,
+      "startChar": 56,
+      "endChar": 66
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4320,
+      "startChar": 66,
+      "endChar": 78
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5040,
+      "startChar": 78,
+      "endChar": 85
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5320,
+      "startChar": 85,
+      "endChar": 88
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5600,
+      "startChar": 88,
+      "endChar": 94
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6080,
+      "startChar": 94,
+      "endChar": 101
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6480,
+      "startChar": 101,
+      "endChar": 119
+    }
+  ]
+}

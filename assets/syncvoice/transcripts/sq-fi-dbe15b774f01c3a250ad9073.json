@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dbe15b774f01c3a250ad9073",
+  "text": "tähtien liike",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 625,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 625,
+      "endMs": 1250,
+      "startChar": 8,
+      "endChar": 13
+    }
+  ]
+}

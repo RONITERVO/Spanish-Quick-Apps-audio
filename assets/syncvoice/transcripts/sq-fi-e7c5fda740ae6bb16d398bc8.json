@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e7c5fda740ae6bb16d398bc8",
+  "text": "Virtausallas · satoja miljoonia valovuosia",
+  "durationMs": 4400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 1440,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1880,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2400,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3200,
+      "startChar": 32,
+      "endChar": 42
+    }
+  ]
+}

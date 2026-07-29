@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eae61747e1728c50c287ee5e",
+  "text": "vaalea magenta",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 7,
+      "endChar": 14
+    }
+  ]
+}

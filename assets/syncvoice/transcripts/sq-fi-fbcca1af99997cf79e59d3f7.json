@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fbcca1af99997cf79e59d3f7",
+  "text": "Mallit, jotka oppivat datan säännönmukaisuuksia",
+  "durationMs": 4400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2080,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2600,
+      "startChar": 28,
+      "endChar": 47
+    }
+  ]
+}

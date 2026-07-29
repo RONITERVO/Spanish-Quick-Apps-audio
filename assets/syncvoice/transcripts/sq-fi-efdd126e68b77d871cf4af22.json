@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-efdd126e68b77d871cf4af22",
+  "text": "Ydintä pienempi rakenne",
+  "durationMs": 1580,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 527,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 527,
+      "endMs": 1053,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 1053,
+      "endMs": 1580,
+      "startChar": 16,
+      "endChar": 23
+    }
+  ]
+}

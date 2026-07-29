@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f3f1d32c2c470a6db2ed6a5d",
+  "text": "Palaute osoittaa erot yrityksen ja halutun tuloksen välillä.",
+  "durationMs": 4920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 17,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1880,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2760,
+      "startChar": 32,
+      "endChar": 35
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3000,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3560,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4080,
+      "startChar": 52,
+      "endChar": 60
+    }
+  ]
+}

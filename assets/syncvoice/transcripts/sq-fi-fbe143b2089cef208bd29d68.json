@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fbe143b2089cef208bd29d68",
+  "text": "tähtienvälinen avaruus",
+  "durationMs": 2180,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1090,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 1090,
+      "endMs": 2180,
+      "startChar": 15,
+      "endChar": 22
+    }
+  ]
+}

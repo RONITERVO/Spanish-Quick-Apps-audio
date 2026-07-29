@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fba04ccb3a5ea7b9a0eab403",
+  "text": "Tähtisumuja, tähtijoukkoja ja vastasyntyneitä tähtiä",
+  "durationMs": 5200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 1040,
+      "startChar": 13,
+      "endChar": 27
+    },
+    {
+      "startMs": 1040,
+      "endMs": 2840,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3240,
+      "startChar": 30,
+      "endChar": 46
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4320,
+      "startChar": 46,
+      "endChar": 52
+    }
+  ]
+}

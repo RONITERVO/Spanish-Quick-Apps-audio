@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f3703dc2c61a395f4c2af40b",
+  "text": "Tuuli, vesi tai moottorit muuttavat ympäristön energiaa jauhamiseksi ja käsittelyksi.",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1680,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2480,
+      "startChar": 26,
+      "endChar": 36
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3120,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4640,
+      "startChar": 56,
+      "endChar": 69
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5640,
+      "startChar": 69,
+      "endChar": 72
+    },
+    {
+      "startMs": 5640,
+      "endMs": 5880,
+      "startChar": 72,
+      "endChar": 85
+    }
+  ]
+}

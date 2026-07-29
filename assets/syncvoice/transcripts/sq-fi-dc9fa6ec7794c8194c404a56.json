@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dc9fa6ec7794c8194c404a56",
+  "text": "osoittaa viittauskohteet",
+  "durationMs": 2010,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1005,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 1005,
+      "endMs": 2010,
+      "startChar": 9,
+      "endChar": 24
+    }
+  ]
+}

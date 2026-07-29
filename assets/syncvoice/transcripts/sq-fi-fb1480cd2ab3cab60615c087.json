@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fb1480cd2ab3cab60615c087",
+  "text": "erittäin ohutta ilmaa",
+  "durationMs": 2300,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 767,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 767,
+      "endMs": 1533,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 1533,
+      "endMs": 2300,
+      "startChar": 16,
+      "endChar": 21
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fc25371e9c7288fed4151f52",
+  "text": "Gradientti on lämpötilan, pitoisuuden, paineen tai potentiaalin avaruudellinen ero, joka voi synnyttää virtauksen.",
+  "durationMs": 9880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 14,
+      "endChar": 26
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2160,
+      "startChar": 26,
+      "endChar": 39
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3360,
+      "startChar": 39,
+      "endChar": 47
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4400,
+      "startChar": 47,
+      "endChar": 51
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4760,
+      "startChar": 51,
+      "endChar": 64
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5840,
+      "startChar": 64,
+      "endChar": 79
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6880,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7320,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 7320,
+      "endMs": 7440,
+      "startChar": 89,
+      "endChar": 93
+    },
+    {
+      "startMs": 7440,
+      "endMs": 8160,
+      "startChar": 93,
+      "endChar": 103
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8760,
+      "startChar": 103,
+      "endChar": 114
+    }
+  ]
+}
