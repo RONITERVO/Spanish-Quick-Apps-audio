@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b0f04e341ce66b0c25a1c59a",
+  "text": "Näkymätön teho- ja ohjausinfrastruktuuri",
+  "durationMs": 4120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2040,
+      "startChar": 19,
+      "endChar": 40
+    }
+  ]
+}

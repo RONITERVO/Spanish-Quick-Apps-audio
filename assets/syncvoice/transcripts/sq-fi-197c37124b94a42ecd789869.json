@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-197c37124b94a42ecd789869",
+  "text": "Pienistä merkeistä rekonstruoituja maailmoja",
+  "durationMs": 3840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 35
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2720,
+      "startChar": 35,
+      "endChar": 44
+    }
+  ]
+}

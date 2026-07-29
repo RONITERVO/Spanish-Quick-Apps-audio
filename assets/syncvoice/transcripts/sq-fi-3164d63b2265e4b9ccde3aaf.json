@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3164d63b2265e4b9ccde3aaf",
+  "text": "Robotit ja ohjelmistot voivat jatkuvasti suorittaa, mitata ja säätää kokeita.",
+  "durationMs": 6560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 23
+    },
+    {
+      "startMs": 960,
+      "endMs": 1920,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2360,
+      "startChar": 30,
+      "endChar": 41
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3160,
+      "startChar": 41,
+      "endChar": 52
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4040,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4840,
+      "startChar": 59,
+      "endChar": 62
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5160,
+      "startChar": 62,
+      "endChar": 69
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5720,
+      "startChar": 69,
+      "endChar": 77
+    }
+  ]
+}

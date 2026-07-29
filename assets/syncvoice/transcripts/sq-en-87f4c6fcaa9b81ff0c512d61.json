@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-87f4c6fcaa9b81ff0c512d61",
+  "text": "Sustained action with less direct supervision",
+  "durationMs": 3640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 17,
+      "endChar": 22
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1880,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2240,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2720,
+      "startChar": 34,
+      "endChar": 45
+    }
+  ]
+}

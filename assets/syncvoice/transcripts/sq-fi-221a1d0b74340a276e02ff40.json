@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-221a1d0b74340a276e02ff40",
+  "text": "Yksi genomi, monta solutilaa",
+  "durationMs": 2640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1640,
+      "startChar": 19,
+      "endChar": 28
+    }
+  ]
+}

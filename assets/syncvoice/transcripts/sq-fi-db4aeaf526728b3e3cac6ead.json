@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-db4aeaf526728b3e3cac6ead",
+  "text": "Ilmaisu, tunne ja identiteetti",
+  "durationMs": 3600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1840,
+      "startChar": 15,
+      "endChar": 18
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2360,
+      "startChar": 18,
+      "endChar": 30
+    }
+  ]
+}

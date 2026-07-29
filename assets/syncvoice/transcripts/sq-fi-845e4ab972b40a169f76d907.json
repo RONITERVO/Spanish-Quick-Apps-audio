@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-845e4ab972b40a169f76d907",
+  "text": "Maasta näemme galaksimme kiekon sivulta päin taivaan poikki kulkevana valovyönä.",
+  "durationMs": 6280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 25
+    },
+    {
+      "startMs": 225,
+      "endMs": 1640,
+      "startChar": 25,
+      "endChar": 32
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2280,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2920,
+      "startChar": 40,
+      "endChar": 45
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4120,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4560,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5200,
+      "startChar": 70,
+      "endChar": 80
+    }
+  ]
+}

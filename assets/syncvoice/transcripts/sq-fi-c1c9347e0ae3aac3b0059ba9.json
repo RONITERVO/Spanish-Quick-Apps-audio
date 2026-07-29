@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c1c9347e0ae3aac3b0059ba9",
+  "text": "Vaihtoehdot voivat riippua rajallisista resursseista tai häiritä toisiaan.",
+  "durationMs": 5480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1760,
+      "startChar": 27,
+      "endChar": 40
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2520,
+      "startChar": 40,
+      "endChar": 53
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3440,
+      "startChar": 53,
+      "endChar": 57
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4040,
+      "startChar": 57,
+      "endChar": 65
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4600,
+      "startChar": 65,
+      "endChar": 74
+    }
+  ]
+}

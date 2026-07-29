@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1991c16c89704d28d7ee0cc2",
+  "text": "Communication can use voice, gesture, gaze, rhythm, smell, posture or movement; It does not require writing or full spoken language.",
+  "durationMs": 12000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1280,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2280,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3400,
+      "startChar": 38,
+      "endChar": 44
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4480,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5160,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 5160,
+      "endMs": 6080,
+      "startChar": 59,
+      "endChar": 67
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6920,
+      "startChar": 67,
+      "endChar": 70
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7360,
+      "startChar": 70,
+      "endChar": 80
+    },
+    {
+      "startMs": 7360,
+      "endMs": 7720,
+      "startChar": 80,
+      "endChar": 83
+    },
+    {
+      "startMs": 7720,
+      "endMs": 8080,
+      "startChar": 83,
+      "endChar": 88
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8720,
+      "startChar": 88,
+      "endChar": 92
+    },
+    {
+      "startMs": 8720,
+      "endMs": 9080,
+      "startChar": 92,
+      "endChar": 100
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9600,
+      "startChar": 100,
+      "endChar": 108
+    },
+    {
+      "startMs": 9600,
+      "endMs": 10120,
+      "startChar": 108,
+      "endChar": 111
+    },
+    {
+      "startMs": 10120,
+      "endMs": 10400,
+      "startChar": 111,
+      "endChar": 116
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10760,
+      "startChar": 116,
+      "endChar": 123
+    },
+    {
+      "startMs": 10760,
+      "endMs": 11160,
+      "startChar": 123,
+      "endChar": 132
+    }
+  ]
+}

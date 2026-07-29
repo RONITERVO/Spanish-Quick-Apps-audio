@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7df8e7fdd728d979c7fe8a30",
+  "text": "The universe that values itself",
+  "durationMs": 2880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 18
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1960,
+      "startChar": 25,
+      "endChar": 31
+    }
+  ]
+}

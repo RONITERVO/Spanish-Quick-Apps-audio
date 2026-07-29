@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b65ee1261f020c8a837eb85f",
+  "text": "erillinen mieli",
+  "durationMs": 1280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}

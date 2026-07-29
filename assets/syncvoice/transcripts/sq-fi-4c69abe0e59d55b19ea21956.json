@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4c69abe0e59d55b19ea21956",
+  "text": "Jatkuvuus rakennetaan muutoksen kautta",
+  "durationMs": 3440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1960,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2720,
+      "startChar": 32,
+      "endChar": 38
+    }
+  ]
+}

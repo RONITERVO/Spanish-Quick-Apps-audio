@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a8d412fb2396f933e03d9c3a",
+  "text": "An open scientific frontier",
+  "durationMs": 2680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 8,
+      "endChar": 19
+    },
+    {
+      "startMs": 960,
+      "endMs": 1800,
+      "startChar": 19,
+      "endChar": 27
+    }
+  ]
+}

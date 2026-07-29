@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bbf3a256c7e0aed151492cb2",
+  "text": "Rekisteröidyt sopimukset laajentavat velvoitteita välittömän tapaamisen jälkeen.",
+  "durationMs": 5880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 1840,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2680,
+      "startChar": 37,
+      "endChar": 50
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3600,
+      "startChar": 50,
+      "endChar": 61
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4360,
+      "startChar": 61,
+      "endChar": 72
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5040,
+      "startChar": 72,
+      "endChar": 80
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4f15ce46ace735fa51994b70",
+  "text": "Pilvi on fyysisiin tiloihin hajautettua etälaskentaa, ei paikkaa ilman materiaa.",
+  "durationMs": 7440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1840,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2480,
+      "startChar": 28,
+      "endChar": 40
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3480,
+      "startChar": 40,
+      "endChar": 54
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4720,
+      "startChar": 54,
+      "endChar": 57
+    },
+    {
+      "startMs": 4720,
+      "endMs": 4795,
+      "startChar": 57,
+      "endChar": 65
+    },
+    {
+      "startMs": 4795,
+      "endMs": 6000,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6440,
+      "startChar": 71,
+      "endChar": 80
+    }
+  ]
+}

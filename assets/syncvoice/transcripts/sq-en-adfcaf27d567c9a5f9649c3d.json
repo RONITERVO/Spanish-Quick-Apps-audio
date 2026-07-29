@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-adfcaf27d567c9a5f9649c3d",
+  "text": "energy cost",
+  "durationMs": 880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 440,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 440,
+      "endMs": 880,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fddb5064853d2eac3260f1e0",
+  "text": "Containing transforms transportation, storage, cooking and delivery.",
+  "durationMs": 4880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 697,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 697,
+      "endMs": 1394,
+      "startChar": 11,
+      "endChar": 22
+    },
+    {
+      "startMs": 1394,
+      "endMs": 2091,
+      "startChar": 22,
+      "endChar": 38
+    },
+    {
+      "startMs": 2091,
+      "endMs": 2789,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2789,
+      "endMs": 3486,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3486,
+      "endMs": 4183,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4183,
+      "endMs": 4880,
+      "startChar": 59,
+      "endChar": 68
+    }
+  ]
+}

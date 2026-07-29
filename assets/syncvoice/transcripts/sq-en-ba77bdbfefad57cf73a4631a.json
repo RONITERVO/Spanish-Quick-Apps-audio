@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ba77bdbfefad57cf73a4631a",
+  "text": "Narrating routes preserves routes, hazards, encounters and changes.",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1960,
+      "startChar": 27,
+      "endChar": 35
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2480,
+      "startChar": 35,
+      "endChar": 44
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3520,
+      "startChar": 44,
+      "endChar": 55
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4640,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4640,
+      "endMs": 4840,
+      "startChar": 59,
+      "endChar": 67
+    }
+  ]
+}

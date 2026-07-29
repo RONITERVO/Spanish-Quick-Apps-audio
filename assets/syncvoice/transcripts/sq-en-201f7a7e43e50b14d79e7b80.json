@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-201f7a7e43e50b14d79e7b80",
+  "text": "A fracture allows blocks of rock to move and release seismic energy.",
+  "durationMs": 5560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2040,
+      "startChar": 28,
+      "endChar": 33
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2400,
+      "startChar": 33,
+      "endChar": 36
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2600,
+      "startChar": 36,
+      "endChar": 41
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3200,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3560,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4080,
+      "startChar": 53,
+      "endChar": 61
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4720,
+      "startChar": 61,
+      "endChar": 68
+    }
+  ]
+}

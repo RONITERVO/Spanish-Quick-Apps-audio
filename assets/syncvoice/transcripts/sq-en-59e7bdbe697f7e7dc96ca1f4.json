@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-59e7bdbe697f7e7dc96ca1f4",
+  "text": "Different regions can choose different orientations and form separate domains.",
+  "durationMs": 5040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1360,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1760,
+      "startChar": 29,
+      "endChar": 39
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2160,
+      "startChar": 39,
+      "endChar": 52
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3120,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3480,
+      "startChar": 56,
+      "endChar": 61
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3880,
+      "startChar": 61,
+      "endChar": 70
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4240,
+      "startChar": 70,
+      "endChar": 78
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3a09a4b5f448a0312eeaaeb5",
+  "text": "Sulaa kiveä voi kerääntyä ennen sen kohoamista kohti tulivuorta.",
+  "durationMs": 5000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2160,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2640,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2920,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3680,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4040,
+      "startChar": 53,
+      "endChar": 64
+    }
+  ]
+}

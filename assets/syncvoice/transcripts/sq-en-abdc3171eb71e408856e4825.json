@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-abdc3171eb71e408856e4825",
+  "text": "Electrical signals modulate light to convert data into visible images.",
+  "durationMs": 5640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2560,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2800,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3320,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3800,
+      "startChar": 50,
+      "endChar": 55
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4280,
+      "startChar": 55,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4760,
+      "startChar": 63,
+      "endChar": 70
+    }
+  ]
+}

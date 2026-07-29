@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f587dfd08eb194b2ab575e05",
+  "text": "Kohti lopullista horisonttia",
+  "durationMs": 2430,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 810,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 810,
+      "endMs": 1620,
+      "startChar": 6,
+      "endChar": 17
+    },
+    {
+      "startMs": 1620,
+      "endMs": 2430,
+      "startChar": 17,
+      "endChar": 28
+    }
+  ]
+}

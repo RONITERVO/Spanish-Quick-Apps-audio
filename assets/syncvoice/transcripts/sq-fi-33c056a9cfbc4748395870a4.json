@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-33c056a9cfbc4748395870a4",
+  "text": "muuttuva pimeä energia",
+  "durationMs": 2010,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 670,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 670,
+      "endMs": 1340,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 1340,
+      "endMs": 2010,
+      "startChar": 15,
+      "endChar": 22
+    }
+  ]
+}

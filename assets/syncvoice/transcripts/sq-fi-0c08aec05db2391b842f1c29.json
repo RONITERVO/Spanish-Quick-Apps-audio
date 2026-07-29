@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0c08aec05db2391b842f1c29",
+  "text": "kosminen aamunkoitto",
+  "durationMs": 2020,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1010,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 1010,
+      "endMs": 2020,
+      "startChar": 9,
+      "endChar": 20
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-83f9293c4085d71cb50ed920",
+  "text": "Helium on yksi tämän erittäin harvan alueen vallitsevista kaasuista.",
+  "durationMs": 5560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1680,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2560,
+      "startChar": 30,
+      "endChar": 37
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3120,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3680,
+      "startChar": 44,
+      "endChar": 58
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4560,
+      "startChar": 58,
+      "endChar": 68
+    }
+  ]
+}

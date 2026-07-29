@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-955408c74d18bf6d02e7cd11",
+  "text": "Polttoaineensa kuluttaneet tähtiytimet säilyttävät jäännöslämpöä ja jäähtyvät valtavan pitkään.",
+  "durationMs": 6880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2720,
+      "startChar": 39,
+      "endChar": 51
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3480,
+      "startChar": 51,
+      "endChar": 65
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4520,
+      "startChar": 65,
+      "endChar": 68
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4720,
+      "startChar": 68,
+      "endChar": 78
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5480,
+      "startChar": 78,
+      "endChar": 87
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6080,
+      "startChar": 87,
+      "endChar": 95
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-64c78fcc8f77a2b4c4dada23",
+  "text": "Small artifacts could visit systems without continuous communication with their source.",
+  "durationMs": 6120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1720,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2800,
+      "startChar": 36,
+      "endChar": 44
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3320,
+      "startChar": 44,
+      "endChar": 55
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4080,
+      "startChar": 55,
+      "endChar": 69
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4960,
+      "startChar": 69,
+      "endChar": 74
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5160,
+      "startChar": 74,
+      "endChar": 80
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5320,
+      "startChar": 80,
+      "endChar": 87
+    }
+  ]
+}

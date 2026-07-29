@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cc54f345fc9d407e52475e65",
+  "text": "paikallinen tähtienvälinen pilvi",
+  "durationMs": 2490,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 830,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 830,
+      "endMs": 1660,
+      "startChar": 12,
+      "endChar": 27
+    },
+    {
+      "startMs": 1660,
+      "endMs": 2490,
+      "startChar": 27,
+      "endChar": 32
+    }
+  ]
+}

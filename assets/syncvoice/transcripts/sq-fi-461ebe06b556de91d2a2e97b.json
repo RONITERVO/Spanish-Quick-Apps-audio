@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-461ebe06b556de91d2a2e97b",
+  "text": "Vyöhykkeen suurin kappale on kääpiöplaneetta, jolla on suoloja ja runsaasti vesijäätä.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2040,
+      "startChar": 26,
+      "endChar": 29
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2400,
+      "startChar": 29,
+      "endChar": 46
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3680,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4280,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4480,
+      "startChar": 55,
+      "endChar": 63
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5200,
+      "startChar": 63,
+      "endChar": 66
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5480,
+      "startChar": 66,
+      "endChar": 76
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6160,
+      "startChar": 76,
+      "endChar": 86
+    }
+  ]
+}

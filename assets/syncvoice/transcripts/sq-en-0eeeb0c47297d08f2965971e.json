@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0eeeb0c47297d08f2965971e",
+  "text": "A thermometer relates observable physical changes to an agreed upon scale.",
+  "durationMs": 6200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 33
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2520,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3080,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3880,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4280,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4640,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5120,
+      "startChar": 63,
+      "endChar": 68
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5480,
+      "startChar": 68,
+      "endChar": 74
+    }
+  ]
+}

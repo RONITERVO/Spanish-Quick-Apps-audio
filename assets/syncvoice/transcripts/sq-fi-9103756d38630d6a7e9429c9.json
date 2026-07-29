@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9103756d38630d6a7e9429c9",
+  "text": "Useat koordinoidut koneet jakavat tehtäviä ja jakavat tietoja.",
+  "durationMs": 4760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1880,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2440,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2820,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 2820,
+      "endMs": 3200,
+      "startChar": 46,
+      "endChar": 54
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3920,
+      "startChar": 54,
+      "endChar": 62
+    }
+  ]
+}

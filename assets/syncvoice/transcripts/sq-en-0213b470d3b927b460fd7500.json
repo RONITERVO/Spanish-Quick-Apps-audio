@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0213b470d3b927b460fd7500",
+  "text": "A filament can be divided into branches that link different nodes.",
+  "durationMs": 4880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 15,
+      "endChar": 18
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2040,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2360,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3040,
+      "startChar": 40,
+      "endChar": 45
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3480,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3800,
+      "startChar": 50,
+      "endChar": 60
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4160,
+      "startChar": 60,
+      "endChar": 66
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fa2f9871dc4bb011152f7324",
+  "text": "Scientific rockets cross this difficult-to-reach region.",
+  "durationMs": 4480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2160,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2600,
+      "startChar": 30,
+      "endChar": 49
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3720,
+      "startChar": 49,
+      "endChar": 56
+    }
+  ]
+}

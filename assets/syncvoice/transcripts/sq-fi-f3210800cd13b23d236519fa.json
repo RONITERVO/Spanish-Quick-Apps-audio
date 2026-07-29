@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f3210800cd13b23d236519fa",
+  "text": "biosfäärin seuranta",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 11,
+      "endChar": 19
+    }
+  ]
+}

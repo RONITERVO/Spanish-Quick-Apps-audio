@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2156cbfb438103e5e9f38c51",
+  "text": "molekyylien tunnistaminen",
+  "durationMs": 2200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1100,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 1100,
+      "endMs": 2200,
+      "startChar": 12,
+      "endChar": 25
+    }
+  ]
+}

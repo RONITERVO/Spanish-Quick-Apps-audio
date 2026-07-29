@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-074d68b3b5ae183667d9b5e0",
+  "text": "Lähtötila voi ohjata järjestelmän kohti hyvin erilaisia tarinoita, vaikka säännöt olisivat samat.",
+  "durationMs": 7400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 1040,
+      "startChar": 10,
+      "endChar": 14
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1320,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1840,
+      "startChar": 21,
+      "endChar": 34
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2800,
+      "startChar": 34,
+      "endChar": 40
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3160,
+      "startChar": 40,
+      "endChar": 46
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3440,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 67
+    },
+    {
+      "startMs": 4280,
+      "endMs": 5080,
+      "startChar": 67,
+      "endChar": 74
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5720,
+      "startChar": 74,
+      "endChar": 82
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6200,
+      "startChar": 82,
+      "endChar": 91
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6720,
+      "startChar": 91,
+      "endChar": 97
+    }
+  ]
+}

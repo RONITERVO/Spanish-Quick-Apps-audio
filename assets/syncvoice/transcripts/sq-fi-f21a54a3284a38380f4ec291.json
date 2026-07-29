@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f21a54a3284a38380f4ec291",
+  "text": "tumma musta",
+  "durationMs": 1320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 660,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 660,
+      "endMs": 1320,
+      "startChar": 6,
+      "endChar": 11
+    }
+  ]
+}

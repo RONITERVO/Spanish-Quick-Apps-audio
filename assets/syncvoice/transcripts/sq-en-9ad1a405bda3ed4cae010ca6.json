@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-9ad1a405bda3ed4cae010ca6",
+  "text": "open question",
+  "durationMs": 900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 450,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 450,
+      "endMs": 900,
+      "startChar": 5,
+      "endChar": 13
+    }
+  ]
+}

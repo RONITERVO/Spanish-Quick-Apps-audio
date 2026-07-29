@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d30722c9fc5c0b07e24fc117",
+  "text": "Poikkeusnopeudet · painovoiman määräämät reitit",
+  "durationMs": 4120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 17
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2720,
+      "startChar": 31,
+      "endChar": 41
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3360,
+      "startChar": 41,
+      "endChar": 47
+    }
+  ]
+}

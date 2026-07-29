@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-84d41c00f76835fe169ad72e",
+  "text": "Yksinkertaiset säännönmukaisuudet voivat osoittaa suunnittelua ilman yhteistä kieltä.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 675,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 675,
+      "endMs": 1350,
+      "startChar": 15,
+      "endChar": 34
+    },
+    {
+      "startMs": 1350,
+      "endMs": 2025,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 2025,
+      "endMs": 2700,
+      "startChar": 41,
+      "endChar": 50
+    },
+    {
+      "startMs": 2700,
+      "endMs": 3375,
+      "startChar": 50,
+      "endChar": 63
+    },
+    {
+      "startMs": 3375,
+      "endMs": 4050,
+      "startChar": 63,
+      "endChar": 69
+    },
+    {
+      "startMs": 4050,
+      "endMs": 4725,
+      "startChar": 69,
+      "endChar": 78
+    },
+    {
+      "startMs": 4725,
+      "endMs": 5400,
+      "startChar": 78,
+      "endChar": 85
+    }
+  ]
+}

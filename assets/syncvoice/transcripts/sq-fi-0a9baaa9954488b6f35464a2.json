@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0a9baaa9954488b6f35464a2",
+  "text": "ajan virtaus",
+  "durationMs": 1260,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 630,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 630,
+      "endMs": 1260,
+      "startChar": 5,
+      "endChar": 12
+    }
+  ]
+}

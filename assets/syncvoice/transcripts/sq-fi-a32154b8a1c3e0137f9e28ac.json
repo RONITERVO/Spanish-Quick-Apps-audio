@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a32154b8a1c3e0137f9e28ac",
+  "text": "Paikallinen ryhmä",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 12,
+      "endChar": 17
+    }
+  ]
+}

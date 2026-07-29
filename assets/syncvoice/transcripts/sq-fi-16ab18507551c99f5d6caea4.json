@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-16ab18507551c99f5d6caea4",
+  "text": "Pigmentti absorboi tiettyjä aallonpituuksia ja siirtää energiaa kemiallisiin reaktioihin.",
+  "durationMs": 6880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2200,
+      "startChar": 28,
+      "endChar": 44
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2800,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3400,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4280,
+      "startChar": 55,
+      "endChar": 64
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4960,
+      "startChar": 64,
+      "endChar": 77
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5720,
+      "startChar": 77,
+      "endChar": 89
+    }
+  ]
+}

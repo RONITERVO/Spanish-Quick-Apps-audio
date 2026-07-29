@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-360fd08001b203fec3aaf276",
+  "text": "Hyvin pienet lämpötilaerot paljastavat nuoren maailmankaikkeuden pieniä tiheysvaihteluita.",
+  "durationMs": 7160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 13,
+      "endChar": 27
+    },
+    {
+      "startMs": 1040,
+      "endMs": 2200,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3040,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3520,
+      "startChar": 46,
+      "endChar": 65
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4840,
+      "startChar": 65,
+      "endChar": 72
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5480,
+      "startChar": 72,
+      "endChar": 90
+    }
+  ]
+}

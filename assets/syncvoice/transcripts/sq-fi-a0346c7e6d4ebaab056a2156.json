@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a0346c7e6d4ebaab056a2156",
+  "text": "erittäin hajallaan olevia atomeja",
+  "durationMs": 3480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2400,
+      "startChar": 26,
+      "endChar": 33
+    }
+  ]
+}

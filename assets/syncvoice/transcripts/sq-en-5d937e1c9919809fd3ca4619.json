@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5d937e1c9919809fd3ca4619",
+  "text": "partial death",
+  "durationMs": 810,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 405,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 405,
+      "endMs": 810,
+      "startChar": 8,
+      "endChar": 13
+    }
+  ]
+}

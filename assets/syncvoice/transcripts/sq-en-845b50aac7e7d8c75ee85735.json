@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-en-845b50aac7e7d8c75ee85735",
+  "text": "Human eyes detect a narrow band of electromagnetic radiation and convert it into color.",
+  "durationMs": 6920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1520,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1640,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2280,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2800,
+      "startChar": 32,
+      "endChar": 35
+    },
+    {
+      "startMs": 2800,
+      "endMs": 2960,
+      "startChar": 35,
+      "endChar": 51
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4040,
+      "startChar": 51,
+      "endChar": 61
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4880,
+      "startChar": 61,
+      "endChar": 65
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5320,
+      "startChar": 65,
+      "endChar": 73
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5540,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 5540,
+      "endMs": 5760,
+      "startChar": 76,
+      "endChar": 81
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6240,
+      "startChar": 81,
+      "endChar": 87
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2e5e890fb327b1f38c1bd457",
+  "text": "sisäinen tila",
+  "durationMs": 1190,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 595,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 595,
+      "endMs": 1190,
+      "startChar": 9,
+      "endChar": 13
+    }
+  ]
+}

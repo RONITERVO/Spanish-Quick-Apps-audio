@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d4032f4d04bbf8b0abbec89f",
+  "text": "Näkyviin tulee kylmempiä, tummempia alueita, joissa magneettikenttä on erityisen voimakas.",
+  "durationMs": 6920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 15,
+      "endChar": 26
+    },
+    {
+      "startMs": 960,
+      "endMs": 1880,
+      "startChar": 26,
+      "endChar": 36
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2720,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3400,
+      "startChar": 45,
+      "endChar": 52
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3960,
+      "startChar": 52,
+      "endChar": 68
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5080,
+      "startChar": 68,
+      "endChar": 71
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5360,
+      "startChar": 71,
+      "endChar": 81
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6040,
+      "startChar": 81,
+      "endChar": 90
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6cd3454e2db98a876bb8e993",
+  "text": "Andromeda on Linnunradan suuri spiraalinaapuri. Sen kallistunut kiekko hallitsee tämän matkan vaiheen näkymää.",
+  "durationMs": 9360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 13,
+      "endChar": 25
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2080,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2560,
+      "startChar": 31,
+      "endChar": 48
+    },
+    {
+      "startMs": 2560,
+      "endMs": 4040,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4160,
+      "startChar": 52,
+      "endChar": 64
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5800,
+      "startChar": 64,
+      "endChar": 71
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6400,
+      "startChar": 71,
+      "endChar": 81
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7120,
+      "startChar": 81,
+      "endChar": 87
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7520,
+      "startChar": 87,
+      "endChar": 94
+    },
+    {
+      "startMs": 7520,
+      "endMs": 7960,
+      "startChar": 94,
+      "endChar": 102
+    },
+    {
+      "startMs": 7960,
+      "endMs": 8480,
+      "startChar": 102,
+      "endChar": 110
+    }
+  ]
+}

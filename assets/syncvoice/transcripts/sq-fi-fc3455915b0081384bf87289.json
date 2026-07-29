@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fc3455915b0081384bf87289",
+  "text": "Linnunradan sydän on täynnä tähtiä, kuumaa kaasua ja voimakkaita magneettikenttiä pölypilvien takana.",
+  "durationMs": 8200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 18,
+      "endChar": 21
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1520,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2000,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2840,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3560,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4280,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4680,
+      "startChar": 53,
+      "endChar": 65
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5440,
+      "startChar": 65,
+      "endChar": 82
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6640,
+      "startChar": 82,
+      "endChar": 94
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7480,
+      "startChar": 94,
+      "endChar": 101
+    }
+  ]
+}

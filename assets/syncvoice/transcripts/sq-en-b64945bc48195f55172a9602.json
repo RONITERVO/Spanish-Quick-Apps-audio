@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b64945bc48195f55172a9602",
+  "text": "Automated vehicles operate within specific limits and must respond to social environments that are difficult to predict.",
+  "durationMs": 8400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2240,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2880,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3160,
+      "startChar": 50,
+      "endChar": 54
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3440,
+      "startChar": 54,
+      "endChar": 59
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4160,
+      "startChar": 59,
+      "endChar": 67
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4720,
+      "startChar": 67,
+      "endChar": 70
+    },
+    {
+      "startMs": 4720,
+      "endMs": 4960,
+      "startChar": 70,
+      "endChar": 77
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5480,
+      "startChar": 77,
+      "endChar": 90
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6240,
+      "startChar": 90,
+      "endChar": 95
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6560,
+      "startChar": 95,
+      "endChar": 99
+    },
+    {
+      "startMs": 6560,
+      "endMs": 6800,
+      "startChar": 99,
+      "endChar": 109
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7140,
+      "startChar": 109,
+      "endChar": 112
+    },
+    {
+      "startMs": 7140,
+      "endMs": 7480,
+      "startChar": 112,
+      "endChar": 120
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6bb7ecd053857f9dac6ec785",
+  "text": "Instituutio vakauttaa rooleja, menettelyjä ja asiakirjoja yksittäisiä osallistujia pidemmäksi aikaa.",
+  "durationMs": 8400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2440,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3560,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3880,
+      "startChar": 46,
+      "endChar": 58
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4920,
+      "startChar": 58,
+      "endChar": 70
+    },
+    {
+      "startMs": 4920,
+      "endMs": 6000,
+      "startChar": 70,
+      "endChar": 83
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6920,
+      "startChar": 83,
+      "endChar": 94
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7640,
+      "startChar": 94,
+      "endChar": 100
+    }
+  ]
+}

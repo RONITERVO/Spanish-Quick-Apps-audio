@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bfc4ce09a246f977bbc5935e",
+  "text": "Keskitetty pyöritys avaa onteloita ja mahdollistaa tarkemmat kokoonpanot.",
+  "durationMs": 5560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2560,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2960,
+      "startChar": 38,
+      "endChar": 51
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3720,
+      "startChar": 51,
+      "endChar": 61
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4400,
+      "startChar": 61,
+      "endChar": 73
+    }
+  ]
+}

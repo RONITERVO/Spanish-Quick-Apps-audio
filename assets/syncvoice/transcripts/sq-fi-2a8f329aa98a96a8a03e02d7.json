@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2a8f329aa98a96a8a03e02d7",
+  "text": "viimeinen luonnollinen tähden synty",
+  "durationMs": 3120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2320,
+      "startChar": 30,
+      "endChar": 35
+    }
+  ]
+}

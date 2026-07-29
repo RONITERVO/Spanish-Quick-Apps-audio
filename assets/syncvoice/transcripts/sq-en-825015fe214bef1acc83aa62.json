@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-825015fe214bef1acc83aa62",
+  "text": "Measurement · the entire chain must remain auditable",
+  "durationMs": 4760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 615,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 615,
+      "endMs": 1080,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1080,
+      "endMs": 2120,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2760,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3240,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3800,
+      "startChar": 43,
+      "endChar": 52
+    }
+  ]
+}

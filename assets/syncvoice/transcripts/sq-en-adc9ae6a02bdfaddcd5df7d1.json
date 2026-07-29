@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-adc9ae6a02bdfaddcd5df7d1",
+  "text": "The current needs a closed path and components with defined functions.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 813,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 813,
+      "endMs": 1400,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2160,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2720,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3160,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3960,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4240,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4800,
+      "startChar": 60,
+      "endChar": 70
+    }
+  ]
+}

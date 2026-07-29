@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2e48ad1e85f2cc397e55994f",
+  "text": "Virheitä sisältävä kopiointi yhdistää jatkuvuuden uusien muunnelmien syntyyn.",
+  "durationMs": 6440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2240,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3080,
+      "startChar": 38,
+      "endChar": 50
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4120,
+      "startChar": 50,
+      "endChar": 57
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4840,
+      "startChar": 57,
+      "endChar": 69
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5480,
+      "startChar": 69,
+      "endChar": 77
+    }
+  ]
+}

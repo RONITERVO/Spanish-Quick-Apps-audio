@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ca7f38616f5b3cf955424f57",
+  "text": "local rule",
+  "durationMs": 800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 400,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 400,
+      "endMs": 800,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}

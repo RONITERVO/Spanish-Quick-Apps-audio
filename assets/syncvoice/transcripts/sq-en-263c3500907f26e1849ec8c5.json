@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-263c3500907f26e1849ec8c5",
+  "text": "civilizations that have ended",
+  "durationMs": 2440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1720,
+      "startChar": 24,
+      "endChar": 29
+    }
+  ]
+}

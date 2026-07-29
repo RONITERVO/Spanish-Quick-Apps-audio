@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f49587d14f3e3732c0cf149e",
+  "text": "Symbolien välinen järjestys ja riippuvuus voivat paljastaa toimintoja, vaikka jokainen elementti jää kääntämättä.",
+  "durationMs": 8920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 28
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1700,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 1700,
+      "endMs": 2160,
+      "startChar": 31,
+      "endChar": 42
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 49
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3760,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4440,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5280,
+      "startChar": 71,
+      "endChar": 78
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5360,
+      "startChar": 78,
+      "endChar": 87
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6720,
+      "startChar": 87,
+      "endChar": 97
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7560,
+      "startChar": 97,
+      "endChar": 101
+    },
+    {
+      "startMs": 7560,
+      "endMs": 7840,
+      "startChar": 101,
+      "endChar": 113
+    }
+  ]
+}

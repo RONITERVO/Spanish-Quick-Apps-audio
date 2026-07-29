@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-103a637528169c3e2453cf93",
+  "text": "lyhytjaksoinen komeetta",
+  "durationMs": 2140,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1070,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 1070,
+      "endMs": 2140,
+      "startChar": 15,
+      "endChar": 23
+    }
+  ]
+}

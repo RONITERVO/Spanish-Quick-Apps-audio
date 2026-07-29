@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b9881d00a0d18e7a63a42d1c",
+  "text": "Alkuperä on saattanut riippua useista ympäristöistä ja vaiheista, ei yhdestä ihmeellisesta reaktiosta.",
+  "durationMs": 7760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 960,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2160,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2800,
+      "startChar": 38,
+      "endChar": 52
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3280,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3760,
+      "startChar": 55,
+      "endChar": 66
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4240,
+      "startChar": 66,
+      "endChar": 69
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4720,
+      "startChar": 69,
+      "endChar": 77
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5880,
+      "startChar": 77,
+      "endChar": 91
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6720,
+      "startChar": 91,
+      "endChar": 102
+    }
+  ]
+}

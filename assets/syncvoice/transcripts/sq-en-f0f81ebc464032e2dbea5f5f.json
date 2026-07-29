@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f0f81ebc464032e2dbea5f5f",
+  "text": "compressed scale",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 625,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 625,
+      "endMs": 1250,
+      "startChar": 11,
+      "endChar": 16
+    }
+  ]
+}

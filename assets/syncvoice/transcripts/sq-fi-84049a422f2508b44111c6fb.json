@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-84049a422f2508b44111c6fb",
+  "text": "tektoninen levy",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 625,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 625,
+      "endMs": 1250,
+      "startChar": 11,
+      "endChar": 15
+    }
+  ]
+}

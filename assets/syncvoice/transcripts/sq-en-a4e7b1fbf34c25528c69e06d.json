@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a4e7b1fbf34c25528c69e06d",
+  "text": "Matter takes on symbolic forms that can be touched and surrounded.",
+  "durationMs": 5200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2080,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2680,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2680,
+      "endMs": 2960,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3120,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3400,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4080,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4400,
+      "startChar": 55,
+      "endChar": 66
+    }
+  ]
+}

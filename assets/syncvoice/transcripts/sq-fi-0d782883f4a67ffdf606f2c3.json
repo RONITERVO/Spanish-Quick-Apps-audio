@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0d782883f4a67ffdf606f2c3",
+  "text": "Jotkin halon tähdet syntyivät Linnunradan ollessa vielä muodostumassa.",
+  "durationMs": 5000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2120,
+      "startChar": 30,
+      "endChar": 42
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3000,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3480,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3800,
+      "startChar": 56,
+      "endChar": 70
+    }
+  ]
+}

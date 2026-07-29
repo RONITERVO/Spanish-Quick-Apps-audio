@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-18147bd131aafeef92a80200",
+  "text": "small is not trivial",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1560,
+      "startChar": 13,
+      "endChar": 20
+    }
+  ]
+}

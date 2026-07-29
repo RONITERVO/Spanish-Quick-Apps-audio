@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bd4974e3743fdae19725d7d4",
+  "text": "Pitkänomainen tähtirakenne kulkee galaksin sisäalueen läpi.",
+  "durationMs": 5080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 27
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2040,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2840,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3480,
+      "startChar": 43,
+      "endChar": 54
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4400,
+      "startChar": 54,
+      "endChar": 59
+    }
+  ]
+}

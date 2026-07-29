@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1506571a0d0482f19ca89000",
+  "text": "selitetty hiljaisuus",
+  "durationMs": 2010,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1005,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 1005,
+      "endMs": 2010,
+      "startChar": 10,
+      "endChar": 20
+    }
+  ]
+}

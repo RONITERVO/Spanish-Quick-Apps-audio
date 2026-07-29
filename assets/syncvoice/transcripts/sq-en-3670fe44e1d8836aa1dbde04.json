@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3670fe44e1d8836aa1dbde04",
+  "text": "Cell biology reconstructed with uncertainty",
+  "durationMs": 3760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 13,
+      "endChar": 27
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2720,
+      "startChar": 32,
+      "endChar": 43
+    }
+  ]
+}

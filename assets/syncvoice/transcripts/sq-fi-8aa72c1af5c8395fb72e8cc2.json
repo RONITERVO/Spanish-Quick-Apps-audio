@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8aa72c1af5c8395fb72e8cc2",
+  "text": "Useat ihmiset voivat siirtää materiaaleja ja suorittaa samanaikaisia tehtäviä.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1440,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1920,
+      "startChar": 29,
+      "endChar": 42
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2840,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3040,
+      "startChar": 45,
+      "endChar": 55
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3680,
+      "startChar": 55,
+      "endChar": 69
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4520,
+      "startChar": 69,
+      "endChar": 78
+    }
+  ]
+}

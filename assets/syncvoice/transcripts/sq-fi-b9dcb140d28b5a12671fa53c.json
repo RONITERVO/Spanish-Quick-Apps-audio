@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b9dcb140d28b5a12671fa53c",
+  "text": "täydellinen ennuste",
+  "durationMs": 1340,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 670,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 670,
+      "endMs": 1340,
+      "startChar": 12,
+      "endChar": 19
+    }
+  ]
+}

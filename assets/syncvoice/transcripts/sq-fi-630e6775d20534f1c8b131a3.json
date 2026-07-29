@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-630e6775d20534f1c8b131a3",
+  "text": "Tieto kulkee korkeintaan valon nopeudella, mikä estää välittömän keskustelun kaukaisten maailmojen välillä.",
+  "durationMs": 7280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 25
+    },
+    {
+      "startMs": 960,
+      "endMs": 1680,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2080,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2880,
+      "startChar": 43,
+      "endChar": 48
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3400,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3840,
+      "startChar": 54,
+      "endChar": 65
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4520,
+      "startChar": 65,
+      "endChar": 77
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5320,
+      "startChar": 77,
+      "endChar": 88
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5960,
+      "startChar": 88,
+      "endChar": 99
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6560,
+      "startChar": 99,
+      "endChar": 107
+    }
+  ]
+}

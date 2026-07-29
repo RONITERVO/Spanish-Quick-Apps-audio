@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-eecb9cc97e6c801977d2ef02",
+  "text": "dark storm",
+  "durationMs": 1110,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 555,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 555,
+      "endMs": 1110,
+      "startChar": 5,
+      "endChar": 10
+    }
+  ]
+}

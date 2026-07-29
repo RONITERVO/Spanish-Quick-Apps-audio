@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-235a24aa0132d246ef152635",
+  "text": "Muoto voi edustaa jotain puuttuvaa, abstraktia tai sosiaalisesti sovittua.",
+  "durationMs": 6480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1800,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2720,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 2720,
+      "endMs": 4080,
+      "startChar": 47,
+      "endChar": 51
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4520,
+      "startChar": 51,
+      "endChar": 65
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5520,
+      "startChar": 65,
+      "endChar": 74
+    }
+  ]
+}

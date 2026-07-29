@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-74ab263f511e7f823c986ab8",
+  "text": "asteroid belt",
+  "durationMs": 950,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 475,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 475,
+      "endMs": 950,
+      "startChar": 9,
+      "endChar": 13
+    }
+  ]
+}

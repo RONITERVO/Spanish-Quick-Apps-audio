@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b97d5108a117ff2134c45f02",
+  "text": "Sisäänkiertymisen aikana signaalin taajuus ja amplitudi kasvavat tunnusomaisella tavalla.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 18
+    },
+    {
+      "startMs": 75,
+      "endMs": 1320,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1840,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2720,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3520,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3840,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4760,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5480,
+      "startChar": 65,
+      "endChar": 81
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6560,
+      "startChar": 81,
+      "endChar": 89
+    }
+  ]
+}

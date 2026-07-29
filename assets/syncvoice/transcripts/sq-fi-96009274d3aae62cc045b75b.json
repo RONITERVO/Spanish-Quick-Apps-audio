@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-96009274d3aae62cc045b75b",
+  "text": "Tänään havaittu",
+  "durationMs": 1290,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 645,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 645,
+      "endMs": 1290,
+      "startChar": 7,
+      "endChar": 15
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-120b9d5b301c399c9a3ee190",
+  "text": "uudet hiukkaset",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 6,
+      "endChar": 15
+    }
+  ]
+}

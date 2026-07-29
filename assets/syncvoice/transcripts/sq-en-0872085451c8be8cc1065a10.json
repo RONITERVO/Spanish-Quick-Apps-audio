@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0872085451c8be8cc1065a10",
+  "text": "Local agents + signals + feedback → global decision",
+  "durationMs": 5280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1760,
+      "startChar": 15,
+      "endChar": 23
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2520,
+      "startChar": 23,
+      "endChar": 25
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3000,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3720,
+      "startChar": 34,
+      "endChar": 36
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4080,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4440,
+      "startChar": 43,
+      "endChar": 51
+    }
+  ]
+}

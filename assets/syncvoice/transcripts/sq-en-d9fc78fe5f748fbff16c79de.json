@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d9fc78fe5f748fbff16c79de",
+  "text": "human timescale",
+  "durationMs": 1500,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 750,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 750,
+      "endMs": 1500,
+      "startChar": 6,
+      "endChar": 15
+    }
+  ]
+}

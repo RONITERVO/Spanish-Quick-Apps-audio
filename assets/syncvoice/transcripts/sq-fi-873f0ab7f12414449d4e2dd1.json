@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-873f0ab7f12414449d4e2dd1",
+  "text": "Viesti → koodaus → signaali → kanava → dekoodaus",
+  "durationMs": 5560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1880,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2280,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3000,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3480,
+      "startChar": 30,
+      "endChar": 37
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4080,
+      "startChar": 37,
+      "endChar": 39
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4640,
+      "startChar": 39,
+      "endChar": 48
+    }
+  ]
+}

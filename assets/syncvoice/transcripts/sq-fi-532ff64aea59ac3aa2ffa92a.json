@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-532ff64aea59ac3aa2ffa92a",
+  "text": "Merkitys ilman varmuutta",
+  "durationMs": 2000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 667,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 667,
+      "endMs": 1333,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 1333,
+      "endMs": 2000,
+      "startChar": 15,
+      "endChar": 24
+    }
+  ]
+}

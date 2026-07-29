@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c4f2371fae7b5cc70dc6cd7c",
+  "text": "Yläreunan lähellä on eräitä maapallon alhaisimpia lämpötiloja.",
+  "durationMs": 5160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 18,
+      "endChar": 21
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2360,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3120,
+      "startChar": 38,
+      "endChar": 50
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4080,
+      "startChar": 50,
+      "endChar": 62
+    }
+  ]
+}

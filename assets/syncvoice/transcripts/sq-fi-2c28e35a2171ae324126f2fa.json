@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2c28e35a2171ae324126f2fa",
+  "text": "keskeytys ja palauttaminen",
+  "durationMs": 2200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 733,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 733,
+      "endMs": 1467,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 1467,
+      "endMs": 2200,
+      "startChar": 13,
+      "endChar": 26
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4020e3be1309f6bac7dbbe85",
+  "text": "polar aurora",
+  "durationMs": 1400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 700,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 700,
+      "endMs": 1400,
+      "startChar": 6,
+      "endChar": 12
+    }
+  ]
+}

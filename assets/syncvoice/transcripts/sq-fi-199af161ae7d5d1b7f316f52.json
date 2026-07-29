@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-199af161ae7d5d1b7f316f52",
+  "text": "Vuorijonon alla oleva paksu kuori ulottuu vaippaan.",
+  "durationMs": 4920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 1040,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1440,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1920,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2440,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3080,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3880,
+      "startChar": 42,
+      "endChar": 51
+    }
+  ]
+}

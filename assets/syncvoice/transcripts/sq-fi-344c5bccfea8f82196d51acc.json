@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-344c5bccfea8f82196d51acc",
+  "text": "Eri solutyypit suorittavat toisiaan täydentäviä tehtäviä.",
+  "durationMs": 4280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2080,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2640,
+      "startChar": 36,
+      "endChar": 48
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3360,
+      "startChar": 48,
+      "endChar": 57
+    }
+  ]
+}

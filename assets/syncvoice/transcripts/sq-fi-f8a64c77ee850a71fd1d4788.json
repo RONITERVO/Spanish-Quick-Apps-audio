@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f8a64c77ee850a71fd1d4788",
+  "text": "Neutronissa on yksi valenssi-ylöskvarkki ja kaksi alas-kvarkkia osana muuttuvaa kvanttirakennetta.",
+  "durationMs": 8640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 15,
+      "endChar": 20
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1760,
+      "startChar": 20,
+      "endChar": 41
+    },
+    {
+      "startMs": 1760,
+      "endMs": 3560,
+      "startChar": 41,
+      "endChar": 44
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4040,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4640,
+      "startChar": 50,
+      "endChar": 64
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5680,
+      "startChar": 64,
+      "endChar": 70
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6320,
+      "startChar": 70,
+      "endChar": 80
+    },
+    {
+      "startMs": 6320,
+      "endMs": 7040,
+      "startChar": 80,
+      "endChar": 98
+    }
+  ]
+}

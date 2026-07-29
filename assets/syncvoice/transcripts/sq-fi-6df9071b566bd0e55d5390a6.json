@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6df9071b566bd0e55d5390a6",
+  "text": "Tällä kuulla on tiheä ilmakehä ja nestemäisen metaanin ja etaanin meret.",
+  "durationMs": 6960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1400,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2040,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2880,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3520,
+      "startChar": 34,
+      "endChar": 46
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4480,
+      "startChar": 46,
+      "endChar": 55
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5320,
+      "startChar": 55,
+      "endChar": 58
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5640,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 5640,
+      "endMs": 6240,
+      "startChar": 66,
+      "endChar": 72
+    }
+  ]
+}

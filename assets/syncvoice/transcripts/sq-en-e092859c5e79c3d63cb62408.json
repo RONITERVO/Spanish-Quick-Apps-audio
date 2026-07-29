@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e092859c5e79c3d63cb62408",
+  "text": "The limits of experience",
+  "durationMs": 2480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 14
+    },
+    {
+      "startMs": 960,
+      "endMs": 1240,
+      "startChar": 14,
+      "endChar": 24
+    }
+  ]
+}

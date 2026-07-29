@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-97db55c37176c69f62fbb946",
+  "text": "Sähkö voidaan muuttaa takaisin liikkeeksi sähkömagneettisten voimien avulla.",
+  "durationMs": 4760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1880,
+      "startChar": 31,
+      "endChar": 42
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2480,
+      "startChar": 42,
+      "endChar": 61
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3640,
+      "startChar": 61,
+      "endChar": 69
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4080,
+      "startChar": 69,
+      "endChar": 76
+    }
+  ]
+}

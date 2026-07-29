@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-60236e21403880e10d71b244",
+  "text": "Ohut kaasukehä säätelee lämpötilaa, kuljettaa vettä ja mahdollistaa hengittämisen.",
+  "durationMs": 6200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 15,
+      "endChar": 24
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1640,
+      "startChar": 24,
+      "endChar": 36
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2520,
+      "startChar": 36,
+      "endChar": 46
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3360,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3880,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4240,
+      "startChar": 55,
+      "endChar": 68
+    },
+    {
+      "startMs": 4240,
+      "endMs": 5040,
+      "startChar": 68,
+      "endChar": 82
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e96f266dc1613b0257cc8fb6",
+  "text": "Se on pieni punainen kääpiö ja lähin tunnettu tähti Auringosta katsottuna.",
+  "durationMs": 6360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1720,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2400,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2960,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3480,
+      "startChar": 37,
+      "endChar": 46
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4080,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4720,
+      "startChar": 52,
+      "endChar": 63
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5400,
+      "startChar": 63,
+      "endChar": 74
+    }
+  ]
+}

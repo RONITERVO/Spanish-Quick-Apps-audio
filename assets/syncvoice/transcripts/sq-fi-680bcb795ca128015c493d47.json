@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-680bcb795ca128015c493d47",
+  "text": "kokeellinen raja",
+  "durationMs": 1400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 700,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 700,
+      "endMs": 1400,
+      "startChar": 12,
+      "endChar": 16
+    }
+  ]
+}

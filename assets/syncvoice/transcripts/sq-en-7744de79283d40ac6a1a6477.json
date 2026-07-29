@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7744de79283d40ac6a1a6477",
+  "text": "everyday life",
+  "durationMs": 800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 400,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 400,
+      "endMs": 800,
+      "startChar": 9,
+      "endChar": 13
+    }
+  ]
+}

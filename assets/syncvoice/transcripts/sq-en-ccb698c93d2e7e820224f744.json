@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ccb698c93d2e7e820224f744",
+  "text": "Machines, concentrated energy and mass production",
+  "durationMs": 3680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 225,
+      "endMs": 1760,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2400,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2760,
+      "startChar": 39,
+      "endChar": 49
+    }
+  ]
+}

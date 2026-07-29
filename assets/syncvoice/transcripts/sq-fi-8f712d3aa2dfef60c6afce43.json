@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8f712d3aa2dfef60c6afce43",
+  "text": "Signaali voi kulkea rajattomasti alueelle, joka etenee liian nopeasti vastaanottaakseen sitä.",
+  "durationMs": 6440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1240,
+      "startChar": 20,
+      "endChar": 33
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2160,
+      "startChar": 33,
+      "endChar": 43
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2800,
+      "startChar": 43,
+      "endChar": 48
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3360,
+      "startChar": 48,
+      "endChar": 55
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3840,
+      "startChar": 55,
+      "endChar": 61
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4240,
+      "startChar": 61,
+      "endChar": 70
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4800,
+      "startChar": 70,
+      "endChar": 88
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5800,
+      "startChar": 88,
+      "endChar": 93
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-82d4c2364efbf2b74879e5f6",
+  "text": "Maps, stars, instruments and experience turn distance into route.",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 13,
+      "endChar": 25
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2800,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3320,
+      "startChar": 29,
+      "endChar": 40
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4280,
+      "startChar": 40,
+      "endChar": 45
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4680,
+      "startChar": 45,
+      "endChar": 54
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5520,
+      "startChar": 54,
+      "endChar": 59
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6320,
+      "startChar": 59,
+      "endChar": 65
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1d74000946b85152d3417136",
+  "text": "muted pink",
+  "durationMs": 890,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 445,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 445,
+      "endMs": 890,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-cb28679bf0a06d2732ecb68e",
+  "text": "slow messages",
+  "durationMs": 1820,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 910,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 910,
+      "endMs": 1820,
+      "startChar": 5,
+      "endChar": 13
+    }
+  ]
+}

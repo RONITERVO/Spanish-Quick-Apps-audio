@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0fd9c1f41595f96aedc0a976",
+  "text": "Paine-erot saavat ilman liikkeelle planeetan ympärillä.",
+  "durationMs": 4240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 960,
+      "endMs": 1440,
+      "startChar": 18,
+      "endChar": 24
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2000,
+      "startChar": 24,
+      "endChar": 35
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2680,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3360,
+      "startChar": 45,
+      "endChar": 55
+    }
+  ]
+}

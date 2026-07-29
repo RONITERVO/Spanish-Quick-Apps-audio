@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-498c359fc2bf67d31b764393",
+  "text": "Yksinkertaiset lokerot voivat pitää komponentit yhdessä ja kilpailla resursseista.",
+  "durationMs": 5600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1840,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2200,
+      "startChar": 36,
+      "endChar": 48
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2960,
+      "startChar": 48,
+      "endChar": 56
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3600,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3960,
+      "startChar": 59,
+      "endChar": 69
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4560,
+      "startChar": 69,
+      "endChar": 82
+    }
+  ]
+}

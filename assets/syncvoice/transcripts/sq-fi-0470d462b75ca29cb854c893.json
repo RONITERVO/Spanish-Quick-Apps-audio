@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0470d462b75ca29cb854c893",
+  "text": "Tiet yhdistävät maisemia, vuodenaikoja, yhteisöjä ja tuotantoalueita.",
+  "durationMs": 6360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2040,
+      "startChar": 26,
+      "endChar": 40
+    },
+    {
+      "startMs": 2040,
+      "endMs": 3520,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4100,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 4100,
+      "endMs": 4680,
+      "startChar": 53,
+      "endChar": 69
+    }
+  ]
+}

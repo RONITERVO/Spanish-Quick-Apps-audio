@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-130f581b84ab3c2930790a38",
+  "text": "A single incomplete story",
+  "durationMs": 2520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1800,
+      "startChar": 20,
+      "endChar": 25
+    }
+  ]
+}

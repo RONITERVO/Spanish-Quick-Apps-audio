@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c70934e12668254c099deeae",
+  "text": "kvanttitunnelointi ja hitaat reaktiot",
+  "durationMs": 3840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 19
+    },
+    {
+      "startMs": 75,
+      "endMs": 1720,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2160,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2840,
+      "startChar": 29,
+      "endChar": 37
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d3bf04fdc8aefbd62fe31fcf",
+  "text": "Approx. 2.1–3.3 AU from the Sun",
+  "durationMs": 4800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2400,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3200,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 3200,
+      "endMs": 4000,
+      "startChar": 24,
+      "endChar": 28
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4800,
+      "startChar": 28,
+      "endChar": 31
+    }
+  ]
+}

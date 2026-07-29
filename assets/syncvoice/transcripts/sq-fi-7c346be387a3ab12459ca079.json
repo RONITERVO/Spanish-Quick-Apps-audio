@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7c346be387a3ab12459ca079",
+  "text": "Voiman ja liikkeen mekaaninen muunnos",
+  "durationMs": 3360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1720,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2440,
+      "startChar": 30,
+      "endChar": 37
+    }
+  ]
+}

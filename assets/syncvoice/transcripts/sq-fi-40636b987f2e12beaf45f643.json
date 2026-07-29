@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-40636b987f2e12beaf45f643",
+  "text": "Monta hiukkasta → kokonaisuuden uusia ominaisuuksia",
+  "durationMs": 5200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2000,
+      "startChar": 18,
+      "endChar": 32
+    },
+    {
+      "startMs": 2000,
+      "endMs": 3080,
+      "startChar": 32,
+      "endChar": 38
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3760,
+      "startChar": 38,
+      "endChar": 51
+    }
+  ]
+}

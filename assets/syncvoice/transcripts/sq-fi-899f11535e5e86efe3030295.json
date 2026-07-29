@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-899f11535e5e86efe3030295",
+  "text": "vieraan älykkyyden anturi",
+  "durationMs": 2100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 700,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 700,
+      "endMs": 1400,
+      "startChar": 8,
+      "endChar": 19
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2100,
+      "startChar": 19,
+      "endChar": 25
+    }
+  ]
+}

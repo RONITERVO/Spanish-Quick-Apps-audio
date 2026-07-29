@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f91ebd79c945fa1a1ee5cde1",
+  "text": "Jotkut epästabiilit ytimet muuttuvat spontaanisti ja lähettävät hiukkasia tai säteilyä.",
+  "durationMs": 6560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2040,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2640,
+      "startChar": 37,
+      "endChar": 50
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3680,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3960,
+      "startChar": 53,
+      "endChar": 64
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4560,
+      "startChar": 64,
+      "endChar": 74
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5360,
+      "startChar": 74,
+      "endChar": 78
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5640,
+      "startChar": 78,
+      "endChar": 87
+    }
+  ]
+}

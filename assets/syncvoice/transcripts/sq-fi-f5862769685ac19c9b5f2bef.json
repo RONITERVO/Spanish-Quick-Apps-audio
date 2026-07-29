@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f5862769685ac19c9b5f2bef",
+  "text": "Kääpiöplaneetta · Kuiperin vyöhyke",
+  "durationMs": 3400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1840,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2480,
+      "startChar": 27,
+      "endChar": 34
+    }
+  ]
+}

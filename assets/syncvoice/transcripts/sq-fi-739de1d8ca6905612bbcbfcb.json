@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-739de1d8ca6905612bbcbfcb",
+  "text": "Koordinoitu supistuminen synnyttää sisäisiä voimia, jotka välittyvät ympäristöön.",
+  "durationMs": 6880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 25
+    },
+    {
+      "startMs": 960,
+      "endMs": 2080,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2880,
+      "startChar": 35,
+      "endChar": 44
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3720,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4320,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4480,
+      "startChar": 58,
+      "endChar": 69
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5760,
+      "startChar": 69,
+      "endChar": 81
+    }
+  ]
+}

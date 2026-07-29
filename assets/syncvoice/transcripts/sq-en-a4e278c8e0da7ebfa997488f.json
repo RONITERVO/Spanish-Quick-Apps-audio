@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a4e278c8e0da7ebfa997488f",
+  "text": "muted gray",
+  "durationMs": 960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 480,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 480,
+      "endMs": 960,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}

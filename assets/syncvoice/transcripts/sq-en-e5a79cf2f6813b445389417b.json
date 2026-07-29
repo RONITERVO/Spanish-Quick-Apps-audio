@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e5a79cf2f6813b445389417b",
+  "text": "explained silence",
+  "durationMs": 750,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 375,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 375,
+      "endMs": 750,
+      "startChar": 10,
+      "endChar": 17
+    }
+  ]
+}

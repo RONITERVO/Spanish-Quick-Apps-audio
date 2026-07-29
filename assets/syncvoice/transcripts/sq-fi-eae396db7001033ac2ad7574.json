@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eae396db7001033ac2ad7574",
+  "text": "hiilen poisto",
+  "durationMs": 1060,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 530,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 530,
+      "endMs": 1060,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

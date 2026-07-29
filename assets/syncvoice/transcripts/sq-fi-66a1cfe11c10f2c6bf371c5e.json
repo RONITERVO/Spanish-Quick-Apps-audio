@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-66a1cfe11c10f2c6bf371c5e",
+  "text": "inhimillinen ero",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 13,
+      "endChar": 16
+    }
+  ]
+}

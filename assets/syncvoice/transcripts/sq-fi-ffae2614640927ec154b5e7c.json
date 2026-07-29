@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ffae2614640927ec154b5e7c",
+  "text": "Jatkoa · seuraava harppaus alkaa",
+  "durationMs": 3080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2240,
+      "startChar": 27,
+      "endChar": 32
+    }
+  ]
+}

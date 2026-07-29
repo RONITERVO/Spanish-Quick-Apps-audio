@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-57c388e23022f7e3d29dd7d4",
+  "text": "new question",
+  "durationMs": 1280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 4,
+      "endChar": 12
+    }
+  ]
+}

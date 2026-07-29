@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0a14d45748fe3e1f4c2087bc",
+  "text": "dark orange",
+  "durationMs": 1160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 580,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 580,
+      "endMs": 1160,
+      "startChar": 5,
+      "endChar": 11
+    }
+  ]
+}

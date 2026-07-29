@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2d9821ca50ad3bb12d9be60c",
+  "text": "Hermosto voi toimia ilman yhtä hallitsevaa keskustaa.",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1800,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2440,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2920,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3680,
+      "startChar": 43,
+      "endChar": 53
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e732d2b8c255440dd5d7e726",
+  "text": "The code relates triplets of nucleotides to amino acids during protein synthesis.",
+  "durationMs": 6120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1880,
+      "startChar": 26,
+      "endChar": 29
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2120,
+      "startChar": 29,
+      "endChar": 41
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3120,
+      "startChar": 41,
+      "endChar": 44
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3440,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3880,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4400,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4800,
+      "startChar": 63,
+      "endChar": 71
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5240,
+      "startChar": 71,
+      "endChar": 81
+    }
+  ]
+}

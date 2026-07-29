@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ef69dc54dd06a75c9377459f",
+  "text": "häilyvä raja",
+  "durationMs": 1110,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 555,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 555,
+      "endMs": 1110,
+      "startChar": 8,
+      "endChar": 12
+    }
+  ]
+}

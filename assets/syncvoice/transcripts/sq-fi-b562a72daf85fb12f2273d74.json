@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b562a72daf85fb12f2273d74",
+  "text": "Vaikka se on tuskin havaittavissa, kaasua on silti riittävästi meteorien hidastamiseksi.",
+  "durationMs": 6560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 300,
+      "endMs": 1400,
+      "startChar": 20,
+      "endChar": 35
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2400,
+      "startChar": 35,
+      "endChar": 42
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3240,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3800,
+      "startChar": 51,
+      "endChar": 63
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4600,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 4600,
+      "endMs": 5360,
+      "startChar": 73,
+      "endChar": 88
+    }
+  ]
+}

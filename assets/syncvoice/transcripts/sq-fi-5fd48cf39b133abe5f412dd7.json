@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5fd48cf39b133abe5f412dd7",
+  "text": "Emme tiedä, onko aika-avaruus perustava, emergentti, jatkuva vai diskreetti syvimmällä tasolla.",
+  "durationMs": 8480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1520,
+      "startChar": 17,
+      "endChar": 30
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2520,
+      "startChar": 30,
+      "endChar": 41
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3360,
+      "startChar": 41,
+      "endChar": 53
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4760,
+      "startChar": 53,
+      "endChar": 61
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5800,
+      "startChar": 61,
+      "endChar": 65
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6280,
+      "startChar": 65,
+      "endChar": 76
+    },
+    {
+      "startMs": 6280,
+      "endMs": 7080,
+      "startChar": 76,
+      "endChar": 87
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7680,
+      "startChar": 87,
+      "endChar": 95
+    }
+  ]
+}

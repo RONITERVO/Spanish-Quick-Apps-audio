@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5662c326bb0f47dc103c8134",
+  "text": "Objektin käsite yhdistää jatkuvuuden, muodon, toiminnan ja odotukset siitä, miten jokin voi käyttäytyä.",
+  "durationMs": 8800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2000,
+      "startChar": 25,
+      "endChar": 38
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2960,
+      "startChar": 38,
+      "endChar": 46
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3800,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4380,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 4380,
+      "endMs": 4960,
+      "startChar": 59,
+      "endChar": 69
+    },
+    {
+      "startMs": 4960,
+      "endMs": 6120,
+      "startChar": 69,
+      "endChar": 76
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6680,
+      "startChar": 76,
+      "endChar": 82
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7160,
+      "startChar": 82,
+      "endChar": 88
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7560,
+      "startChar": 88,
+      "endChar": 92
+    },
+    {
+      "startMs": 7560,
+      "endMs": 7760,
+      "startChar": 92,
+      "endChar": 103
+    }
+  ]
+}

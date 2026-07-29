@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-28212c5fea2ead991344426a",
+  "text": "Koodi liittää nukleotiditriplettejä aminohappoihin proteiinisynteesin aikana.",
+  "durationMs": 5520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 36
+    },
+    {
+      "startMs": 225,
+      "endMs": 2480,
+      "startChar": 36,
+      "endChar": 51
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3520,
+      "startChar": 51,
+      "endChar": 70
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4760,
+      "startChar": 70,
+      "endChar": 77
+    }
+  ]
+}

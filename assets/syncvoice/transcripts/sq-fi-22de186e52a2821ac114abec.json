@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-22de186e52a2821ac114abec",
+  "text": "Laajentuneet ja kumulatiiviset kehon kyvyt",
+  "durationMs": 4200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 16,
+      "endChar": 31
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2920,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3400,
+      "startChar": 37,
+      "endChar": 42
+    }
+  ]
+}

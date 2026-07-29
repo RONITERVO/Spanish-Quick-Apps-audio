@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d382bc8d00de87a7d172c873",
+  "text": "Fyysiset ominaisuudet → biologiset reseptorit → hermostosignaalit → tietoinen kokemus",
+  "durationMs": 8080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 22,
+      "endChar": 24
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2360,
+      "startChar": 24,
+      "endChar": 35
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3120,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4160,
+      "startChar": 46,
+      "endChar": 48
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4240,
+      "startChar": 48,
+      "endChar": 66
+    },
+    {
+      "startMs": 4240,
+      "endMs": 6000,
+      "startChar": 66,
+      "endChar": 68
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6120,
+      "startChar": 68,
+      "endChar": 78
+    },
+    {
+      "startMs": 6120,
+      "endMs": 7120,
+      "startChar": 78,
+      "endChar": 85
+    }
+  ]
+}

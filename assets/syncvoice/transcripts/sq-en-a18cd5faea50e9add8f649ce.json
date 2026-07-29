@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a18cd5faea50e9add8f649ce",
+  "text": "Generation → transformation → transmission → use → losses and instantaneous equilibrium",
+  "durationMs": 10200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 1120,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1720,
+      "startChar": 13,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2720,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3440,
+      "startChar": 30,
+      "endChar": 43
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4080,
+      "startChar": 43,
+      "endChar": 45
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4680,
+      "startChar": 45,
+      "endChar": 49
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5400,
+      "startChar": 49,
+      "endChar": 51
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5475,
+      "startChar": 51,
+      "endChar": 58
+    },
+    {
+      "startMs": 5475,
+      "endMs": 6400,
+      "startChar": 58,
+      "endChar": 62
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7320,
+      "startChar": 62,
+      "endChar": 76
+    },
+    {
+      "startMs": 7320,
+      "endMs": 8920,
+      "startChar": 76,
+      "endChar": 87
+    }
+  ]
+}

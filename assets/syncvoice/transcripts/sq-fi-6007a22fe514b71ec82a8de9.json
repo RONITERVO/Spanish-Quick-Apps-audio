@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6007a22fe514b71ec82a8de9",
+  "text": "Viskositeetti mittaa nesteen sisäistä vastusta muodonmuutokselle tai virtaukselle.",
+  "durationMs": 6240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2120,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2840,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3520,
+      "startChar": 47,
+      "endChar": 65
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4720,
+      "startChar": 65,
+      "endChar": 69
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5080,
+      "startChar": 69,
+      "endChar": 82
+    }
+  ]
+}

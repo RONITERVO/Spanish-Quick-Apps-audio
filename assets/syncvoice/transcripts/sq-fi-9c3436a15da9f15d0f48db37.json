@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9c3436a15da9f15d0f48db37",
+  "text": "Toissijaiset tuotteet on kierrätettävä, muunnettava tai karkotettava.",
+  "durationMs": 5920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 40
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2960,
+      "startChar": 40,
+      "endChar": 52
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4120,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4720,
+      "startChar": 56,
+      "endChar": 69
+    }
+  ]
+}

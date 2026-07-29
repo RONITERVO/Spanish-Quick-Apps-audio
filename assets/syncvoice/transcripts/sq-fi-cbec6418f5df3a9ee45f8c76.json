@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cbec6418f5df3a9ee45f8c76",
+  "text": "Järjestelmä voi säilyttää organisaation, vaikka sen aineelliset komponentit muuttuvat ajan myötä.",
+  "durationMs": 7360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2080,
+      "startChar": 26,
+      "endChar": 41
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3120,
+      "startChar": 41,
+      "endChar": 48
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3200,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 3200,
+      "endMs": 4200,
+      "startChar": 52,
+      "endChar": 64
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4960,
+      "startChar": 64,
+      "endChar": 76
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5760,
+      "startChar": 76,
+      "endChar": 86
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6360,
+      "startChar": 86,
+      "endChar": 91
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6680,
+      "startChar": 91,
+      "endChar": 97
+    }
+  ]
+}

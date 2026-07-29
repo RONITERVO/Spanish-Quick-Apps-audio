@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-04c20b34188998f021ab3d79",
+  "text": "Avaruus laajeni valon matkan aikana, joten nykyinen etäisyys ja valon matka-aika eivät ole sama luku.",
+  "durationMs": 7960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1520,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2000,
+      "startChar": 29,
+      "endChar": 37
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2600,
+      "startChar": 37,
+      "endChar": 43
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3320,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3960,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4840,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5000,
+      "startChar": 64,
+      "endChar": 70
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5360,
+      "startChar": 70,
+      "endChar": 81
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6200,
+      "startChar": 81,
+      "endChar": 87
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6680,
+      "startChar": 87,
+      "endChar": 91
+    },
+    {
+      "startMs": 6680,
+      "endMs": 6880,
+      "startChar": 91,
+      "endChar": 96
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7240,
+      "startChar": 96,
+      "endChar": 101
+    }
+  ]
+}

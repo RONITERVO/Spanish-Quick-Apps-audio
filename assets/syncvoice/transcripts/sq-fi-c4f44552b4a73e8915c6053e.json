@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c4f44552b4a73e8915c6053e",
+  "text": "simuloitu tunne",
+  "durationMs": 1430,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 715,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 715,
+      "endMs": 1430,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}

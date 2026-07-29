@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5ead4ee7946a73c02999bf15",
+  "text": "An effect can modify its own cause, producing stability, growth, or cycles.",
+  "durationMs": 6200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1040,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1800,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 1800,
+      "endMs": 1960,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2480,
+      "startChar": 36,
+      "endChar": 46
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2560,
+      "startChar": 46,
+      "endChar": 57
+    },
+    {
+      "startMs": 2560,
+      "endMs": 4360,
+      "startChar": 57,
+      "endChar": 65
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5040,
+      "startChar": 65,
+      "endChar": 68
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5440,
+      "startChar": 68,
+      "endChar": 75
+    }
+  ]
+}

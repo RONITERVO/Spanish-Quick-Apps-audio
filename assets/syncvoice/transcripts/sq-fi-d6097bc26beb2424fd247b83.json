@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d6097bc26beb2424fd247b83",
+  "text": "Signaalin matka kestää vuoden jokaista kuljettua valovuotta kohti myös ihanteellisessa tyhjiössä.",
+  "durationMs": 7160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1720,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2360,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2960,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3600,
+      "startChar": 49,
+      "endChar": 60
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4240,
+      "startChar": 60,
+      "endChar": 66
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4680,
+      "startChar": 66,
+      "endChar": 71
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5160,
+      "startChar": 71,
+      "endChar": 87
+    },
+    {
+      "startMs": 5160,
+      "endMs": 6120,
+      "startChar": 87,
+      "endChar": 97
+    }
+  ]
+}

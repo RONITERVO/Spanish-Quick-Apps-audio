@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9ce1182c65a108181a51e9c0",
+  "text": "epätäydellinen viesti",
+  "durationMs": 1560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 780,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 780,
+      "endMs": 1560,
+      "startChar": 15,
+      "endChar": 21
+    }
+  ]
+}

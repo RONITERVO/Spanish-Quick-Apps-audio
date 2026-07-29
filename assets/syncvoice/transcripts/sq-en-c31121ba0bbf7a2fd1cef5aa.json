@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c31121ba0bbf7a2fd1cef5aa",
+  "text": "temporary individual",
+  "durationMs": 1920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 960,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 960,
+      "endMs": 1920,
+      "startChar": 10,
+      "endChar": 20
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4407acf970513065e284016c",
+  "text": "Sähköiset ja optiset viestit lyhentävät viestintäaikaa kuukausista sekunnin murto-osaan.",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2360,
+      "startChar": 29,
+      "endChar": 40
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3040,
+      "startChar": 40,
+      "endChar": 55
+    },
+    {
+      "startMs": 3040,
+      "endMs": 4160,
+      "startChar": 55,
+      "endChar": 67
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5160,
+      "startChar": 67,
+      "endChar": 76
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5880,
+      "startChar": 76,
+      "endChar": 88
+    }
+  ]
+}

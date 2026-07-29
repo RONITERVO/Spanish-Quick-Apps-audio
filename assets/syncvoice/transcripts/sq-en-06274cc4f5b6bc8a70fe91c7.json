@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-06274cc4f5b6bc8a70fe91c7",
+  "text": "Modifying conditions helps distinguish causes of coincidences.",
+  "durationMs": 4680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2000,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2720,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3320,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3520,
+      "startChar": 49,
+      "endChar": 62
+    }
+  ]
+}

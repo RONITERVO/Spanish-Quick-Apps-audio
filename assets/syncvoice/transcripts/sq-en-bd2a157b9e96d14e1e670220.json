@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-bd2a157b9e96d14e1e670220",
+  "text": "liquid iron and nickel",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1640,
+      "startChar": 16,
+      "endChar": 22
+    }
+  ]
+}

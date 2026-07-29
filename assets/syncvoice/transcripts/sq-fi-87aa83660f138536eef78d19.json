@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-87aa83660f138536eef78d19",
+  "text": "mikroaaltotaustan tuolla puolen",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 18
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2400,
+      "startChar": 25,
+      "endChar": 31
+    }
+  ]
+}

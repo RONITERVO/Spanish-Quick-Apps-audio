@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d6834a15fd312ad00ca5ff4b",
+  "text": "Fyysistä seinää ei ole, ja määritelmä voi muuttua tietojen ja mallien parantuessa.",
+  "durationMs": 6480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1600,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2000,
+      "startChar": 24,
+      "endChar": 27
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2560,
+      "startChar": 27,
+      "endChar": 38
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3240,
+      "startChar": 38,
+      "endChar": 42
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3480,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4040,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4360,
+      "startChar": 59,
+      "endChar": 62
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4680,
+      "startChar": 62,
+      "endChar": 70
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5320,
+      "startChar": 70,
+      "endChar": 82
+    }
+  ]
+}

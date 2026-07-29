@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0289cf48b7de25e3827a2cdb",
+  "text": "totuus vai vakaus",
+  "durationMs": 1650,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 1100,
+      "endMs": 1650,
+      "startChar": 11,
+      "endChar": 17
+    }
+  ]
+}

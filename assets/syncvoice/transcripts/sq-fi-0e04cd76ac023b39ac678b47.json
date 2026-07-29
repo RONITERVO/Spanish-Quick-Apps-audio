@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0e04cd76ac023b39ac678b47",
+  "text": "lykätty seuraus",
+  "durationMs": 1420,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 710,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 710,
+      "endMs": 1420,
+      "startChar": 8,
+      "endChar": 15
+    }
+  ]
+}

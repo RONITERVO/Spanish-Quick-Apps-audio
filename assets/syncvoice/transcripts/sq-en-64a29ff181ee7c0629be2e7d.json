@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-64a29ff181ee7c0629be2e7d",
+  "text": "Experimental models, not confirmed ancestors",
+  "durationMs": 3840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2200,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2800,
+      "startChar": 35,
+      "endChar": 44
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-12bb3e59d6d40a59ec66d5e0",
+  "text": "Ground material or local signals can introduce false detection in samples or instruments.",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1640,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2040,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2720,
+      "startChar": 33,
+      "endChar": 37
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3080,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3760,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4120,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4880,
+      "startChar": 63,
+      "endChar": 66
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5120,
+      "startChar": 66,
+      "endChar": 74
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5840,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6080,
+      "startChar": 77,
+      "endChar": 89
+    }
+  ]
+}

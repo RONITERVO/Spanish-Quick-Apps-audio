@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-61d2c3c974cf008c91951984",
+  "text": "Contractile tissues convert chemical energy into movement.",
+  "durationMs": 4480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2240,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2800,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3360,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3680,
+      "startChar": 49,
+      "endChar": 58
+    }
+  ]
+}

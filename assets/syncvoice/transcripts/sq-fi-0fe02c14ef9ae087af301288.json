@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0fe02c14ef9ae087af301288",
+  "text": "Neitsyen haara",
+  "durationMs": 1000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 9,
+      "endChar": 14
+    }
+  ]
+}

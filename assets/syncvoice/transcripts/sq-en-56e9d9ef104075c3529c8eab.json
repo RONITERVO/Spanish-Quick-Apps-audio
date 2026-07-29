@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-56e9d9ef104075c3529c8eab",
+  "text": "Help modifies trajectories; Failure to intervene also leaves predictable consequences.",
+  "durationMs": 7000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 14,
+      "endChar": 28
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2235,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 2235,
+      "endMs": 3320,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4120,
+      "startChar": 49,
+      "endChar": 54
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4720,
+      "startChar": 54,
+      "endChar": 61
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5240,
+      "startChar": 61,
+      "endChar": 73
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5880,
+      "startChar": 73,
+      "endChar": 86
+    }
+  ]
+}

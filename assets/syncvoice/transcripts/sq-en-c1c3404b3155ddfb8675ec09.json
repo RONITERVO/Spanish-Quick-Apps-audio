@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c1c3404b3155ddfb8675ec09",
+  "text": "Energy distribution can reveal propagation, source, modulation or terrestrial contamination.",
+  "durationMs": 7520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 20,
+      "endChar": 24
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1560,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2040,
+      "startChar": 31,
+      "endChar": 44
+    },
+    {
+      "startMs": 2040,
+      "endMs": 3000,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3800,
+      "startChar": 52,
+      "endChar": 63
+    },
+    {
+      "startMs": 3800,
+      "endMs": 5080,
+      "startChar": 63,
+      "endChar": 66
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5560,
+      "startChar": 66,
+      "endChar": 78
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6400,
+      "startChar": 78,
+      "endChar": 92
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f3af8da9122b8ecc06f1c8b6",
+  "text": "binary states",
+  "durationMs": 1100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

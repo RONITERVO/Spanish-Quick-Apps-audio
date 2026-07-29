@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-502864ec2b39f877899cafec",
+  "text": "Huomio priorisoi osan saatavilla olevasta tiedosta ja säätelee käsittelyä ja käyttäytymistä.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 17,
+      "endChar": 22
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1840,
+      "startChar": 22,
+      "endChar": 33
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2520,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3000,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3360,
+      "startChar": 51,
+      "endChar": 54
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3720,
+      "startChar": 54,
+      "endChar": 63
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4480,
+      "startChar": 63,
+      "endChar": 74
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5320,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5560,
+      "startChar": 77,
+      "endChar": 92
+    }
+  ]
+}

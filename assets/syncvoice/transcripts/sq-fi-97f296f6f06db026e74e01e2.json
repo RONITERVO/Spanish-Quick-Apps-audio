@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-97f296f6f06db026e74e01e2",
+  "text": "ei ennalta määrättyä käsikirjoitusta",
+  "durationMs": 2920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 960,
+      "endMs": 1600,
+      "startChar": 21,
+      "endChar": 36
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-582fb1a57ddc99e807fd673d",
+  "text": "short technological lifetimes",
+  "durationMs": 2250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 750,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 750,
+      "endMs": 1500,
+      "startChar": 6,
+      "endChar": 20
+    },
+    {
+      "startMs": 1500,
+      "endMs": 2250,
+      "startChar": 20,
+      "endChar": 29
+    }
+  ]
+}

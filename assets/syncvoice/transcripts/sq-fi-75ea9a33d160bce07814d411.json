@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-75ea9a33d160bce07814d411",
+  "text": "Teos voi kuljettaa kokemusta mielien välillä pelkistämättä sitä kirjaimelliseksi opetukseksi.",
+  "durationMs": 6920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2040,
+      "startChar": 29,
+      "endChar": 37
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2560,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3160,
+      "startChar": 45,
+      "endChar": 59
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4360,
+      "startChar": 59,
+      "endChar": 64
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4720,
+      "startChar": 64,
+      "endChar": 81
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5760,
+      "startChar": 81,
+      "endChar": 93
+    }
+  ]
+}

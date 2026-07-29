@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e0f7a8757e5fd8f36dfe59b5",
+  "text": "Vastaanotamme vain signaaleja alueilta ja hetkiltä, jotka voivat muodostaa kausaalisen yhteyden meihin.",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1920,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2640,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2800,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3480,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4080,
+      "startChar": 58,
+      "endChar": 65
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4480,
+      "startChar": 65,
+      "endChar": 75
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5040,
+      "startChar": 75,
+      "endChar": 87
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5760,
+      "startChar": 87,
+      "endChar": 96
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6320,
+      "startChar": 96,
+      "endChar": 103
+    }
+  ]
+}

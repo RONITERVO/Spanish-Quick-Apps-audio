@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-40ad1f9f0652d0d9439695dc",
+  "text": "Zone of Avoidance",
+  "durationMs": 1820,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 607,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 607,
+      "endMs": 1213,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 1213,
+      "endMs": 1820,
+      "startChar": 8,
+      "endChar": 17
+    }
+  ]
+}

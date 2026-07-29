@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d58bc335abcd107a58d64cbb",
+  "text": "Prosessori koordinoi perustoimintoja suurella nopeudella.",
+  "durationMs": 4240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 21,
+      "endChar": 37
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2600,
+      "startChar": 37,
+      "endChar": 46
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3200,
+      "startChar": 46,
+      "endChar": 57
+    }
+  ]
+}

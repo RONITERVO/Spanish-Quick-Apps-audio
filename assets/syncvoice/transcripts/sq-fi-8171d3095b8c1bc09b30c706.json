@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8171d3095b8c1bc09b30c706",
+  "text": "Voyager 2 havaitsi tummia ainespatsaita kohoavan Tritonin jäiseltä pinnalta.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1960,
+      "startChar": 26,
+      "endChar": 40
+    },
+    {
+      "startMs": 1960,
+      "endMs": 3560,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4200,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4880,
+      "startChar": 58,
+      "endChar": 67
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5520,
+      "startChar": 67,
+      "endChar": 76
+    }
+  ]
+}

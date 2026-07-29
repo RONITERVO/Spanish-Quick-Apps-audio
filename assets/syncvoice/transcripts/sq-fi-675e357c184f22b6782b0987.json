@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-675e357c184f22b6782b0987",
+  "text": "Sähkömagneettiset aallot kuljettavat tietoa ilman jatkuvaa kaapelia lähettäjän ja vastaanottimen välillä.",
+  "durationMs": 7560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 18
+    },
+    {
+      "startMs": 75,
+      "endMs": 1280,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1800,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2560,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3160,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3600,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4160,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4880,
+      "startChar": 68,
+      "endChar": 79
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5640,
+      "startChar": 79,
+      "endChar": 82
+    },
+    {
+      "startMs": 5640,
+      "endMs": 5800,
+      "startChar": 82,
+      "endChar": 97
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6760,
+      "startChar": 97,
+      "endChar": 105
+    }
+  ]
+}

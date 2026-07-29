@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8b0b5dd21436bd57903bb654",
+  "text": "Neurons + impulses + synapses + circuits",
+  "durationMs": 6440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2840,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 2840,
+      "endMs": 2915,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 2915,
+      "endMs": 4720,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 4720,
+      "endMs": 4795,
+      "startChar": 32,
+      "endChar": 40
+    }
+  ]
+}

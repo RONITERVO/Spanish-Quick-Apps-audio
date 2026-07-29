@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e9a254b88828e2939f27917a",
+  "text": "Horizons, temperature and information",
+  "durationMs": 2600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1600,
+      "startChar": 26,
+      "endChar": 37
+    }
+  ]
+}

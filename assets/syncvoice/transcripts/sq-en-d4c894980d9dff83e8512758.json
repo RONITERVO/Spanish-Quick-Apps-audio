@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d4c894980d9dff83e8512758",
+  "text": "A system can represent its body, history, possibilities and relationship with others.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 960,
+      "endMs": 1680,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 33
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2480,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3400,
+      "startChar": 42,
+      "endChar": 56
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3480,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 3480,
+      "endMs": 5120,
+      "startChar": 60,
+      "endChar": 73
+    },
+    {
+      "startMs": 5120,
+      "endMs": 6080,
+      "startChar": 73,
+      "endChar": 78
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6400,
+      "startChar": 78,
+      "endChar": 85
+    }
+  ]
+}

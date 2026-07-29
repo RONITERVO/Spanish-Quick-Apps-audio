@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4e38f468ba5553c2d19ab621",
+  "text": "Recognition relates current input to learned categories and memories.",
+  "durationMs": 5440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2640,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3000,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4320,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4560,
+      "startChar": 60,
+      "endChar": 69
+    }
+  ]
+}

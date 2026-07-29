@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-18d01eb1ed7d9679c6d72ba8",
+  "text": "dark sky blue",
+  "durationMs": 1630,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 543,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 543,
+      "endMs": 1087,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 1087,
+      "endMs": 1630,
+      "startChar": 9,
+      "endChar": 13
+    }
+  ]
+}

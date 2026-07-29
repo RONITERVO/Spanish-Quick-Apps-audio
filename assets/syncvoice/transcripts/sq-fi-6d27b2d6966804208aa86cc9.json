@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6d27b2d6966804208aa86cc9",
+  "text": "Arvo ohjaa päätöksiä eri tilanteissa ja voi jopa vastustaa välitöntä halua.",
+  "durationMs": 5840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1720,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1720,
+      "endMs": 1960,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2380,
+      "startChar": 37,
+      "endChar": 40
+    },
+    {
+      "startMs": 2380,
+      "endMs": 2800,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3400,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3720,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4440,
+      "startChar": 59,
+      "endChar": 69
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5080,
+      "startChar": 69,
+      "endChar": 75
+    }
+  ]
+}

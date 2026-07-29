@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ca6070a24da8d128cb1dc8a1",
+  "text": "ei vahvistettuja merkkejä",
+  "durationMs": 1760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 587,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 587,
+      "endMs": 1173,
+      "startChar": 3,
+      "endChar": 17
+    },
+    {
+      "startMs": 1173,
+      "endMs": 1760,
+      "startChar": 17,
+      "endChar": 25
+    }
+  ]
+}

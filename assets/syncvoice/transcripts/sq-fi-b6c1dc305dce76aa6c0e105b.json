@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b6c1dc305dce76aa6c0e105b",
+  "text": "Hallitut taajuuden, vaiheen tai amplitudin muutokset voivat kuljettaa tietoa ja paljastaa kantoaallon.",
+  "durationMs": 8200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2280,
+      "startChar": 28,
+      "endChar": 32
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2640,
+      "startChar": 32,
+      "endChar": 43
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3480,
+      "startChar": 43,
+      "endChar": 53
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4240,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4880,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5520,
+      "startChar": 70,
+      "endChar": 77
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5840,
+      "startChar": 77,
+      "endChar": 80
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6160,
+      "startChar": 80,
+      "endChar": 90
+    },
+    {
+      "startMs": 6160,
+      "endMs": 7040,
+      "startChar": 90,
+      "endChar": 102
+    }
+  ]
+}

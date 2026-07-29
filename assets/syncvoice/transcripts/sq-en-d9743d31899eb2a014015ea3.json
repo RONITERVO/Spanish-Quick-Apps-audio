@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d9743d31899eb2a014015ea3",
+  "text": "industrial work",
+  "durationMs": 1100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 11,
+      "endChar": 15
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f8bf457c8afa06f06f1e5760",
+  "text": "Seuraamukset voivat estää väärinkäytökset, mutta ne voivat myös olla epätasa-arvoisia tai epäoikeudenmukaisia.",
+  "durationMs": 7720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1600,
+      "startChar": 26,
+      "endChar": 43
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2600,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3360,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3560,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3920,
+      "startChar": 59,
+      "endChar": 64
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4160,
+      "startChar": 64,
+      "endChar": 69
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4520,
+      "startChar": 69,
+      "endChar": 86
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5720,
+      "startChar": 86,
+      "endChar": 90
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6000,
+      "startChar": 90,
+      "endChar": 110
+    }
+  ]
+}

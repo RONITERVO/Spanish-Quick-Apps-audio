@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8ba1774ff4c24091e1335eab",
+  "text": "Ääni välittää sanoja, rytmiä, kiireellisyyttä, identiteettiä ja tunnetilaa.",
+  "durationMs": 7840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1800,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1800,
+      "endMs": 3080,
+      "startChar": 30,
+      "endChar": 47
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4840,
+      "startChar": 47,
+      "endChar": 61
+    },
+    {
+      "startMs": 4840,
+      "endMs": 6320,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6720,
+      "startChar": 64,
+      "endChar": 75
+    }
+  ]
+}

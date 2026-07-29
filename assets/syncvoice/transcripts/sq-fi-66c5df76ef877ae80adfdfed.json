@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-66c5df76ef877ae80adfdfed",
+  "text": "Sanat kuten signaali, teknosignatuuri, viesti ja yhteydenotto tarkoittavat eri vahvuisia näytön tasoja.",
+  "durationMs": 10320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2160,
+      "startChar": 22,
+      "endChar": 39
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3960,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5080,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5560,
+      "startChar": 49,
+      "endChar": 62
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6680,
+      "startChar": 62,
+      "endChar": 75
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7960,
+      "startChar": 75,
+      "endChar": 79
+    },
+    {
+      "startMs": 7960,
+      "endMs": 8280,
+      "startChar": 79,
+      "endChar": 89
+    },
+    {
+      "startMs": 8280,
+      "endMs": 9080,
+      "startChar": 89,
+      "endChar": 96
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9520,
+      "startChar": 96,
+      "endChar": 103
+    }
+  ]
+}

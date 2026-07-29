@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9323b6a8a3d1d9d25b789d73",
+  "text": "Kolme spatiaalista ulottuvuutta + yksi ajallinen ulottuvuus",
+  "durationMs": 5840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 19,
+      "endChar": 32
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2600,
+      "startChar": 32,
+      "endChar": 34
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3280,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3960,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4720,
+      "startChar": 49,
+      "endChar": 59
+    }
+  ]
+}

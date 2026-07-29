@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d6dadf9f6609ebcb7264e533",
+  "text": "Shared segmentation · naming stabilizes differences",
+  "durationMs": 4480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2000,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2640,
+      "startChar": 29,
+      "endChar": 40
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3560,
+      "startChar": 40,
+      "endChar": 51
+    }
+  ]
+}

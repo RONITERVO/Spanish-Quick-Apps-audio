@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1f09e1e48a39cee0822d22c8",
+  "text": "Tämä raja merkitsee kulkua alempaan vaippaan.",
+  "durationMs": 3880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2280,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2960,
+      "startChar": 36,
+      "endChar": 45
+    }
+  ]
+}

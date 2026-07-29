@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2b91daba678c4f6a0bc7dff1",
+  "text": "Liquid water covers most of the Earth's surface.",
+  "durationMs": 3440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1640,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1860,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 1860,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 32
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2360,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2640,
+      "startChar": 40,
+      "endChar": 48
+    }
+  ]
+}

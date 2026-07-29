@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b5ac01bfc3d3a7141b9812b3",
+  "text": "Kaksi pientä epäsäännöllistä kuuta seuraa Marsia.",
+  "durationMs": 3680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 29
+    },
+    {
+      "startMs": 1080,
+      "endMs": 2000,
+      "startChar": 29,
+      "endChar": 35
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2360,
+      "startChar": 35,
+      "endChar": 42
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2800,
+      "startChar": 42,
+      "endChar": 49
+    }
+  ]
+}

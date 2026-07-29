@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-004a7cec1658024f2f32238f",
+  "text": "Vyöhyke päättyy, kun ensimmäiset valonlähteet alkavat valaista maailmankaikkeutta.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1720,
+      "startChar": 21,
+      "endChar": 33
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2560,
+      "startChar": 33,
+      "endChar": 46
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3600,
+      "startChar": 46,
+      "endChar": 54
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4120,
+      "startChar": 54,
+      "endChar": 63
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4760,
+      "startChar": 63,
+      "endChar": 82
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e6048d439df7215ad58a2b51",
+  "text": "pale lime green",
+  "durationMs": 1860,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 620,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 620,
+      "endMs": 1240,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1860,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}

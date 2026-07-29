@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b9b613c76e18fecc54c24be8",
+  "text": "Se on Maan yötaivaan kirkkain tähti ja muodostaa kaksoisjärjestelmän.",
+  "durationMs": 6080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 11
+    },
+    {
+      "startMs": 225,
+      "endMs": 1160,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2000,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2720,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3000,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3280,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4400,
+      "startChar": 49,
+      "endChar": 69
+    }
+  ]
+}

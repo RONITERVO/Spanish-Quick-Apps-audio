@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-80ccb567f29e8d4052a331e8",
+  "text": "Kiteiden suuntaus vaikuttaa siihen, miten seismiset aallot kulkevat.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 28
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2720,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3200,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 3200,
+      "endMs": 4000,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4520,
+      "startChar": 59,
+      "endChar": 68
+    }
+  ]
+}

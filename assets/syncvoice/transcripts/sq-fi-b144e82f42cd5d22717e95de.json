@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b144e82f42cd5d22717e95de",
+  "text": "kemiallinen epätasapaino",
+  "durationMs": 2220,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1110,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 1110,
+      "endMs": 2220,
+      "startChar": 12,
+      "endChar": 24
+    }
+  ]
+}

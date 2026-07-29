@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a17845240051a190c5a1d666",
+  "text": "Premissit + suhteet + menetelmä → alustava johtopäätös",
+  "durationMs": 6120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2440,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3000,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3920,
+      "startChar": 32,
+      "endChar": 34
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4040,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4920,
+      "startChar": 43,
+      "endChar": 54
+    }
+  ]
+}

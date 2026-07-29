@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2b3420698699edd28c2d6b80",
+  "text": "Jatkoa · poistuminen Linnunradasta",
+  "durationMs": 3320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 9,
+      "endChar": 21
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2080,
+      "startChar": 21,
+      "endChar": 34
+    }
+  ]
+}

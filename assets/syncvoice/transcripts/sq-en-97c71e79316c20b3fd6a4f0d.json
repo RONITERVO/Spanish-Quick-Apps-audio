@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-97c71e79316c20b3fd6a4f0d",
+  "text": "Perspective, binocular disparity, motion, and prior experience help infer distance.",
+  "durationMs": 7400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 2120,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3000,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3075,
+      "startChar": 42,
+      "endChar": 46
+    },
+    {
+      "startMs": 3075,
+      "endMs": 3150,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3150,
+      "endMs": 4120,
+      "startChar": 52,
+      "endChar": 63
+    },
+    {
+      "startMs": 4120,
+      "endMs": 5680,
+      "startChar": 63,
+      "endChar": 68
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6040,
+      "startChar": 68,
+      "endChar": 74
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6480,
+      "startChar": 74,
+      "endChar": 83
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b5ae5e96216992382392924d",
+  "text": "Alue, jossa energiset fotonit ovat erottaneet elektronit vetyatomeista.",
+  "durationMs": 6320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2000,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2680,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3120,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3960,
+      "startChar": 46,
+      "endChar": 57
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4880,
+      "startChar": 57,
+      "endChar": 71
+    }
+  ]
+}

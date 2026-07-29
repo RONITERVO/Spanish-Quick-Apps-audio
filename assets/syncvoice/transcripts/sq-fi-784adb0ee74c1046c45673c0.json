@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-784adb0ee74c1046c45673c0",
+  "text": "Suora vaihto riippuu tarpeista ja sovituista arvoista.",
+  "durationMs": 4440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1680,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2520,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2720,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3480,
+      "startChar": 45,
+      "endChar": 54
+    }
+  ]
+}

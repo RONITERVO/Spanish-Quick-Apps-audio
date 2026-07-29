@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-548b805923667f7f9400700f",
+  "text": "Signaali saa merkityksen, kun lähettäjä ja vastaanottaja yhdistävät sen muodon tilanteeseen.",
+  "durationMs": 7360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 26
+    },
+    {
+      "startMs": 225,
+      "endMs": 1960,
+      "startChar": 26,
+      "endChar": 30
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2320,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3160,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3400,
+      "startChar": 43,
+      "endChar": 57
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4440,
+      "startChar": 57,
+      "endChar": 68
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5200,
+      "startChar": 68,
+      "endChar": 72
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5520,
+      "startChar": 72,
+      "endChar": 79
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6240,
+      "startChar": 79,
+      "endChar": 92
+    }
+  ]
+}

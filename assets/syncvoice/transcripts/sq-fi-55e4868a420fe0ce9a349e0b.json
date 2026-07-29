@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-55e4868a420fe0ce9a349e0b",
+  "text": "Jotkut palaset paljastavat raudan ja nikkelin, jotka olivat kerran suurempien kappaleiden sisällä.",
+  "durationMs": 6840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1680,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2020,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 2020,
+      "endMs": 2360,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3200,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3840,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4160,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4560,
+      "startChar": 67,
+      "endChar": 78
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5360,
+      "startChar": 78,
+      "endChar": 90
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6040,
+      "startChar": 90,
+      "endChar": 98
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0c40744f644a336a0e1092fd",
+  "text": "sisäinen hiljaisuus",
+  "durationMs": 1880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 940,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 940,
+      "endMs": 1880,
+      "startChar": 9,
+      "endChar": 19
+    }
+  ]
+}

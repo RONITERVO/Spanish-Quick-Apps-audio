@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2e1d046c74b986fdf10f0e9e",
+  "text": "Mahdolliset signaalit vaativat planetaarisen kontekstin",
+  "durationMs": 4280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 45
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3280,
+      "startChar": 45,
+      "endChar": 55
+    }
+  ]
+}

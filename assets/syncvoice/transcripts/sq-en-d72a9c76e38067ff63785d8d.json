@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d72a9c76e38067ff63785d8d",
+  "text": "Gene regulation + signals + gradients → tissues and organs",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2040,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 26,
+      "endChar": 28
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3240,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4040,
+      "startChar": 38,
+      "endChar": 40
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4520,
+      "startChar": 40,
+      "endChar": 48
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4960,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5200,
+      "startChar": 52,
+      "endChar": 58
+    }
+  ]
+}

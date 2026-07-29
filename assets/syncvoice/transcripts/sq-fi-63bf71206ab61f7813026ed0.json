@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-63bf71206ab61f7813026ed0",
+  "text": "Valinta tarkoittaa suuntautumisen ylläpitämistä kustannusten ja muutosten kautta.",
+  "durationMs": 6600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 19,
+      "endChar": 34
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2680,
+      "startChar": 34,
+      "endChar": 48
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3800,
+      "startChar": 48,
+      "endChar": 61
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4420,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 4420,
+      "endMs": 5040,
+      "startChar": 64,
+      "endChar": 74
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5880,
+      "startChar": 74,
+      "endChar": 81
+    }
+  ]
+}

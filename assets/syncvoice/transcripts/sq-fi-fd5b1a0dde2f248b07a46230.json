@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fd5b1a0dde2f248b07a46230",
+  "text": "Vesijää ja hiilidioksidi muuttuvat Marsin vuodenaikojen mukaan.",
+  "durationMs": 4920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 11,
+      "endChar": 25
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2200,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2840,
+      "startChar": 35,
+      "endChar": 42
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3400,
+      "startChar": 42,
+      "endChar": 56
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4200,
+      "startChar": 56,
+      "endChar": 63
+    }
+  ]
+}

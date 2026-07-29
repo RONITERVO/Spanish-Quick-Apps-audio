@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ab65760e526d240d1aae9530",
+  "text": "Noin 26 000 valovuotta Auringosta",
+  "durationMs": 3840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2080,
+      "startChar": 12,
+      "endChar": 23
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2720,
+      "startChar": 23,
+      "endChar": 33
+    }
+  ]
+}

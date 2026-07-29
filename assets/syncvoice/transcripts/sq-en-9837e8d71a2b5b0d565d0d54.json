@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-9837e8d71a2b5b0d565d0d54",
+  "text": "Observed → reconstructed",
+  "durationMs": 1920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 9,
+      "endChar": 11
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1920,
+      "startChar": 11,
+      "endChar": 24
+    }
+  ]
+}

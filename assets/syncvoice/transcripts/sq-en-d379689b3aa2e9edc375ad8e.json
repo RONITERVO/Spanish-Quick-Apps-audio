@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d379689b3aa2e9edc375ad8e",
+  "text": "Worlds reconstructed from tiny signs",
+  "durationMs": 3600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2240,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2720,
+      "startChar": 31,
+      "endChar": 36
+    }
+  ]
+}

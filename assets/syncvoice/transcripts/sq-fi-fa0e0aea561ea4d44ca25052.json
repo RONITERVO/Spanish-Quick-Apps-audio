@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-fa0e0aea561ea4d44ca25052",
+  "text": "Ajoneuvojen talteenotto pienentää osan pääsykustannuksista, vaikka polttoaine, toiminta ja turvallisuus ovat edelleen ratkaisevia.",
+  "durationMs": 10000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 24
+    },
+    {
+      "startMs": 960,
+      "endMs": 1920,
+      "startChar": 24,
+      "endChar": 34
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2720,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3160,
+      "startChar": 39,
+      "endChar": 60
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4520,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4600,
+      "startChar": 67,
+      "endChar": 79
+    },
+    {
+      "startMs": 4600,
+      "endMs": 6200,
+      "startChar": 79,
+      "endChar": 88
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6600,
+      "startChar": 88,
+      "endChar": 91
+    },
+    {
+      "startMs": 6600,
+      "endMs": 7000,
+      "startChar": 91,
+      "endChar": 104
+    },
+    {
+      "startMs": 7000,
+      "endMs": 8040,
+      "startChar": 104,
+      "endChar": 109
+    },
+    {
+      "startMs": 8040,
+      "endMs": 8440,
+      "startChar": 109,
+      "endChar": 118
+    },
+    {
+      "startMs": 8440,
+      "endMs": 8920,
+      "startChar": 118,
+      "endChar": 130
+    }
+  ]
+}

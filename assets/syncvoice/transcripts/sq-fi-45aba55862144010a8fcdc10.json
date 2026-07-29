@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-45aba55862144010a8fcdc10",
+  "text": "Juuri tähän edellinen kartta päättyy. Levyltä tuleva valo heikkenee, mutta Linnunradan painovoima ulottuu edelleen paljon pidemmälle.",
+  "durationMs": 10360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1600,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2000,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2720,
+      "startChar": 38,
+      "endChar": 46
+    },
+    {
+      "startMs": 2720,
+      "endMs": 2795,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 2795,
+      "endMs": 4160,
+      "startChar": 53,
+      "endChar": 58
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4480,
+      "startChar": 58,
+      "endChar": 69
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5240,
+      "startChar": 69,
+      "endChar": 75
+    },
+    {
+      "startMs": 5240,
+      "endMs": 6040,
+      "startChar": 75,
+      "endChar": 87
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6880,
+      "startChar": 87,
+      "endChar": 98
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7680,
+      "startChar": 98,
+      "endChar": 106
+    },
+    {
+      "startMs": 7680,
+      "endMs": 8280,
+      "startChar": 106,
+      "endChar": 115
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8920,
+      "startChar": 115,
+      "endChar": 122
+    },
+    {
+      "startMs": 8920,
+      "endMs": 9400,
+      "startChar": 122,
+      "endChar": 133
+    }
+  ]
+}

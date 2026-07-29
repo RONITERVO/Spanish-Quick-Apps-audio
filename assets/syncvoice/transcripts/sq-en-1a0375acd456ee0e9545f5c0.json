@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1a0375acd456ee0e9545f5c0",
+  "text": "Memory + prediction + reward + plasticity",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1960,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2760,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3600,
+      "startChar": 29,
+      "endChar": 31
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4360,
+      "startChar": 31,
+      "endChar": 41
+    }
+  ]
+}

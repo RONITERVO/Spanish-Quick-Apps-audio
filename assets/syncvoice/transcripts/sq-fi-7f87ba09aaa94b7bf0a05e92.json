@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7f87ba09aaa94b7bf0a05e92",
+  "text": "Jatkuvaa toimintaa vähemmän suoralla valvonnalla",
+  "durationMs": 3800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2200,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2720,
+      "startChar": 37,
+      "endChar": 48
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-11c01dcbbc1d8144faa983d7",
+  "text": "Paikalliset säännöt + energia + palaute + verkko",
+  "durationMs": 5480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2000,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2840,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3440,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4160,
+      "startChar": 40,
+      "endChar": 42
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4720,
+      "startChar": 42,
+      "endChar": 48
+    }
+  ]
+}

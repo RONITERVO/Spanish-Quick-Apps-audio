@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e17096e134fad3ba3b76ce51",
+  "text": "Kauempana ovat muinainen valo, kosminen horisontti ja havaittava maailmankaikkeus.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2240,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3400,
+      "startChar": 40,
+      "endChar": 51
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4400,
+      "startChar": 51,
+      "endChar": 54
+    },
+    {
+      "startMs": 4400,
+      "endMs": 5000,
+      "startChar": 54,
+      "endChar": 65
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5800,
+      "startChar": 65,
+      "endChar": 82
+    }
+  ]
+}

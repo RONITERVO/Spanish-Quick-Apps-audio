@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-edf0d61ff57691ee83cd745f",
+  "text": "Words + rules + context → combinable meanings",
+  "durationMs": 4960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1960,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2400,
+      "startChar": 16,
+      "endChar": 24
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3240,
+      "startChar": 24,
+      "endChar": 26
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3480,
+      "startChar": 26,
+      "endChar": 37
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4120,
+      "startChar": 37,
+      "endChar": 45
+    }
+  ]
+}

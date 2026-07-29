@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-46d4eebf15efa36c456a9972",
+  "text": "Kokeellisesti vahvistettu kausaalirakenne",
+  "durationMs": 2850,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 950,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 950,
+      "endMs": 1900,
+      "startChar": 14,
+      "endChar": 26
+    },
+    {
+      "startMs": 1900,
+      "endMs": 2850,
+      "startChar": 26,
+      "endChar": 41
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-78c7b88ff8b2b8d640bf9df0",
+  "text": "Uudelleentulkinta, hengittäminen, huomion siirtäminen tai tilanteen muuttaminen voi muuttaa tunnereaktion.",
+  "durationMs": 8840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 19
+    },
+    {
+      "startMs": 75,
+      "endMs": 1360,
+      "startChar": 19,
+      "endChar": 34
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2800,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3720,
+      "startChar": 42,
+      "endChar": 54
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4720,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5080,
+      "startChar": 58,
+      "endChar": 68
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5760,
+      "startChar": 68,
+      "endChar": 80
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6600,
+      "startChar": 80,
+      "endChar": 84
+    },
+    {
+      "startMs": 6600,
+      "endMs": 7040,
+      "startChar": 84,
+      "endChar": 92
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7600,
+      "startChar": 92,
+      "endChar": 106
+    }
+  ]
+}

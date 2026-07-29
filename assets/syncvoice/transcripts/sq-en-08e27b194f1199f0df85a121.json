@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-08e27b194f1199f0df85a121",
+  "text": "Organisms construct responses based on signals relevant to their own environment.",
+  "durationMs": 5320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2040,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2480,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2680,
+      "startChar": 39,
+      "endChar": 47
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3360,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3640,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3920,
+      "startChar": 59,
+      "endChar": 65
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4240,
+      "startChar": 65,
+      "endChar": 69
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4440,
+      "startChar": 69,
+      "endChar": 81
+    }
+  ]
+}

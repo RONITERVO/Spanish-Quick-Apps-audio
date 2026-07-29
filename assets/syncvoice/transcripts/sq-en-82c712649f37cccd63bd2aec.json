@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-82c712649f37cccd63bd2aec",
+  "text": "Different time scales",
+  "durationMs": 1220,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 407,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 407,
+      "endMs": 813,
+      "startChar": 10,
+      "endChar": 15
+    },
+    {
+      "startMs": 813,
+      "endMs": 1220,
+      "startChar": 15,
+      "endChar": 21
+    }
+  ]
+}

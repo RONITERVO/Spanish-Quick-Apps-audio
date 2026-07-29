@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-529d852bacfaf80295b5384e",
+  "text": "Hajautettu kognitio ihmisten ja työkalujen välillä",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 29
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2800,
+      "startChar": 29,
+      "endChar": 32
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3080,
+      "startChar": 32,
+      "endChar": 43
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3880,
+      "startChar": 43,
+      "endChar": 50
+    }
+  ]
+}

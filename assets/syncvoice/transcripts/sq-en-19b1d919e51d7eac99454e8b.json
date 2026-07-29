@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-19b1d919e51d7eac99454e8b",
+  "text": "last stars",
+  "durationMs": 800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 400,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 400,
+      "endMs": 800,
+      "startChar": 5,
+      "endChar": 10
+    }
+  ]
+}

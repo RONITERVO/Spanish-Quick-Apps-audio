@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4ea69ea1481a11d80d4b4a5d",
+  "text": "chain of galaxy clusters",
+  "durationMs": 2480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1520,
+      "startChar": 16,
+      "endChar": 24
+    }
+  ]
+}

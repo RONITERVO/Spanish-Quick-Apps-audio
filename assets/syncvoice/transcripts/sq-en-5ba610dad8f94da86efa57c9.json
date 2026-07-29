@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5ba610dad8f94da86efa57c9",
+  "text": "Each region can act independently and synchronize only summaries, decisions or conflicts.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1120,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1480,
+      "startChar": 20,
+      "endChar": 34
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2360,
+      "startChar": 34,
+      "endChar": 38
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2760,
+      "startChar": 38,
+      "endChar": 50
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3520,
+      "startChar": 50,
+      "endChar": 55
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3880,
+      "startChar": 55,
+      "endChar": 66
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4680,
+      "startChar": 66,
+      "endChar": 76
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5520,
+      "startChar": 76,
+      "endChar": 79
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5800,
+      "startChar": 79,
+      "endChar": 89
+    }
+  ]
+}

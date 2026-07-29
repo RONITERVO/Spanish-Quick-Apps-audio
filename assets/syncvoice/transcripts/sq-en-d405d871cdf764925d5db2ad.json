@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d405d871cdf764925d5db2ad",
+  "text": "Message → encoding → signal → channel → decoding",
+  "durationMs": 6080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 676,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 676,
+      "endMs": 1351,
+      "startChar": 8,
+      "endChar": 10
+    },
+    {
+      "startMs": 1351,
+      "endMs": 2027,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 2027,
+      "endMs": 2702,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 2702,
+      "endMs": 3378,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 3378,
+      "endMs": 4053,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 4053,
+      "endMs": 4729,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 4729,
+      "endMs": 5404,
+      "startChar": 38,
+      "endChar": 40
+    },
+    {
+      "startMs": 5404,
+      "endMs": 6080,
+      "startChar": 40,
+      "endChar": 48
+    }
+  ]
+}

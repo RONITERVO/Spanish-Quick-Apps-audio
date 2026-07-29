@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d315fc489c55b232d8464018",
+  "text": "Sekvenssi A → B → C on selvä, kun hallitseva syy toimii hyvin erotetussa mittakaavassa.",
+  "durationMs": 10240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 12,
+      "endChar": 14
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2120,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2800,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3320,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4000,
+      "startChar": 20,
+      "endChar": 23
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4600,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 4600,
+      "endMs": 5240,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5960,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6720,
+      "startChar": 45,
+      "endChar": 49
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7160,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7680,
+      "startChar": 56,
+      "endChar": 62
+    },
+    {
+      "startMs": 7680,
+      "endMs": 8200,
+      "startChar": 62,
+      "endChar": 73
+    },
+    {
+      "startMs": 8200,
+      "endMs": 9000,
+      "startChar": 73,
+      "endChar": 87
+    }
+  ]
+}

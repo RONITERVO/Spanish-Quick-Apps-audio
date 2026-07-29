@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6e3bf603f6a305c50103ef08",
+  "text": "Teoria tekee testattavia ennusteita · havainto voi tukea tai kumota sen",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 13,
+      "endChar": 25
+    },
+    {
+      "startMs": 1040,
+      "endMs": 2000,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2880,
+      "startChar": 36,
+      "endChar": 38
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3040,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 3040,
+      "endMs": 4000,
+      "startChar": 47,
+      "endChar": 51
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4280,
+      "startChar": 51,
+      "endChar": 57
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4920,
+      "startChar": 57,
+      "endChar": 61
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5240,
+      "startChar": 61,
+      "endChar": 68
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5720,
+      "startChar": 68,
+      "endChar": 71
+    }
+  ]
+}

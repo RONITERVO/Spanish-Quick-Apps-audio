@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7d44112be59761dd2acc0d0e",
+  "text": "The last stars",
+  "durationMs": 1750,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 583,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 583,
+      "endMs": 1167,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 1167,
+      "endMs": 1750,
+      "startChar": 9,
+      "endChar": 14
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d3713c2873ccfb22932c8df1",
+  "text": "Toistuva kauttakulku muuttaa liikkeen infrastruktuuriksi.",
+  "durationMs": 4920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2400,
+      "startChar": 29,
+      "endChar": 38
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3200,
+      "startChar": 38,
+      "endChar": 57
+    }
+  ]
+}

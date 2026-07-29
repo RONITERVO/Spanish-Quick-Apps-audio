@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f4acc60ff0462da27aaf7ac4",
+  "text": "Protonien lukumäärä määrittää alkuaineen: yksi vedylle, kuusi hiilelle, kaksikymmentäkuusi raudalle.",
+  "durationMs": 8600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2240,
+      "startChar": 30,
+      "endChar": 42
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3200,
+      "startChar": 42,
+      "endChar": 47
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3320,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4640,
+      "startChar": 56,
+      "endChar": 62
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5440,
+      "startChar": 62,
+      "endChar": 72
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6120,
+      "startChar": 72,
+      "endChar": 91
+    },
+    {
+      "startMs": 6120,
+      "endMs": 7640,
+      "startChar": 91,
+      "endChar": 100
+    }
+  ]
+}

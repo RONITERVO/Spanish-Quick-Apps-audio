@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b65a5f70ddbc28fad4571f32",
+  "text": "Jatkoa · allas laajemman verkon sisällä",
+  "durationMs": 3560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 960,
+      "endMs": 1640,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2320,
+      "startChar": 25,
+      "endChar": 32
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2760,
+      "startChar": 32,
+      "endChar": 39
+    }
+  ]
+}

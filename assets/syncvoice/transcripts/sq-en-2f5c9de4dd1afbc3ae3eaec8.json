@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2f5c9de4dd1afbc3ae3eaec8",
+  "text": "Water vapor condenses into suspended droplets or ice crystals.",
+  "durationMs": 5120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 225,
+      "endMs": 1840,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2360,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3000,
+      "startChar": 37,
+      "endChar": 46
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3720,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4080,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4280,
+      "startChar": 53,
+      "endChar": 62
+    }
+  ]
+}

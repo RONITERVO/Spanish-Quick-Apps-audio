@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5935985c5ffa1aeab296f2cd",
+  "text": "tyhjiöiden välinen raja",
+  "durationMs": 1900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 633,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 633,
+      "endMs": 1267,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 1267,
+      "endMs": 1900,
+      "startChar": 19,
+      "endChar": 23
+    }
+  ]
+}

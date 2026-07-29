@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b5e15010a24ef38bf7d62dc5",
+  "text": "Kirjoittaminen voi säilyttää ääniä, juonia ja kuviteltuja maailmoja vuosisatojen ajan.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2040,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2880,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3800,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4040,
+      "startChar": 46,
+      "endChar": 58
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4840,
+      "startChar": 58,
+      "endChar": 68
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5640,
+      "startChar": 68,
+      "endChar": 81
+    },
+    {
+      "startMs": 5640,
+      "endMs": 6600,
+      "startChar": 81,
+      "endChar": 86
+    }
+  ]
+}

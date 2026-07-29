@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7cb03a07886746e456d2f56e",
+  "text": "Yhteisö voi toistaa tuloksen, ennustaa uusia havaintoja ja sulkea pois muut syyt.",
+  "durationMs": 6920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 960,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2400,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3360,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3880,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4720,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5040,
+      "startChar": 59,
+      "endChar": 66
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5560,
+      "startChar": 66,
+      "endChar": 71
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5960,
+      "startChar": 71,
+      "endChar": 76
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6320,
+      "startChar": 76,
+      "endChar": 81
+    }
+  ]
+}

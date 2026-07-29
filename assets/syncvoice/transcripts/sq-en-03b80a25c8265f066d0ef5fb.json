@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-03b80a25c8265f066d0ef5fb",
+  "text": "Ruins and files may persist for an interval without being read or understood.",
+  "durationMs": 6320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1480,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1760,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2520,
+      "startChar": 28,
+      "endChar": 32
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2840,
+      "startChar": 32,
+      "endChar": 35
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3040,
+      "startChar": 35,
+      "endChar": 44
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3600,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4120,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4520,
+      "startChar": 58,
+      "endChar": 63
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4960,
+      "startChar": 63,
+      "endChar": 66
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5320,
+      "startChar": 66,
+      "endChar": 77
+    }
+  ]
+}

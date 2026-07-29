@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-66e7ced6a11a03e7908ad836",
+  "text": "Liikkuminen liikuttaa elimistöä värekarvojen, siimojen, lihasten tai muiden mekanismien kautta.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1840,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2760,
+      "startChar": 32,
+      "endChar": 46
+    },
+    {
+      "startMs": 2760,
+      "endMs": 4160,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5320,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 5320,
+      "endMs": 6440,
+      "startChar": 65,
+      "endChar": 69
+    },
+    {
+      "startMs": 6440,
+      "endMs": 6800,
+      "startChar": 69,
+      "endChar": 76
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7240,
+      "startChar": 76,
+      "endChar": 88
+    },
+    {
+      "startMs": 7240,
+      "endMs": 8040,
+      "startChar": 88,
+      "endChar": 95
+    }
+  ]
+}

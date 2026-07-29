@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-92a91ff5a67e070e4b79d6dc",
+  "text": "Virtaus kuvaa aineen tai energian kollektiivista kulkeutumista avaruuden läpi.",
+  "durationMs": 6920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2160,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2520,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3360,
+      "startChar": 34,
+      "endChar": 49
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4440,
+      "startChar": 49,
+      "endChar": 63
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5520,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6280,
+      "startChar": 73,
+      "endChar": 78
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-32218e39bc96d33e36b0ea78",
+  "text": "High speed planetary interconnection",
+  "durationMs": 3000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 960,
+      "endMs": 1800,
+      "startChar": 21,
+      "endChar": 36
+    }
+  ]
+}

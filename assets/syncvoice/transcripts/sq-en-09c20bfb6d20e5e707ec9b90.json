@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-09c20bfb6d20e5e707ec9b90",
+  "text": "third major galaxy",
+  "durationMs": 1950,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 650,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 650,
+      "endMs": 1300,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 1300,
+      "endMs": 1950,
+      "startChar": 12,
+      "endChar": 18
+    }
+  ]
+}

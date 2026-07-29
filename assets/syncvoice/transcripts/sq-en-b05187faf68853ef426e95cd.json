@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b05187faf68853ef426e95cd",
+  "text": "The limits of intelligence",
+  "durationMs": 2360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1240,
+      "startChar": 14,
+      "endChar": 26
+    }
+  ]
+}

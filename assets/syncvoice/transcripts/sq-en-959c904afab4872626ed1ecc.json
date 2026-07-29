@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-959c904afab4872626ed1ecc",
+  "text": "Mutual recognition · initial understanding test",
+  "durationMs": 3840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1920,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2560,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3200,
+      "startChar": 29,
+      "endChar": 43
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3840,
+      "startChar": 43,
+      "endChar": 47
+    }
+  ]
+}

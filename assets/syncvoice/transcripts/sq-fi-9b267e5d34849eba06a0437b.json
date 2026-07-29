@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9b267e5d34849eba06a0437b",
+  "text": "Ehdotettu aikakausi · äärimmäisen varhainen kiihtyvä laajeneminen",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2040,
+      "startChar": 22,
+      "endChar": 34
+    },
+    {
+      "startMs": 2040,
+      "endMs": 3000,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3880,
+      "startChar": 44,
+      "endChar": 53
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4520,
+      "startChar": 53,
+      "endChar": 65
+    }
+  ]
+}

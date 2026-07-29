@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-00c3034f0513d5aa7c912f91",
+  "text": "pimeä aine",
+  "durationMs": 1150,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 575,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 575,
+      "endMs": 1150,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}

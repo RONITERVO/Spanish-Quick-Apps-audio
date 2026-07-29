@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2ae293e45cb199ce094aa0a5",
+  "text": "Laniakea Boundary",
+  "durationMs": 1800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 900,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 900,
+      "endMs": 1800,
+      "startChar": 9,
+      "endChar": 17
+    }
+  ]
+}

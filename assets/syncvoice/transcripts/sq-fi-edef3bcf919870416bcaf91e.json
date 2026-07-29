@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-edef3bcf919870416bcaf91e",
+  "text": "Malli pakkaa havainnot, selittää mekanismeja ja tuottaa ennusteita, jotka saattavat epäonnistua.",
+  "durationMs": 7520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 13,
+      "endChar": 24
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1760,
+      "startChar": 24,
+      "endChar": 33
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2560,
+      "startChar": 33,
+      "endChar": 45
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3020,
+      "startChar": 45,
+      "endChar": 48
+    },
+    {
+      "startMs": 3020,
+      "endMs": 3480,
+      "startChar": 48,
+      "endChar": 56
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 68
+    },
+    {
+      "startMs": 4280,
+      "endMs": 5120,
+      "startChar": 68,
+      "endChar": 74
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5760,
+      "startChar": 74,
+      "endChar": 84
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6400,
+      "startChar": 84,
+      "endChar": 96
+    }
+  ]
+}

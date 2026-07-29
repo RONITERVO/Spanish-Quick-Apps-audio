@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-16c4e0af3127d8731f831fd6",
+  "text": "aivojen ja tietokoneiden rajapinnat",
+  "durationMs": 3240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 11,
+      "endChar": 25
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2120,
+      "startChar": 25,
+      "endChar": 35
+    }
+  ]
+}

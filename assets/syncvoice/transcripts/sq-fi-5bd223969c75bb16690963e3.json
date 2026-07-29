@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5bd223969c75bb16690963e3",
+  "text": "Kun yleinen laajeneminen poistetaan laskennallisesti, jäljelle jäävät liikkeet piirtävät virtauksia, jotka seuraavat painovoimakentän laaksoja.",
+  "durationMs": 9920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 25
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1840,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2520,
+      "startChar": 36,
+      "endChar": 54
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3640,
+      "startChar": 54,
+      "endChar": 63
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4560,
+      "startChar": 63,
+      "endChar": 70
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5000,
+      "startChar": 70,
+      "endChar": 79
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5480,
+      "startChar": 79,
+      "endChar": 89
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6000,
+      "startChar": 89,
+      "endChar": 101
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6880,
+      "startChar": 101,
+      "endChar": 107
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7440,
+      "startChar": 107,
+      "endChar": 117
+    },
+    {
+      "startMs": 7440,
+      "endMs": 8080,
+      "startChar": 117,
+      "endChar": 134
+    },
+    {
+      "startMs": 8080,
+      "endMs": 9080,
+      "startChar": 134,
+      "endChar": 143
+    }
+  ]
+}

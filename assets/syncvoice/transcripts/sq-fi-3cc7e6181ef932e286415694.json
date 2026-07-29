@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3cc7e6181ef932e286415694",
+  "text": "vaalea vihreä",
+  "durationMs": 1120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 560,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 560,
+      "endMs": 1120,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

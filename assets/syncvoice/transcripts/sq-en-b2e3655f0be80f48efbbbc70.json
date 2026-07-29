@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b2e3655f0be80f48efbbbc70",
+  "text": "A gigantic anticyclonic storm has been spinning for centuries.",
+  "durationMs": 5880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 11,
+      "endChar": 24
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2640,
+      "startChar": 24,
+      "endChar": 30
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3280,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3680,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3880,
+      "startChar": 39,
+      "endChar": 48
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4440,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4800,
+      "startChar": 52,
+      "endChar": 62
+    }
+  ]
+}

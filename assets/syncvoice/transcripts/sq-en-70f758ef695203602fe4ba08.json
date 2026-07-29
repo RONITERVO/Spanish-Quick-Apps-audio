@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-70f758ef695203602fe4ba08",
+  "text": "Brief laser flashes could carry information or serve for propulsion.",
+  "durationMs": 5520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 960,
+      "endMs": 1640,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2000,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2400,
+      "startChar": 32,
+      "endChar": 44
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3320,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3840,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4320,
+      "startChar": 53,
+      "endChar": 57
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4600,
+      "startChar": 57,
+      "endChar": 68
+    }
+  ]
+}

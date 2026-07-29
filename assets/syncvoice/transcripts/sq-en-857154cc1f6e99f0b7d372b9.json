@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-857154cc1f6e99f0b7d372b9",
+  "text": "solid rock that flows slowly",
+  "durationMs": 2800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1480,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2000,
+      "startChar": 22,
+      "endChar": 28
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-41f1fb29d81f1424245c4afb",
+  "text": "Lookback time",
+  "durationMs": 970,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 485,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 485,
+      "endMs": 970,
+      "startChar": 9,
+      "endChar": 13
+    }
+  ]
+}

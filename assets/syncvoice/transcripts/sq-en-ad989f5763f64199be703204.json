@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ad989f5763f64199be703204",
+  "text": "internal silence",
+  "durationMs": 1850,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 925,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 925,
+      "endMs": 1850,
+      "startChar": 9,
+      "endChar": 16
+    }
+  ]
+}

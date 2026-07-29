@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-35f91b79dd1b16a8bdb5147d",
+  "text": "Tieto vahvistuu, kun väitteitä voidaan tarkastella, toistaa, korjata tai korvata.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1840,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2480,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2960,
+      "startChar": 39,
+      "endChar": 52
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3840,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4960,
+      "startChar": 61,
+      "endChar": 69
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5920,
+      "startChar": 69,
+      "endChar": 73
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6360,
+      "startChar": 73,
+      "endChar": 81
+    }
+  ]
+}

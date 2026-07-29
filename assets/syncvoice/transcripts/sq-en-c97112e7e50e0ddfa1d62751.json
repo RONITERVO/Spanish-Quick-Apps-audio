@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c97112e7e50e0ddfa1d62751",
+  "text": "Internal rules can be designed, but any simulation remains limited by the resources and errors of its substrate.",
+  "durationMs": 9200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1360,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2320,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3040,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3400,
+      "startChar": 40,
+      "endChar": 51
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4320,
+      "startChar": 51,
+      "endChar": 59
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4920,
+      "startChar": 59,
+      "endChar": 67
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5560,
+      "startChar": 67,
+      "endChar": 70
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5760,
+      "startChar": 70,
+      "endChar": 74
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6000,
+      "startChar": 74,
+      "endChar": 84
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6920,
+      "startChar": 84,
+      "endChar": 88
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7320,
+      "startChar": 88,
+      "endChar": 95
+    },
+    {
+      "startMs": 7320,
+      "endMs": 7640,
+      "startChar": 95,
+      "endChar": 98
+    },
+    {
+      "startMs": 7640,
+      "endMs": 7960,
+      "startChar": 98,
+      "endChar": 102
+    },
+    {
+      "startMs": 7960,
+      "endMs": 8360,
+      "startChar": 102,
+      "endChar": 112
+    }
+  ]
+}

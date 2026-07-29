@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dc1db88bb4e611545f335440",
+  "text": "Koneet, keskitetty energia ja massatuotanto",
+  "durationMs": 4440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2720,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3120,
+      "startChar": 30,
+      "endChar": 43
+    }
+  ]
+}

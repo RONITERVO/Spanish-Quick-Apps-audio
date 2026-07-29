@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-e239bdac461b0695f63b545b",
+  "text": "uusi ennustus",
+  "durationMs": 1300,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 650,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 650,
+      "endMs": 1300,
+      "startChar": 5,
+      "endChar": 13
+    }
+  ]
+}

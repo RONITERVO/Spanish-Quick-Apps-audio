@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c89f1da4537096410c581297",
+  "text": "Esteet, toksiinit, naamiointi, immuniteetti ja käyttäytyminen vähentävät vahinkoja.",
+  "durationMs": 8200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 2080,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3400,
+      "startChar": 31,
+      "endChar": 44
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4880,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5320,
+      "startChar": 47,
+      "endChar": 62
+    },
+    {
+      "startMs": 5320,
+      "endMs": 6480,
+      "startChar": 62,
+      "endChar": 73
+    },
+    {
+      "startMs": 6480,
+      "endMs": 7280,
+      "startChar": 73,
+      "endChar": 83
+    }
+  ]
+}

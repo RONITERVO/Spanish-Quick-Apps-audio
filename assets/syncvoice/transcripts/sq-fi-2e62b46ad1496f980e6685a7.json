@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2e62b46ad1496f980e6685a7",
+  "text": "Atomit kiertävät eliöiden, ilman, veden, maaperän ja kiven välillä.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2360,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3280,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4200,
+      "startChar": 41,
+      "endChar": 50
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4760,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5320,
+      "startChar": 53,
+      "endChar": 59
+    },
+    {
+      "startMs": 5320,
+      "endMs": 6000,
+      "startChar": 59,
+      "endChar": 67
+    }
+  ]
+}

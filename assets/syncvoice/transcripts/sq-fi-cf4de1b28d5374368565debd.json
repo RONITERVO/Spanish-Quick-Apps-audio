@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cf4de1b28d5374368565debd",
+  "text": "Koneet voivat auttaa liikkumista, valvontaa ja rutiinitehtäviä korvaamatta automaattisesti luottamusta, empatiaa tai vastuuta.",
+  "durationMs": 9600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1320,
+      "startChar": 21,
+      "endChar": 34
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2280,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3320,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3480,
+      "startChar": 47,
+      "endChar": 63
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4600,
+      "startChar": 63,
+      "endChar": 75
+    },
+    {
+      "startMs": 4600,
+      "endMs": 5680,
+      "startChar": 75,
+      "endChar": 91
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6600,
+      "startChar": 91,
+      "endChar": 104
+    },
+    {
+      "startMs": 6600,
+      "endMs": 7480,
+      "startChar": 104,
+      "endChar": 113
+    },
+    {
+      "startMs": 7480,
+      "endMs": 8520,
+      "startChar": 113,
+      "endChar": 117
+    },
+    {
+      "startMs": 8520,
+      "endMs": 8720,
+      "startChar": 117,
+      "endChar": 126
+    }
+  ]
+}

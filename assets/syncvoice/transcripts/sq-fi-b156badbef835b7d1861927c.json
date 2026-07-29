@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b156badbef835b7d1861927c",
+  "text": "kiinteä, kuuma, sitkeä kivi",
+  "durationMs": 3080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2120,
+      "startChar": 23,
+      "endChar": 27
+    }
+  ]
+}

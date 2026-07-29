@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cb83e7484e764f9f445e72c1",
+  "text": "Itsensä ylläpito + periytyminen + muuntelu + evoluutio",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2360,
+      "startChar": 19,
+      "endChar": 32
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3520,
+      "startChar": 32,
+      "endChar": 34
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4400,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 4400,
+      "endMs": 5280,
+      "startChar": 43,
+      "endChar": 45
+    },
+    {
+      "startMs": 5280,
+      "endMs": 6040,
+      "startChar": 45,
+      "endChar": 54
+    }
+  ]
+}

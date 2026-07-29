@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-10a46087dd2e3bca5c19d4b7",
+  "text": "Odotettujen ja todellisten tulosten välinen ero ajaa odotusten päivittämistä.",
+  "durationMs": 6240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 1080,
+      "endMs": 2120,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2640,
+      "startChar": 36,
+      "endChar": 44
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3200,
+      "startChar": 44,
+      "endChar": 48
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3720,
+      "startChar": 48,
+      "endChar": 53
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4280,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 5080,
+      "startChar": 63,
+      "endChar": 77
+    }
+  ]
+}

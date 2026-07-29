@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-88b9ca968d10a9ced450c657",
+  "text": "A semiconductor junction conducts differently depending on direction and conditions.",
+  "durationMs": 5960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1840,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2440,
+      "startChar": 34,
+      "endChar": 46
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3040,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3760,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4040,
+      "startChar": 59,
+      "endChar": 69
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4800,
+      "startChar": 69,
+      "endChar": 73
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5080,
+      "startChar": 73,
+      "endChar": 84
+    }
+  ]
+}

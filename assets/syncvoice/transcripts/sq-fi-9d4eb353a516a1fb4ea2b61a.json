@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9d4eb353a516a1fb4ea2b61a",
+  "text": "Rajoitettu kesto + toistamisen mahdottomuus + seuraukset → eksistentiaalinen kiireellisyys",
+  "durationMs": 9000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1840,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2920,
+      "startChar": 31,
+      "endChar": 44
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3920,
+      "startChar": 44,
+      "endChar": 46
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4200,
+      "startChar": 46,
+      "endChar": 57
+    },
+    {
+      "startMs": 4200,
+      "endMs": 5560,
+      "startChar": 57,
+      "endChar": 59
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5640,
+      "startChar": 59,
+      "endChar": 77
+    },
+    {
+      "startMs": 5640,
+      "endMs": 7680,
+      "startChar": 77,
+      "endChar": 90
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-00519044c6528b1180363cd3",
+  "text": "Diverse and costly evolutionary process",
+  "durationMs": 4000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2080,
+      "startChar": 19,
+      "endChar": 32
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3040,
+      "startChar": 32,
+      "endChar": 39
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-47c3a8f284ad3148fca1535c",
+  "text": "An intelligent system modifies representations or strategies based on experience.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1640,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2360,
+      "startChar": 31,
+      "endChar": 47
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3400,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3640,
+      "startChar": 50,
+      "endChar": 61
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4400,
+      "startChar": 61,
+      "endChar": 67
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4660,
+      "startChar": 67,
+      "endChar": 70
+    },
+    {
+      "startMs": 4660,
+      "endMs": 4920,
+      "startChar": 70,
+      "endChar": 81
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-92fbb6fe0fbdedeeb9064b87",
+  "text": "sisäänkäynti kosmiseen verkkoon",
+  "durationMs": 2330,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 777,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 777,
+      "endMs": 1553,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 1553,
+      "endMs": 2330,
+      "startChar": 23,
+      "endChar": 31
+    }
+  ]
+}

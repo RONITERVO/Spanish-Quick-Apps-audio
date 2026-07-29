@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3f191c2082275107f78ed840",
+  "text": "Jotkin keskittymät muodostavat kaaria tai seinämiä, jotka ulottuvat kartan halki.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2040,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2760,
+      "startChar": 38,
+      "endChar": 42
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3080,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3840,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4520,
+      "startChar": 58,
+      "endChar": 68
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5240,
+      "startChar": 68,
+      "endChar": 75
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5720,
+      "startChar": 75,
+      "endChar": 81
+    }
+  ]
+}

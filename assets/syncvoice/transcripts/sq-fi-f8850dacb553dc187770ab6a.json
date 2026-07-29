@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f8850dacb553dc187770ab6a",
+  "text": "Evoluutio tapahtuu muunnelmien populaatioissa, ei yksittäisessä eristetyssä kokonaisuudessa.",
+  "durationMs": 7160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2440,
+      "startChar": 31,
+      "endChar": 47
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3520,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3640,
+      "startChar": 50,
+      "endChar": 64
+    },
+    {
+      "startMs": 3640,
+      "endMs": 5200,
+      "startChar": 64,
+      "endChar": 76
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5960,
+      "startChar": 76,
+      "endChar": 92
+    }
+  ]
+}

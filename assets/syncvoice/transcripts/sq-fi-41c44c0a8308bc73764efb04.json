@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-41c44c0a8308bc73764efb04",
+  "text": "Astiat muuttavat kuljetusta, varastointia, ruoanvalmistusta ja jakamista.",
+  "durationMs": 5920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 17,
+      "endChar": 29
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1960,
+      "startChar": 29,
+      "endChar": 43
+    },
+    {
+      "startMs": 1960,
+      "endMs": 3240,
+      "startChar": 43,
+      "endChar": 60
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3960,
+      "startChar": 60,
+      "endChar": 63
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4680,
+      "startChar": 63,
+      "endChar": 73
+    }
+  ]
+}

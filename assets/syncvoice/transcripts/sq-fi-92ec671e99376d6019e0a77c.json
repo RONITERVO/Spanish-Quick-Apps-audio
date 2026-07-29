@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-92ec671e99376d6019e0a77c",
+  "text": "Majakka, tiedosto, tervehdys, varoitus tai tekninen vuoto vaatisi erilaisia tulkintastrategioita.",
+  "durationMs": 10800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 2520,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 2520,
+      "endMs": 4320,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4395,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 4395,
+      "endMs": 5720,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6920,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7480,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 7480,
+      "endMs": 8160,
+      "startChar": 66,
+      "endChar": 76
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8960,
+      "startChar": 76,
+      "endChar": 97
+    }
+  ]
+}

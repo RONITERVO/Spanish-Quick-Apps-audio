@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e9389cbd502c1ed325621890",
+  "text": "origin of life",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 400,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 400,
+      "endMs": 800,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 800,
+      "endMs": 1200,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

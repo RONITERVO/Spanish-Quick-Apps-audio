@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5be161a35cbe9015ba5594f8",
+  "text": "havaittavat saarekkeet",
+  "durationMs": 2160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1080,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 1080,
+      "endMs": 2160,
+      "startChar": 12,
+      "endChar": 22
+    }
+  ]
+}

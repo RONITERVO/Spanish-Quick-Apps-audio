@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-29ff94bc7dd386a842239067",
+  "text": "Signaalin yhdistäminen tähtijärjestelmään vaatii riittävän tarkkuuden taustalähteiden sulkemiseksi pois.",
+  "durationMs": 8520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 23,
+      "endChar": 42
+    },
+    {
+      "startMs": 1920,
+      "endMs": 3560,
+      "startChar": 42,
+      "endChar": 49
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4120,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4720,
+      "startChar": 59,
+      "endChar": 70
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5520,
+      "startChar": 70,
+      "endChar": 86
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6920,
+      "startChar": 86,
+      "endChar": 99
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7800,
+      "startChar": 99,
+      "endChar": 104
+    }
+  ]
+}

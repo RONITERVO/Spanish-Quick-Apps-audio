@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2d86ee842720409ee9fb6abe",
+  "text": "Luokkaraja, joka on rakennettu yhdestä esimerkistä",
+  "durationMs": 4520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 17,
+      "endChar": 20
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1920,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2760,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3400,
+      "startChar": 39,
+      "endChar": 50
+    }
+  ]
+}

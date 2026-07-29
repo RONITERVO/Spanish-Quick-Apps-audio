@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-20973aaf774ae8b84f58ac3e",
+  "text": "Inertiaalijärjestelmät · valonnopeus on invariantti",
+  "durationMs": 4960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 23
+    },
+    {
+      "startMs": 75,
+      "endMs": 1840,
+      "startChar": 23,
+      "endChar": 25
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2320,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3400,
+      "startChar": 37,
+      "endChar": 40
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3680,
+      "startChar": 40,
+      "endChar": 51
+    }
+  ]
+}

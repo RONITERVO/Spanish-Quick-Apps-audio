@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5dc30c8d2de5bd323acf8f73",
+  "text": "Kokemuksen tuottama kestävä muutos",
+  "durationMs": 2840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2040,
+      "startChar": 28,
+      "endChar": 34
+    }
+  ]
+}

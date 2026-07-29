@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bfce40351a057fe9edc172ba",
+  "text": "langaton verkko",
+  "durationMs": 1280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 9,
+      "endChar": 15
+    }
+  ]
+}

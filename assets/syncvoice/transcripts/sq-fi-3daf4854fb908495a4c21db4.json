@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3daf4854fb908495a4c21db4",
+  "text": "Mallit tuottavat tekstiä, kuvia, ääntä, koodia tai muita rakenteita opituista malleista.",
+  "durationMs": 8560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2200,
+      "startChar": 26,
+      "endChar": 33
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3240,
+      "startChar": 33,
+      "endChar": 40
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4240,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 4240,
+      "endMs": 5320,
+      "startChar": 47,
+      "endChar": 51
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5760,
+      "startChar": 51,
+      "endChar": 57
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6160,
+      "startChar": 57,
+      "endChar": 68
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6920,
+      "startChar": 68,
+      "endChar": 78
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7600,
+      "startChar": 78,
+      "endChar": 88
+    }
+  ]
+}

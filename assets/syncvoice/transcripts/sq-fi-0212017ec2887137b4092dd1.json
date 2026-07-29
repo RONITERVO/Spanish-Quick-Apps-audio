@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0212017ec2887137b4092dd1",
+  "text": "Vastaajat eivät ehkä olleet syntyneet, kun alkuperäinen kysymys esitettiin.",
+  "durationMs": 5800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1720,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2960,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3280,
+      "startChar": 43,
+      "endChar": 56
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4120,
+      "startChar": 56,
+      "endChar": 64
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4680,
+      "startChar": 64,
+      "endChar": 75
+    }
+  ]
+}

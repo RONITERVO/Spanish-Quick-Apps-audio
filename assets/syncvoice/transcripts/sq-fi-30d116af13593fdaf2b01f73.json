@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-30d116af13593fdaf2b01f73",
+  "text": "Kun vahvistus ylittää säätökapasiteetin, järjestelmä voi poistua järjestäytyneestä tilastaan.",
+  "durationMs": 7360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 41
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2960,
+      "startChar": 41,
+      "endChar": 53
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3120,
+      "startChar": 53,
+      "endChar": 57
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4520,
+      "startChar": 57,
+      "endChar": 65
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5200,
+      "startChar": 65,
+      "endChar": 83
+    },
+    {
+      "startMs": 5200,
+      "endMs": 6400,
+      "startChar": 83,
+      "endChar": 93
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-98a85de96c370059b147636f",
+  "text": "Tämä raja merkitsee pistettä, jossa tähtienvälinen väliaine hallitsee aurinkotuulen sijaan.",
+  "durationMs": 7680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1640,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2480,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3160,
+      "startChar": 36,
+      "endChar": 51
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4240,
+      "startChar": 51,
+      "endChar": 60
+    },
+    {
+      "startMs": 4240,
+      "endMs": 5080,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5920,
+      "startChar": 70,
+      "endChar": 84
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6840,
+      "startChar": 84,
+      "endChar": 91
+    }
+  ]
+}

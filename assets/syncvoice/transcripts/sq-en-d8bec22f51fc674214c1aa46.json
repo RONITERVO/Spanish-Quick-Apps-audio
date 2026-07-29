@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d8bec22f51fc674214c1aa46",
+  "text": "A cavity of hot gas around the Sun",
+  "durationMs": 3120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 1040,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1400,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1920,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2160,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2400,
+      "startChar": 31,
+      "endChar": 34
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-aceeb72709380ce8dc99417b",
+  "text": "no confirmed destination",
+  "durationMs": 2000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 667,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 667,
+      "endMs": 1333,
+      "startChar": 3,
+      "endChar": 13
+    },
+    {
+      "startMs": 1333,
+      "endMs": 2000,
+      "startChar": 13,
+      "endChar": 24
+    }
+  ]
+}

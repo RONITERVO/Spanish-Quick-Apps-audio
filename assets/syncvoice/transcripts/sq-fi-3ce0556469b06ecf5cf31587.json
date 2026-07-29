@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3ce0556469b06ecf5cf31587",
+  "text": "Koostumus + mikrorakenne + prosessi → materiaalin ominaisuudet",
+  "durationMs": 6960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 12,
+      "endChar": 25
+    },
+    {
+      "startMs": 1360,
+      "endMs": 3040,
+      "startChar": 25,
+      "endChar": 27
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3840,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4640,
+      "startChar": 36,
+      "endChar": 38
+    },
+    {
+      "startMs": 4640,
+      "endMs": 4760,
+      "startChar": 38,
+      "endChar": 50
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5840,
+      "startChar": 50,
+      "endChar": 62
+    }
+  ]
+}

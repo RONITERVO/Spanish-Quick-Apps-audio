@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ae51e465fcd53c985f740680",
+  "text": "Ihmisen ja koneen yhteistyö",
+  "durationMs": 2920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1720,
+      "startChar": 18,
+      "endChar": 27
+    }
+  ]
+}

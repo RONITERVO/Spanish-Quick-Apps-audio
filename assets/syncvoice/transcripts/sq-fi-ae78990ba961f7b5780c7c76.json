@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ae78990ba961f7b5780c7c76",
+  "text": "Massa ja kahva muuttavat käsivarren liikkeen kontrolloiduksi iskuksi.",
+  "durationMs": 5720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 960,
+      "endMs": 1560,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2240,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2840,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3600,
+      "startChar": 45,
+      "endChar": 61
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4720,
+      "startChar": 61,
+      "endChar": 69
+    }
+  ]
+}

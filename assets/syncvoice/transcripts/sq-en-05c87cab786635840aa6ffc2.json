@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-05c87cab786635840aa6ffc2",
+  "text": "Dark Era",
+  "durationMs": 1150,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 575,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 575,
+      "endMs": 1150,
+      "startChar": 5,
+      "endChar": 8
+    }
+  ]
+}

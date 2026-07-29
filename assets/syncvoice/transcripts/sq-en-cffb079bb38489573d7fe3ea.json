@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-cffb079bb38489573d7fe3ea",
+  "text": "bridge to Virgo",
+  "durationMs": 1180,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 393,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 393,
+      "endMs": 787,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 787,
+      "endMs": 1180,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}

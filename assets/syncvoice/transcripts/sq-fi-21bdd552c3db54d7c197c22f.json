@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-21bdd552c3db54d7c197c22f",
+  "text": "Lähtökohta · perustavasta emergenttiin",
+  "durationMs": 4200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1440,
+      "startChar": 13,
+      "endChar": 26
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2560,
+      "startChar": 26,
+      "endChar": 38
+    }
+  ]
+}

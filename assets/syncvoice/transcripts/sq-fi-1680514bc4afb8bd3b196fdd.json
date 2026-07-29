@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1680514bc4afb8bd3b196fdd",
+  "text": "Suuruudet, kuten energia, liikemäärä tai varaus, säilyvät perussymmetrioihin liittyvissä olosuhteissa.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2200,
+      "startChar": 26,
+      "endChar": 37
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3480,
+      "startChar": 37,
+      "endChar": 41
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3800,
+      "startChar": 41,
+      "endChar": 49
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4440,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5440,
+      "startChar": 58,
+      "endChar": 77
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6720,
+      "startChar": 77,
+      "endChar": 89
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7480,
+      "startChar": 89,
+      "endChar": 102
+    }
+  ]
+}

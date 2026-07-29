@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8bce308486d34be86e5a2619",
+  "text": "four small moons",
+  "durationMs": 2060,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 687,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 687,
+      "endMs": 1373,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 1373,
+      "endMs": 2060,
+      "startChar": 11,
+      "endChar": 16
+    }
+  ]
+}

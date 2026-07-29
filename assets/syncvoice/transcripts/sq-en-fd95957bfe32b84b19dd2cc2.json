@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fd95957bfe32b84b19dd2cc2",
+  "text": "very slow loss",
+  "durationMs": 2410,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 803,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 803,
+      "endMs": 1607,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 1607,
+      "endMs": 2410,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

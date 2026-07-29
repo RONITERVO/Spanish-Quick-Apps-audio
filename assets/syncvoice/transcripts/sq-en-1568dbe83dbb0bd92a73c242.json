@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1568dbe83dbb0bd92a73c242",
+  "text": "last scattering",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 5,
+      "endChar": 15
+    }
+  ]
+}

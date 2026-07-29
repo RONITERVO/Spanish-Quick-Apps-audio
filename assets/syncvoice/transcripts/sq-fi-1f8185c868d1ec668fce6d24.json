@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1f8185c868d1ec668fce6d24",
+  "text": "Havaittu kemia ja itsekokoonpano",
+  "durationMs": 3280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 15,
+      "endChar": 18
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1760,
+      "startChar": 18,
+      "endChar": 32
+    }
+  ]
+}

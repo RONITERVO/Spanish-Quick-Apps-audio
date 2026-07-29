@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-939c9aa5295c94d84e8bf01f",
+  "text": "Aurinkotuuli hidastuu äkillisesti kohdatessaan tähtienvälisen avaruuden paineen.",
+  "durationMs": 6120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 34
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2600,
+      "startChar": 34,
+      "endChar": 47
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3440,
+      "startChar": 47,
+      "endChar": 62
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4520,
+      "startChar": 62,
+      "endChar": 72
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5240,
+      "startChar": 72,
+      "endChar": 80
+    }
+  ]
+}

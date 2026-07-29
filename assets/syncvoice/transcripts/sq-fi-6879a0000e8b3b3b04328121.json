@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6879a0000e8b3b3b04328121",
+  "text": "Koordinoidut toimet voivat kertoa, milloin on siirryttävä eteenpäin, lopetettava tai vaihdettava tehtäviä.",
+  "durationMs": 8040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 35
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2560,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3200,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3400,
+      "startChar": 46,
+      "endChar": 58
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4160,
+      "startChar": 58,
+      "endChar": 69
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5000,
+      "startChar": 69,
+      "endChar": 81
+    },
+    {
+      "startMs": 5000,
+      "endMs": 6200,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6480,
+      "startChar": 85,
+      "endChar": 97
+    },
+    {
+      "startMs": 6480,
+      "endMs": 7160,
+      "startChar": 97,
+      "endChar": 106
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f7c5e70f2b5cdc47215e17c8",
+  "text": "valon ja energian lähde",
+  "durationMs": 2680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1880,
+      "startChar": 18,
+      "endChar": 23
+    }
+  ]
+}

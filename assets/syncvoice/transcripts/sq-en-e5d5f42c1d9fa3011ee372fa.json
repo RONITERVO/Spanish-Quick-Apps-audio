@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e5d5f42c1d9fa3011ee372fa",
+  "text": "the sun",
+  "durationMs": 760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 380,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 380,
+      "endMs": 760,
+      "startChar": 4,
+      "endChar": 7
+    }
+  ]
+}

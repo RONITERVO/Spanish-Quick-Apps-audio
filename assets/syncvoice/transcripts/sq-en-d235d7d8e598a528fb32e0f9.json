@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d235d7d8e598a528fb32e0f9",
+  "text": "Built landscapes and increasing permanence",
+  "durationMs": 3920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2040,
+      "startChar": 21,
+      "endChar": 32
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2920,
+      "startChar": 32,
+      "endChar": 42
+    }
+  ]
+}

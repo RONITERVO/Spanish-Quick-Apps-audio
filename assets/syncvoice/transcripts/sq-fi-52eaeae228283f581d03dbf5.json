@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-52eaeae228283f581d03dbf5",
+  "text": "Mahdollinen runsaus · havaittu hiljaisuus",
+  "durationMs": 3880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2080,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2640,
+      "startChar": 31,
+      "endChar": 41
+    }
+  ]
+}

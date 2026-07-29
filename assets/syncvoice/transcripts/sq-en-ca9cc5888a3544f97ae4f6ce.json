@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ca9cc5888a3544f97ae4f6ce",
+  "text": "Repetition with feedback improves precision, speed and automation.",
+  "durationMs": 5560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1800,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2480,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3240,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4080,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4560,
+      "startChar": 55,
+      "endChar": 66
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dc7b9d6b78446b4240a2f609",
+  "text": "Järjestäytynyt aine voi kokea hämmästystä rakenteissa, joihin se itse on osa.",
+  "durationMs": 6480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 20
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1680,
+      "startChar": 20,
+      "endChar": 24
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1960,
+      "startChar": 24,
+      "endChar": 30
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2360,
+      "startChar": 30,
+      "endChar": 42
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3160,
+      "startChar": 42,
+      "endChar": 55
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4000,
+      "startChar": 55,
+      "endChar": 62
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4800,
+      "startChar": 62,
+      "endChar": 65
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5040,
+      "startChar": 65,
+      "endChar": 70
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5560,
+      "startChar": 70,
+      "endChar": 73
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5840,
+      "startChar": 73,
+      "endChar": 77
+    }
+  ]
+}

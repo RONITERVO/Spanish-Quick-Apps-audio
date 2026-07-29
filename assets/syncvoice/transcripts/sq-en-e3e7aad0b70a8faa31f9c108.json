@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e3e7aad0b70a8faa31f9c108",
+  "text": "deep fault",
+  "durationMs": 1130,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 565,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 565,
+      "endMs": 1130,
+      "startChar": 5,
+      "endChar": 10
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3d9f7886247b78737880b270",
+  "text": "Lämpö synnyttää painetta, joka voi liikuttaa mäntiä tai turbiineja.",
+  "durationMs": 5480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2080,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2480,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2680,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3320,
+      "startChar": 45,
+      "endChar": 52
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4040,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4400,
+      "startChar": 56,
+      "endChar": 67
+    }
+  ]
+}

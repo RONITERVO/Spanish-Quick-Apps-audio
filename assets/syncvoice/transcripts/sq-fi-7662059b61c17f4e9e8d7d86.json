@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7662059b61c17f4e9e8d7d86",
+  "text": "Monet ärsykkeet → valinta → prioriteettikäsittely",
+  "durationMs": 4880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1840,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2560,
+      "startChar": 26,
+      "endChar": 28
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3000,
+      "startChar": 28,
+      "endChar": 49
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-440373f10df20d9d9a97e147",
+  "text": "Nestemäinen vesi ja muut liuottimet riippuvat sekä lämpötilasta että paineesta.",
+  "durationMs": 6960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 17,
+      "endChar": 20
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2000,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2440,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3400,
+      "startChar": 36,
+      "endChar": 46
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4240,
+      "startChar": 46,
+      "endChar": 51
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4640,
+      "startChar": 51,
+      "endChar": 64
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5600,
+      "startChar": 64,
+      "endChar": 69
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6000,
+      "startChar": 69,
+      "endChar": 79
+    }
+  ]
+}

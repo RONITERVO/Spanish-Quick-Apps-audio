@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2c1bbff52ada1e41dd13a51c",
+  "text": "Hajautetut mielet · tarkoitus voi olla suuremmassa jatkuvuudessa",
+  "durationMs": 6200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 960,
+      "endMs": 1720,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 1720,
+      "endMs": 1960,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1960,
+      "endMs": 3120,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3480,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3800,
+      "startChar": 39,
+      "endChar": 51
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4800,
+      "startChar": 51,
+      "endChar": 64
+    }
+  ]
+}

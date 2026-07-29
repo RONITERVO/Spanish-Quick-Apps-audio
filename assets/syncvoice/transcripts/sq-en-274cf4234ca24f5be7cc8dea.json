@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-274cf4234ca24f5be7cc8dea",
+  "text": "not a wall",
+  "durationMs": 770,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 257,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 257,
+      "endMs": 513,
+      "startChar": 4,
+      "endChar": 6
+    },
+    {
+      "startMs": 513,
+      "endMs": 770,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}

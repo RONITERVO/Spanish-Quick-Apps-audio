@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3269ce35add1b1503734f4f5",
+  "text": "Aine vie vähemmän tilaa ja tihenee syvyyden myötä.",
+  "durationMs": 4360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 24
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2080,
+      "startChar": 24,
+      "endChar": 27
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2320,
+      "startChar": 27,
+      "endChar": 35
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3000,
+      "startChar": 35,
+      "endChar": 44
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3640,
+      "startChar": 44,
+      "endChar": 50
+    }
+  ]
+}

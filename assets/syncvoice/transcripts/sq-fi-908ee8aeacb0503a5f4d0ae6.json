@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-908ee8aeacb0503a5f4d0ae6",
+  "text": "Katalyytti nopeuttaa reaktiota tarjoamalla vaihtoehtoisen reitin ilman, että se kuluu idealisoidussa prosessissa.",
+  "durationMs": 8480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3160,
+      "startChar": 43,
+      "endChar": 58
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4240,
+      "startChar": 58,
+      "endChar": 65
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4840,
+      "startChar": 65,
+      "endChar": 72
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5440,
+      "startChar": 72,
+      "endChar": 77
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5680,
+      "startChar": 77,
+      "endChar": 80
+    },
+    {
+      "startMs": 5680,
+      "endMs": 5920,
+      "startChar": 80,
+      "endChar": 86
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6440,
+      "startChar": 86,
+      "endChar": 101
+    },
+    {
+      "startMs": 6440,
+      "endMs": 7400,
+      "startChar": 101,
+      "endChar": 113
+    }
+  ]
+}

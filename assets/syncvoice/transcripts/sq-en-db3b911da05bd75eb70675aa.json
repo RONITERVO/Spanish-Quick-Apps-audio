@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-db3b911da05bd75eb70675aa",
+  "text": "extreme cold",
+  "durationMs": 1780,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 890,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 890,
+      "endMs": 1780,
+      "startChar": 8,
+      "endChar": 12
+    }
+  ]
+}

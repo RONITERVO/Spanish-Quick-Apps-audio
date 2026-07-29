@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-978594f6d3acf333e79af7eb",
+  "text": "Prosessori, muisti ja oheislaitteet ohjaavat tiettyjä koneita.",
+  "durationMs": 4800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1880,
+      "startChar": 22,
+      "endChar": 36
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2880,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3480,
+      "startChar": 45,
+      "endChar": 54
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4000,
+      "startChar": 54,
+      "endChar": 62
+    }
+  ]
+}

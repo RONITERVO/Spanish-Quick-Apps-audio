@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d37ae91d1edda4c9b61ddc13",
+  "text": "Valokartiot · kausaalisen etenemisen yleinen raja",
+  "durationMs": 4640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 1240,
+      "startChar": 12,
+      "endChar": 14
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1480,
+      "startChar": 14,
+      "endChar": 26
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2560,
+      "startChar": 26,
+      "endChar": 37
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3400,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4000,
+      "startChar": 45,
+      "endChar": 49
+    }
+  ]
+}

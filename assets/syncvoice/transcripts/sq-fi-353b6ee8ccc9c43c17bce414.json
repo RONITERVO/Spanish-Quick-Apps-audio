@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-353b6ee8ccc9c43c17bce414",
+  "text": "Havaittu → rekonstruoitu",
+  "durationMs": 2370,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 790,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 790,
+      "endMs": 1580,
+      "startChar": 9,
+      "endChar": 11
+    },
+    {
+      "startMs": 1580,
+      "endMs": 2370,
+      "startChar": 11,
+      "endChar": 24
+    }
+  ]
+}

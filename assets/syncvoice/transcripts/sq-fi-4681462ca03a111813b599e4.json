@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4681462ca03a111813b599e4",
+  "text": "Kokonaisuuden suuruus ei automaattisesti poista sen komponenttien kokemuksia.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1920,
+      "startChar": 25,
+      "endChar": 41
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2920,
+      "startChar": 41,
+      "endChar": 48
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3400,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3640,
+      "startChar": 52,
+      "endChar": 66
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4400,
+      "startChar": 66,
+      "endChar": 77
+    }
+  ]
+}

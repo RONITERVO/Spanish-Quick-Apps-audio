@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d964784ecd5a959df9749cd1",
+  "text": "Väliaine, vastaanottimet ja taustalähteet heikentävät signaalia ja edellyttävät toisteisuuden käyttöä.",
+  "durationMs": 9080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 10,
+      "endChar": 25
+    },
+    {
+      "startMs": 960,
+      "endMs": 2560,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2960,
+      "startChar": 28,
+      "endChar": 42
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4120,
+      "startChar": 42,
+      "endChar": 54
+    },
+    {
+      "startMs": 4120,
+      "endMs": 5000,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5760,
+      "startChar": 64,
+      "endChar": 67
+    },
+    {
+      "startMs": 5760,
+      "endMs": 5840,
+      "startChar": 67,
+      "endChar": 80
+    },
+    {
+      "startMs": 5840,
+      "endMs": 7160,
+      "startChar": 80,
+      "endChar": 94
+    },
+    {
+      "startMs": 7160,
+      "endMs": 8160,
+      "startChar": 94,
+      "endChar": 102
+    }
+  ]
+}

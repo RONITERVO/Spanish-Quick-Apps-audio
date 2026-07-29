@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f9916eb70445da18e53670f8",
+  "text": "new story",
+  "durationMs": 830,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 415,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 415,
+      "endMs": 830,
+      "startChar": 4,
+      "endChar": 9
+    }
+  ]
+}

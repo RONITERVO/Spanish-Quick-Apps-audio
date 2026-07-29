@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a5137554729c1088ec79476e",
+  "text": "The panels convert light into variable electricity and require networking, storage, space, materials and recycling.",
+  "durationMs": 10000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1320,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1840,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2360,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3080,
+      "startChar": 39,
+      "endChar": 51
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3920,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4000,
+      "startChar": 55,
+      "endChar": 63
+    },
+    {
+      "startMs": 4000,
+      "endMs": 5000,
+      "startChar": 63,
+      "endChar": 75
+    },
+    {
+      "startMs": 5000,
+      "endMs": 6040,
+      "startChar": 75,
+      "endChar": 84
+    },
+    {
+      "startMs": 6040,
+      "endMs": 7000,
+      "startChar": 84,
+      "endChar": 91
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7800,
+      "startChar": 91,
+      "endChar": 101
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8760,
+      "startChar": 101,
+      "endChar": 105
+    },
+    {
+      "startMs": 8760,
+      "endMs": 9080,
+      "startChar": 105,
+      "endChar": 115
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-657d2211485790618ac23d73",
+  "text": "linear chain",
+  "durationMs": 1150,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 575,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 575,
+      "endMs": 1150,
+      "startChar": 7,
+      "endChar": 12
+    }
+  ]
+}

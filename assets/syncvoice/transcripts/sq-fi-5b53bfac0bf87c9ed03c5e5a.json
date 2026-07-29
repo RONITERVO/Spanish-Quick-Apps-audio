@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5b53bfac0bf87c9ed03c5e5a",
+  "text": "Supistuvat kudokset muuttavat kemiallisen energian liikkeeksi.",
+  "durationMs": 5120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2400,
+      "startChar": 30,
+      "endChar": 42
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3200,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 3200,
+      "endMs": 4000,
+      "startChar": 51,
+      "endChar": 62
+    }
+  ]
+}

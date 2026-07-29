@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-81a315249f69f4b7bc6d6463",
+  "text": "Burning fuel inside a machine produces rapid expansion, movement and emissions.",
+  "durationMs": 6920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1440,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2520,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3320,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3840,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4680,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5600,
+      "startChar": 65,
+      "endChar": 69
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5960,
+      "startChar": 69,
+      "endChar": 79
+    }
+  ]
+}

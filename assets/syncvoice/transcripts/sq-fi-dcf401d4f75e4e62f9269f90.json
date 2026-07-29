@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dcf401d4f75e4e62f9269f90",
+  "text": "Aineen jakauman tyypillinen mittakaava säilyttää alkuplasman aaltojen jäljen.",
+  "durationMs": 5960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2040,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3560,
+      "startChar": 49,
+      "endChar": 61
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4520,
+      "startChar": 61,
+      "endChar": 70
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5120,
+      "startChar": 70,
+      "endChar": 77
+    }
+  ]
+}

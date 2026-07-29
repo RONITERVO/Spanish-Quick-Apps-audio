@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0a229732d1e72aa2c59ce5b8",
+  "text": "Certain molecules couple favorable reactions with processes that require energy input.",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2040,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2840,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3800,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4120,
+      "startChar": 50,
+      "endChar": 60
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4960,
+      "startChar": 60,
+      "endChar": 65
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5280,
+      "startChar": 65,
+      "endChar": 73
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5920,
+      "startChar": 73,
+      "endChar": 80
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6360,
+      "startChar": 80,
+      "endChar": 86
+    }
+  ]
+}

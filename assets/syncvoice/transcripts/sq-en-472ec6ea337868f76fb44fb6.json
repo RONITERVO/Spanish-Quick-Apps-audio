@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-472ec6ea337868f76fb44fb6",
+  "text": "forgotten life",
+  "durationMs": 1000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

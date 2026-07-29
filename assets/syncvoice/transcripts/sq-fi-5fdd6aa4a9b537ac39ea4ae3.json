@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5fdd6aa4a9b537ac39ea4ae3",
+  "text": "Paikallisen ryhmän keskus",
+  "durationMs": 1920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1920,
+      "startChar": 19,
+      "endChar": 25
+    }
+  ]
+}

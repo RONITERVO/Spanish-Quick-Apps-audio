@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0e1327d2ad9feb512ef40791",
+  "text": "Selection + calendar + work + storage → planned production",
+  "durationMs": 8400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 1040,
+      "startChar": 10,
+      "endChar": 12
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1880,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2800,
+      "startChar": 21,
+      "endChar": 23
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3600,
+      "startChar": 23,
+      "endChar": 28
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4320,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5040,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5840,
+      "startChar": 38,
+      "endChar": 40
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6720,
+      "startChar": 40,
+      "endChar": 48
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7360,
+      "startChar": 48,
+      "endChar": 58
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eed089b9f79adf85dbdc648a",
+  "text": "neutraali kaasu",
+  "durationMs": 1400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 700,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 700,
+      "endMs": 1400,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}

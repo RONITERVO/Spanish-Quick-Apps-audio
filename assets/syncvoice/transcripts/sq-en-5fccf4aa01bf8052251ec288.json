@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5fccf4aa01bf8052251ec288",
+  "text": "satellite service",
+  "durationMs": 1000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 10,
+      "endChar": 17
+    }
+  ]
+}

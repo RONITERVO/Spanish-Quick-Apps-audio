@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a3bf473b7d8ffed7231db3d2",
+  "text": "Quick responses can reduce the risk of predation or damage.",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1600,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1860,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1860,
+      "endMs": 2120,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2400,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2680,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3640,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3880,
+      "startChar": 52,
+      "endChar": 59
+    }
+  ]
+}

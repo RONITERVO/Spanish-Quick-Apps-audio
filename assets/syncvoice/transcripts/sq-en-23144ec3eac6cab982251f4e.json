@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-23144ec3eac6cab982251f4e",
+  "text": "Directly detected",
+  "durationMs": 1490,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 745,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 745,
+      "endMs": 1490,
+      "startChar": 9,
+      "endChar": 17
+    }
+  ]
+}

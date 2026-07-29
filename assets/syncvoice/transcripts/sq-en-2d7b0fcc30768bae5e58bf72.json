@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2d7b0fcc30768bae5e58bf72",
+  "text": "Ports connect land, river and sea transportation.",
+  "durationMs": 4280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 14,
+      "endChar": 20
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1840,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2520,
+      "startChar": 26,
+      "endChar": 30
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2920,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3120,
+      "startChar": 34,
+      "endChar": 49
+    }
+  ]
+}

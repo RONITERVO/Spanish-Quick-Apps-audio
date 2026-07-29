@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ae200104169e1d821b6e903b",
+  "text": "Pienet esineet voivat vierailla järjestelmissä ilman jatkuvaa kommunikointia lähteensä kanssa.",
+  "durationMs": 6640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1480,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2080,
+      "startChar": 32,
+      "endChar": 47
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3200,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3720,
+      "startChar": 53,
+      "endChar": 62
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4320,
+      "startChar": 62,
+      "endChar": 77
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5240,
+      "startChar": 77,
+      "endChar": 87
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5840,
+      "startChar": 87,
+      "endChar": 94
+    }
+  ]
+}

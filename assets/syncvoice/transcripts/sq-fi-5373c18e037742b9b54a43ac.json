@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5373c18e037742b9b54a43ac",
+  "text": "Lämpö virtaa spontaanisti kuumemmilta alueilta kylmemmille alueille niin kauan kuin lämpötilaero on olemassa.",
+  "durationMs": 8440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 13,
+      "endChar": 26
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2120,
+      "startChar": 26,
+      "endChar": 38
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2920,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3560,
+      "startChar": 47,
+      "endChar": 59
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4360,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4960,
+      "startChar": 68,
+      "endChar": 73
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5080,
+      "startChar": 73,
+      "endChar": 79
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5920,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6280,
+      "startChar": 84,
+      "endChar": 97
+    },
+    {
+      "startMs": 6280,
+      "endMs": 7240,
+      "startChar": 97,
+      "endChar": 100
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7520,
+      "startChar": 100,
+      "endChar": 109
+    }
+  ]
+}

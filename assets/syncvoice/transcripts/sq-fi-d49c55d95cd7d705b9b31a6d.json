@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d49c55d95cd7d705b9b31a6d",
+  "text": "Yhteistyö jakaa tehtäviä, yhdistää erikoistumista ja mahdollistaa yksilön saavuttamattomien tavoitteiden.",
+  "durationMs": 8080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2040,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2880,
+      "startChar": 35,
+      "endChar": 50
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3440,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4000,
+      "startChar": 53,
+      "endChar": 66
+    },
+    {
+      "startMs": 4000,
+      "endMs": 5280,
+      "startChar": 66,
+      "endChar": 74
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5880,
+      "startChar": 74,
+      "endChar": 92
+    },
+    {
+      "startMs": 5880,
+      "endMs": 7000,
+      "startChar": 92,
+      "endChar": 105
+    }
+  ]
+}

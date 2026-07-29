@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8cf32c2aab75a4a74ffff8a9",
+  "text": "Widely established biological transduction",
+  "durationMs": 3920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2800,
+      "startChar": 30,
+      "endChar": 42
+    }
+  ]
+}

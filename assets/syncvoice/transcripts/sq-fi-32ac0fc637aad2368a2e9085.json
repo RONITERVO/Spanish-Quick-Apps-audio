@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-32ac0fc637aad2368a2e9085",
+  "text": "Laskeutumalla alempaan energiatilaan atomi voi lähettää valoa ominaistaajuuksilla.",
+  "durationMs": 6920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 23
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1760,
+      "startChar": 23,
+      "endChar": 37
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2840,
+      "startChar": 37,
+      "endChar": 43
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3600,
+      "startChar": 43,
+      "endChar": 47
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4480,
+      "startChar": 56,
+      "endChar": 62
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5120,
+      "startChar": 62,
+      "endChar": 82
+    }
+  ]
+}

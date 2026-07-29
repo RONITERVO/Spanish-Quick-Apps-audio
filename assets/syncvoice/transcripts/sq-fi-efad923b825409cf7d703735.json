@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-efad923b825409cf7d703735",
+  "text": "Sovellus järjestää tekniset toiminnot ihmisen tehtävän ympärille.",
+  "durationMs": 4640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1960,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2640,
+      "startChar": 38,
+      "endChar": 46
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3160,
+      "startChar": 46,
+      "endChar": 55
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3720,
+      "startChar": 55,
+      "endChar": 65
+    }
+  ]
+}

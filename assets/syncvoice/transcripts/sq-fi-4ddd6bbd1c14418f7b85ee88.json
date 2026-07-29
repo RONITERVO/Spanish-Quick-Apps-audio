@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4ddd6bbd1c14418f7b85ee88",
+  "text": "Maan magneettikenttä ohjaa suuren osan aurinkotuulesta.",
+  "durationMs": 4520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2120,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2680,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3120,
+      "startChar": 39,
+      "endChar": 55
+    }
+  ]
+}

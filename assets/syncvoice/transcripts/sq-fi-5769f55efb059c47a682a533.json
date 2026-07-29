@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5769f55efb059c47a682a533",
+  "text": "Tuotu esine voi paljastaa suunnittelun ja mukauttaa paikallisesti.",
+  "durationMs": 5240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2080,
+      "startChar": 26,
+      "endChar": 39
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3040,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4040,
+      "startChar": 52,
+      "endChar": 66
+    }
+  ]
+}

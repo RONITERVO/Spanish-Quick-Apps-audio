@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0ed5b8b26e5c7040fc69338b",
+  "text": "Sen erittäin kylmässä ilmakehässä puhaltaa satojen kilometrien tuntinopeudella kulkevia tuulia.",
+  "durationMs": 7440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1920,
+      "startChar": 22,
+      "endChar": 34
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2760,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3480,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4320,
+      "startChar": 51,
+      "endChar": 63
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5120,
+      "startChar": 63,
+      "endChar": 79
+    },
+    {
+      "startMs": 5120,
+      "endMs": 6080,
+      "startChar": 79,
+      "endChar": 88
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6640,
+      "startChar": 88,
+      "endChar": 95
+    }
+  ]
+}

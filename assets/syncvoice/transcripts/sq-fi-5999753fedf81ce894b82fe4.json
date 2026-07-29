@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5999753fedf81ce894b82fe4",
+  "text": "Avaruudenkaltaisesti erillään olevat tapahtumat eivät voi vaikuttaa toisiinsa ilman valoa nopeampaa signaalia; niiden aikajärjestys voi riippua havaitsijasta.",
+  "durationMs": 13160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 21
+    },
+    {
+      "startMs": 75,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2520,
+      "startChar": 30,
+      "endChar": 37
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3000,
+      "startChar": 37,
+      "endChar": 48
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3880,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4400,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4640,
+      "startChar": 58,
+      "endChar": 68
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5360,
+      "startChar": 68,
+      "endChar": 78
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6160,
+      "startChar": 78,
+      "endChar": 84
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6920,
+      "startChar": 84,
+      "endChar": 90
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7400,
+      "startChar": 90,
+      "endChar": 100
+    },
+    {
+      "startMs": 7400,
+      "endMs": 8120,
+      "startChar": 100,
+      "endChar": 111
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8960,
+      "startChar": 111,
+      "endChar": 118
+    },
+    {
+      "startMs": 8960,
+      "endMs": 9080,
+      "startChar": 118,
+      "endChar": 132
+    },
+    {
+      "startMs": 9080,
+      "endMs": 11120,
+      "startChar": 132,
+      "endChar": 136
+    },
+    {
+      "startMs": 11120,
+      "endMs": 11360,
+      "startChar": 136,
+      "endChar": 144
+    },
+    {
+      "startMs": 11360,
+      "endMs": 11960,
+      "startChar": 144,
+      "endChar": 158
+    }
+  ]
+}

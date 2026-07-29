@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-daa1bddd142416efe26a9fb7",
+  "text": "Error detection and repair increases the persistence of information over time.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1480,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2120,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2520,
+      "startChar": 37,
+      "endChar": 41
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2920,
+      "startChar": 41,
+      "endChar": 53
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3880,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4080,
+      "startChar": 56,
+      "endChar": 68
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4880,
+      "startChar": 68,
+      "endChar": 73
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5120,
+      "startChar": 73,
+      "endChar": 78
+    }
+  ]
+}

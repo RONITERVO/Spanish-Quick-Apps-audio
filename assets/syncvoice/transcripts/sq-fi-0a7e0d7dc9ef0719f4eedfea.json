@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0a7e0d7dc9ef0719f4eedfea",
+  "text": "tuntematon horisontti",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 11,
+      "endChar": 21
+    }
+  ]
+}

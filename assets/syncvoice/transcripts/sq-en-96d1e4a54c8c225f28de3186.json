@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-96d1e4a54c8c225f28de3186",
+  "text": "Organized sound coordinates attention, emotion, memory and movement.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3080,
+      "startChar": 39,
+      "endChar": 48
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4080,
+      "startChar": 48,
+      "endChar": 55
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4960,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5360,
+      "startChar": 59,
+      "endChar": 68
+    }
+  ]
+}

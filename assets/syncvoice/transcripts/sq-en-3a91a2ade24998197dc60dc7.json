@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3a91a2ade24998197dc60dc7",
+  "text": "depends on the scale",
+  "durationMs": 1920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 960,
+      "endMs": 1120,
+      "startChar": 15,
+      "endChar": 20
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8444d322f582f0f8c38eb86a",
+  "text": "Lokero + energia + kopiointi + muuntelu",
+  "durationMs": 5840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1520,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2440,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 2440,
+      "endMs": 4120,
+      "startChar": 29,
+      "endChar": 31
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4800,
+      "startChar": 31,
+      "endChar": 39
+    }
+  ]
+}

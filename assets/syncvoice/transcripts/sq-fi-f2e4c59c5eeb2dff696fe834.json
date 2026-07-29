@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f2e4c59c5eeb2dff696fe834",
+  "text": "Järjestäytynyt ääni koordinoi huomiota, tunteita, muistia ja liikettä.",
+  "durationMs": 6960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 1280,
+      "startChar": 15,
+      "endChar": 20
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1920,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2800,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3720,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4800,
+      "startChar": 50,
+      "endChar": 58
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5720,
+      "startChar": 58,
+      "endChar": 61
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6040,
+      "startChar": 61,
+      "endChar": 70
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6fcd0aeb7a155739aa9d3930",
+  "text": "valtavan paineen puristamia mineraaleja",
+  "durationMs": 3480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 17,
+      "endChar": 28
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 39
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-738ff39be4fb087c4bbb384a",
+  "text": "Numerous high-orbit satellites cross this diffuse boundary.",
+  "durationMs": 4320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2720,
+      "startChar": 37,
+      "endChar": 42
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3000,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3520,
+      "startChar": 50,
+      "endChar": 59
+    }
+  ]
+}

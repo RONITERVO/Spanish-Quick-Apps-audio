@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f54b2ada61e93f807d426ed9",
+  "text": "A useful tool depends on sharpening, repair, skill and access to materials.",
+  "durationMs": 6840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1120,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2040,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3720,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4640,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5200,
+      "startChar": 55,
+      "endChar": 62
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5460,
+      "startChar": 62,
+      "endChar": 65
+    },
+    {
+      "startMs": 5460,
+      "endMs": 5720,
+      "startChar": 65,
+      "endChar": 75
+    }
+  ]
+}

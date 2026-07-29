@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0e7a0970b7604ed5488594b5",
+  "text": "gradual replacement",
+  "durationMs": 1500,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 750,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 750,
+      "endMs": 1500,
+      "startChar": 8,
+      "endChar": 19
+    }
+  ]
+}

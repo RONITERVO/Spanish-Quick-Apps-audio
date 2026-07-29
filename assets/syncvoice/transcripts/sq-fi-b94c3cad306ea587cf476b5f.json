@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b94c3cad306ea587cf476b5f",
+  "text": "kiinteä kivi, joka virtaa hitaasti",
+  "durationMs": 3080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 14,
+      "endChar": 19
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2160,
+      "startChar": 26,
+      "endChar": 34
+    }
+  ]
+}

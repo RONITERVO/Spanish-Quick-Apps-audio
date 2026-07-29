@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e68cd3931af50da3374af812",
+  "text": "A disturbance can spread from node to node and produce an extensive response.",
+  "durationMs": 5840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1680,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1960,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2360,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2480,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3000,
+      "startChar": 43,
+      "endChar": 47
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3320,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3960,
+      "startChar": 55,
+      "endChar": 58
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4240,
+      "startChar": 58,
+      "endChar": 68
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4960,
+      "startChar": 68,
+      "endChar": 77
+    }
+  ]
+}

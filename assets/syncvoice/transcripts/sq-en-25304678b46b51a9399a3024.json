@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-25304678b46b51a9399a3024",
+  "text": "copper and bronze",
+  "durationMs": 1500,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1500,
+      "startChar": 11,
+      "endChar": 17
+    }
+  ]
+}

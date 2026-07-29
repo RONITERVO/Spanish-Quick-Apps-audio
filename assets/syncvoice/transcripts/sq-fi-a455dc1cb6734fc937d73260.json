@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a455dc1cb6734fc937d73260",
+  "text": "kiinteä ja hauras kivi",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1720,
+      "startChar": 18,
+      "endChar": 22
+    }
+  ]
+}

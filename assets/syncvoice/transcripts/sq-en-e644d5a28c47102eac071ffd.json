@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e644d5a28c47102eac071ffd",
+  "text": "direct observation",
+  "durationMs": 1500,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 750,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 750,
+      "endMs": 1500,
+      "startChar": 7,
+      "endChar": 18
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6c9d06c2096879c1ea21491a",
+  "text": "Kaukainen sijainti muuttaa häiriöympäristöä ja tarjoaa erilaisen havainnointigeometrian.",
+  "durationMs": 7480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1960,
+      "startChar": 27,
+      "endChar": 44
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2680,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3400,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4480,
+      "startChar": 55,
+      "endChar": 65
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5360,
+      "startChar": 65,
+      "endChar": 88
+    }
+  ]
+}

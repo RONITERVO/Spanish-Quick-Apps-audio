@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-420e568804c242e7abc601da",
+  "text": "Koneet + polttoaine tai sähkö + standardointi → suuri tuotantoaste",
+  "durationMs": 6760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 1040,
+      "endMs": 2000,
+      "startChar": 20,
+      "endChar": 24
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2440,
+      "startChar": 24,
+      "endChar": 30
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3080,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3280,
+      "startChar": 32,
+      "endChar": 46
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4640,
+      "startChar": 46,
+      "endChar": 48
+    },
+    {
+      "startMs": 4640,
+      "endMs": 4880,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5360,
+      "startChar": 54,
+      "endChar": 66
+    }
+  ]
+}

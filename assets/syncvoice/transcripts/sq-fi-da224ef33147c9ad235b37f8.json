@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-da224ef33147c9ad235b37f8",
+  "text": "Raja neutraalin ja ionisoidun kaasun välillä etenee ensimmäisten valonlähteiden ympärillä.",
+  "durationMs": 7800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2000,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2920,
+      "startChar": 30,
+      "endChar": 37
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3440,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4040,
+      "startChar": 45,
+      "endChar": 52
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4880,
+      "startChar": 52,
+      "endChar": 65
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5840,
+      "startChar": 65,
+      "endChar": 80
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6880,
+      "startChar": 80,
+      "endChar": 90
+    }
+  ]
+}

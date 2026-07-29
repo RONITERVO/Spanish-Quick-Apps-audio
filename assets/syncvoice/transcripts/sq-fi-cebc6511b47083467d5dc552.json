@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cebc6511b47083467d5dc552",
+  "text": "Aika saattaa syntyä suhteista, muutoksista tai termodynaamisista tiloista; yhtä vahvistettua selitystä ei ole.",
+  "durationMs": 8400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1240,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3480,
+      "startChar": 43,
+      "endChar": 47
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 65
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4960,
+      "startChar": 65,
+      "endChar": 75
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5680,
+      "startChar": 75,
+      "endChar": 80
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6360,
+      "startChar": 80,
+      "endChar": 93
+    },
+    {
+      "startMs": 6360,
+      "endMs": 7080,
+      "startChar": 93,
+      "endChar": 103
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7760,
+      "startChar": 103,
+      "endChar": 106
+    },
+    {
+      "startMs": 7760,
+      "endMs": 8000,
+      "startChar": 106,
+      "endChar": 110
+    }
+  ]
+}

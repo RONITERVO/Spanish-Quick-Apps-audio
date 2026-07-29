@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-f5cc934d04942875de0511c5",
+  "text": "Fluktuaatiot kuvaavat kvanttitilan epävarmuuksia ja korrelaatioita; ne eivät välttämättä ole yksittäisiä havaittavia kohteita.",
+  "durationMs": 9680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 22,
+      "endChar": 35
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2560,
+      "startChar": 35,
+      "endChar": 49
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3760,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4000,
+      "startChar": 52,
+      "endChar": 68
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4580,
+      "startChar": 68,
+      "endChar": 71
+    },
+    {
+      "startMs": 4580,
+      "endMs": 5160,
+      "startChar": 71,
+      "endChar": 77
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5240,
+      "startChar": 77,
+      "endChar": 89
+    },
+    {
+      "startMs": 5240,
+      "endMs": 6160,
+      "startChar": 89,
+      "endChar": 93
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6840,
+      "startChar": 93,
+      "endChar": 105
+    },
+    {
+      "startMs": 6840,
+      "endMs": 8000,
+      "startChar": 105,
+      "endChar": 117
+    },
+    {
+      "startMs": 8000,
+      "endMs": 8760,
+      "startChar": 117,
+      "endChar": 126
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-08f896189c328857db3db100",
+  "text": "A habitual response may dominate even if the current situation favors another option.",
+  "durationMs": 6320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 24
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1800,
+      "startChar": 24,
+      "endChar": 33
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2560,
+      "startChar": 33,
+      "endChar": 38
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3080,
+      "startChar": 38,
+      "endChar": 41
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3180,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 3180,
+      "endMs": 3280,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3800,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4600,
+      "startChar": 63,
+      "endChar": 70
+    },
+    {
+      "startMs": 4600,
+      "endMs": 5160,
+      "startChar": 70,
+      "endChar": 78
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5560,
+      "startChar": 78,
+      "endChar": 85
+    }
+  ]
+}

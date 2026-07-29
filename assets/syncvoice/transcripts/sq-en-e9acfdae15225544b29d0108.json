@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e9acfdae15225544b29d0108",
+  "text": "distant sun",
+  "durationMs": 1100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 8,
+      "endChar": 11
+    }
+  ]
+}

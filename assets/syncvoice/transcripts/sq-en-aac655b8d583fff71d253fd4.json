@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-aac655b8d583fff71d253fd4",
+  "text": "remaining records",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 10,
+      "endChar": 17
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-df3180f797c0393847c5a173",
+  "text": "Kokonaisenergia riippuu tähdestä, radasta, albedosta ja ilmakehästä.",
+  "durationMs": 6520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 24
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1920,
+      "startChar": 24,
+      "endChar": 34
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2800,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3840,
+      "startChar": 43,
+      "endChar": 53
+    },
+    {
+      "startMs": 3840,
+      "endMs": 5080,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5400,
+      "startChar": 56,
+      "endChar": 68
+    }
+  ]
+}

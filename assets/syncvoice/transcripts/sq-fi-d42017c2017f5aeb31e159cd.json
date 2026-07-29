@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d42017c2017f5aeb31e159cd",
+  "text": "geometrinen vaihtelu",
+  "durationMs": 1900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 950,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 950,
+      "endMs": 1900,
+      "startChar": 12,
+      "endChar": 20
+    }
+  ]
+}

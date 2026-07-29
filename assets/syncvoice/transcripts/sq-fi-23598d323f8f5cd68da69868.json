@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-23598d323f8f5cd68da69868",
+  "text": "Emme näe lopullisen horisontin pidemmälle.",
+  "durationMs": 3280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 42
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3d1700e30b2da2dce0642ef2",
+  "text": "kupari ja pronssi",
+  "durationMs": 1700,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 567,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 567,
+      "endMs": 1133,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 1133,
+      "endMs": 1700,
+      "startChar": 10,
+      "endChar": 17
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d18abcf28d0f8f3833018a72",
+  "text": "Kuviteltua monimuotoisuutta · ei väitteitä tiedosta",
+  "durationMs": 4400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 28
+    },
+    {
+      "startMs": 150,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2600,
+      "startChar": 30,
+      "endChar": 33
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2800,
+      "startChar": 33,
+      "endChar": 43
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3560,
+      "startChar": 43,
+      "endChar": 51
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9ac0bd4cc16e538be8b20e12",
+  "text": "Tähtääminen naapurialueelle auttaa tarkistamaan, pysyykö kuvio sidottuna taivaaseen tai instrumenttiin.",
+  "durationMs": 7880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 28
+    },
+    {
+      "startMs": 150,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2600,
+      "startChar": 35,
+      "endChar": 49
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3480,
+      "startChar": 49,
+      "endChar": 57
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4320,
+      "startChar": 57,
+      "endChar": 63
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4760,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5440,
+      "startChar": 73,
+      "endChar": 84
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6320,
+      "startChar": 84,
+      "endChar": 88
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6680,
+      "startChar": 88,
+      "endChar": 103
+    }
+  ]
+}

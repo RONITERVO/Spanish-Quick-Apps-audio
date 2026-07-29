@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7fdc8cbd4f5857c0cb93f533",
+  "text": "Neutriinot ovat vuorovaikutuksessa heikosti ja voivat kulkea valtavia matkoja törmäämättä toiseen hiukkaseen.",
+  "durationMs": 8280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 16,
+      "endChar": 35
+    },
+    {
+      "startMs": 1080,
+      "endMs": 2240,
+      "startChar": 35,
+      "endChar": 44
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3000,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3600,
+      "startChar": 47,
+      "endChar": 54
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4000,
+      "startChar": 54,
+      "endChar": 61
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4600,
+      "startChar": 61,
+      "endChar": 70
+    },
+    {
+      "startMs": 4600,
+      "endMs": 5320,
+      "startChar": 70,
+      "endChar": 78
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5880,
+      "startChar": 78,
+      "endChar": 90
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6720,
+      "startChar": 90,
+      "endChar": 98
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7240,
+      "startChar": 98,
+      "endChar": 109
+    }
+  ]
+}

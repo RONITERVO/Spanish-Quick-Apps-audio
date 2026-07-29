@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1e91f391cbae3f4bbe21325f",
+  "text": "Etäisyys + teho + koodaus + konteksti → hidas ja osittainen vaihto",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1840,
+      "startChar": 16,
+      "endChar": 18
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2680,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3560,
+      "startChar": 26,
+      "endChar": 28
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4680,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4760,
+      "startChar": 38,
+      "endChar": 40
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5200,
+      "startChar": 40,
+      "endChar": 46
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5960,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6360,
+      "startChar": 49,
+      "endChar": 60
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6560,
+      "startChar": 60,
+      "endChar": 66
+    }
+  ]
+}

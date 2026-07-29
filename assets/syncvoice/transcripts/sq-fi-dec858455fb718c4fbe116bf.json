@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-dec858455fb718c4fbe116bf",
+  "text": "ei suoraa havaitsemista",
+  "durationMs": 1750,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 583,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 583,
+      "endMs": 1167,
+      "startChar": 3,
+      "endChar": 10
+    },
+    {
+      "startMs": 1167,
+      "endMs": 1750,
+      "startChar": 10,
+      "endChar": 23
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c7fcf9246eb7c70c6df794ae",
+  "text": "Valo kulki törmäysten välillä vain lyhyitä matkoja, joten se ei voi välittää meille suoraa kuvaa varhaisemmista ajoista.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 22
+    },
+    {
+      "startMs": 225,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2120,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2400,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3000,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3640,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4320,
+      "startChar": 58,
+      "endChar": 61
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4560,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 4560,
+      "endMs": 4720,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4720,
+      "endMs": 4920,
+      "startChar": 68,
+      "endChar": 77
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5560,
+      "startChar": 77,
+      "endChar": 84
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5880,
+      "startChar": 84,
+      "endChar": 91
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6480,
+      "startChar": 91,
+      "endChar": 97
+    },
+    {
+      "startMs": 6480,
+      "endMs": 6880,
+      "startChar": 97,
+      "endChar": 112
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7880,
+      "startChar": 112,
+      "endChar": 120
+    }
+  ]
+}

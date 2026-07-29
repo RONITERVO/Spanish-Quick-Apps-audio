@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-00800e387ee23fd45f34fa8e",
+  "text": "decide whether to respond",
+  "durationMs": 1680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 15,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 18,
+      "endChar": 25
+    }
+  ]
+}

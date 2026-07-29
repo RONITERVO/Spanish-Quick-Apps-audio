@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d78cf54bb372078c61a03640",
+  "text": "Osallistuminen yrittämättä kontrolloida voi muuttaa suhdetta havaittuun.",
+  "durationMs": 6120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 150,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 40
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3400,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3720,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4360,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5000,
+      "startChar": 61,
+      "endChar": 72
+    }
+  ]
+}

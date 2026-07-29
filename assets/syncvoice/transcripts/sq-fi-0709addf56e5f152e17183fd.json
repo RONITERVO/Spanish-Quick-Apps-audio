@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0709addf56e5f152e17183fd",
+  "text": "Monimutkaisuus alkaa, kun monet elementit vaikuttavat toisiinsa paikallisten sääntöjen kautta.",
+  "durationMs": 7000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2200,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2680,
+      "startChar": 32,
+      "endChar": 42
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 54
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4080,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4800,
+      "startChar": 64,
+      "endChar": 77
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5680,
+      "startChar": 77,
+      "endChar": 87
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6240,
+      "startChar": 87,
+      "endChar": 94
+    }
+  ]
+}

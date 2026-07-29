@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-en-54f415e3699c9bf8d7b287c6",
+  "text": "Waiting between rare events can prolong external time while reducing the continuity of active experience.",
+  "durationMs": 8400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2200,
+      "startChar": 28,
+      "endChar": 32
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2560,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3320,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3880,
+      "startChar": 49,
+      "endChar": 54
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4280,
+      "startChar": 54,
+      "endChar": 60
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4400,
+      "startChar": 60,
+      "endChar": 69
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4940,
+      "startChar": 69,
+      "endChar": 73
+    },
+    {
+      "startMs": 4940,
+      "endMs": 5480,
+      "startChar": 73,
+      "endChar": 84
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6560,
+      "startChar": 84,
+      "endChar": 87
+    },
+    {
+      "startMs": 6560,
+      "endMs": 6840,
+      "startChar": 87,
+      "endChar": 94
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7280,
+      "startChar": 94,
+      "endChar": 105
+    }
+  ]
+}

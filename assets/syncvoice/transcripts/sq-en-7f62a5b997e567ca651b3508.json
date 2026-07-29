@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7f62a5b997e567ca651b3508",
+  "text": "Even a directed transmission opens with distance, reducing the energy received.",
+  "durationMs": 6560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1520,
+      "startChar": 16,
+      "endChar": 29
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2440,
+      "startChar": 29,
+      "endChar": 35
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3040,
+      "startChar": 35,
+      "endChar": 40
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3280,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3960,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4035,
+      "startChar": 59,
+      "endChar": 63
+    },
+    {
+      "startMs": 4035,
+      "endMs": 5240,
+      "startChar": 63,
+      "endChar": 70
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5720,
+      "startChar": 70,
+      "endChar": 79
+    }
+  ]
+}

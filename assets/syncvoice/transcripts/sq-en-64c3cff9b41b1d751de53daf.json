@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-64c3cff9b41b1d751de53daf",
+  "text": "People transport entire practices, not just goods.",
+  "durationMs": 4560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 17,
+      "endChar": 24
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2080,
+      "startChar": 24,
+      "endChar": 35
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3000,
+      "startChar": 35,
+      "endChar": 39
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3520,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3840,
+      "startChar": 44,
+      "endChar": 50
+    }
+  ]
+}

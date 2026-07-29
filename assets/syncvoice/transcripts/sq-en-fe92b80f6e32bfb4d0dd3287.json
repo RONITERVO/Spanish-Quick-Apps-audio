@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fe92b80f6e32bfb4d0dd3287",
+  "text": "Sought · not confirmed",
+  "durationMs": 2400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 13,
+      "endChar": 22
+    }
+  ]
+}

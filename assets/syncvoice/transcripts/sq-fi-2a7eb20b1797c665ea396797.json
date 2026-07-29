@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2a7eb20b1797c665ea396797",
+  "text": "Vahvistus on vahvempi, kun observatoriot, joilla ei ole samoja virheitä, saavat yhteensopivia tuloksia.",
+  "durationMs": 7960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 960,
+      "endMs": 1720,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2240,
+      "startChar": 27,
+      "endChar": 42
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3360,
+      "startChar": 42,
+      "endChar": 49
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3840,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4080,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4800,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5560,
+      "startChar": 73,
+      "endChar": 80
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6160,
+      "startChar": 80,
+      "endChar": 94
+    },
+    {
+      "startMs": 6160,
+      "endMs": 7080,
+      "startChar": 94,
+      "endChar": 103
+    }
+  ]
+}

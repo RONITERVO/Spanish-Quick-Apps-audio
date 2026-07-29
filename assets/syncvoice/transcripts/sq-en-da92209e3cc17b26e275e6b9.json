@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-da92209e3cc17b26e275e6b9",
+  "text": "nuclear star cluster",
+  "durationMs": 1800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 8,
+      "endChar": 13
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1800,
+      "startChar": 13,
+      "endChar": 20
+    }
+  ]
+}

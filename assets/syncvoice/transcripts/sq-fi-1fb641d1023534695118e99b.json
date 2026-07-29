@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1fb641d1023534695118e99b",
+  "text": "Kuplat kasvavat ja yhdistyvät muuttaen galaksienvälistä ainetta kaikkialla.",
+  "durationMs": 6080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1480,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2400,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3320,
+      "startChar": 39,
+      "endChar": 56
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4520,
+      "startChar": 56,
+      "endChar": 64
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5040,
+      "startChar": 64,
+      "endChar": 75
+    }
+  ]
+}

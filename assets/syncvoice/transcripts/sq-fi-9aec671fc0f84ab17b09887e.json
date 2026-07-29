@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9aec671fc0f84ab17b09887e",
+  "text": "Aine–energia ↔ dynaaminen geometria",
+  "durationMs": 3800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 1200,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2160,
+      "startChar": 15,
+      "endChar": 26
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2880,
+      "startChar": 26,
+      "endChar": 35
+    }
+  ]
+}

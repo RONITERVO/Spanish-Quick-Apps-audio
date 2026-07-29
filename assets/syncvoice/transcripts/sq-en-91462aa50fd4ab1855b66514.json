@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-91462aa50fd4ab1855b66514",
+  "text": "False positives",
+  "durationMs": 1260,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 630,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 630,
+      "endMs": 1260,
+      "startChar": 6,
+      "endChar": 15
+    }
+  ]
+}

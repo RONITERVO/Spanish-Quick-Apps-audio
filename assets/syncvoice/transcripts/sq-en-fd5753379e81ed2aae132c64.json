@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fd5753379e81ed2aae132c64",
+  "text": "isolated points",
+  "durationMs": 1100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 9,
+      "endChar": 15
+    }
+  ]
+}

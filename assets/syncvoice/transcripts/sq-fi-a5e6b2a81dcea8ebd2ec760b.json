@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a5e6b2a81dcea8ebd2ec760b",
+  "text": "Aurinkotuulen kupla · muuttuva raja",
+  "durationMs": 3680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 1240,
+      "startChar": 14,
+      "endChar": 20
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1880,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2200,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2960,
+      "startChar": 31,
+      "endChar": 35
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c6c6628b6e05cdf927db797a",
+  "text": "Homeostasis maintains variables within viable ranges through multiple regulatory loops.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2800,
+      "startChar": 32,
+      "endChar": 39
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3240,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3800,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4480,
+      "startChar": 53,
+      "endChar": 61
+    },
+    {
+      "startMs": 4480,
+      "endMs": 4920,
+      "startChar": 61,
+      "endChar": 70
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5600,
+      "startChar": 70,
+      "endChar": 81
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6440,
+      "startChar": 81,
+      "endChar": 87
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-73c9541cf679803d2ec5fe8f",
+  "text": "A universe without observers",
+  "durationMs": 2560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 960,
+      "endMs": 1520,
+      "startChar": 19,
+      "endChar": 28
+    }
+  ]
+}

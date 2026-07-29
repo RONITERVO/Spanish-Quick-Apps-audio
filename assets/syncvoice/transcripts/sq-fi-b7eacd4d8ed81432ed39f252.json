@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b7eacd4d8ed81432ed39f252",
+  "text": "Jotkin seuralaisgalaksit ovat niin himmeitä, että ne löydetään vain laskemalla tarkasti niiden tähtiä.",
+  "durationMs": 7240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2040,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2360,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3160,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3420,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3420,
+      "endMs": 3680,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4360,
+      "startChar": 63,
+      "endChar": 68
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4640,
+      "startChar": 68,
+      "endChar": 79
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5360,
+      "startChar": 79,
+      "endChar": 88
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6000,
+      "startChar": 88,
+      "endChar": 95
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6400,
+      "startChar": 95,
+      "endChar": 102
+    }
+  ]
+}

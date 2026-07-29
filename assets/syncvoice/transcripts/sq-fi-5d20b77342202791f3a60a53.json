@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5d20b77342202791f3a60a53",
+  "text": "visuaalinen hiljaisuus",
+  "durationMs": 2130,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1065,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 1065,
+      "endMs": 2130,
+      "startChar": 12,
+      "endChar": 22
+    }
+  ]
+}

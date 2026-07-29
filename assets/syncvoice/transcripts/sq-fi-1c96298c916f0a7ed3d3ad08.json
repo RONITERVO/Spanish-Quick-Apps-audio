@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1c96298c916f0a7ed3d3ad08",
+  "text": "kosketus ja lämpötila",
+  "durationMs": 1980,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 660,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 660,
+      "endMs": 1320,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1980,
+      "startChar": 12,
+      "endChar": 21
+    }
+  ]
+}

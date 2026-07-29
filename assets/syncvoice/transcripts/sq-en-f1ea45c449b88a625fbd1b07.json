@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-f1ea45c449b88a625fbd1b07",
+  "text": "Signal → response → new signal",
+  "durationMs": 3080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1840,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2120,
+      "startChar": 20,
+      "endChar": 24
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2320,
+      "startChar": 24,
+      "endChar": 30
+    }
+  ]
+}

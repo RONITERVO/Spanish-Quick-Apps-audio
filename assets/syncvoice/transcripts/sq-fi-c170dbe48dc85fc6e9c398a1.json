@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c170dbe48dc85fc6e9c398a1",
+  "text": "tunnustettu tietämättömyys",
+  "durationMs": 2020,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1010,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 1010,
+      "endMs": 2020,
+      "startChar": 12,
+      "endChar": 26
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8260159748d71a34b467d0aa",
+  "text": "Boundary of the Local Group",
+  "durationMs": 2440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 695,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 695,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 27
+    }
+  ]
+}

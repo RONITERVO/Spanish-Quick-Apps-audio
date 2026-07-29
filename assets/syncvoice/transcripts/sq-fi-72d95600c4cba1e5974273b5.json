@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-72d95600c4cba1e5974273b5",
+  "text": "Ionosfääri muuttaa radioaaltoja ja heijastaa niitä tietyillä taajuuksilla takaisin.",
+  "durationMs": 6560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 960,
+      "endMs": 1600,
+      "startChar": 19,
+      "endChar": 32
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2680,
+      "startChar": 32,
+      "endChar": 35
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3120,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3760,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4120,
+      "startChar": 51,
+      "endChar": 61
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4760,
+      "startChar": 61,
+      "endChar": 74
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5560,
+      "startChar": 74,
+      "endChar": 83
+    }
+  ]
+}

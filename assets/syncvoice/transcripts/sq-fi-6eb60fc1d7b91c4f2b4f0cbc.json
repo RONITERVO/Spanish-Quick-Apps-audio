@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6eb60fc1d7b91c4f2b4f0cbc",
+  "text": "Emme tiedä, mikä fysikaalinen prosessi tuotti varhaisen tilan, josta havaittava kehitys sai alkunsa.",
+  "durationMs": 7400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1360,
+      "startChar": 17,
+      "endChar": 30
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2240,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2840,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3320,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4000,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4480,
+      "startChar": 63,
+      "endChar": 69
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5080,
+      "startChar": 69,
+      "endChar": 80
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5680,
+      "startChar": 80,
+      "endChar": 88
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6240,
+      "startChar": 88,
+      "endChar": 92
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6520,
+      "startChar": 92,
+      "endChar": 100
+    }
+  ]
+}

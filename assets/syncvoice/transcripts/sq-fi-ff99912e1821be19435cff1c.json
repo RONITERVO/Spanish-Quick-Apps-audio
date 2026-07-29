@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ff99912e1821be19435cff1c",
+  "text": "Elävät järjestelmät teknisenä välineenä",
+  "durationMs": 3120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2240,
+      "startChar": 30,
+      "endChar": 39
+    }
+  ]
+}

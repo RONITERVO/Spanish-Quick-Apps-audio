@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d419341eed8ed1f7a7add60a",
+  "text": "Automaattinen luokittelu ja valvonta voivat rajoittaa mahdollisuuksia ilman ymmärrettäviä selityksiä tai muutoksenhakukeinoja.",
+  "durationMs": 8720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1760,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2440,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2840,
+      "startChar": 44,
+      "endChar": 54
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3440,
+      "startChar": 54,
+      "endChar": 70
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4480,
+      "startChar": 70,
+      "endChar": 76
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5080,
+      "startChar": 76,
+      "endChar": 90
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5880,
+      "startChar": 90,
+      "endChar": 101
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6680,
+      "startChar": 101,
+      "endChar": 105
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7080,
+      "startChar": 105,
+      "endChar": 126
+    }
+  ]
+}

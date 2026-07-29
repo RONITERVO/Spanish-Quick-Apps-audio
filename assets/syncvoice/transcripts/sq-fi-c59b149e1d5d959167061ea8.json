@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c59b149e1d5d959167061ea8",
+  "text": "Horisontit, lämpötila ja informaatio",
+  "durationMs": 2840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1480,
+      "startChar": 25,
+      "endChar": 36
+    }
+  ]
+}

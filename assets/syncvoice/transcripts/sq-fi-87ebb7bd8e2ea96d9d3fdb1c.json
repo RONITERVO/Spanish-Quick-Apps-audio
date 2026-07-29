@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-87ebb7bd8e2ea96d9d3fdb1c",
+  "text": "Solubiologia rekonstruoitu epävarmuudella",
+  "durationMs": 3600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1200,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2400,
+      "startChar": 13,
+      "endChar": 27
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3600,
+      "startChar": 27,
+      "endChar": 41
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-63e629afa44a90dca6fd1906",
+  "text": "Haihdutus- ja uudelleenhydratointisyklit voivat väkevöidä reagensseja ja edistää sidoksen muodostumista.",
+  "durationMs": 8600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 14,
+      "endChar": 41
+    },
+    {
+      "startMs": 1160,
+      "endMs": 3320,
+      "startChar": 41,
+      "endChar": 48
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3880,
+      "startChar": 48,
+      "endChar": 58
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4560,
+      "startChar": 58,
+      "endChar": 70
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5640,
+      "startChar": 70,
+      "endChar": 73
+    },
+    {
+      "startMs": 5640,
+      "endMs": 6080,
+      "startChar": 73,
+      "endChar": 81
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6680,
+      "startChar": 81,
+      "endChar": 90
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7320,
+      "startChar": 90,
+      "endChar": 104
+    }
+  ]
+}

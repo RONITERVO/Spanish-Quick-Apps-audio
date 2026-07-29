@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-31a94c2af8a82e856819ffa9",
+  "text": "A single microscopic organism can detect resources, maintain metabolism, and reproduce.",
+  "durationMs": 7480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1640,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2440,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2760,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3280,
+      "startChar": 41,
+      "endChar": 52
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4080,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4160,
+      "startChar": 61,
+      "endChar": 73
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5960,
+      "startChar": 73,
+      "endChar": 77
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6480,
+      "startChar": 77,
+      "endChar": 87
+    }
+  ]
+}

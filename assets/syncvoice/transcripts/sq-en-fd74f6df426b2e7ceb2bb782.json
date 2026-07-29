@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-fd74f6df426b2e7ceb2bb782",
+  "text": "Voltage describes electrical potential difference, not a substance stored within the cable.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 18,
+      "endChar": 29
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2200,
+      "startChar": 29,
+      "endChar": 39
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2800,
+      "startChar": 39,
+      "endChar": 51
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3400,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3740,
+      "startChar": 55,
+      "endChar": 57
+    },
+    {
+      "startMs": 3740,
+      "endMs": 4080,
+      "startChar": 57,
+      "endChar": 67
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4960,
+      "startChar": 67,
+      "endChar": 74
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5360,
+      "startChar": 74,
+      "endChar": 81
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5500,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 5500,
+      "endMs": 5640,
+      "startChar": 85,
+      "endChar": 91
+    }
+  ]
+}

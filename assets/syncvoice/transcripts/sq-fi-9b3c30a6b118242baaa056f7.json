@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9b3c30a6b118242baaa056f7",
+  "text": "Malli kartoittaa syötteet opittuihin luokkiin, ja virheet heijastavat dataa, tarkoitusta ja kontekstia.",
+  "durationMs": 7920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1920,
+      "startChar": 26,
+      "endChar": 37
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2680,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3020,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3020,
+      "endMs": 3360,
+      "startChar": 50,
+      "endChar": 58
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4400,
+      "startChar": 58,
+      "endChar": 70
+    },
+    {
+      "startMs": 4400,
+      "endMs": 5160,
+      "startChar": 70,
+      "endChar": 77
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5720,
+      "startChar": 77,
+      "endChar": 89
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6240,
+      "startChar": 89,
+      "endChar": 92
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6760,
+      "startChar": 92,
+      "endChar": 103
+    }
+  ]
+}

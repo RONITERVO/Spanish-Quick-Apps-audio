@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2982c60fb721691e0c22435e",
+  "text": "Hallittu energian muuntaminen liikkeeksi",
+  "durationMs": 3160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 18,
+      "endChar": 30
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2120,
+      "startChar": 30,
+      "endChar": 40
+    }
+  ]
+}

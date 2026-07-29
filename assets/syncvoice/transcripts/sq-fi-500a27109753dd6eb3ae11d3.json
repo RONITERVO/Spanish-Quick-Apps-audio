@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-500a27109753dd6eb3ae11d3",
+  "text": "Jäljittely välittää näkyviä taitoja, mutta se voi myös kopioida epäolennaisia tai tavanomaisia toimintoja.",
+  "durationMs": 7760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1920,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2560,
+      "startChar": 37,
+      "endChar": 43
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2920,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3280,
+      "startChar": 46,
+      "endChar": 50
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3600,
+      "startChar": 50,
+      "endChar": 55
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3880,
+      "startChar": 55,
+      "endChar": 64
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4520,
+      "startChar": 64,
+      "endChar": 78
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5680,
+      "startChar": 78,
+      "endChar": 82
+    },
+    {
+      "startMs": 5680,
+      "endMs": 5960,
+      "startChar": 82,
+      "endChar": 95
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6880,
+      "startChar": 95,
+      "endChar": 106
+    }
+  ]
+}

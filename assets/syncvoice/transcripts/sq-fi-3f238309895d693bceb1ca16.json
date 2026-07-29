@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3f238309895d693bceb1ca16",
+  "text": "Lisäämällä ennustettavan tiedon, kuten tulevan sijainnin, voit vahvistaa jaetun toiminnon.",
+  "durationMs": 6960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2520,
+      "startChar": 33,
+      "endChar": 39
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3080,
+      "startChar": 39,
+      "endChar": 47
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3560,
+      "startChar": 47,
+      "endChar": 58
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4280,
+      "startChar": 58,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4800,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5520,
+      "startChar": 73,
+      "endChar": 80
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6000,
+      "startChar": 80,
+      "endChar": 90
+    }
+  ]
+}

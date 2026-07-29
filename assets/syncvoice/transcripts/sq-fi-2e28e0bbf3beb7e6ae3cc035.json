@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2e28e0bbf3beb7e6ae3cc035",
+  "text": "Syyhorisontin ulkopuolella olevat tapahtumat eivät voi lähettää meille tietoa.",
+  "durationMs": 5440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 1080,
+      "startChar": 14,
+      "endChar": 27
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2320,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3160,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3600,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3800,
+      "startChar": 55,
+      "endChar": 64
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4280,
+      "startChar": 64,
+      "endChar": 71
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4640,
+      "startChar": 71,
+      "endChar": 78
+    }
+  ]
+}

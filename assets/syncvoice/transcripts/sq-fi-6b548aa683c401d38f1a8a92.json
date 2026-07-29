@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6b548aa683c401d38f1a8a92",
+  "text": "henkinen emulointi",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 9,
+      "endChar": 18
+    }
+  ]
+}

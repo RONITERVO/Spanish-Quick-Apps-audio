@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b2e7e4e78709d0127e7480ac",
+  "text": "A system of canyons runs thousands of kilometers along the equator.",
+  "durationMs": 5560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 300,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2200,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3040,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3200,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 3200,
+      "endMs": 4120,
+      "startChar": 49,
+      "endChar": 55
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4360,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4600,
+      "startChar": 59,
+      "endChar": 67
+    }
+  ]
+}

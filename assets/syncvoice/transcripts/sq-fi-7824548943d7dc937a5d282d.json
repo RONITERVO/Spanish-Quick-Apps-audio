@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7824548943d7dc937a5d282d",
+  "text": "Kehon sisältä tulevat signaalit lisäävät nälkää, janoa, hengitystä, sykettä ja tunnetilaa.",
+  "durationMs": 7160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1400,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2160,
+      "startChar": 32,
+      "endChar": 41
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2760,
+      "startChar": 41,
+      "endChar": 49
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3440,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4160,
+      "startChar": 56,
+      "endChar": 68
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5200,
+      "startChar": 68,
+      "endChar": 76
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5620,
+      "startChar": 76,
+      "endChar": 79
+    },
+    {
+      "startMs": 5620,
+      "endMs": 6040,
+      "startChar": 79,
+      "endChar": 90
+    }
+  ]
+}

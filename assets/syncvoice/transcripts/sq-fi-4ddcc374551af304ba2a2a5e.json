@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4ddcc374551af304ba2a2a5e",
+  "text": "Melkein kaikki ilmakehän höyry on keskittynyt tähän alempaan kerrokseen.",
+  "durationMs": 5640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1920,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2440,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2640,
+      "startChar": 34,
+      "endChar": 46
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3440,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3920,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4560,
+      "startChar": 61,
+      "endChar": 72
+    }
+  ]
+}

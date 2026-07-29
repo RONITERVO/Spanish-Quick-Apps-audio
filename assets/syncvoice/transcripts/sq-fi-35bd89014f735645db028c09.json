@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-35bd89014f735645db028c09",
+  "text": "Vuorovaikutusten voimakkuus ja muoto riippuvat siitä, miten kentät kytkeytyvät toisiinsa.",
+  "durationMs": 6880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 17
+    },
+    {
+      "startMs": 75,
+      "endMs": 1120,
+      "startChar": 17,
+      "endChar": 28
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2040,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2240,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2800,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3560,
+      "startChar": 47,
+      "endChar": 54
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4000,
+      "startChar": 54,
+      "endChar": 60
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4560,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5160,
+      "startChar": 67,
+      "endChar": 79
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5920,
+      "startChar": 79,
+      "endChar": 89
+    }
+  ]
+}

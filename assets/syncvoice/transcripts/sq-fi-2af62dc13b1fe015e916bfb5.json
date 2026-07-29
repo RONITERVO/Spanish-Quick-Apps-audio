@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2af62dc13b1fe015e916bfb5",
+  "text": "Tähdet ja vakaus",
+  "durationMs": 1580,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 527,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 527,
+      "endMs": 1053,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 1053,
+      "endMs": 1580,
+      "startChar": 10,
+      "endChar": 16
+    }
+  ]
+}

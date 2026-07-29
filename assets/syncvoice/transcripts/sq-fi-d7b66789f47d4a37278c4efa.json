@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d7b66789f47d4a37278c4efa",
+  "text": "Keskinäisriippuvainen verkosto, joka muuttaa maapalloa",
+  "durationMs": 4600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 22
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 150,
+      "endMs": 2440,
+      "startChar": 32,
+      "endChar": 37
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2800,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 54
+    }
+  ]
+}

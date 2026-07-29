@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-55ca54c4d7bb087eb5fb8a05",
+  "text": "Säikeet, solmut, seinämät ja tyhjiöt korvaavat yhden hallitsevan suunnan.",
+  "durationMs": 7880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 2200,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3360,
+      "startChar": 26,
+      "endChar": 29
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3600,
+      "startChar": 29,
+      "endChar": 37
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4560,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5480,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6160,
+      "startChar": 53,
+      "endChar": 65
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6960,
+      "startChar": 65,
+      "endChar": 73
+    }
+  ]
+}

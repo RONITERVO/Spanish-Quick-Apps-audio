@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c301b05f58089fc7ebb300e0",
+  "text": "A living system uses energy to correct damage and maintain unlikely organization.",
+  "durationMs": 8240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2120,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2880,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3240,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3800,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4440,
+      "startChar": 46,
+      "endChar": 50
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5040,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5960,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6960,
+      "startChar": 68,
+      "endChar": 81
+    }
+  ]
+}

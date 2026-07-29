@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-87d99105b2ddb1191d974e81",
+  "text": "Adhesion + communication + cooperation + specialization",
+  "durationMs": 6280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 25
+    },
+    {
+      "startMs": 225,
+      "endMs": 2240,
+      "startChar": 25,
+      "endChar": 27
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2960,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4200,
+      "startChar": 39,
+      "endChar": 41
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4840,
+      "startChar": 41,
+      "endChar": 55
+    }
+  ]
+}

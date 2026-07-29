@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5c923e2d27c38ecf54226652",
+  "text": "Liikkuminen laajentaa resurssien saatavuutta, mutta lisää energiankulutusta.",
+  "durationMs": 6080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 33
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2400,
+      "startChar": 33,
+      "endChar": 46
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3320,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4080,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4600,
+      "startChar": 58,
+      "endChar": 76
+    }
+  ]
+}

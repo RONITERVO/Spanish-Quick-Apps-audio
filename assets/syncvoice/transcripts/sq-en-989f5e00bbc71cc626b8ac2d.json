@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-en-989f5e00bbc71cc626b8ac2d",
+  "text": "Satellites enable navigation, observation, science and communication, but they also create orbital dependency and debris.",
+  "durationMs": 10480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 18,
+      "endChar": 30
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2440,
+      "startChar": 30,
+      "endChar": 43
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3600,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4600,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4600,
+      "endMs": 5000,
+      "startChar": 55,
+      "endChar": 70
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5840,
+      "startChar": 70,
+      "endChar": 74
+    },
+    {
+      "startMs": 5840,
+      "endMs": 5915,
+      "startChar": 74,
+      "endChar": 79
+    },
+    {
+      "startMs": 5915,
+      "endMs": 5990,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 5990,
+      "endMs": 7080,
+      "startChar": 84,
+      "endChar": 91
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7720,
+      "startChar": 91,
+      "endChar": 99
+    },
+    {
+      "startMs": 7720,
+      "endMs": 8320,
+      "startChar": 99,
+      "endChar": 110
+    },
+    {
+      "startMs": 8320,
+      "endMs": 9320,
+      "startChar": 110,
+      "endChar": 114
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9760,
+      "startChar": 114,
+      "endChar": 121
+    }
+  ]
+}

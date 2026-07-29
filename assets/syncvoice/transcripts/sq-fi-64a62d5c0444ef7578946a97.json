@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-64a62d5c0444ef7578946a97",
+  "text": "Ensimmäiset tähdet muodostuivat vedystä, heliumista ja vähäisistä litiummääristä ennen myöhempää kemiallista rikastumista.",
+  "durationMs": 8480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 19,
+      "endChar": 32
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1840,
+      "startChar": 32,
+      "endChar": 41
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2560,
+      "startChar": 41,
+      "endChar": 52
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3120,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3680,
+      "startChar": 55,
+      "endChar": 66
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4680,
+      "startChar": 66,
+      "endChar": 81
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5800,
+      "startChar": 81,
+      "endChar": 87
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6200,
+      "startChar": 87,
+      "endChar": 97
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6800,
+      "startChar": 97,
+      "endChar": 109
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7520,
+      "startChar": 109,
+      "endChar": 122
+    }
+  ]
+}

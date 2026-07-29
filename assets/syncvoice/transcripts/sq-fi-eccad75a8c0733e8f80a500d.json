@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-eccad75a8c0733e8f80a500d",
+  "text": "Varautuneita hiukkasia virtaa jatkuvasti Auringosta avaruuteen kaikkiin suuntiin.",
+  "durationMs": 6120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2280,
+      "startChar": 30,
+      "endChar": 41
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3040,
+      "startChar": 41,
+      "endChar": 52
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3800,
+      "startChar": 52,
+      "endChar": 63
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4680,
+      "startChar": 63,
+      "endChar": 72
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5240,
+      "startChar": 72,
+      "endChar": 81
+    }
+  ]
+}

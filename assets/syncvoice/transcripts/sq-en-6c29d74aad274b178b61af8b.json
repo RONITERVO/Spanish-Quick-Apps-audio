@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-6c29d74aad274b178b61af8b",
+  "text": "infrastructure failure",
+  "durationMs": 1130,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 565,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 565,
+      "endMs": 1130,
+      "startChar": 15,
+      "endChar": 22
+    }
+  ]
+}

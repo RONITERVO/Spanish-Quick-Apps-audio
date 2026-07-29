@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a34d1249ad123a59dee735aa",
+  "text": "Ytimen sähkövirrat synnyttävät koko planeettaa ympäröivän magneettikentän.",
+  "durationMs": 6280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2800,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3280,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4120,
+      "startChar": 47,
+      "endChar": 58
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4840,
+      "startChar": 58,
+      "endChar": 74
+    }
+  ]
+}

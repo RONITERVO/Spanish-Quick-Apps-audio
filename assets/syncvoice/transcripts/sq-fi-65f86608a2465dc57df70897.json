@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-65f86608a2465dc57df70897",
+  "text": "kollektiivinen muisti",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 15,
+      "endChar": 21
+    }
+  ]
+}

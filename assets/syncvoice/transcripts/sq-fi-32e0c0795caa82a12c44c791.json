@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-32e0c0795caa82a12c44c791",
+  "text": "Suurin osa valovoimaisesta baryonisesta aineesta lakkaa olemasta aktiivisissa tähdissä.",
+  "durationMs": 7240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 27
+    },
+    {
+      "startMs": 225,
+      "endMs": 2000,
+      "startChar": 27,
+      "endChar": 40
+    },
+    {
+      "startMs": 2000,
+      "endMs": 3040,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3760,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4560,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5280,
+      "startChar": 65,
+      "endChar": 78
+    },
+    {
+      "startMs": 5280,
+      "endMs": 6240,
+      "startChar": 78,
+      "endChar": 87
+    }
+  ]
+}

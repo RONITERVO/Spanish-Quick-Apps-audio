@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b8eb29bd44efb323786768ce",
+  "text": "Pohjapohja voisi säilyttää vettä, lämpöä ja suojaa pidempään kuin pinta.",
+  "durationMs": 6320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 960,
+      "endMs": 1320,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2040,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2840,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3800,
+      "startChar": 41,
+      "endChar": 44
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4000,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4560,
+      "startChar": 51,
+      "endChar": 61
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5200,
+      "startChar": 61,
+      "endChar": 66
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5480,
+      "startChar": 66,
+      "endChar": 72
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d7acd503f3d0ad16bcd2ca9a",
+  "text": "kapeakaistainen emissio",
+  "durationMs": 2360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1180,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 1180,
+      "endMs": 2360,
+      "startChar": 16,
+      "endChar": 23
+    }
+  ]
+}

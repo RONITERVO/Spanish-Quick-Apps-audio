@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b3b3f75d922e0083180b3471",
+  "text": "Erilliset observatoriot voivat mitata pieniä kulmaeroja ja erottaa läheisen lähteen kaukaisesta.",
+  "durationMs": 7640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2240,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2680,
+      "startChar": 38,
+      "endChar": 45
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3320,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4240,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4360,
+      "startChar": 59,
+      "endChar": 67
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5280,
+      "startChar": 67,
+      "endChar": 76
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5920,
+      "startChar": 76,
+      "endChar": 84
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6480,
+      "startChar": 84,
+      "endChar": 96
+    }
+  ]
+}

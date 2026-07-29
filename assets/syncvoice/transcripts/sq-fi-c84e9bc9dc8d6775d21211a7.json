@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c84e9bc9dc8d6775d21211a7",
+  "text": "Valikoiva rajapinta päästää joitakin aineita lävitseen helpommin kuin toisia.",
+  "durationMs": 5520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2200,
+      "startChar": 28,
+      "endChar": 37
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2760,
+      "startChar": 37,
+      "endChar": 45
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3280,
+      "startChar": 45,
+      "endChar": 55
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3920,
+      "startChar": 55,
+      "endChar": 65
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4480,
+      "startChar": 65,
+      "endChar": 70
+    },
+    {
+      "startMs": 4480,
+      "endMs": 4720,
+      "startChar": 70,
+      "endChar": 77
+    }
+  ]
+}

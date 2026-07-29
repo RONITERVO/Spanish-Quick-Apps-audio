@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-2009a770daf071f824f8fc06",
+  "text": "A link represents interaction, transport, dependency or communication between nodes.",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1480,
+      "startChar": 18,
+      "endChar": 31
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2560,
+      "startChar": 31,
+      "endChar": 42
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3640,
+      "startChar": 42,
+      "endChar": 53
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4680,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5080,
+      "startChar": 56,
+      "endChar": 70
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5960,
+      "startChar": 70,
+      "endChar": 78
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6360,
+      "startChar": 78,
+      "endChar": 84
+    }
+  ]
+}

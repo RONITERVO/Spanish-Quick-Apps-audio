@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-424054492dfb53488308e66b",
+  "text": "Toistuvat soihdut voivat pommittaa lähellä olevia planeettoja säteilyllä ja hiukkasilla.",
+  "durationMs": 5800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1640,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2280,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2720,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3160,
+      "startChar": 50,
+      "endChar": 62
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3800,
+      "startChar": 62,
+      "endChar": 73
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4220,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 4220,
+      "endMs": 4640,
+      "startChar": 76,
+      "endChar": 88
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ed1daef3f56a48df5c3e96b6",
+  "text": "Lämpöreseptorit havaitsevat muutokset, jotka vaikuttavat aineenvaihduntaan, vaurioihin ja käyttäytymiseen.",
+  "durationMs": 8120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1920,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2720,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3320,
+      "startChar": 45,
+      "endChar": 57
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4080,
+      "startChar": 57,
+      "endChar": 76
+    },
+    {
+      "startMs": 4080,
+      "endMs": 5440,
+      "startChar": 76,
+      "endChar": 87
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6520,
+      "startChar": 87,
+      "endChar": 90
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6800,
+      "startChar": 90,
+      "endChar": 106
+    }
+  ]
+}

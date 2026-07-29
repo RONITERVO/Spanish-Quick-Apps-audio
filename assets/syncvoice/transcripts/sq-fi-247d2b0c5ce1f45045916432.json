@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-247d2b0c5ce1f45045916432",
+  "text": "kaksi reittiä",
+  "durationMs": 1060,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 530,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 530,
+      "endMs": 1060,
+      "startChar": 6,
+      "endChar": 13
+    }
+  ]
+}

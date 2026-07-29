@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2ddc713e65c2d604b6cc68c0",
+  "text": "kasvien valinta",
+  "durationMs": 1050,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 525,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 525,
+      "endMs": 1050,
+      "startChar": 8,
+      "endChar": 15
+    }
+  ]
+}

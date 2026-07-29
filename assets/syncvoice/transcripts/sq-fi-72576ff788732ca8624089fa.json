@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-72576ff788732ca8624089fa",
+  "text": "Kulmamittaus tukee rakentamista, kartografiaa, tähtitiedettä ja koneohjausta.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1400,
+      "startChar": 19,
+      "endChar": 33
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2360,
+      "startChar": 33,
+      "endChar": 47
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3600,
+      "startChar": 47,
+      "endChar": 61
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4220,
+      "startChar": 61,
+      "endChar": 64
+    },
+    {
+      "startMs": 4220,
+      "endMs": 4840,
+      "startChar": 64,
+      "endChar": 77
+    }
+  ]
+}

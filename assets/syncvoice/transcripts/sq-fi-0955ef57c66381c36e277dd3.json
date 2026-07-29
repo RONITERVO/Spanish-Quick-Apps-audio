@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-0955ef57c66381c36e277dd3",
+  "text": "Suuri punainen pilkku",
+  "durationMs": 1780,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 593,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 593,
+      "endMs": 1187,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 1187,
+      "endMs": 1780,
+      "startChar": 15,
+      "endChar": 21
+    }
+  ]
+}

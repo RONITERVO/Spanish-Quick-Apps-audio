@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-8d3b6e4c39b277a309336de1",
+  "text": "gas giant",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 4,
+      "endChar": 9
+    }
+  ]
+}

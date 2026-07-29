@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ddbc42bbdca61a4854041d66",
+  "text": "Pluto ja sen suuri kuu näyttävät aina saman puoliskon toisilleen kiertäessään yhteistä massakeskipistettä.",
+  "durationMs": 8000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 960,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 23
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1960,
+      "startChar": 23,
+      "endChar": 33
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2680,
+      "startChar": 33,
+      "endChar": 38
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3040,
+      "startChar": 38,
+      "endChar": 44
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3480,
+      "startChar": 44,
+      "endChar": 54
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4120,
+      "startChar": 54,
+      "endChar": 65
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4920,
+      "startChar": 65,
+      "endChar": 78
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5880,
+      "startChar": 78,
+      "endChar": 87
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6480,
+      "startChar": 87,
+      "endChar": 106
+    }
+  ]
+}

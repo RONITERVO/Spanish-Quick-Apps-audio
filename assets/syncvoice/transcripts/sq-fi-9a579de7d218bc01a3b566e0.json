@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9a579de7d218bc01a3b566e0",
+  "text": "Häiriö voi levitä solmusta solmuun ja tuottaa laajan vasteen.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1680,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2520,
+      "startChar": 27,
+      "endChar": 35
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3240,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3760,
+      "startChar": 38,
+      "endChar": 46
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4320,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4800,
+      "startChar": 53,
+      "endChar": 61
+    }
+  ]
+}

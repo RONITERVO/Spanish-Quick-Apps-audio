@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8ac32a51f06475586286651b",
+  "text": "M32 ja M110",
+  "durationMs": 3460,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1153,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 1153,
+      "endMs": 2307,
+      "startChar": 4,
+      "endChar": 7
+    },
+    {
+      "startMs": 2307,
+      "endMs": 3460,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

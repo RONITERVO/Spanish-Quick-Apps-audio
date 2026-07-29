@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-40942aa9c1c1759c50a7d5f6",
+  "text": "Emergentti kognitio · koordinointi ilman keskusaivoja",
+  "durationMs": 5600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2440,
+      "startChar": 22,
+      "endChar": 35
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3440,
+      "startChar": 35,
+      "endChar": 41
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4160,
+      "startChar": 41,
+      "endChar": 53
+    }
+  ]
+}

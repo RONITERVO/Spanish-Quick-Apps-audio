@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b246f07b8b8445f4359eb3ed",
+  "text": "Dynaaminen universumi",
+  "durationMs": 1800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 900,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 900,
+      "endMs": 1800,
+      "startChar": 11,
+      "endChar": 21
+    }
+  ]
+}

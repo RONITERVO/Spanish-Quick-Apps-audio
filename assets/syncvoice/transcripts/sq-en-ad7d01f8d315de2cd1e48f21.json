@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ad7d01f8d315de2cd1e48f21",
+  "text": "Frontier of the knowable",
+  "durationMs": 2040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1160,
+      "startChar": 16,
+      "endChar": 24
+    }
+  ]
+}

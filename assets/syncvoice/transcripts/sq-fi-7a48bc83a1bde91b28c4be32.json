@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7a48bc83a1bde91b28c4be32",
+  "text": "Orionin haara",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 625,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 625,
+      "endMs": 1250,
+      "startChar": 8,
+      "endChar": 13
+    }
+  ]
+}

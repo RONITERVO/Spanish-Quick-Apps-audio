@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-62be91b3625256f0b9764531",
+  "text": "Matka kohti alkuperää päättyy · aika-akseli alkaa uudelleen",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 960,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2520,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2880,
+      "startChar": 32,
+      "endChar": 44
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3800,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4440,
+      "startChar": 50,
+      "endChar": 59
+    }
+  ]
+}

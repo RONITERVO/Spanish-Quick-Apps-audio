@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ad6e94df0069c5780f4ef8a4",
+  "text": "Se rakentaa geometrioita diskreeteistä lohkoista kausaalirakennetta kunnioittaen ja tutkii, millainen aika-avaruus niistä syntyy kollektiivisesti.",
+  "durationMs": 11240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 25
+    },
+    {
+      "startMs": 225,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 39
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2880,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3720,
+      "startChar": 49,
+      "endChar": 68
+    },
+    {
+      "startMs": 3720,
+      "endMs": 5120,
+      "startChar": 68,
+      "endChar": 81
+    },
+    {
+      "startMs": 5120,
+      "endMs": 6040,
+      "startChar": 81,
+      "endChar": 84
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6520,
+      "startChar": 84,
+      "endChar": 92
+    },
+    {
+      "startMs": 6520,
+      "endMs": 7200,
+      "startChar": 92,
+      "endChar": 102
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7960,
+      "startChar": 102,
+      "endChar": 115
+    },
+    {
+      "startMs": 7960,
+      "endMs": 9040,
+      "startChar": 115,
+      "endChar": 122
+    },
+    {
+      "startMs": 9040,
+      "endMs": 9400,
+      "startChar": 122,
+      "endChar": 129
+    },
+    {
+      "startMs": 9400,
+      "endMs": 9880,
+      "startChar": 129,
+      "endChar": 146
+    }
+  ]
+}

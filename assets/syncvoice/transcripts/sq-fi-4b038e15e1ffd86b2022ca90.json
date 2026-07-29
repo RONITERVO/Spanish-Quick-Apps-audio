@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4b038e15e1ffd86b2022ca90",
+  "text": "Ei havaittua sisäistä kokoa · sulkeutuminen ja värivaraus",
+  "durationMs": 5040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 225,
+      "endMs": 1480,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2480,
+      "startChar": 30,
+      "endChar": 44
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3560,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 57
+    }
+  ]
+}

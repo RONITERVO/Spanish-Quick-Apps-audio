@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-af0336a27fa59f0f2fc9baba",
+  "text": "Boundary of the observable universe",
+  "durationMs": 3080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 27
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2080,
+      "startChar": 27,
+      "endChar": 35
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b1f1fff18f7786a08bf12e90",
+  "text": "Discontinuous dialogue",
+  "durationMs": 1830,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 915,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 915,
+      "endMs": 1830,
+      "startChar": 14,
+      "endChar": 22
+    }
+  ]
+}

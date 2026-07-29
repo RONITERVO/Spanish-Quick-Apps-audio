@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-e7a5052f367c8cd64f8eaa89",
+  "text": "Kirkwood gap",
+  "durationMs": 1100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 9,
+      "endChar": 12
+    }
+  ]
+}

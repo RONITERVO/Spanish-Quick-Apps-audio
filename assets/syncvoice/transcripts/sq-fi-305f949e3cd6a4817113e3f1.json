@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-305f949e3cd6a4817113e3f1",
+  "text": "Tavoitteet valmistelevat järjestelmän etsimään joitain signaaleja ja jättämään muut huomioimatta.",
+  "durationMs": 6600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 25,
+      "endChar": 38
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2360,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3000,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3480,
+      "startChar": 55,
+      "endChar": 66
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3900,
+      "startChar": 66,
+      "endChar": 69
+    },
+    {
+      "startMs": 3900,
+      "endMs": 4320,
+      "startChar": 69,
+      "endChar": 79
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5200,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5520,
+      "startChar": 84,
+      "endChar": 97
+    }
+  ]
+}

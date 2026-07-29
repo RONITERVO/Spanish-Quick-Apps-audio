@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9a72b4a1d43b3ffd745b8f7c",
+  "text": "Keskuksessa miljoonien ilmakehien paine puristaa ainetta.",
+  "durationMs": 4800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2600,
+      "startChar": 34,
+      "endChar": 40
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3080,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3880,
+      "startChar": 49,
+      "endChar": 57
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-63123c3c71e62a7a668d2fbb",
+  "text": "Värähtely liikuttaa rakenteita korvassa ja muuttuu sähköisiksi kuvioiksi, ei pieniksi ääniksi aivoissa.",
+  "durationMs": 8520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2320,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3120,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3480,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4040,
+      "startChar": 51,
+      "endChar": 63
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4880,
+      "startChar": 63,
+      "endChar": 74
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5760,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6320,
+      "startChar": 77,
+      "endChar": 86
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6960,
+      "startChar": 86,
+      "endChar": 94
+    },
+    {
+      "startMs": 6960,
+      "endMs": 7560,
+      "startChar": 94,
+      "endChar": 103
+    }
+  ]
+}

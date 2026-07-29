@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7d1d0be9a46cbef62bf14296",
+  "text": "Signaalien toistaminen paljastaa, kuinka kauan planeetalla kestää kiertoradan suorittamiseen.",
+  "durationMs": 6720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2600,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3080,
+      "startChar": 41,
+      "endChar": 47
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3600,
+      "startChar": 47,
+      "endChar": 59
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4240,
+      "startChar": 59,
+      "endChar": 66
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4800,
+      "startChar": 66,
+      "endChar": 78
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5560,
+      "startChar": 78,
+      "endChar": 93
+    }
+  ]
+}

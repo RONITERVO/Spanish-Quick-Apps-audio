@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-7329b96f3399f51bcb5b3b43",
+  "text": "Neuvosto jakaa pohdinnan ja valtuudet nimettyjen tai tunnustettujen henkilöiden kesken.",
+  "durationMs": 7000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2200,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2440,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3240,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4120,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4480,
+      "startChar": 53,
+      "endChar": 68
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5440,
+      "startChar": 68,
+      "endChar": 80
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6160,
+      "startChar": 80,
+      "endChar": 87
+    }
+  ]
+}

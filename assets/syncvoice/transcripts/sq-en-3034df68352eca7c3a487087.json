@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-3034df68352eca7c3a487087",
+  "text": "Boundary of known physics",
+  "durationMs": 2360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 590,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 590,
+      "endMs": 1180,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 1180,
+      "endMs": 1770,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 1770,
+      "endMs": 2360,
+      "startChar": 18,
+      "endChar": 25
+    }
+  ]
+}

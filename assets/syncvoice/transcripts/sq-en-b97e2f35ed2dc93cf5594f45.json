@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b97e2f35ed2dc93cf5594f45",
+  "text": "reference sum",
+  "durationMs": 800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 400,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 400,
+      "endMs": 800,
+      "startChar": 10,
+      "endChar": 13
+    }
+  ]
+}

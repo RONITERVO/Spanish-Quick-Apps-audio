@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-7a7e9659cdd085653862f7be",
+  "text": "Starting point · existing anomaly, conclusion pending",
+  "durationMs": 5080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 15,
+      "endChar": 17
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1360,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2200,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2960,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4200,
+      "startChar": 46,
+      "endChar": 53
+    }
+  ]
+}

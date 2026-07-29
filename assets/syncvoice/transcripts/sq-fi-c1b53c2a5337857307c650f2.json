@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c1b53c2a5337857307c650f2",
+  "text": "Kadut ja ovet järjestävät pääsyn, liikkumisen, puolustuksen ja kaupankäynnin.",
+  "durationMs": 6680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 14,
+      "endChar": 26
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1960,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2720,
+      "startChar": 34,
+      "endChar": 47
+    },
+    {
+      "startMs": 2720,
+      "endMs": 4000,
+      "startChar": 47,
+      "endChar": 60
+    },
+    {
+      "startMs": 4000,
+      "endMs": 5240,
+      "startChar": 60,
+      "endChar": 63
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5480,
+      "startChar": 63,
+      "endChar": 77
+    }
+  ]
+}

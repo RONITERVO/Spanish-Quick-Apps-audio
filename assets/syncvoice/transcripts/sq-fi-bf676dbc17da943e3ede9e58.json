@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bf676dbc17da943e3ede9e58",
+  "text": "Raja erottaa rekonstruoidut nopeuskuviot; se ei ole aineellinen seinämä.",
+  "durationMs": 6360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 13,
+      "endChar": 28
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2240,
+      "startChar": 28,
+      "endChar": 42
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3400,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3960,
+      "startChar": 45,
+      "endChar": 48
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4240,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4640,
+      "startChar": 52,
+      "endChar": 64
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5440,
+      "startChar": 64,
+      "endChar": 72
+    }
+  ]
+}

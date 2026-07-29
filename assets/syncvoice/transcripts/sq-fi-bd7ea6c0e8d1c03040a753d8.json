@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bd7ea6c0e8d1c03040a753d8",
+  "text": "Taivaan kokonaiskirkkaus hiipuu, vaikka yksittäiset järjestelmät säteilevät edelleen tasaista punaista valoa.",
+  "durationMs": 9120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 2200,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2920,
+      "startChar": 33,
+      "endChar": 40
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3040,
+      "startChar": 40,
+      "endChar": 52
+    },
+    {
+      "startMs": 3040,
+      "endMs": 4600,
+      "startChar": 52,
+      "endChar": 65
+    },
+    {
+      "startMs": 4600,
+      "endMs": 5520,
+      "startChar": 65,
+      "endChar": 76
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6400,
+      "startChar": 76,
+      "endChar": 85
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7040,
+      "startChar": 85,
+      "endChar": 94
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7760,
+      "startChar": 94,
+      "endChar": 103
+    },
+    {
+      "startMs": 7760,
+      "endMs": 8360,
+      "startChar": 103,
+      "endChar": 109
+    }
+  ]
+}

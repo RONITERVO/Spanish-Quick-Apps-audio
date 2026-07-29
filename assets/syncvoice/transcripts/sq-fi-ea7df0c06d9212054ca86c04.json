@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ea7df0c06d9212054ca86c04",
+  "text": "Kolme kvanttivuorovaikutusta + painovoima",
+  "durationMs": 3840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 29
+    },
+    {
+      "startMs": 150,
+      "endMs": 2160,
+      "startChar": 29,
+      "endChar": 31
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2720,
+      "startChar": 31,
+      "endChar": 41
+    }
+  ]
+}

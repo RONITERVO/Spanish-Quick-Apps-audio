@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-82f4cc467664867161885830",
+  "text": "Itsensä korjaaminen edellyttää virheen säilyttämistä, sen alkuperän tunnistamista ja sen tuottaneen prosessin muokkaamista.",
+  "durationMs": 9120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2800,
+      "startChar": 39,
+      "endChar": 54
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3880,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4360,
+      "startChar": 58,
+      "endChar": 68
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5040,
+      "startChar": 68,
+      "endChar": 82
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5540,
+      "startChar": 82,
+      "endChar": 85
+    },
+    {
+      "startMs": 5540,
+      "endMs": 6040,
+      "startChar": 85,
+      "endChar": 89
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6640,
+      "startChar": 89,
+      "endChar": 100
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7280,
+      "startChar": 100,
+      "endChar": 110
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7920,
+      "startChar": 110,
+      "endChar": 123
+    }
+  ]
+}

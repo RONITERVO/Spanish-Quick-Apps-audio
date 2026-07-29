@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-113a59743e17af035f7615b9",
+  "text": "Historical frontier still unknown",
+  "durationMs": 3280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2400,
+      "startChar": 26,
+      "endChar": 33
+    }
+  ]
+}

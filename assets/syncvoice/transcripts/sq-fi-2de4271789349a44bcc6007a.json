@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2de4271789349a44bcc6007a",
+  "text": "Otsoni ja happi imevät auringosta ultraviolettienergiaa.",
+  "durationMs": 5080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1720,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2440,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3240,
+      "startChar": 34,
+      "endChar": 56
+    }
+  ]
+}

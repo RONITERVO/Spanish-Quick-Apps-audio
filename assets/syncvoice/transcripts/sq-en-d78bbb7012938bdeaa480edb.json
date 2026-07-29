@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-d78bbb7012938bdeaa480edb",
+  "text": "Ozone and oxygen absorb ultraviolet energy from the Sun.",
+  "durationMs": 4600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1600,
+      "startChar": 17,
+      "endChar": 24
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2200,
+      "startChar": 24,
+      "endChar": 36
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3080,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3600,
+      "startChar": 43,
+      "endChar": 48
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3720,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 3720,
+      "endMs": 3840,
+      "startChar": 52,
+      "endChar": 56
+    }
+  ]
+}

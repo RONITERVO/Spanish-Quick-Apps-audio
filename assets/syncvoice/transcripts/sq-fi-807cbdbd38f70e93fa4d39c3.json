@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-807cbdbd38f70e93fa4d39c3",
+  "text": "Olemme havainneet vain pienen osan paikoista, taajuuksista, ajoista ja signaalityypeistä.",
+  "durationMs": 7960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 23
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1560,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2160,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2680,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3560,
+      "startChar": 46,
+      "endChar": 60
+    },
+    {
+      "startMs": 3560,
+      "endMs": 5000,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 5000,
+      "endMs": 6080,
+      "startChar": 68,
+      "endChar": 71
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6480,
+      "startChar": 71,
+      "endChar": 89
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-dd4ccff4f5763d228d2e7980",
+  "text": "Planets are common results of star formation, with very different histories.",
+  "durationMs": 5280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1660,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 1660,
+      "endMs": 1920,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2320,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2960,
+      "startChar": 46,
+      "endChar": 51
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3520,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3960,
+      "startChar": 56,
+      "endChar": 66
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4320,
+      "startChar": 66,
+      "endChar": 76
+    }
+  ]
+}

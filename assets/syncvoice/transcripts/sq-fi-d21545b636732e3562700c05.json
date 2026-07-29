@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d21545b636732e3562700c05",
+  "text": "Ensimmäinen anomalia",
+  "durationMs": 1610,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 805,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 805,
+      "endMs": 1610,
+      "startChar": 12,
+      "endChar": 20
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-547e0efb4fd0419a6fbc7b2d",
+  "text": "deep rock",
+  "durationMs": 1080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 540,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 540,
+      "endMs": 1080,
+      "startChar": 5,
+      "endChar": 9
+    }
+  ]
+}

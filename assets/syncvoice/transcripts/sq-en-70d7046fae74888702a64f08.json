@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-70d7046fae74888702a64f08",
+  "text": "Checking the result helps distinguish real mastery from familiarity.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1360,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1760,
+      "startChar": 26,
+      "endChar": 38
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2600,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3000,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3760,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4200,
+      "startChar": 56,
+      "endChar": 68
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-10d8043fa6a145b12f8bb0e4",
+  "text": "Physical properties → biological receptors → nervous signals → conscious experience",
+  "durationMs": 7400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1480,
+      "startChar": 22,
+      "endChar": 33
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2800,
+      "startChar": 33,
+      "endChar": 43
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3600,
+      "startChar": 43,
+      "endChar": 45
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3675,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 3675,
+      "endMs": 4720,
+      "startChar": 53,
+      "endChar": 61
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5400,
+      "startChar": 61,
+      "endChar": 63
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5475,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 5475,
+      "endMs": 6280,
+      "startChar": 73,
+      "endChar": 83
+    }
+  ]
+}

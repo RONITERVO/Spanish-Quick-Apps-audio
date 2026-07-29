@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-5023d134dfb3faca183ffa97",
+  "text": "Pienten galaksien jäänteet voivat muodostaa tähtien nauhoja painovoiman venyttäessä.",
+  "durationMs": 5880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2240,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2840,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3400,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4080,
+      "startChar": 60,
+      "endChar": 72
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4800,
+      "startChar": 72,
+      "endChar": 84
+    }
+  ]
+}

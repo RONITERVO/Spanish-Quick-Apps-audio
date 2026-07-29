@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-6a452ac135eed8612eda4aa7",
+  "text": "Signaali ilman lopullista selitystä",
+  "durationMs": 3160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 15,
+      "endChar": 26
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2120,
+      "startChar": 26,
+      "endChar": 35
+    }
+  ]
+}

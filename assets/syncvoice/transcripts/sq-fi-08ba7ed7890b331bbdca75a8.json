@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-08ba7ed7890b331bbdca75a8",
+  "text": "Makroskooppinen paine tiivistää lukemattomat mikroskooppiset liikemääränsiirrot.",
+  "durationMs": 6240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2520,
+      "startChar": 32,
+      "endChar": 45
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3520,
+      "startChar": 45,
+      "endChar": 61
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4640,
+      "startChar": 61,
+      "endChar": 80
+    }
+  ]
+}

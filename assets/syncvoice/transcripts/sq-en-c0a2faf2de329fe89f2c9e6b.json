@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-c0a2faf2de329fe89f2c9e6b",
+  "text": "Our direction within the galactic disk",
+  "durationMs": 3120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1320,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1560,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2320,
+      "startChar": 34,
+      "endChar": 38
+    }
+  ]
+}

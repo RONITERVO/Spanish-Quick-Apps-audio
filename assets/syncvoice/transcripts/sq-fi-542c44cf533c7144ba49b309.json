@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-542c44cf533c7144ba49b309",
+  "text": "Läheinen rinnakkaiselo voi hyödyttää, vahingoittaa tai vaikuttaa jokaiseen osallistujaan eri tavalla.",
+  "durationMs": 8800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 2160,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2640,
+      "startChar": 27,
+      "endChar": 38
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3560,
+      "startChar": 38,
+      "endChar": 51
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4840,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5320,
+      "startChar": 55,
+      "endChar": 65
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5960,
+      "startChar": 65,
+      "endChar": 75
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6720,
+      "startChar": 75,
+      "endChar": 89
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7640,
+      "startChar": 89,
+      "endChar": 93
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8000,
+      "startChar": 93,
+      "endChar": 101
+    }
+  ]
+}

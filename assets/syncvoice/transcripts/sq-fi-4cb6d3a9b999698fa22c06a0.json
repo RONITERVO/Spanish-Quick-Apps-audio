@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-4cb6d3a9b999698fa22c06a0",
+  "text": "Proteiinit voivat toimia entsyymeinä, rakenteina, kuljettajina, signaaleina ja moottoreina.",
+  "durationMs": 7480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 38
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2760,
+      "startChar": 38,
+      "endChar": 50
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3880,
+      "startChar": 50,
+      "endChar": 64
+    },
+    {
+      "startMs": 3880,
+      "endMs": 5040,
+      "startChar": 64,
+      "endChar": 76
+    },
+    {
+      "startMs": 5040,
+      "endMs": 6200,
+      "startChar": 76,
+      "endChar": 79
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6480,
+      "startChar": 79,
+      "endChar": 91
+    }
+  ]
+}

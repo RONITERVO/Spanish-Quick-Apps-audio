@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-197cdce20fa1d936fe141719",
+  "text": "suunnattu signaali",
+  "durationMs": 1320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 660,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 660,
+      "endMs": 1320,
+      "startChar": 10,
+      "endChar": 18
+    }
+  ]
+}
