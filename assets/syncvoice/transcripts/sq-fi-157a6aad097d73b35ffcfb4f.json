@@ -6,103 +6,103 @@
   "cues": [
     {
       "startMs": 0,
-      "endMs": 75,
+      "endMs": 649,
       "startChar": 0,
       "endChar": 4
     },
     {
-      "startMs": 75,
-      "endMs": 150,
+      "startMs": 649,
+      "endMs": 1299,
       "startChar": 4,
       "endChar": 10
     },
     {
-      "startMs": 150,
-      "endMs": 225,
+      "startMs": 1299,
+      "endMs": 1948,
       "startChar": 10,
       "endChar": 18
     },
     {
-      "startMs": 225,
-      "endMs": 1440,
+      "startMs": 1948,
+      "endMs": 2598,
       "startChar": 18,
       "endChar": 26
     },
     {
-      "startMs": 1440,
-      "endMs": 2000,
+      "startMs": 2598,
+      "endMs": 3247,
       "startChar": 26,
       "endChar": 37
     },
     {
-      "startMs": 2000,
-      "endMs": 2800,
+      "startMs": 3247,
+      "endMs": 3896,
       "startChar": 37,
       "endChar": 40
     },
     {
-      "startMs": 2800,
-      "endMs": 2920,
+      "startMs": 3896,
+      "endMs": 4546,
       "startChar": 40,
       "endChar": 48
     },
     {
-      "startMs": 2920,
-      "endMs": 3920,
+      "startMs": 4546,
+      "endMs": 5195,
       "startChar": 48,
       "endChar": 61
     },
     {
-      "startMs": 3920,
-      "endMs": 4800,
+      "startMs": 5195,
+      "endMs": 5845,
       "startChar": 61,
       "endChar": 71
     },
     {
-      "startMs": 4800,
-      "endMs": 5440,
+      "startMs": 5845,
+      "endMs": 6494,
       "startChar": 71,
       "endChar": 81
     },
     {
-      "startMs": 5440,
-      "endMs": 6240,
+      "startMs": 6494,
+      "endMs": 7144,
       "startChar": 81,
       "endChar": 87
     },
     {
-      "startMs": 6240,
-      "endMs": 7040,
+      "startMs": 7144,
+      "endMs": 7793,
       "startChar": 87,
       "endChar": 97
     },
     {
-      "startMs": 7040,
-      "endMs": 7800,
+      "startMs": 7793,
+      "endMs": 8442,
       "startChar": 97,
       "endChar": 106
     },
     {
-      "startMs": 7800,
-      "endMs": 8400,
+      "startMs": 8442,
+      "endMs": 9092,
       "startChar": 106,
       "endChar": 113
     },
     {
-      "startMs": 8400,
-      "endMs": 8760,
+      "startMs": 9092,
+      "endMs": 9741,
       "startChar": 113,
       "endChar": 116
     },
     {
-      "startMs": 8760,
-      "endMs": 9120,
+      "startMs": 9741,
+      "endMs": 10391,
       "startChar": 116,
       "endChar": 126
     },
     {
-      "startMs": 9120,
-      "endMs": 9960,
+      "startMs": 10391,
+      "endMs": 11040,
       "startChar": 126,
       "endChar": 138
     }

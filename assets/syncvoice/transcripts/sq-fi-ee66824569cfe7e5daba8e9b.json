@@ -6,67 +6,67 @@
   "cues": [
     {
       "startMs": 0,
-      "endMs": 75,
+      "endMs": 658,
       "startChar": 0,
       "endChar": 9
     },
     {
-      "startMs": 75,
-      "endMs": 150,
+      "startMs": 658,
+      "endMs": 1316,
       "startChar": 9,
       "endChar": 23
     },
     {
-      "startMs": 150,
-      "endMs": 1480,
+      "startMs": 1316,
+      "endMs": 1975,
       "startChar": 23,
       "endChar": 36
     },
     {
-      "startMs": 1480,
-      "endMs": 2360,
+      "startMs": 1975,
+      "endMs": 2633,
       "startChar": 36,
       "endChar": 39
     },
     {
-      "startMs": 2360,
-      "endMs": 2760,
+      "startMs": 2633,
+      "endMs": 3291,
       "startChar": 39,
       "endChar": 45
     },
     {
-      "startMs": 2760,
-      "endMs": 3160,
+      "startMs": 3291,
+      "endMs": 3949,
       "startChar": 45,
       "endChar": 52
     },
     {
-      "startMs": 3160,
-      "endMs": 3840,
+      "startMs": 3949,
+      "endMs": 4607,
       "startChar": 52,
       "endChar": 57
     },
     {
-      "startMs": 3840,
-      "endMs": 4400,
+      "startMs": 4607,
+      "endMs": 5265,
       "startChar": 57,
       "endChar": 66
     },
     {
-      "startMs": 4400,
-      "endMs": 5000,
+      "startMs": 5265,
+      "endMs": 5924,
       "startChar": 66,
       "endChar": 74
     },
     {
-      "startMs": 5000,
-      "endMs": 5520,
+      "startMs": 5924,
+      "endMs": 6582,
       "startChar": 74,
       "endChar": 78
     },
     {
-      "startMs": 5520,
-      "endMs": 5800,
+      "startMs": 6582,
+      "endMs": 7240,
       "startChar": 78,
       "endChar": 94
     }
