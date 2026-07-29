@@ -14,4 +14,3 @@ This companion repository keeps the educational application's GitHub Pages deplo
 GitHub Pages publishes this repository at `https://ronitervo.github.io/Spanish-Quick-Apps-audio/`. The application and this asset site share the same `ronitervo.github.io` origin, while separate repositories keep each published site below GitHub Pages' size limit. Git LFS is intentionally not used because GitHub Pages does not publish LFS objects.
 
 Merge and publish this repository before the dependent Spanish Quick Apps narration PR. Future regeneration is resumable; SyncVoice validates both the MP3 and transcript in this output root before skipping an entry.
-Full-quality generated narration assets for Spanish Quick Apps
