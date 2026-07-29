@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-109e1d06d0b48b675ac0516e",
+  "text": "Käytetty voima × kuljettu matka → suunnattu työ häviöineen",
+  "durationMs": 6760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 15,
+      "endChar": 17
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1720,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2400,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3560,
+      "startChar": 32,
+      "endChar": 34
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3680,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4800,
+      "startChar": 44,
+      "endChar": 48
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5320,
+      "startChar": 48,
+      "endChar": 58
+    }
+  ]
+}

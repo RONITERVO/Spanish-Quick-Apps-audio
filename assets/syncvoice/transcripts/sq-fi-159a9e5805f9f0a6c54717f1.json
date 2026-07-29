@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-159a9e5805f9f0a6c54717f1",
+  "text": "Konvergenssi saa arvoa, kun se tuottaa seurauksen, jota mikään näkökulma ei ole aiemmin testannut.",
+  "durationMs": 7880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 17,
+      "endChar": 24
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1760,
+      "startChar": 24,
+      "endChar": 28
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2200,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2360,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2880,
+      "startChar": 39,
+      "endChar": 51
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3720,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4760,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5520,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5920,
+      "startChar": 76,
+      "endChar": 80
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6280,
+      "startChar": 80,
+      "endChar": 88
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6880,
+      "startChar": 88,
+      "endChar": 98
+    }
+  ]
+}

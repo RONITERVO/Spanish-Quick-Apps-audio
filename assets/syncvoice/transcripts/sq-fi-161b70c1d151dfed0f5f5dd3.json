@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-161b70c1d151dfed0f5f5dd3",
+  "text": "Ruokinta muodostaa verkostoja, ei yksinkertaisia ketjuja, koska jokaisella lajilla on yleensä useita suhteita.",
+  "durationMs": 9240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2520,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3120,
+      "startChar": 34,
+      "endChar": 49
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4240,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4960,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5560,
+      "startChar": 64,
+      "endChar": 75
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6280,
+      "startChar": 75,
+      "endChar": 83
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6880,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7120,
+      "startChar": 86,
+      "endChar": 94
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7640,
+      "startChar": 94,
+      "endChar": 101
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8320,
+      "startChar": 101,
+      "endChar": 110
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-29a0f376d34def51b4a1087b",
+  "text": "Symbolien fyysinen käsittely sääntöjen mukaan",
+  "durationMs": 3680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2200,
+      "startChar": 29,
+      "endChar": 39
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2880,
+      "startChar": 39,
+      "endChar": 45
+    }
+  ]
+}

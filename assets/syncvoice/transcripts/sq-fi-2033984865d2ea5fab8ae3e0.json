@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2033984865d2ea5fab8ae3e0",
+  "text": "asteittainen siirtyminen",
+  "durationMs": 1800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 900,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 900,
+      "endMs": 1800,
+      "startChar": 13,
+      "endChar": 24
+    }
+  ]
+}

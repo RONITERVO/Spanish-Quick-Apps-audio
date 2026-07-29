@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1c92ea66580630bcb3717706",
+  "text": "Reittien kertominen säilyttää reitit, vaaratekijät, kohtaamiset ja muutokset.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2360,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3120,
+      "startChar": 38,
+      "endChar": 52
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4440,
+      "startChar": 52,
+      "endChar": 64
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5020,
+      "startChar": 64,
+      "endChar": 67
+    },
+    {
+      "startMs": 5020,
+      "endMs": 5600,
+      "startChar": 67,
+      "endChar": 77
+    }
+  ]
+}

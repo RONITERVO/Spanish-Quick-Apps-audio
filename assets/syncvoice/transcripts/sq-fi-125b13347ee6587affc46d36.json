@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-125b13347ee6587affc46d36",
+  "text": "optinen pulssi",
+  "durationMs": 1220,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 610,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 610,
+      "endMs": 1220,
+      "startChar": 8,
+      "endChar": 14
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-35747a2cfb14dfc8c36ea062",
+  "text": "Pigmentit ja pinnat tekevät eleistä pitkäkestoisia näkyviä jälkiä.",
+  "durationMs": 5320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 960,
+      "endMs": 1600,
+      "startChar": 20,
+      "endChar": 28
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2760,
+      "startChar": 36,
+      "endChar": 51
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3880,
+      "startChar": 51,
+      "endChar": 59
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4480,
+      "startChar": 59,
+      "endChar": 66
+    }
+  ]
+}

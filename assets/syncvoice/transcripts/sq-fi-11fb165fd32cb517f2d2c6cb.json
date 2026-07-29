@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-11fb165fd32cb517f2d2c6cb",
+  "text": "Kokemukset + sekvenssi + merkitys → siirrettävä tarina",
+  "durationMs": 6240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2480,
+      "startChar": 23,
+      "endChar": 25
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3040,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3880,
+      "startChar": 34,
+      "endChar": 36
+    },
+    {
+      "startMs": 3880,
+      "endMs": 3960,
+      "startChar": 36,
+      "endChar": 48
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5320,
+      "startChar": 48,
+      "endChar": 54
+    }
+  ]
+}

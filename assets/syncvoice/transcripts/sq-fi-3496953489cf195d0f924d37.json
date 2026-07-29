@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-3496953489cf195d0f924d37",
+  "text": "Moniajo tarkoittaa usein resurssien vaihtamista ja tarkkuus- tai nopeushäviöiden hyväksymistä.",
+  "durationMs": 7440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2040,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 36,
+      "endChar": 48
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3680,
+      "startChar": 48,
+      "endChar": 51
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4200,
+      "startChar": 51,
+      "endChar": 61
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4880,
+      "startChar": 61,
+      "endChar": 65
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5240,
+      "startChar": 65,
+      "endChar": 81
+    },
+    {
+      "startMs": 5240,
+      "endMs": 6280,
+      "startChar": 81,
+      "endChar": 94
+    }
+  ]
+}

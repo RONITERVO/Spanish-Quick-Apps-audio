@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2e1bf7028870792b9f66d2ae",
+  "text": "Nopea viestintä kehon sisällä",
+  "durationMs": 2640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1880,
+      "startChar": 22,
+      "endChar": 29
+    }
+  ]
+}

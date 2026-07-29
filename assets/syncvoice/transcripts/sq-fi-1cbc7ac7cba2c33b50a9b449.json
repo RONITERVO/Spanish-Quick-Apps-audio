@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1cbc7ac7cba2c33b50a9b449",
+  "text": "Selektio tapahtuu, kun perinnölliset erot aiheuttavat systemaattisia eroja selviytymisessä tai lisääntymisessä.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 23
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1840,
+      "startChar": 23,
+      "endChar": 37
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2760,
+      "startChar": 37,
+      "endChar": 42
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3240,
+      "startChar": 42,
+      "endChar": 54
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4160,
+      "startChar": 54,
+      "endChar": 69
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5320,
+      "startChar": 69,
+      "endChar": 75
+    },
+    {
+      "startMs": 5320,
+      "endMs": 5800,
+      "startChar": 75,
+      "endChar": 91
+    },
+    {
+      "startMs": 5800,
+      "endMs": 7040,
+      "startChar": 91,
+      "endChar": 95
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7400,
+      "startChar": 95,
+      "endChar": 111
+    }
+  ]
+}

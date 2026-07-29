@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2f63566228c79dde3b632fae",
+  "text": "Neuroni vastaanottaa, integroi ja lähettää signaaleja sähköisten ja kemiallisten muutosten kautta.",
+  "durationMs": 8320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 2000,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 2000,
+      "endMs": 3160,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3520,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4120,
+      "startChar": 43,
+      "endChar": 54
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4920,
+      "startChar": 54,
+      "endChar": 65
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5880,
+      "startChar": 65,
+      "endChar": 68
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6160,
+      "startChar": 68,
+      "endChar": 81
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6960,
+      "startChar": 81,
+      "endChar": 91
+    },
+    {
+      "startMs": 6960,
+      "endMs": 7600,
+      "startChar": 91,
+      "endChar": 98
+    }
+  ]
+}

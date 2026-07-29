@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-25c7fffa8756728e9bf02948",
+  "text": "Nopeutettu laajeneminen + rajallinen valon nopeus → alueet, jotka eivät ole enää kausaalisesti saavutettavissa",
+  "durationMs": 9280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1920,
+      "startChar": 24,
+      "endChar": 26
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2440,
+      "startChar": 26,
+      "endChar": 37
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3320,
+      "startChar": 37,
+      "endChar": 43
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3760,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4360,
+      "startChar": 50,
+      "endChar": 52
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4480,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5440,
+      "startChar": 60,
+      "endChar": 66
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5960,
+      "startChar": 66,
+      "endChar": 72
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6360,
+      "startChar": 72,
+      "endChar": 76
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6640,
+      "startChar": 76,
+      "endChar": 81
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7000,
+      "startChar": 81,
+      "endChar": 95
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7920,
+      "startChar": 95,
+      "endChar": 110
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-18dd1ad351523b0831b710a3",
+  "text": "vaihtuva tähti",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 9,
+      "endChar": 14
+    }
+  ]
+}

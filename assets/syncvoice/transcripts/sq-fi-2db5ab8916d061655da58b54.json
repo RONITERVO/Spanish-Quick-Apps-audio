@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2db5ab8916d061655da58b54",
+  "text": "ei vastausta",
+  "durationMs": 1000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 3,
+      "endChar": 12
+    }
+  ]
+}

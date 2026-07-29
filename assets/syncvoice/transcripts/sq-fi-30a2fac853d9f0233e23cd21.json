@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-30a2fac853d9f0233e23cd21",
+  "text": "Koneellinen kuljetus tiivistää aikaa, etäisyyttä ja logistisia kustannuksia.",
+  "durationMs": 6200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2240,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2960,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4200,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4400,
+      "startChar": 52,
+      "endChar": 63
+    },
+    {
+      "startMs": 4400,
+      "endMs": 5120,
+      "startChar": 63,
+      "endChar": 76
+    }
+  ]
+}

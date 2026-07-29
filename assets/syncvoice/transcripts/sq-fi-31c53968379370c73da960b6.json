@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-31c53968379370c73da960b6",
+  "text": "Aito sisältö · tulkinta vielä kesken",
+  "durationMs": 3040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 960,
+      "endMs": 1480,
+      "startChar": 15,
+      "endChar": 24
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1960,
+      "startChar": 24,
+      "endChar": 30
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2240,
+      "startChar": 30,
+      "endChar": 36
+    }
+  ]
+}

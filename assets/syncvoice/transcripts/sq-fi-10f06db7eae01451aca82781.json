@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-10f06db7eae01451aca82781",
+  "text": "sähköinen impulssi",
+  "durationMs": 1920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 960,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 960,
+      "endMs": 1920,
+      "startChar": 10,
+      "endChar": 18
+    }
+  ]
+}

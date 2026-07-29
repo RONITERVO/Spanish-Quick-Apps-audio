@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-25c36d278b723fa3959be84b",
+  "text": "660 kilometrin raja",
+  "durationMs": 2080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 693,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 693,
+      "endMs": 1387,
+      "startChar": 4,
+      "endChar": 15
+    },
+    {
+      "startMs": 1387,
+      "endMs": 2080,
+      "startChar": 15,
+      "endChar": 19
+    }
+  ]
+}

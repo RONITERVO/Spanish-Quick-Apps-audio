@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-186bc14c788995e443a7a401",
+  "text": "Järjestelmä vertailee mahdollisia toimia päästäkseen lähemmäksi määriteltyä tavoitetta.",
+  "durationMs": 6280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 22,
+      "endChar": 34
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2320,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3000,
+      "startChar": 41,
+      "endChar": 53
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3800,
+      "startChar": 53,
+      "endChar": 64
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4440,
+      "startChar": 64,
+      "endChar": 76
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5240,
+      "startChar": 76,
+      "endChar": 87
+    }
+  ]
+}

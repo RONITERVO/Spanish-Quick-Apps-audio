@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-12b05d65a3489642349f50de",
+  "text": "Proprioseptio kertoo lihasten ja nivelten asennosta ja jännityksestä.",
+  "durationMs": 5480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2120,
+      "startChar": 30,
+      "endChar": 33
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2480,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3240,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4040,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4320,
+      "startChar": 55,
+      "endChar": 69
+    }
+  ]
+}

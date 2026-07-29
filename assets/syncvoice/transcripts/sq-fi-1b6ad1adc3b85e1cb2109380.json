@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1b6ad1adc3b85e1cb2109380",
+  "text": "Havainnointi erottaa systemaattisesti sen, mitä löydettiin, siitä, mitä odotettiin löytyvän.",
+  "durationMs": 7680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 21,
+      "endChar": 38
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2840,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3360,
+      "startChar": 43,
+      "endChar": 48
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3880,
+      "startChar": 48,
+      "endChar": 60
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4760,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5600,
+      "startChar": 67,
+      "endChar": 72
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6080,
+      "startChar": 72,
+      "endChar": 83
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6760,
+      "startChar": 83,
+      "endChar": 92
+    }
+  ]
+}

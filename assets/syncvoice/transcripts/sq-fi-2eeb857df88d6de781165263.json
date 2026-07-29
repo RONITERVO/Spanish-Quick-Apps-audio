@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2eeb857df88d6de781165263",
+  "text": "Galaksien välissä · erittäin harvaa ainetta",
+  "durationMs": 4400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2000,
+      "startChar": 20,
+      "endChar": 29
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2760,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3440,
+      "startChar": 36,
+      "endChar": 43
+    }
+  ]
+}

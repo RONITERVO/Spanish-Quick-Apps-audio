@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2d8e0e341436563b0f2a4af2",
+  "text": "Mahdollinen skenaario · hyvinvointi planetaaristen rajojen puitteissa",
+  "durationMs": 5720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 22,
+      "endChar": 24
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2040,
+      "startChar": 24,
+      "endChar": 36
+    },
+    {
+      "startMs": 2040,
+      "endMs": 3080,
+      "startChar": 36,
+      "endChar": 51
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4160,
+      "startChar": 51,
+      "endChar": 59
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4680,
+      "startChar": 59,
+      "endChar": 69
+    }
+  ]
+}

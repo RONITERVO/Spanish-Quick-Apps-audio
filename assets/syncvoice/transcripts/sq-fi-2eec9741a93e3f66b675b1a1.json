@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2eec9741a93e3f66b675b1a1",
+  "text": "geneettinen muokkaus",
+  "durationMs": 2020,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1010,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 1010,
+      "endMs": 2020,
+      "startChar": 12,
+      "endChar": 20
+    }
+  ]
+}

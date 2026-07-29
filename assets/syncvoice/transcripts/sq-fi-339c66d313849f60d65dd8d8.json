@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-339c66d313849f60d65dd8d8",
+  "text": "ne eivät ole ikuisia",
+  "durationMs": 2120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 1160,
+      "startChar": 13,
+      "endChar": 20
+    }
+  ]
+}

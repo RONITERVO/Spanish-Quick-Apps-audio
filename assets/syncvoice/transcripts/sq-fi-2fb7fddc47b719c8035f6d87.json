@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2fb7fddc47b719c8035f6d87",
+  "text": "Sähköiset gradientit voivat toimia tekstuurina, etäisyydenä tai biologisena aktiivisuutena johtavissa väliaineissa.",
+  "durationMs": 8800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2560,
+      "startChar": 35,
+      "endChar": 48
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3440,
+      "startChar": 48,
+      "endChar": 60
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4680,
+      "startChar": 60,
+      "endChar": 64
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5080,
+      "startChar": 64,
+      "endChar": 76
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5920,
+      "startChar": 76,
+      "endChar": 91
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6920,
+      "startChar": 91,
+      "endChar": 102
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7640,
+      "startChar": 102,
+      "endChar": 115
+    }
+  ]
+}

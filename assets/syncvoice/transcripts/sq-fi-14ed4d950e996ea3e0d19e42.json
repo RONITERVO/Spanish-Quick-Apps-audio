@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-14ed4d950e996ea3e0d19e42",
+  "text": "Lyhyet lasersalamat voivat kuljettaa tietoa tai toimia työntövoimana.",
+  "durationMs": 5920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2200,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2840,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3560,
+      "startChar": 44,
+      "endChar": 48
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4160,
+      "startChar": 48,
+      "endChar": 55
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4680,
+      "startChar": 55,
+      "endChar": 69
+    }
+  ]
+}

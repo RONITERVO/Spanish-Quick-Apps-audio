@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1e392f54453eeede10a549e7",
+  "text": "Sattuma voi muuttaa alleelien yleisyyksiä etenkin pienissä populaatioissa.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2120,
+      "startChar": 30,
+      "endChar": 42
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3120,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3640,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4160,
+      "startChar": 59,
+      "endChar": 74
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1d02db0fe10d13b7ae3ab403",
+  "text": "Kaksi samankokoista planeettaa voivat sisältää hyvin erilaisia suhteita kiveä, vettä ja kaasua.",
+  "durationMs": 7480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2080,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2640,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3200,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3600,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4280,
+      "startChar": 63,
+      "endChar": 72
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4920,
+      "startChar": 72,
+      "endChar": 79
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5560,
+      "startChar": 79,
+      "endChar": 85
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6360,
+      "startChar": 85,
+      "endChar": 88
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6640,
+      "startChar": 88,
+      "endChar": 95
+    }
+  ]
+}

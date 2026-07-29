@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-172c48ea71dbe1b869236866",
+  "text": "Jokainen Paikallisen ryhmän galaksi muuttaa edes hieman muiden liikettä.",
+  "durationMs": 5600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2000,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2680,
+      "startChar": 36,
+      "endChar": 44
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3360,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3760,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4720,
+      "startChar": 63,
+      "endChar": 72
+    }
+  ]
+}

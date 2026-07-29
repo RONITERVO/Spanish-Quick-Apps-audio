@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-229a655cd2decdd586d78e81",
+  "text": "Toistaminen · yksittäinen havainto ei riitä",
+  "durationMs": 3920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 12,
+      "endChar": 14
+    },
+    {
+      "startMs": 960,
+      "endMs": 1440,
+      "startChar": 14,
+      "endChar": 26
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2280,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2920,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3160,
+      "startChar": 38,
+      "endChar": 43
+    }
+  ]
+}

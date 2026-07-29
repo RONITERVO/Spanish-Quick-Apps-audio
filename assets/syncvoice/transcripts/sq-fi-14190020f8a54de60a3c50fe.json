@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-14190020f8a54de60a3c50fe",
+  "text": "Koodaus + säilytys + palautus + rekonstruktio",
+  "durationMs": 6440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2640,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3360,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4320,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5000,
+      "startChar": 32,
+      "endChar": 45
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-15fb062905591556271cd5b9",
+  "text": "Tunteet antavat signaaleja kiireellisyydestä, tärkeydestä ja oppimisesta ennen vaihtoehtojen vertailua.",
+  "durationMs": 7680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 16,
+      "endChar": 27
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 46
+    },
+    {
+      "startMs": 1840,
+      "endMs": 3160,
+      "startChar": 46,
+      "endChar": 58
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4280,
+      "startChar": 58,
+      "endChar": 61
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4520,
+      "startChar": 61,
+      "endChar": 73
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5440,
+      "startChar": 73,
+      "endChar": 79
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5880,
+      "startChar": 79,
+      "endChar": 93
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6720,
+      "startChar": 93,
+      "endChar": 103
+    }
+  ]
+}

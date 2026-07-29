@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2e15a95dc3e606eabef5a6c1",
+  "text": "Ruoka + vesi + työ + hallinto + energia → kaupunkijärjestelmä",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 8,
+      "endChar": 13
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1680,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2160,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2680,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 2680,
+      "endMs": 2960,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4040,
+      "startChar": 30,
+      "endChar": 32
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4520,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5240,
+      "startChar": 40,
+      "endChar": 42
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5560,
+      "startChar": 42,
+      "endChar": 61
+    }
+  ]
+}

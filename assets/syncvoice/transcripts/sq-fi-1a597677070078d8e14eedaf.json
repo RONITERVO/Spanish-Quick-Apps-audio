@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1a597677070078d8e14eedaf",
+  "text": "Molemmat osapuolet ylläpitävät tunnisteita ja viitteitä, jotka linkittävät jokaisen viestin aikaisempiin.",
+  "durationMs": 7960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3160,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3320,
+      "startChar": 46,
+      "endChar": 57
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4000,
+      "startChar": 57,
+      "endChar": 63
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4680,
+      "startChar": 63,
+      "endChar": 75
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5440,
+      "startChar": 75,
+      "endChar": 84
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6080,
+      "startChar": 84,
+      "endChar": 92
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6680,
+      "startChar": 92,
+      "endChar": 105
+    }
+  ]
+}

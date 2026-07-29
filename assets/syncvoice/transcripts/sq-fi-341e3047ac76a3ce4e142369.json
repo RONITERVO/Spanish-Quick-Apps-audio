@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-341e3047ac76a3ce4e142369",
+  "text": "Kartoitukset kuvaavat galakseja, galaksijoukkoja, säikeitä ja tyhjiöitä suuressa mittakaavassa.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 22,
+      "endChar": 33
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2160,
+      "startChar": 33,
+      "endChar": 50
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3640,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4720,
+      "startChar": 59,
+      "endChar": 62
+    },
+    {
+      "startMs": 4720,
+      "endMs": 4920,
+      "startChar": 62,
+      "endChar": 72
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5640,
+      "startChar": 72,
+      "endChar": 81
+    },
+    {
+      "startMs": 5640,
+      "endMs": 6160,
+      "startChar": 81,
+      "endChar": 95
+    }
+  ]
+}

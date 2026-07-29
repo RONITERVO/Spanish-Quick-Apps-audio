@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-342c6eb72bbc174d7763ef68",
+  "text": "Kaikki havainnointi alkaa jonkinlaisesta ruumiillistumasta, anturista tai ympäristön rajapinnasta.",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1720,
+      "startChar": 26,
+      "endChar": 41
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2640,
+      "startChar": 41,
+      "endChar": 60
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3840,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4920,
+      "startChar": 70,
+      "endChar": 74
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5280,
+      "startChar": 74,
+      "endChar": 85
+    },
+    {
+      "startMs": 5280,
+      "endMs": 6000,
+      "startChar": 85,
+      "endChar": 98
+    }
+  ]
+}

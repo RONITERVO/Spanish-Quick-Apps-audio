@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-23c53ba55c4742629a1a436f",
+  "text": "Valittu suunta kuuluu kokonaisuuteen, ei yksittäiseen hiukkaseen.",
+  "durationMs": 5280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 38
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2960,
+      "startChar": 38,
+      "endChar": 41
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3360,
+      "startChar": 41,
+      "endChar": 54
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4240,
+      "startChar": 54,
+      "endChar": 65
+    }
+  ]
+}

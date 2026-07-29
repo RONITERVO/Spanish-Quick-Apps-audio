@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-36d62f0af499c9fff04c51c7",
+  "text": "mustien aukkojen aikakausi",
+  "durationMs": 1950,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 650,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 650,
+      "endMs": 1300,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 1300,
+      "endMs": 1950,
+      "startChar": 17,
+      "endChar": 26
+    }
+  ]
+}

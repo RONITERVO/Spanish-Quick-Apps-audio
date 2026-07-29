@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-2d691b9d22e70400a080d498",
+  "text": "Standardoitu ja toistettava vertailu",
+  "durationMs": 2920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1960,
+      "startChar": 28,
+      "endChar": 36
+    }
+  ]
+}

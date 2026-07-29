@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1c11191cbd97d5da3b644ac0",
+  "text": "Teknologinen signaali voi tulla koneesta, aktiivisesta sivilisaatiosta tai hylätystä järjestelmästä.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1560,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1880,
+      "startChar": 32,
+      "endChar": 42
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2640,
+      "startChar": 42,
+      "endChar": 55
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3720,
+      "startChar": 55,
+      "endChar": 71
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4880,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5480,
+      "startChar": 75,
+      "endChar": 85
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6080,
+      "startChar": 85,
+      "endChar": 100
+    }
+  ]
+}

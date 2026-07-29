@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-12525151d4e8e2baf9ead151",
+  "text": "näkyvä valo",
+  "durationMs": 1000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 7,
+      "endChar": 11
+    }
+  ]
+}

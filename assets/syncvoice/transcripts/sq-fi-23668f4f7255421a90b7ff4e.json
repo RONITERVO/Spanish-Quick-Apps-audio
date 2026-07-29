@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-23668f4f7255421a90b7ff4e",
+  "text": "Variaatio mahdollistaa järjestelmän vierailla vaihtoehtoisissa tiloissa sen sijaan, että se lukittuisi yhteen kokoonpanoon.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 10,
+      "endChar": 23
+    },
+    {
+      "startMs": 960,
+      "endMs": 1760,
+      "startChar": 23,
+      "endChar": 36
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2640,
+      "startChar": 36,
+      "endChar": 46
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3400,
+      "startChar": 46,
+      "endChar": 63
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4560,
+      "startChar": 63,
+      "endChar": 72
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5200,
+      "startChar": 72,
+      "endChar": 76
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5275,
+      "startChar": 76,
+      "endChar": 84
+    },
+    {
+      "startMs": 5275,
+      "endMs": 6120,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6260,
+      "startChar": 89,
+      "endChar": 92
+    },
+    {
+      "startMs": 6260,
+      "endMs": 6400,
+      "startChar": 92,
+      "endChar": 103
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7200,
+      "startChar": 103,
+      "endChar": 110
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7720,
+      "startChar": 110,
+      "endChar": 123
+    }
+  ]
+}

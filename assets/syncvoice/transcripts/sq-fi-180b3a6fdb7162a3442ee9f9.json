@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-180b3a6fdb7162a3442ee9f9",
+  "text": "Mineraalit, energia, kiertoradat, data ja laskentakapasiteetti voidaan keskittää muutamalle toimijalle.",
+  "durationMs": 8600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 2000,
+      "startChar": 21,
+      "endChar": 34
+    },
+    {
+      "startMs": 2000,
+      "endMs": 3280,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3720,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4160,
+      "startChar": 42,
+      "endChar": 63
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5960,
+      "startChar": 63,
+      "endChar": 71
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6400,
+      "startChar": 71,
+      "endChar": 81
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7000,
+      "startChar": 81,
+      "endChar": 92
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7640,
+      "startChar": 92,
+      "endChar": 103
+    }
+  ]
+}

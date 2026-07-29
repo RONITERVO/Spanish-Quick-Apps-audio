@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-14bf98359a1692a513649b93",
+  "text": "ohimenevä tähti",
+  "durationMs": 1480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 740,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 740,
+      "endMs": 1480,
+      "startChar": 10,
+      "endChar": 15
+    }
+  ]
+}

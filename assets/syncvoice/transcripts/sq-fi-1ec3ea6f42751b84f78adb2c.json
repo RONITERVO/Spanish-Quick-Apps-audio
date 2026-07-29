@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-1ec3ea6f42751b84f78adb2c",
+  "text": "Simulaatio poissaolevasta ja mahdollisesta",
+  "durationMs": 4280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 26
+    },
+    {
+      "startMs": 150,
+      "endMs": 2560,
+      "startChar": 26,
+      "endChar": 29
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3000,
+      "startChar": 29,
+      "endChar": 42
+    }
+  ]
+}
