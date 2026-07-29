@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-en-99ac1d460687bff500840e78",
+  "text": "The message may assume knowledge of places, species or events impossible to observe from Earth.",
+  "durationMs": 7680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1120,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1680,
+      "startChar": 23,
+      "endChar": 33
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2280,
+      "startChar": 33,
+      "endChar": 36
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2480,
+      "startChar": 36,
+      "endChar": 44
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3400,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4200,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4560,
+      "startChar": 55,
+      "endChar": 62
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5200,
+      "startChar": 62,
+      "endChar": 73
+    },
+    {
+      "startMs": 5200,
+      "endMs": 6080,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6320,
+      "startChar": 76,
+      "endChar": 84
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6800,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7000,
+      "startChar": 89,
+      "endChar": 95
+    }
+  ]
+}

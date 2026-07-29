@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b4b26317153c170a9b2c0040",
+  "text": "Sets of positive and negative examples allow categories to be inferred without assuming that they coincide with human ones.",
+  "durationMs": 9800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1680,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2080,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2560,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3320,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3440,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4840,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5040,
+      "startChar": 59,
+      "endChar": 62
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5320,
+      "startChar": 62,
+      "endChar": 71
+    },
+    {
+      "startMs": 5320,
+      "endMs": 6080,
+      "startChar": 71,
+      "endChar": 79
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6720,
+      "startChar": 79,
+      "endChar": 88
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7520,
+      "startChar": 88,
+      "endChar": 93
+    },
+    {
+      "startMs": 7520,
+      "endMs": 7760,
+      "startChar": 93,
+      "endChar": 98
+    },
+    {
+      "startMs": 7760,
+      "endMs": 7920,
+      "startChar": 98,
+      "endChar": 107
+    },
+    {
+      "startMs": 7920,
+      "endMs": 8680,
+      "startChar": 107,
+      "endChar": 112
+    },
+    {
+      "startMs": 8680,
+      "endMs": 8840,
+      "startChar": 112,
+      "endChar": 118
+    },
+    {
+      "startMs": 8840,
+      "endMs": 9160,
+      "startChar": 118,
+      "endChar": 123
+    }
+  ]
+}

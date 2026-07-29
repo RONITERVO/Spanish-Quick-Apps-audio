@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-9ab119f7a053986ad1c83547",
+  "text": "Dividing a sequence into repeated tasks increases pace and reduces work flexibility.",
+  "durationMs": 7240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2080,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2800,
+      "startChar": 34,
+      "endChar": 40
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3400,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4120,
+      "startChar": 50,
+      "endChar": 55
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4640,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5160,
+      "startChar": 59,
+      "endChar": 67
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5880,
+      "startChar": 67,
+      "endChar": 72
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6200,
+      "startChar": 72,
+      "endChar": 84
+    }
+  ]
+}

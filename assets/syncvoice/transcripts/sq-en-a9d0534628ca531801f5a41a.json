@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a9d0534628ca531801f5a41a",
+  "text": "A distant location changes the interference environment and offers a different observing geometry.",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1860,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1860,
+      "endMs": 2160,
+      "startChar": 31,
+      "endChar": 44
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3000,
+      "startChar": 44,
+      "endChar": 56
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3840,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4440,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4680,
+      "startChar": 67,
+      "endChar": 69
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4920,
+      "startChar": 69,
+      "endChar": 79
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5560,
+      "startChar": 79,
+      "endChar": 89
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6120,
+      "startChar": 89,
+      "endChar": 98
+    }
+  ]
+}

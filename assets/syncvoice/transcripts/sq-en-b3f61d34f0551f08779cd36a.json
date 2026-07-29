@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b3f61d34f0551f08779cd36a",
+  "text": "Ice crystals at very high altitudes can glow after sunset.",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 960,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2080,
+      "startChar": 26,
+      "endChar": 36
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2880,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3160,
+      "startChar": 40,
+      "endChar": 45
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3680,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3960,
+      "startChar": 51,
+      "endChar": 58
+    }
+  ]
+}

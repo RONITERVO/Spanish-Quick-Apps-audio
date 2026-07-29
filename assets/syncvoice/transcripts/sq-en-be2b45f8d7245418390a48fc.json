@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-be2b45f8d7245418390a48fc",
+  "text": "Many stimuli → selection → priority processing",
+  "durationMs": 4440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1640,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2520,
+      "startChar": 25,
+      "endChar": 27
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2840,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3480,
+      "startChar": 36,
+      "endChar": 46
+    }
+  ]
+}

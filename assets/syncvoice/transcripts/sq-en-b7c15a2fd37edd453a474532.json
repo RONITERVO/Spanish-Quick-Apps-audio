@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b7c15a2fd37edd453a474532",
+  "text": "Possible abundance · observed silence",
+  "durationMs": 3560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1880,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2600,
+      "startChar": 30,
+      "endChar": 37
+    }
+  ]
+}

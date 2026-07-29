@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b6435116927235b3f80ab34d",
+  "text": "A beacon, file, greeting, warning or technological leak would require different interpretation strategies.",
+  "durationMs": 8800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1760,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2760,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3760,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4160,
+      "startChar": 37,
+      "endChar": 51
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5080,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5560,
+      "startChar": 56,
+      "endChar": 62
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5840,
+      "startChar": 62,
+      "endChar": 70
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6440,
+      "startChar": 70,
+      "endChar": 80
+    },
+    {
+      "startMs": 6440,
+      "endMs": 6960,
+      "startChar": 80,
+      "endChar": 95
+    },
+    {
+      "startMs": 6960,
+      "endMs": 7760,
+      "startChar": 95,
+      "endChar": 106
+    }
+  ]
+}

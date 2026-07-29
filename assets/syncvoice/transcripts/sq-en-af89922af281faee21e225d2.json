@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-af89922af281faee21e225d2",
+  "text": "A small signal can control a larger current within a semiconductor.",
+  "durationMs": 5320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1560,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1880,
+      "startChar": 27,
+      "endChar": 29
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2200,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2880,
+      "startChar": 36,
+      "endChar": 44
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3440,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3700,
+      "startChar": 51,
+      "endChar": 53
+    },
+    {
+      "startMs": 3700,
+      "endMs": 3960,
+      "startChar": 53,
+      "endChar": 67
+    }
+  ]
+}

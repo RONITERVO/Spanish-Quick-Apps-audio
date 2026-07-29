@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-9f36b73550cf078090d50545",
+  "text": "messages without arrival",
+  "durationMs": 2000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 667,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 667,
+      "endMs": 1333,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 1333,
+      "endMs": 2000,
+      "startChar": 17,
+      "endChar": 24
+    }
+  ]
+}

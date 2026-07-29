@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ad9e6b5171f4fbdb01fc14e0",
+  "text": "Plate stresses deform and break rigid rock.",
+  "durationMs": 4080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1960,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2280,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2880,
+      "startChar": 32,
+      "endChar": 38
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3320,
+      "startChar": 38,
+      "endChar": 43
+    }
+  ]
+}

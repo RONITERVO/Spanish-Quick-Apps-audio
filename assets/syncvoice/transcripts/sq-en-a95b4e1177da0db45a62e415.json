@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a95b4e1177da0db45a62e415",
+  "text": "Sensors + models + actuators + organization → partially automated work",
+  "durationMs": 8160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 960,
+      "endMs": 1600,
+      "startChar": 17,
+      "endChar": 19
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2400,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3120,
+      "startChar": 29,
+      "endChar": 31
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3960,
+      "startChar": 31,
+      "endChar": 44
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5840,
+      "startChar": 44,
+      "endChar": 46
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6000,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 6000,
+      "endMs": 7000,
+      "startChar": 56,
+      "endChar": 66
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7600,
+      "startChar": 66,
+      "endChar": 70
+    }
+  ]
+}

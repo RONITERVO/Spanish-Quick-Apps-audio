@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a0d679607d929dbd240bbeb5",
+  "text": "Segmentation + repetition + relationships + physical context → reading hypothesis",
+  "durationMs": 8960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 1200,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2000,
+      "startChar": 15,
+      "endChar": 26
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2480,
+      "startChar": 26,
+      "endChar": 28
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2960,
+      "startChar": 28,
+      "endChar": 42
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4840,
+      "startChar": 42,
+      "endChar": 44
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5440,
+      "startChar": 44,
+      "endChar": 53
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6040,
+      "startChar": 53,
+      "endChar": 61
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6920,
+      "startChar": 61,
+      "endChar": 63
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7200,
+      "startChar": 63,
+      "endChar": 71
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7760,
+      "startChar": 71,
+      "endChar": 81
+    }
+  ]
+}

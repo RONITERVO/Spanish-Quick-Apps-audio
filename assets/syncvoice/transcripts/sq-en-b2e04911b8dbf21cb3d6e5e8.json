@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b2e04911b8dbf21cb3d6e5e8",
+  "text": "Moving expands access to resources, but increases energy consumption.",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1740,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1740,
+      "endMs": 2000,
+      "startChar": 25,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2880,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 2880,
+      "endMs": 2955,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 2955,
+      "endMs": 4320,
+      "startChar": 50,
+      "endChar": 57
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4720,
+      "startChar": 57,
+      "endChar": 69
+    }
+  ]
+}

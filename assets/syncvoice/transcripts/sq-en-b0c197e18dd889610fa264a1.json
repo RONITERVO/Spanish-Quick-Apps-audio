@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b0c197e18dd889610fa264a1",
+  "text": "In the center, millions of atmospheres compress the matter.",
+  "durationMs": 4760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1120,
+      "startChar": 15,
+      "endChar": 24
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1640,
+      "startChar": 24,
+      "endChar": 27
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2160,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3160,
+      "startChar": 39,
+      "endChar": 48
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3500,
+      "startChar": 48,
+      "endChar": 52
+    },
+    {
+      "startMs": 3500,
+      "endMs": 3840,
+      "startChar": 52,
+      "endChar": 59
+    }
+  ]
+}

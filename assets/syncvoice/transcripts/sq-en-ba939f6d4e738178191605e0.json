@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-ba939f6d4e738178191605e0",
+  "text": "last warm planets",
+  "durationMs": 1890,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 630,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 630,
+      "endMs": 1260,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 1260,
+      "endMs": 1890,
+      "startChar": 10,
+      "endChar": 17
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-a2c689915535f18394fbad52",
+  "text": "wait for consensus",
+  "durationMs": 1510,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 503,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 503,
+      "endMs": 1007,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 1007,
+      "endMs": 1510,
+      "startChar": 9,
+      "endChar": 18
+    }
+  ]
+}

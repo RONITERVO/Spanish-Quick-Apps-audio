@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-9a25cef9a87a8b87b3e688e8",
+  "text": "underground life",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 12,
+      "endChar": 16
+    }
+  ]
+}

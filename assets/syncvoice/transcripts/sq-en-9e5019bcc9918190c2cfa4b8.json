@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-en-9e5019bcc9918190c2cfa4b8",
+  "text": "Representing several futures allows paths to be compared, although no simulation eliminates real uncertainty.",
+  "durationMs": 8280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2080,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2640,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2860,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 2860,
+      "endMs": 3080,
+      "startChar": 45,
+      "endChar": 48
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3360,
+      "startChar": 48,
+      "endChar": 58
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4000,
+      "startChar": 58,
+      "endChar": 67
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4720,
+      "startChar": 67,
+      "endChar": 70
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5120,
+      "startChar": 70,
+      "endChar": 81
+    },
+    {
+      "startMs": 5120,
+      "endMs": 6000,
+      "startChar": 81,
+      "endChar": 92
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6800,
+      "startChar": 92,
+      "endChar": 97
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7240,
+      "startChar": 97,
+      "endChar": 109
+    }
+  ]
+}

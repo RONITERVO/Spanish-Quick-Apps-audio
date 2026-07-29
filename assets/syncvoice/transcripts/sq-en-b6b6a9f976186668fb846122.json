@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-b6b6a9f976186668fb846122",
+  "text": "Recombined memory + simulation → possible scenarios",
+  "durationMs": 5280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1720,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2360,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3400,
+      "startChar": 31,
+      "endChar": 33
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3475,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 3475,
+      "endMs": 4240,
+      "startChar": 42,
+      "endChar": 51
+    }
+  ]
+}

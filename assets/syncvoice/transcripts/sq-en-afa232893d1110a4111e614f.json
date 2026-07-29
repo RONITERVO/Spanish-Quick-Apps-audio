@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-afa232893d1110a4111e614f",
+  "text": "muted gold",
+  "durationMs": 1220,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 610,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 610,
+      "endMs": 1220,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}
