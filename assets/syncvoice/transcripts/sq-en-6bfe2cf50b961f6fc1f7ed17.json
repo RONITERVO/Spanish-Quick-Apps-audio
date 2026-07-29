@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-6bfe2cf50b961f6fc1f7ed17",
+  "text": "Common or private reserves change security, power and planning.",
+  "durationMs": 5120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2040,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2480,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3320,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4120,
+      "startChar": 50,
+      "endChar": 54
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4480,
+      "startChar": 54,
+      "endChar": 63
+    }
+  ]
+}

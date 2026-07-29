@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-55e75783e994148351a1fdf2",
+  "text": "interesting signal",
+  "durationMs": 1210,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 605,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 605,
+      "endMs": 1210,
+      "startChar": 12,
+      "endChar": 18
+    }
+  ]
+}

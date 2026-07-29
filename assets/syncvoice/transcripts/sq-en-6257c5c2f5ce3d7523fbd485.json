@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-6257c5c2f5ce3d7523fbd485",
+  "text": "An adaptive organization modifies its response based on previous conditions and experiences.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 25
+    },
+    {
+      "startMs": 225,
+      "endMs": 1800,
+      "startChar": 25,
+      "endChar": 34
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2520,
+      "startChar": 34,
+      "endChar": 38
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2720,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3440,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3880,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4120,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4640,
+      "startChar": 65,
+      "endChar": 76
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5400,
+      "startChar": 76,
+      "endChar": 80
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5640,
+      "startChar": 80,
+      "endChar": 92
+    }
+  ]
+}

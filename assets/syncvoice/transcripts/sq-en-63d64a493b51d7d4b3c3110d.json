@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-63d64a493b51d7d4b3c3110d",
+  "text": "light sky blue",
+  "durationMs": 1460,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 487,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 487,
+      "endMs": 973,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 973,
+      "endMs": 1460,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4c56356d25c9f14e3fda3a3d",
+  "text": "muted indigo",
+  "durationMs": 1280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 6,
+      "endChar": 12
+    }
+  ]
+}

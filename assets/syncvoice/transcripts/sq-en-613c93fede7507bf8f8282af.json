@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-613c93fede7507bf8f8282af",
+  "text": "Gaze direction helps share attention on an object or event.",
+  "durationMs": 4560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1520,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2600,
+      "startChar": 37,
+      "endChar": 40
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2680,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 2680,
+      "endMs": 2760,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3520,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3800,
+      "startChar": 53,
+      "endChar": 59
+    }
+  ]
+}

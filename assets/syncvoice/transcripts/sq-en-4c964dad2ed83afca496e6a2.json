@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4c964dad2ed83afca496e6a2",
+  "text": "The transformation of the mind",
+  "durationMs": 2680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1680,
+      "startChar": 26,
+      "endChar": 30
+    }
+  ]
+}

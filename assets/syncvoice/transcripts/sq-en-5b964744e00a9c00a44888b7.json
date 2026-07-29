@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5b964744e00a9c00a44888b7",
+  "text": "sea of quarks",
+  "durationMs": 1820,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 607,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 607,
+      "endMs": 1213,
+      "startChar": 4,
+      "endChar": 7
+    },
+    {
+      "startMs": 1213,
+      "endMs": 1820,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

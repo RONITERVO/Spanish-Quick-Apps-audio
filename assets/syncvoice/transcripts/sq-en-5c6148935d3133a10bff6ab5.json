@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5c6148935d3133a10bff6ab5",
+  "text": "the present as an anchor",
+  "durationMs": 2760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1680,
+      "startChar": 15,
+      "endChar": 18
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1960,
+      "startChar": 18,
+      "endChar": 24
+    }
+  ]
+}

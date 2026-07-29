@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "externalId": "sq-en-64baf4828d6f9ac3d171b71a",
+  "text": "A planet crossing in front of its star produces a periodic decrease in brightness.",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1360,
+      "startChar": 18,
+      "endChar": 21
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1520,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1680,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1840,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2120,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2600,
+      "startChar": 39,
+      "endChar": 48
+    },
+    {
+      "startMs": 2600,
+      "endMs": 3060,
+      "startChar": 48,
+      "endChar": 50
+    },
+    {
+      "startMs": 3060,
+      "endMs": 3520,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4440,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5040,
+      "startChar": 68,
+      "endChar": 71
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5200,
+      "startChar": 71,
+      "endChar": 82
+    }
+  ]
+}

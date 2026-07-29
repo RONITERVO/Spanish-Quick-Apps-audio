@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5b4d8ad747087f70f00778c4",
+  "text": "acoustic oscillation",
+  "durationMs": 2000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1000,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2000,
+      "startChar": 9,
+      "endChar": 20
+    }
+  ]
+}

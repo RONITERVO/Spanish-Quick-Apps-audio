@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "sq-en-576fdade056e1b6b199c4e39",
+  "text": "A brief acknowledgment limits the content and demonstrates that the signal was understood at least as communication.",
+  "durationMs": 8880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 23
+    },
+    {
+      "startMs": 225,
+      "endMs": 1640,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1920,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2200,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3040,
+      "startChar": 42,
+      "endChar": 46
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3560,
+      "startChar": 46,
+      "endChar": 59
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4360,
+      "startChar": 59,
+      "endChar": 64
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4460,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4460,
+      "endMs": 4560,
+      "startChar": 68,
+      "endChar": 75
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5360,
+      "startChar": 75,
+      "endChar": 79
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5680,
+      "startChar": 79,
+      "endChar": 90
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6600,
+      "startChar": 90,
+      "endChar": 93
+    },
+    {
+      "startMs": 6600,
+      "endMs": 6880,
+      "startChar": 93,
+      "endChar": 99
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7400,
+      "startChar": 99,
+      "endChar": 102
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7760,
+      "startChar": 102,
+      "endChar": 116
+    }
+  ]
+}

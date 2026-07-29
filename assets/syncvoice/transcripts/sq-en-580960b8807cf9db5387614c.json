@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-580960b8807cf9db5387614c",
+  "text": "About 26,000 light-years from the Sun",
+  "durationMs": 3760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 2080,
+      "startChar": 13,
+      "endChar": 25
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2760,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 2760,
+      "endMs": 2860,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2860,
+      "endMs": 2960,
+      "startChar": 34,
+      "endChar": 37
+    }
+  ]
+}

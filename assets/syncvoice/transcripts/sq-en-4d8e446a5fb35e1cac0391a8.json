@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4d8e446a5fb35e1cac0391a8",
+  "text": "Motion perception combines temporal changes, tracking, and prediction.",
+  "durationMs": 5320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2440,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3160,
+      "startChar": 45,
+      "endChar": 55
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4000,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4480,
+      "startChar": 59,
+      "endChar": 70
+    }
+  ]
+}

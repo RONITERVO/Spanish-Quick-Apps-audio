@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5c1b629ce8656f2b95ae972f",
+  "text": "send science",
+  "durationMs": 1350,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 675,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 675,
+      "endMs": 1350,
+      "startChar": 5,
+      "endChar": 12
+    }
+  ]
+}

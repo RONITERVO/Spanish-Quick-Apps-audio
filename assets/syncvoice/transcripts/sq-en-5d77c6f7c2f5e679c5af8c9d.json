@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5d77c6f7c2f5e679c5af8c9d",
+  "text": "Flattened structure · our cosmic neighborhood",
+  "durationMs": 3200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1480,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1880,
+      "startChar": 26,
+      "endChar": 33
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2400,
+      "startChar": 33,
+      "endChar": 45
+    }
+  ]
+}

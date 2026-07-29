@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4e3ae12154425b939c9b33b2",
+  "text": "insufficient recycling",
+  "durationMs": 1750,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 875,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 875,
+      "endMs": 1750,
+      "startChar": 13,
+      "endChar": 22
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-6fd25dbc7aae72860b881707",
+  "text": "A mass with handle amplifies impact and protects the hand.",
+  "durationMs": 5280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1720,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2640,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3400,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3880,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4160,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4440,
+      "startChar": 53,
+      "endChar": 58
+    }
+  ]
+}

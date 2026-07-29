@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4fdb9494da38653deb88997b",
+  "text": "Each model can identify extreme conditions where the other fails to predict correctly.",
+  "durationMs": 6320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1040,
+      "startChar": 15,
+      "endChar": 24
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1840,
+      "startChar": 24,
+      "endChar": 32
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2560,
+      "startChar": 32,
+      "endChar": 43
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3400,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3640,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3880,
+      "startChar": 53,
+      "endChar": 59
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4360,
+      "startChar": 59,
+      "endChar": 65
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4620,
+      "startChar": 65,
+      "endChar": 68
+    },
+    {
+      "startMs": 4620,
+      "endMs": 4880,
+      "startChar": 68,
+      "endChar": 76
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5480,
+      "startChar": 76,
+      "endChar": 86
+    }
+  ]
+}

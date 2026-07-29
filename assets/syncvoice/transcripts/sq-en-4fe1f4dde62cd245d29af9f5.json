@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4fe1f4dde62cd245d29af9f5",
+  "text": "Memory allows a previous state to influence later responses.",
+  "durationMs": 5720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 835,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 835,
+      "endMs": 1520,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2400,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2960,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3440,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4240,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4600,
+      "startChar": 50,
+      "endChar": 60
+    }
+  ]
+}

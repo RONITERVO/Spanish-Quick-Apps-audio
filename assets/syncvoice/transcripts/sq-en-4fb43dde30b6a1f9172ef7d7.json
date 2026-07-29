@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4fb43dde30b6a1f9172ef7d7",
+  "text": "free fall",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 5,
+      "endChar": 9
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-en-58a109409cff3ffc00e2c247",
+  "text": "Periodic changes can follow biological, climatic or geological cycles.",
+  "durationMs": 6040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2040,
+      "startChar": 28,
+      "endChar": 40
+    },
+    {
+      "startMs": 2040,
+      "endMs": 3080,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4120,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4480,
+      "startChar": 52,
+      "endChar": 63
+    },
+    {
+      "startMs": 4480,
+      "endMs": 5200,
+      "startChar": 63,
+      "endChar": 70
+    }
+  ]
+}

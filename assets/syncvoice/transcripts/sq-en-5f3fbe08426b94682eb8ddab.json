@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5f3fbe08426b94682eb8ddab",
+  "text": "Interdependent network that transforms the Earth",
+  "durationMs": 4200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 15,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 2320,
+      "startChar": 23,
+      "endChar": 28
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2720,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3080,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3440,
+      "startChar": 43,
+      "endChar": 48
+    }
+  ]
+}

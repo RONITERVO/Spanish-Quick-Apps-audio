@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-529cc6c084907e65b15d36cd",
+  "text": "useful signal",
+  "durationMs": 1100,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 550,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 550,
+      "endMs": 1100,
+      "startChar": 7,
+      "endChar": 13
+    }
+  ]
+}

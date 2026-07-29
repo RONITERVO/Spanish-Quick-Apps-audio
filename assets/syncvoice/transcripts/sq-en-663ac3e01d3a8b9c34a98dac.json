@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-663ac3e01d3a8b9c34a98dac",
+  "text": "last natural star birth",
+  "durationMs": 2360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 13,
+      "endChar": 18
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1760,
+      "startChar": 18,
+      "endChar": 23
+    }
+  ]
+}

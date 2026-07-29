@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-4f9b7d66f36ec3b703e8e922",
+  "text": "Flow describes the collective transport of matter or energy through space.",
+  "durationMs": 5440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2160,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2920,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3160,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3720,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4040,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4520,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4720,
+      "startChar": 68,
+      "endChar": 74
+    }
+  ]
+}

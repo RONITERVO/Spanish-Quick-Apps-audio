@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-671874a073f793275fe3c5f0",
+  "text": "beam spread",
+  "durationMs": 710,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 355,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 355,
+      "endMs": 710,
+      "startChar": 5,
+      "endChar": 11
+    }
+  ]
+}

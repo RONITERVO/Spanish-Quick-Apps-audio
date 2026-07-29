@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-en-543a6634a0c56a4ae1f637cd",
+  "text": "dense air, vapor and aerosols",
+  "durationMs": 3760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2120,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2760,
+      "startChar": 21,
+      "endChar": 29
+    }
+  ]
+}

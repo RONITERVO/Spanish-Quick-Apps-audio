@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-6852def491ac8d6282a39785",
+  "text": "Translated observations + matching predictions → common structure",
+  "durationMs": 4920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 24
+    },
+    {
+      "startMs": 150,
+      "endMs": 1880,
+      "startChar": 24,
+      "endChar": 26
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2280,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2720,
+      "startChar": 35,
+      "endChar": 47
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3520,
+      "startChar": 47,
+      "endChar": 49
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3800,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4160,
+      "startChar": 56,
+      "endChar": 65
+    }
+  ]
+}

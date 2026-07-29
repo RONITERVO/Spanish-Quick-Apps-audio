@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-5b171693302f3ab34a1e8644",
+  "text": "intervene or abstain",
+  "durationMs": 2160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2160,
+      "startChar": 13,
+      "endChar": 20
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-50a403dc556e48f610669e9f",
+  "text": "Coordination towards shared goals",
+  "durationMs": 2560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1800,
+      "startChar": 28,
+      "endChar": 33
+    }
+  ]
+}
