@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0d6377beb6f2125614046e4f",
+  "text": "stable or unstable matter",
+  "durationMs": 2440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1760,
+      "startChar": 19,
+      "endChar": 25
+    }
+  ]
+}

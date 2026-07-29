@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-014bfa2293c07ecf1f7820fb",
+  "text": "Electric currents in the core produce a global magnetic envelope.",
+  "durationMs": 5200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 18,
+      "endChar": 21
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1280,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1360,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2000,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2400,
+      "startChar": 38,
+      "endChar": 40
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2800,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3680,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4360,
+      "startChar": 56,
+      "endChar": 65
+    }
+  ]
+}

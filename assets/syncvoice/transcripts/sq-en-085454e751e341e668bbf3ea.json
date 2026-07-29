@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-en-085454e751e341e668bbf3ea",
+  "text": "Catalysis · cycles · recognition · compartments",
+  "durationMs": 5480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 1080,
+      "startChar": 10,
+      "endChar": 12
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1560,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2440,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2920,
+      "startChar": 21,
+      "endChar": 33
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3920,
+      "startChar": 33,
+      "endChar": 35
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4160,
+      "startChar": 35,
+      "endChar": 47
+    }
+  ]
+}

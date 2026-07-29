@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0415f0f425ed1c958e48bd1d",
+  "text": "Temporal patterns facilitate coordination, memory and group participation.",
+  "durationMs": 5960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 18,
+      "endChar": 29
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2000,
+      "startChar": 29,
+      "endChar": 43
+    },
+    {
+      "startMs": 2000,
+      "endMs": 3000,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3800,
+      "startChar": 50,
+      "endChar": 54
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4400,
+      "startChar": 54,
+      "endChar": 60
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4760,
+      "startChar": 60,
+      "endChar": 74
+    }
+  ]
+}

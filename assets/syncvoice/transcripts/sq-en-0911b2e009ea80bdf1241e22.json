@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0911b2e009ea80bdf1241e22",
+  "text": "Hot rock rises and colder rock sinks over millions of years.",
+  "durationMs": 5360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 960,
+      "endMs": 1680,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2040,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2480,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2840,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3440,
+      "startChar": 37,
+      "endChar": 42
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3800,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4160,
+      "startChar": 51,
+      "endChar": 54
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4520,
+      "startChar": 54,
+      "endChar": 60
+    }
+  ]
+}

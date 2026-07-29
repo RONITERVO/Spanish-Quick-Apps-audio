@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0c5c0a9b92336c2e03c525e7",
+  "text": "two parents",
+  "durationMs": 1150,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 575,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 575,
+      "endMs": 1150,
+      "startChar": 4,
+      "endChar": 11
+    }
+  ]
+}

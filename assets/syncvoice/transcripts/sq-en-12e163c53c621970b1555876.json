@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "sq-en-12e163c53c621970b1555876",
+  "text": "We receive signals only from regions and times that can be causally connected to us.",
+  "durationMs": 6560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1600,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2160,
+      "startChar": 24,
+      "endChar": 29
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2440,
+      "startChar": 29,
+      "endChar": 37
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3120,
+      "startChar": 37,
+      "endChar": 41
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3360,
+      "startChar": 41,
+      "endChar": 47
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4160,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4360,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4680,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5360,
+      "startChar": 68,
+      "endChar": 78
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5600,
+      "startChar": 78,
+      "endChar": 81
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5840,
+      "startChar": 81,
+      "endChar": 84
+    }
+  ]
+}

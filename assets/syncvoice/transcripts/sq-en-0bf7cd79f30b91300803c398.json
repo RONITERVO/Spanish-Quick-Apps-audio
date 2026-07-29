@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0bf7cd79f30b91300803c398",
+  "text": "The brightest and densest section contains waves, gaps, and temporary structures.",
+  "durationMs": 5920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1160,
+      "startChar": 18,
+      "endChar": 26
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1720,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2280,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2920,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3600,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4200,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4560,
+      "startChar": 60,
+      "endChar": 70
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5080,
+      "startChar": 70,
+      "endChar": 81
+    }
+  ]
+}

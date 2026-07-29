@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1684051e2e09f7fca54139c1",
+  "text": "A mind spread across many nodes resists local failures, but depends on synchronization, security, and network continuity.",
+  "durationMs": 10080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1160,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1680,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2120,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2800,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3520,
+      "startChar": 40,
+      "endChar": 46
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3880,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4520,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4680,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5680,
+      "startChar": 68,
+      "endChar": 71
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6000,
+      "startChar": 71,
+      "endChar": 88
+    },
+    {
+      "startMs": 6000,
+      "endMs": 7120,
+      "startChar": 88,
+      "endChar": 98
+    },
+    {
+      "startMs": 7120,
+      "endMs": 8040,
+      "startChar": 98,
+      "endChar": 102
+    },
+    {
+      "startMs": 8040,
+      "endMs": 8600,
+      "startChar": 102,
+      "endChar": 110
+    },
+    {
+      "startMs": 8600,
+      "endMs": 9080,
+      "startChar": 110,
+      "endChar": 121
+    }
+  ]
+}

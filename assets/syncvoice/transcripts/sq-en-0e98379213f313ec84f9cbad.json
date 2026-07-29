@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0e98379213f313ec84f9cbad",
+  "text": "secondary node",
+  "durationMs": 1280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-09af8a561c88af55fd600d87",
+  "text": "rotating habitats",
+  "durationMs": 1800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 900,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 900,
+      "endMs": 1800,
+      "startChar": 9,
+      "endChar": 17
+    }
+  ]
+}

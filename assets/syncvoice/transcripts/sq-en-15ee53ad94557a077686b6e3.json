@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-15ee53ad94557a077686b6e3",
+  "text": "Useful events appear separated by durations that exceed any familiar biological scale.",
+  "durationMs": 7800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1920,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2800,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3040,
+      "startChar": 34,
+      "endChar": 44
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3920,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4240,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 4240,
+      "endMs": 5120,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5520,
+      "startChar": 60,
+      "endChar": 69
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6240,
+      "startChar": 69,
+      "endChar": 80
+    },
+    {
+      "startMs": 6240,
+      "endMs": 7120,
+      "startChar": 80,
+      "endChar": 86
+    }
+  ]
+}

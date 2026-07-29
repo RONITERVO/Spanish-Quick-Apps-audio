@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1df862b7b9530708887c5936",
+  "text": "Outer core",
+  "durationMs": 660,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 330,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 330,
+      "endMs": 660,
+      "startChar": 6,
+      "endChar": 10
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-en-175b0463209635809fcd571d",
+  "text": "Barriers, toxins, camouflage, immunity and behavior reduce damage.",
+  "durationMs": 6600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 2080,
+      "startChar": 18,
+      "endChar": 30
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3160,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4160,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4520,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5360,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5920,
+      "startChar": 59,
+      "endChar": 66
+    }
+  ]
+}

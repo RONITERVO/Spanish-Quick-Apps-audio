@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1c0a06f89617cec89d81edf0",
+  "text": "Packets + addresses + routes + protocols + physical infrastructure → global network",
+  "durationMs": 10200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2680,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3600,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4440,
+      "startChar": 29,
+      "endChar": 31
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4560,
+      "startChar": 31,
+      "endChar": 41
+    },
+    {
+      "startMs": 4560,
+      "endMs": 6240,
+      "startChar": 41,
+      "endChar": 43
+    },
+    {
+      "startMs": 6240,
+      "endMs": 7040,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7800,
+      "startChar": 52,
+      "endChar": 67
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8760,
+      "startChar": 67,
+      "endChar": 69
+    },
+    {
+      "startMs": 8760,
+      "endMs": 9120,
+      "startChar": 69,
+      "endChar": 76
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9480,
+      "startChar": 76,
+      "endChar": 83
+    }
+  ]
+}

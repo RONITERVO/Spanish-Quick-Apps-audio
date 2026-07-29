@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0245d523b1f95c188c570991",
+  "text": "premature leak",
+  "durationMs": 1170,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 585,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 585,
+      "endMs": 1170,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

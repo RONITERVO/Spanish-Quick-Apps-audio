@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-0a76e15e03790d8f78c38305",
+  "text": "These flows are inferred by combining positions, distances, redshifts, and cosmological models.",
+  "durationMs": 8080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1920,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2240,
+      "startChar": 28,
+      "endChar": 38
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2920,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3800,
+      "startChar": 49,
+      "endChar": 60
+    },
+    {
+      "startMs": 3800,
+      "endMs": 5000,
+      "startChar": 60,
+      "endChar": 71
+    },
+    {
+      "startMs": 5000,
+      "endMs": 6080,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6560,
+      "startChar": 75,
+      "endChar": 88
+    },
+    {
+      "startMs": 6560,
+      "endMs": 7360,
+      "startChar": 88,
+      "endChar": 95
+    }
+  ]
+}

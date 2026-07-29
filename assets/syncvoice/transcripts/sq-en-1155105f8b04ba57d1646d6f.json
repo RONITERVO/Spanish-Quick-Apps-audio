@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1155105f8b04ba57d1646d6f",
+  "text": "galaxies that move away",
+  "durationMs": 2040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 14,
+      "endChar": 19
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1320,
+      "startChar": 19,
+      "endChar": 23
+    }
+  ]
+}

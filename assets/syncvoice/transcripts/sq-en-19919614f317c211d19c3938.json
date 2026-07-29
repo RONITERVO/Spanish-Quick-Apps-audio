@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-en-19919614f317c211d19c3938",
+  "text": "A gas envelope regulates temperature, chemistry, radiation and transport of materials.",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1400,
+      "startChar": 15,
+      "endChar": 25
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2120,
+      "startChar": 25,
+      "endChar": 38
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2840,
+      "startChar": 38,
+      "endChar": 49
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3920,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 3920,
+      "endMs": 5080,
+      "startChar": 59,
+      "endChar": 63
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5480,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5760,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6040,
+      "startChar": 76,
+      "endChar": 86
+    }
+  ]
+}

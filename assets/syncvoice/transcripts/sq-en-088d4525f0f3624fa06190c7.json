@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-088d4525f0f3624fa06190c7",
+  "text": "Complex cells",
+  "durationMs": 1000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 500,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 500,
+      "endMs": 1000,
+      "startChar": 8,
+      "endChar": 13
+    }
+  ]
+}

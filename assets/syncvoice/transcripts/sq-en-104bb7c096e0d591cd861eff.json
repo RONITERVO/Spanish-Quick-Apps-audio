@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-104bb7c096e0d591cd861eff",
+  "text": "reality of the individual",
+  "durationMs": 2720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 815,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 815,
+      "endMs": 1480,
+      "startChar": 15,
+      "endChar": 25
+    }
+  ]
+}

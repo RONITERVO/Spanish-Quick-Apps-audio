@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1d8446911f7f1ce58bcba6a6",
+  "text": "A thin envelope regulates temperature, transports water and allows breathing.",
+  "durationMs": 6280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1480,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2160,
+      "startChar": 26,
+      "endChar": 39
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2880,
+      "startChar": 39,
+      "endChar": 50
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3880,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4400,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4400,
+      "endMs": 5080,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5560,
+      "startChar": 67,
+      "endChar": 77
+    }
+  ]
+}

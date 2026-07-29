@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-en-05abea066f56857d6de313f8",
+  "text": "W and Z bosons",
+  "durationMs": 2360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 6,
+      "endChar": 8
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1440,
+      "startChar": 8,
+      "endChar": 14
+    }
+  ]
+}

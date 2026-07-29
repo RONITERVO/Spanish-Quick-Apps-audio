@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-en-005fc8c355b2ef5700f2053e",
+  "text": "Storing instructions in memory allows the same machine to execute different tasks.",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 755,
+      "startChar": 21,
+      "endChar": 24
+    },
+    {
+      "startMs": 755,
+      "endMs": 1360,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2080,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2360,
+      "startChar": 38,
+      "endChar": 42
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2640,
+      "startChar": 42,
+      "endChar": 47
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3200,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3500,
+      "startChar": 55,
+      "endChar": 58
+    },
+    {
+      "startMs": 3500,
+      "endMs": 3800,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4560,
+      "startChar": 66,
+      "endChar": 76
+    },
+    {
+      "startMs": 4560,
+      "endMs": 4960,
+      "startChar": 76,
+      "endChar": 82
+    }
+  ]
+}

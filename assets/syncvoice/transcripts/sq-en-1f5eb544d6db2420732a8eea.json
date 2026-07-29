@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-1f5eb544d6db2420732a8eea",
+  "text": "weak bridge",
+  "durationMs": 1180,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 590,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 590,
+      "endMs": 1180,
+      "startChar": 5,
+      "endChar": 11
+    }
+  ]
+}

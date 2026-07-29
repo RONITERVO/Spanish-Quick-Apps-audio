@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-en-071180fe24ca1663fd83b797",
+  "text": "dark emerald",
+  "durationMs": 1460,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 730,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 730,
+      "endMs": 1460,
+      "startChar": 5,
+      "endChar": 12
+    }
+  ]
+}

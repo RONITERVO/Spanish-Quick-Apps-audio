@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-en-091d71389e18ebe17e3acbcd",
+  "text": "Mortality and limit",
+  "durationMs": 2190,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 730,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 730,
+      "endMs": 1460,
+      "startChar": 10,
+      "endChar": 14
+    },
+    {
+      "startMs": 1460,
+      "endMs": 2190,
+      "startChar": 14,
+      "endChar": 19
+    }
+  ]
+}
