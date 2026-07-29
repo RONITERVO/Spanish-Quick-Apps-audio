@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9877150f7f1749615fbd6298",
+  "text": "Arkinen avaruus ja aika",
+  "durationMs": 2960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2080,
+      "startChar": 19,
+      "endChar": 23
+    }
+  ]
+}

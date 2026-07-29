@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a1e3c39d6fb4f695538df011",
+  "text": "Iho yhdistää paineen, tärinän, vauriot ja lämmönsiirron erillisiin kehollisiin kokemuksiin.",
+  "durationMs": 8040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2040,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 2040,
+      "endMs": 3040,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3600,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4160,
+      "startChar": 42,
+      "endChar": 56
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5360,
+      "startChar": 56,
+      "endChar": 67
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6200,
+      "startChar": 67,
+      "endChar": 79
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6960,
+      "startChar": 79,
+      "endChar": 91
+    }
+  ]
+}

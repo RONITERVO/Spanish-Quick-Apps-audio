@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8ad59236a6582674e65fcbfa",
+  "text": "Jokainen galaksin komponentti on erikokoinen, joten yhtä tarkkaa rajaa ei ole.",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 18,
+      "endChar": 30
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2440,
+      "startChar": 30,
+      "endChar": 33
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2800,
+      "startChar": 33,
+      "endChar": 46
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3840,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4720,
+      "startChar": 52,
+      "endChar": 57
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5160,
+      "startChar": 57,
+      "endChar": 65
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5680,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6240,
+      "startChar": 71,
+      "endChar": 74
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6560,
+      "startChar": 74,
+      "endChar": 78
+    }
+  ]
+}

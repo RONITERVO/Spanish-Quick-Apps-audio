@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-af47ab4d67cec2a1a66fe097",
+  "text": "Jupiterin toistuva painovoima tyhjentää tietyt resonanssiradat.",
+  "durationMs": 5480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 19,
+      "endChar": 30
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2520,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3360,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3960,
+      "startChar": 47,
+      "endChar": 63
+    }
+  ]
+}

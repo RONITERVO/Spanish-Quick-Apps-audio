@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a475b2eb903fecf1fc2d9d9f",
+  "text": "Ilmiö esitetään muutoksina, jotka jakautuvat useille alueille ja sukupolville.",
+  "durationMs": 6600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2240,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2720,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3600,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4200,
+      "startChar": 53,
+      "endChar": 62
+    },
+    {
+      "startMs": 4200,
+      "endMs": 5000,
+      "startChar": 62,
+      "endChar": 65
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5360,
+      "startChar": 65,
+      "endChar": 78
+    }
+  ]
+}

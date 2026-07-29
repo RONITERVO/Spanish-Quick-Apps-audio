@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-add1e31aad68765be411b996",
+  "text": "Tässä sovelluksessa valo kuvaa aineen jakaumaa ja painovoimapotentiaalia, ei avaruudessa näkyvää valtatietä.",
+  "durationMs": 8840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2360,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2920,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3800,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3800,
+      "endMs": 3960,
+      "startChar": 50,
+      "endChar": 74
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5800,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 5800,
+      "endMs": 5875,
+      "startChar": 77,
+      "endChar": 89
+    },
+    {
+      "startMs": 5875,
+      "endMs": 7240,
+      "startChar": 89,
+      "endChar": 97
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7760,
+      "startChar": 97,
+      "endChar": 108
+    }
+  ]
+}

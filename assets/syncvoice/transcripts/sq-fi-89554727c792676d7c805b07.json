@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-89554727c792676d7c805b07",
+  "text": "Matemaattinen singulariteetti osoittaa kuvauksen rikkoutumisen, ei vahvistettua kuvaa todellisesta kohteesta.",
+  "durationMs": 7400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 30
+    },
+    {
+      "startMs": 150,
+      "endMs": 1840,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2400,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3080,
+      "startChar": 49,
+      "endChar": 64
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4120,
+      "startChar": 64,
+      "endChar": 67
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4200,
+      "startChar": 67,
+      "endChar": 80
+    },
+    {
+      "startMs": 4200,
+      "endMs": 5400,
+      "startChar": 80,
+      "endChar": 86
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5840,
+      "startChar": 86,
+      "endChar": 99
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6520,
+      "startChar": 99,
+      "endChar": 109
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9c8c05646bc289b2b971ac6f",
+  "text": "pieni ei ole triviaalia",
+  "durationMs": 2240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 560,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 560,
+      "endMs": 1120,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1680,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2240,
+      "startChar": 13,
+      "endChar": 23
+    }
+  ]
+}

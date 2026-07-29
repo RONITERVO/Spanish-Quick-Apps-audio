@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a09100801b93f9c301fa4500",
+  "text": "Ominaisaika on tapahtumien välistä liikerataa mukana seuraavan kellon mittaama aika.",
+  "durationMs": 6760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 15,
+      "endChar": 27
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2440,
+      "startChar": 27,
+      "endChar": 35
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3000,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3920,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4360,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5040,
+      "startChar": 63,
+      "endChar": 70
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5440,
+      "startChar": 70,
+      "endChar": 79
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6080,
+      "startChar": 79,
+      "endChar": 84
+    }
+  ]
+}

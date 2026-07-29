@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8ef66ec7c838d4887c278f1b",
+  "text": "Mielet sulautuivat ja jakautuivat",
+  "durationMs": 3560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1880,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2120,
+      "startChar": 22,
+      "endChar": 33
+    }
+  ]
+}

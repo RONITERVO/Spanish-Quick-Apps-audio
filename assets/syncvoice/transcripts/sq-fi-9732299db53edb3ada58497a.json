@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9732299db53edb3ada58497a",
+  "text": "Pluton ulkopuolella · noin 40 AU:n päässä Auringosta",
+  "durationMs": 4920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2080,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2840,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3520,
+      "startChar": 35,
+      "endChar": 42
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3920,
+      "startChar": 42,
+      "endChar": 52
+    }
+  ]
+}

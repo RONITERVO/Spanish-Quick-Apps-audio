@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-91046225a479fc0287bda21c",
+  "text": "Reaktio muuttaa sidoksia ja jakaa energiaa molekyylien välillä.",
+  "durationMs": 4720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1580,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 1580,
+      "endMs": 2000,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2640,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3240,
+      "startChar": 43,
+      "endChar": 55
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3960,
+      "startChar": 55,
+      "endChar": 63
+    }
+  ]
+}

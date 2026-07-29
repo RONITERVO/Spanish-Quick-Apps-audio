@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8def55bb74cefad902afe6e8",
+  "text": "puoliklassinen painovoima",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 15
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 15,
+      "endChar": 25
+    }
+  ]
+}

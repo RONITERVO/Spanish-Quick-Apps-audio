@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8cc40535c761da1f4e884789",
+  "text": "Toistettava fyysinen ilmiö",
+  "durationMs": 2020,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 673,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 673,
+      "endMs": 1347,
+      "startChar": 12,
+      "endChar": 21
+    },
+    {
+      "startMs": 1347,
+      "endMs": 2020,
+      "startChar": 21,
+      "endChar": 26
+    }
+  ]
+}

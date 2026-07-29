@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a9dae08130860255910f75cd",
+  "text": "akustinen värähtely",
+  "durationMs": 1820,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 910,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 910,
+      "endMs": 1820,
+      "startChar": 10,
+      "endChar": 19
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-99e7beeb27ea3bf0e9a6d5c1",
+  "text": "epäselvä signaali",
+  "durationMs": 1580,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 790,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 790,
+      "endMs": 1580,
+      "startChar": 9,
+      "endChar": 17
+    }
+  ]
+}

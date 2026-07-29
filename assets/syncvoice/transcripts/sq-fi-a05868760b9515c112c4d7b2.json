@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a05868760b9515c112c4d7b2",
+  "text": "Soluelin keskittää tiettyjä toimintoja omaan solunsisäiseen tilaansa.",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1760,
+      "startChar": 19,
+      "endChar": 28
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2400,
+      "startChar": 28,
+      "endChar": 39
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3160,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3760,
+      "startChar": 45,
+      "endChar": 60
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4920,
+      "startChar": 60,
+      "endChar": 69
+    }
+  ]
+}

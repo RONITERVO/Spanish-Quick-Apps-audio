@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a53d4a80ff976cb5da732481",
+  "text": "Pyöriminen, akkreetio ja haihtuminen voivat tarjota energiaa eri aikakausina muodostamatta äärettömiä varantoja.",
+  "durationMs": 10200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2480,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2880,
+      "startChar": 25,
+      "endChar": 37
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3840,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4520,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5080,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5880,
+      "startChar": 61,
+      "endChar": 65
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6320,
+      "startChar": 65,
+      "endChar": 77
+    },
+    {
+      "startMs": 6320,
+      "endMs": 7280,
+      "startChar": 77,
+      "endChar": 91
+    },
+    {
+      "startMs": 7280,
+      "endMs": 8400,
+      "startChar": 91,
+      "endChar": 102
+    },
+    {
+      "startMs": 8400,
+      "endMs": 9240,
+      "startChar": 102,
+      "endChar": 112
+    }
+  ]
+}

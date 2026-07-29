@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9981a686c588779c4126dfd6",
+  "text": "Lähtökohta · skenaarioita, ei ennustuksia",
+  "durationMs": 4320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 960,
+      "endMs": 1360,
+      "startChar": 13,
+      "endChar": 27
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3040,
+      "startChar": 30,
+      "endChar": 41
+    }
+  ]
+}

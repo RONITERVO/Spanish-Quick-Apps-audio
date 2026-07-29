@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9b460dca3959dc77c07e6284",
+  "text": "Puuttuminen maapallon mittakaavan järjestelmiin",
+  "durationMs": 3400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 22,
+      "endChar": 34
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2200,
+      "startChar": 34,
+      "endChar": 47
+    }
+  ]
+}

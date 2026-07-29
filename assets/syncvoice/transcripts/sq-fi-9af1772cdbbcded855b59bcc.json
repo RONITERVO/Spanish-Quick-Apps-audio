@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9af1772cdbbcded855b59bcc",
+  "text": "jäykkä ylävaippa",
+  "durationMs": 1900,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 950,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 950,
+      "endMs": 1900,
+      "startChar": 7,
+      "endChar": 16
+    }
+  ]
+}

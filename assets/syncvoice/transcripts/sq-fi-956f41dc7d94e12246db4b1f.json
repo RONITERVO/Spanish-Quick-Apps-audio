@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-956f41dc7d94e12246db4b1f",
+  "text": "Täällä valtameri, kivi ja ilmakehä kohtaavat ja muuttuvat jatkuvasti.",
+  "durationMs": 6680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 18,
+      "endChar": 23
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2280,
+      "startChar": 23,
+      "endChar": 26
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2760,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3480,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4440,
+      "startChar": 45,
+      "endChar": 48
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4760,
+      "startChar": 48,
+      "endChar": 58
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5560,
+      "startChar": 58,
+      "endChar": 69
+    }
+  ]
+}

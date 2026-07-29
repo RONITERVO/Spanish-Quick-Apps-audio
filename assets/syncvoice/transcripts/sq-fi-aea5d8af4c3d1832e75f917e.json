@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-aea5d8af4c3d1832e75f917e",
+  "text": "kiinteä rauta",
+  "durationMs": 1140,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 570,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 570,
+      "endMs": 1140,
+      "startChar": 8,
+      "endChar": 13
+    }
+  ]
+}

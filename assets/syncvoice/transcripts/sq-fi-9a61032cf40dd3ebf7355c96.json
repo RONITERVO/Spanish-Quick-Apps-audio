@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9a61032cf40dd3ebf7355c96",
+  "text": "Tähtien kirkkaus kehittyy, joten asuttava vyöhyke muuttuu ajan myötä.",
+  "durationMs": 5640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2120,
+      "startChar": 27,
+      "endChar": 33
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2680,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 50
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3960,
+      "startChar": 50,
+      "endChar": 58
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4680,
+      "startChar": 58,
+      "endChar": 63
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5000,
+      "startChar": 63,
+      "endChar": 69
+    }
+  ]
+}

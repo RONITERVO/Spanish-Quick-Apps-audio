@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-94212d72713333e41c6fac08",
+  "text": "Heikko signaali voi olla luonnollinen ilmiö, häiriö, instrumenttivirhe tai aito vihje.",
+  "durationMs": 7400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1320,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1560,
+      "startChar": 25,
+      "endChar": 38
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2360,
+      "startChar": 38,
+      "endChar": 45
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2960,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4080,
+      "startChar": 53,
+      "endChar": 71
+    },
+    {
+      "startMs": 4080,
+      "endMs": 5680,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6240,
+      "startChar": 75,
+      "endChar": 80
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6640,
+      "startChar": 80,
+      "endChar": 86
+    }
+  ]
+}

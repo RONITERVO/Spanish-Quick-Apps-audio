@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8b16658e0a307f2228cca52b",
+  "text": "Tunnettu viite → muunnos → kontrasti → yleistys → väliaikainen käsite",
+  "durationMs": 6200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 15,
+      "endChar": 17
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 25
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2160,
+      "startChar": 25,
+      "endChar": 27
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2400,
+      "startChar": 27,
+      "endChar": 37
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3200,
+      "startChar": 37,
+      "endChar": 39
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3440,
+      "startChar": 39,
+      "endChar": 48
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4320,
+      "startChar": 48,
+      "endChar": 50
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4840,
+      "startChar": 50,
+      "endChar": 63
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5440,
+      "startChar": 63,
+      "endChar": 69
+    }
+  ]
+}

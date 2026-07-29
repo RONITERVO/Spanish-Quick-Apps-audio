@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9195acd03fbef9372e7e84cb",
+  "text": "Jopa suunnattu lähetyskeila levenee etäisyyden kasvaessa, mikä vähentää vastaanotettua energiaa.",
+  "durationMs": 7320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1200,
+      "startChar": 15,
+      "endChar": 28
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2720,
+      "startChar": 36,
+      "endChar": 47
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3520,
+      "startChar": 47,
+      "endChar": 58
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4320,
+      "startChar": 58,
+      "endChar": 63
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4840,
+      "startChar": 63,
+      "endChar": 72
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5400,
+      "startChar": 72,
+      "endChar": 87
+    },
+    {
+      "startMs": 5400,
+      "endMs": 6400,
+      "startChar": 87,
+      "endChar": 96
+    }
+  ]
+}

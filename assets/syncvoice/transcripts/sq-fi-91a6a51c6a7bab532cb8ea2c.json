@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-91a6a51c6a7bab532cb8ea2c",
+  "text": "Varoitus voi olla vilpitön, vertauskuvallinen, vanhentunut, toiselle vastaanottajalle tarkoitettu tai asiayhteydestään irrotettuna tulkittu.",
+  "durationMs": 11880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 18
+    },
+    {
+      "startMs": 960,
+      "endMs": 1240,
+      "startChar": 18,
+      "endChar": 28
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 47
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 60
+    },
+    {
+      "startMs": 3880,
+      "endMs": 3955,
+      "startChar": 60,
+      "endChar": 69
+    },
+    {
+      "startMs": 3955,
+      "endMs": 5240,
+      "startChar": 69,
+      "endChar": 86
+    },
+    {
+      "startMs": 5240,
+      "endMs": 7240,
+      "startChar": 86,
+      "endChar": 98
+    },
+    {
+      "startMs": 7240,
+      "endMs": 8200,
+      "startChar": 98,
+      "endChar": 102
+    },
+    {
+      "startMs": 8200,
+      "endMs": 8840,
+      "startChar": 102,
+      "endChar": 119
+    },
+    {
+      "startMs": 8840,
+      "endMs": 10200,
+      "startChar": 119,
+      "endChar": 131
+    },
+    {
+      "startMs": 10200,
+      "endMs": 10960,
+      "startChar": 131,
+      "endChar": 140
+    }
+  ]
+}

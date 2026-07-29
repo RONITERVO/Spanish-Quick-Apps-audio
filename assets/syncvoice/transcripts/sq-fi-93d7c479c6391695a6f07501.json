@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-93d7c479c6391695a6f07501",
+  "text": "Fotosynteettiset organismit voivat muuttaa mantereiden tai valtamerten heijastamaa väriä.",
+  "durationMs": 6600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 17
+    },
+    {
+      "startMs": 75,
+      "endMs": 1200,
+      "startChar": 17,
+      "endChar": 28
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2040,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2480,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3040,
+      "startChar": 43,
+      "endChar": 55
+    },
+    {
+      "startMs": 3040,
+      "endMs": 4000,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4320,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5160,
+      "startChar": 71,
+      "endChar": 83
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5880,
+      "startChar": 83,
+      "endChar": 89
+    }
+  ]
+}

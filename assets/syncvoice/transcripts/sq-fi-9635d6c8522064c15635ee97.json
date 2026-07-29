@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9635d6c8522064c15635ee97",
+  "text": "Se on sähkövarauksellinen leptoni; myöhemmin elektronit sitoutuivat atomiytimiin muodostaen atomeja.",
+  "durationMs": 8720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 6
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 6,
+      "endChar": 26
+    },
+    {
+      "startMs": 225,
+      "endMs": 2160,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2920,
+      "startChar": 35,
+      "endChar": 45
+    },
+    {
+      "startMs": 2920,
+      "endMs": 4200,
+      "startChar": 45,
+      "endChar": 56
+    },
+    {
+      "startMs": 4200,
+      "endMs": 5000,
+      "startChar": 56,
+      "endChar": 68
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5880,
+      "startChar": 68,
+      "endChar": 81
+    },
+    {
+      "startMs": 5880,
+      "endMs": 7040,
+      "startChar": 81,
+      "endChar": 92
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7840,
+      "startChar": 92,
+      "endChar": 100
+    }
+  ]
+}

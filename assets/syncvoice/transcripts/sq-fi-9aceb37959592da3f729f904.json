@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9aceb37959592da3f729f904",
+  "text": "tutkimattomat alueet",
+  "durationMs": 1800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 900,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 900,
+      "endMs": 1800,
+      "startChar": 14,
+      "endChar": 20
+    }
+  ]
+}

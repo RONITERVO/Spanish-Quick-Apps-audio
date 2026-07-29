@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-adac030f06935acedbf601c2",
+  "text": "inhimillinen yllätys",
+  "durationMs": 2020,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1010,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 1010,
+      "endMs": 2020,
+      "startChar": 13,
+      "endChar": 20
+    }
+  ]
+}

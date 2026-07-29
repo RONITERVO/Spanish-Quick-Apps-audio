@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-97f7d4d49eb72c7b440d0b28",
+  "text": "Mielikuva voi edustaa muotoa, tilaa tai liikettä ilman vastaavaa aistinvaraista panosta sillä hetkellä.",
+  "durationMs": 7840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1440,
+      "endMs": 2240,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2240,
+      "endMs": 3040,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3440,
+      "startChar": 40,
+      "endChar": 49
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4160,
+      "startChar": 49,
+      "endChar": 55
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4760,
+      "startChar": 55,
+      "endChar": 65
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5440,
+      "startChar": 65,
+      "endChar": 80
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6280,
+      "startChar": 80,
+      "endChar": 88
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6760,
+      "startChar": 88,
+      "endChar": 94
+    },
+    {
+      "startMs": 6760,
+      "endMs": 7040,
+      "startChar": 94,
+      "endChar": 103
+    }
+  ]
+}

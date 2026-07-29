@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-90d800cf5a84e3193fa75934",
+  "text": "hidas symboli",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 6,
+      "endChar": 13
+    }
+  ]
+}

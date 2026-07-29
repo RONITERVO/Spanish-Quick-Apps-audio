@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-933f0369077fa4db9ea76401",
+  "text": "Näkyviin rakennuksiin keskittyy muisto, palvonta, auktoriteetti tai identiteetti.",
+  "durationMs": 7520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 22,
+      "endChar": 32
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2160,
+      "startChar": 32,
+      "endChar": 40
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2880,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 2880,
+      "endMs": 4040,
+      "startChar": 50,
+      "endChar": 64
+    },
+    {
+      "startMs": 4040,
+      "endMs": 5520,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6200,
+      "startChar": 68,
+      "endChar": 81
+    }
+  ]
+}

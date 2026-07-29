@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8742837c147f92de2bc0db6d",
+  "text": "Aika-avaruusväli yhdistää avaruudelliset ja ajalliset erot kaikkien inertiaalihavaitsijoiden yhteisellä tavalla.",
+  "durationMs": 8800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 17
+    },
+    {
+      "startMs": 75,
+      "endMs": 1400,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2120,
+      "startChar": 26,
+      "endChar": 41
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3240,
+      "startChar": 41,
+      "endChar": 44
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3440,
+      "startChar": 44,
+      "endChar": 54
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4200,
+      "startChar": 54,
+      "endChar": 59
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4760,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5440,
+      "startChar": 68,
+      "endChar": 93
+    },
+    {
+      "startMs": 5440,
+      "endMs": 7240,
+      "startChar": 93,
+      "endChar": 104
+    },
+    {
+      "startMs": 7240,
+      "endMs": 8040,
+      "startChar": 104,
+      "endChar": 112
+    }
+  ]
+}

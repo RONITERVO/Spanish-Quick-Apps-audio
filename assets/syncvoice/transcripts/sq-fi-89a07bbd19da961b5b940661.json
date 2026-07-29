@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-89a07bbd19da961b5b940661",
+  "text": "Epävarmuuden tunnistaminen voi välttää vääriä varmuutta vaatimatta välinpitämättömyyttä.",
+  "durationMs": 6720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 13,
+      "endChar": 27
+    },
+    {
+      "startMs": 1000,
+      "endMs": 2040,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2320,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2840,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3440,
+      "startChar": 46,
+      "endChar": 56
+    },
+    {
+      "startMs": 3440,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 67
+    },
+    {
+      "startMs": 4280,
+      "endMs": 5080,
+      "startChar": 67,
+      "endChar": 88
+    }
+  ]
+}

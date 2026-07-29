@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a1fef520a6e61ba12649ac68",
+  "text": "Muut vuorovaikutukset keskeyttävät toimintoja ja vähentävät jatkuvuuden mahdollisuutta.",
+  "durationMs": 6240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 22,
+      "endChar": 35
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2320,
+      "startChar": 35,
+      "endChar": 46
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2720,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3120,
+      "startChar": 49,
+      "endChar": 60
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4200,
+      "startChar": 60,
+      "endChar": 72
+    },
+    {
+      "startMs": 4200,
+      "endMs": 5000,
+      "startChar": 72,
+      "endChar": 87
+    }
+  ]
+}

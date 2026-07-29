@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ad404d255738aeb0a5d8e588",
+  "text": "vaalea limenvihreä",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 7,
+      "endChar": 18
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-9165b423040038722fed144a",
+  "text": "Jatkoa varhaisesta maailmankaikkeudesta · aikajana pysähtyy",
+  "durationMs": 5000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 19,
+      "endChar": 40
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2840,
+      "startChar": 40,
+      "endChar": 42
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3000,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3960,
+      "startChar": 51,
+      "endChar": 59
+    }
+  ]
+}

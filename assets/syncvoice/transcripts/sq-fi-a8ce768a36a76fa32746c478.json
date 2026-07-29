@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a8ce768a36a76fa32746c478",
+  "text": "Valvetila + kokemus + keho + tarkkaavaisuus + hermotoiminta",
+  "durationMs": 8320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 1000,
+      "startChar": 10,
+      "endChar": 12
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1720,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2520,
+      "startChar": 20,
+      "endChar": 22
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2640,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 2640,
+      "endMs": 4080,
+      "startChar": 27,
+      "endChar": 29
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4200,
+      "startChar": 29,
+      "endChar": 44
+    },
+    {
+      "startMs": 4200,
+      "endMs": 6360,
+      "startChar": 44,
+      "endChar": 46
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6480,
+      "startChar": 46,
+      "endChar": 59
+    }
+  ]
+}

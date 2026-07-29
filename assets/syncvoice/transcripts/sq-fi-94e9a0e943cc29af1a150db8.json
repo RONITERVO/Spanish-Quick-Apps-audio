@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-94e9a0e943cc29af1a150db8",
+  "text": "Numeeriset käskyt ohjaavat prosessorin tiettyjä toimintoja.",
+  "durationMs": 4480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2080,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2880,
+      "startChar": 39,
+      "endChar": 48
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3480,
+      "startChar": 48,
+      "endChar": 59
+    }
+  ]
+}

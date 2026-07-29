@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-a9423c995e77455bdc3bfe01",
+  "text": "Kaasupilvissä muodostuu tähtiä nopeasti, ja galaksit täyttyvät kirkkaista alueista.",
+  "durationMs": 6440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 14,
+      "endChar": 24
+    },
+    {
+      "startMs": 960,
+      "endMs": 1600,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2160,
+      "startChar": 31,
+      "endChar": 41
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2960,
+      "startChar": 41,
+      "endChar": 44
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3520,
+      "startChar": 44,
+      "endChar": 53
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4080,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4800,
+      "startChar": 63,
+      "endChar": 74
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5520,
+      "startChar": 74,
+      "endChar": 83
+    }
+  ]
+}

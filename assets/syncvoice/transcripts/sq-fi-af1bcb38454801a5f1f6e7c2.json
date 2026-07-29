@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-af1bcb38454801a5f1f6e7c2",
+  "text": "Voyager-luotaimet ovat ylittäneet heliopaussin ja jatkavat tietojen lähettämistä tähtienvälisestä avaruudesta.",
+  "durationMs": 7840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 18
+    },
+    {
+      "startMs": 75,
+      "endMs": 1360,
+      "startChar": 18,
+      "endChar": 23
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1680,
+      "startChar": 23,
+      "endChar": 34
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2360,
+      "startChar": 34,
+      "endChar": 47
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2880,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3400,
+      "startChar": 50,
+      "endChar": 59
+    },
+    {
+      "startMs": 3400,
+      "endMs": 4280,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4800,
+      "startChar": 68,
+      "endChar": 81
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5560,
+      "startChar": 81,
+      "endChar": 98
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6760,
+      "startChar": 98,
+      "endChar": 110
+    }
+  ]
+}

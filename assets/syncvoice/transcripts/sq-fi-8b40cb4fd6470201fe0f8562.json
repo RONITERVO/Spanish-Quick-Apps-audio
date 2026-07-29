@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8b40cb4fd6470201fe0f8562",
+  "text": "Gradientit + energiavirta + dissipaatio",
+  "durationMs": 4880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 26
+    },
+    {
+      "startMs": 1080,
+      "endMs": 2680,
+      "startChar": 26,
+      "endChar": 28
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3560,
+      "startChar": 28,
+      "endChar": 39
+    }
+  ]
+}

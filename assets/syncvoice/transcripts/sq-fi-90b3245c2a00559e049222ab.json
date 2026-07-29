@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-90b3245c2a00559e049222ab",
+  "text": "matkalla oleva valo",
+  "durationMs": 2040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 680,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 680,
+      "endMs": 1360,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2040,
+      "startChar": 15,
+      "endChar": 19
+    }
+  ]
+}

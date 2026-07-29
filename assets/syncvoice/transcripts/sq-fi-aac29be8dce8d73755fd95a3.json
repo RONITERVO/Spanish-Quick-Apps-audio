@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-aac29be8dce8d73755fd95a3",
+  "text": "Tämä alue kuvaa rakenteita, joiden valo saapuu kosmisen historian suhteellisen myöhäisiltä aikakausilta.",
+  "durationMs": 8080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 16,
+      "endChar": 28
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2120,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2800,
+      "startChar": 35,
+      "endChar": 40
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3120,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3720,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4320,
+      "startChar": 56,
+      "endChar": 66
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5080,
+      "startChar": 66,
+      "endChar": 79
+    },
+    {
+      "startMs": 5080,
+      "endMs": 6040,
+      "startChar": 79,
+      "endChar": 91
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6880,
+      "startChar": 91,
+      "endChar": 104
+    }
+  ]
+}

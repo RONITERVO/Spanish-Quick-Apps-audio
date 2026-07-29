@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-aaeacc24c35d1f9470780479",
+  "text": "ratkaisematon signaali",
+  "durationMs": 2080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1040,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 1040,
+      "endMs": 2080,
+      "startChar": 14,
+      "endChar": 22
+    }
+  ]
+}

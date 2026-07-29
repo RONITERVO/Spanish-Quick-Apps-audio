@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-8affba64f12f014a7992235f",
+  "text": "olet täällä",
+  "durationMs": 940,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 470,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 470,
+      "endMs": 940,
+      "startChar": 5,
+      "endChar": 11
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-99ceaa73522c3850d11dda25",
+  "text": "Säilytetyt, koetellut ja tarkistettavat ajatukset",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 1160,
+      "startChar": 12,
+      "endChar": 22
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2520,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3000,
+      "startChar": 25,
+      "endChar": 40
+    },
+    {
+      "startMs": 3000,
+      "endMs": 4280,
+      "startChar": 40,
+      "endChar": 49
+    }
+  ]
+}
