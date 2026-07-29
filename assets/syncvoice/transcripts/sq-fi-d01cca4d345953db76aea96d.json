@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d01cca4d345953db76aea96d",
+  "text": "Erilaiset tulkinnat voivat selittää samoja tietoja, kunnes myöhempi vastaus sallii niiden erottamisen.",
+  "durationMs": 6880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 20
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1600,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2120,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2640,
+      "startChar": 43,
+      "endChar": 52
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3280,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3960,
+      "startChar": 59,
+      "endChar": 68
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4520,
+      "startChar": 68,
+      "endChar": 76
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5040,
+      "startChar": 76,
+      "endChar": 83
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5400,
+      "startChar": 83,
+      "endChar": 90
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5760,
+      "startChar": 90,
+      "endChar": 102
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c15f5861da6b7dd9c24bd10a",
+  "text": "kvarkkien meri",
+  "durationMs": 1250,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 625,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 625,
+      "endMs": 1250,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

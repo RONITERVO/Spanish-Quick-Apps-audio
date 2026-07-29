@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d2182be3e7565038dd5ab268",
+  "text": "Ilman, veden, ravinteiden ja jätteiden tulee kiertää vuosia minimaalisilla häviöillä ja suurella korjauskapasiteetilla.",
+  "durationMs": 9920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 14,
+      "endChar": 26
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2880,
+      "startChar": 26,
+      "endChar": 29
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3120,
+      "startChar": 29,
+      "endChar": 39
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3840,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4160,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4680,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5440,
+      "startChar": 60,
+      "endChar": 75
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6360,
+      "startChar": 75,
+      "endChar": 85
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6740,
+      "startChar": 85,
+      "endChar": 88
+    },
+    {
+      "startMs": 6740,
+      "endMs": 7120,
+      "startChar": 88,
+      "endChar": 97
+    },
+    {
+      "startMs": 7120,
+      "endMs": 8160,
+      "startChar": 97,
+      "endChar": 119
+    }
+  ]
+}

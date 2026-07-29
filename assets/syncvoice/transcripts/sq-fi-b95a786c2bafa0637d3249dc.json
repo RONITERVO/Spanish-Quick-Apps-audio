@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b95a786c2bafa0637d3249dc",
+  "text": "Kuori ja jäykkä ylävaippa liikkuvat yhdessä levyinä.",
+  "durationMs": 5000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1560,
+      "startChar": 16,
+      "endChar": 26
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2480,
+      "startChar": 26,
+      "endChar": 36
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3280,
+      "startChar": 36,
+      "endChar": 44
+    },
+    {
+      "startMs": 3280,
+      "endMs": 4040,
+      "startChar": 44,
+      "endChar": 52
+    }
+  ]
+}

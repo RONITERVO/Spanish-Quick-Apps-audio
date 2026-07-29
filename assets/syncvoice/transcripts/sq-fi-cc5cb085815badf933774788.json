@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cc5cb085815badf933774788",
+  "text": "Rakenteet sijaitsevat eri etäisyyksillä; tasokuva asettaa päällekkäin kerroksia, jotka todellisuudessa ovat erillään.",
+  "durationMs": 9040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1600,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1960,
+      "startChar": 26,
+      "endChar": 41
+    },
+    {
+      "startMs": 1960,
+      "endMs": 3040,
+      "startChar": 41,
+      "endChar": 50
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3160,
+      "startChar": 50,
+      "endChar": 58
+    },
+    {
+      "startMs": 3160,
+      "endMs": 4800,
+      "startChar": 58,
+      "endChar": 70
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5520,
+      "startChar": 70,
+      "endChar": 81
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6280,
+      "startChar": 81,
+      "endChar": 87
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6840,
+      "startChar": 87,
+      "endChar": 103
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7720,
+      "startChar": 103,
+      "endChar": 108
+    },
+    {
+      "startMs": 7720,
+      "endMs": 8160,
+      "startChar": 108,
+      "endChar": 117
+    }
+  ]
+}

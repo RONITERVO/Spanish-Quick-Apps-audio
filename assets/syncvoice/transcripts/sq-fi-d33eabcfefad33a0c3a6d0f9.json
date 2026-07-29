@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d33eabcfefad33a0c3a6d0f9",
+  "text": "Poikkeuksellisen vahva kokeellinen vahvistus",
+  "durationMs": 3960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 17
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 17,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1960,
+      "startChar": 23,
+      "endChar": 35
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2840,
+      "startChar": 35,
+      "endChar": 44
+    }
+  ]
+}

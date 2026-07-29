@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d39e65fc6ac944fbb65d6ee7",
+  "text": "Paikallinen energiapaketti voi käyttäytyä hiukkasen tavoin edetessään ja vuorovaikuttaessaan.",
+  "durationMs": 6520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 27
+    },
+    {
+      "startMs": 150,
+      "endMs": 1800,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2040,
+      "startChar": 31,
+      "endChar": 42
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3480,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4000,
+      "startChar": 59,
+      "endChar": 70
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4420,
+      "startChar": 70,
+      "endChar": 73
+    },
+    {
+      "startMs": 4420,
+      "endMs": 4840,
+      "startChar": 73,
+      "endChar": 93
+    }
+  ]
+}

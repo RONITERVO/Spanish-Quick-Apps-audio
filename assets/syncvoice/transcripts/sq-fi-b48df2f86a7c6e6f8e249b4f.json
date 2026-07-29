@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b48df2f86a7c6e6f8e249b4f",
+  "text": "Pieni variaatio voi rikkoa täydellisen tasa-arvon ja vahvistua siirtymän aikana.",
+  "durationMs": 6680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1640,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2280,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3120,
+      "startChar": 39,
+      "endChar": 50
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3560,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4000,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 4000,
+      "endMs": 5160,
+      "startChar": 63,
+      "endChar": 73
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5840,
+      "startChar": 73,
+      "endChar": 80
+    }
+  ]
+}

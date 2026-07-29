@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b8cff2596aea2a8c059c9b87",
+  "text": "viimeiset tähdet",
+  "durationMs": 1480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 740,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 740,
+      "endMs": 1480,
+      "startChar": 10,
+      "endChar": 16
+    }
+  ]
+}

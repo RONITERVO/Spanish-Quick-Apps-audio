@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c0715464b9f4bfc2a30f5c2f",
+  "text": "Topologia kuvaa, mikä liittyy mihinkin, ja vaikuttaa kollektiiviseen käyttäytymiseen.",
+  "durationMs": 6360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 17,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2320,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2700,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 2700,
+      "endMs": 3080,
+      "startChar": 43,
+      "endChar": 53
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4160,
+      "startChar": 53,
+      "endChar": 69
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5120,
+      "startChar": 69,
+      "endChar": 85
+    }
+  ]
+}

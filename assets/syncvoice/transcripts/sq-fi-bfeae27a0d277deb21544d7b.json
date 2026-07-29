@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bfeae27a0d277deb21544d7b",
+  "text": "Elin yhdistää useita kudoksia toiminnalliseksi yksiköksi.",
+  "durationMs": 4480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1680,
+      "startChar": 21,
+      "endChar": 30
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2360,
+      "startChar": 30,
+      "endChar": 47
+    },
+    {
+      "startMs": 2360,
+      "endMs": 3480,
+      "startChar": 47,
+      "endChar": 57
+    }
+  ]
+}

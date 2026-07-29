@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d5d3ff01309db54df3548cc2",
+  "text": "Sivulta nähty seinämä voi näyttää säikeeltä; havaittu muoto riippuu katselukulmasta.",
+  "durationMs": 6720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1720,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1720,
+      "endMs": 1960,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2440,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 2440,
+      "endMs": 3360,
+      "startChar": 45,
+      "endChar": 54
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3520,
+      "startChar": 54,
+      "endChar": 60
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4800,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5360,
+      "startChar": 68,
+      "endChar": 84
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c30eee2c91935c5d8be361ec",
+  "text": "Voimakas kasvihuoneilmiö ja veden menetys voivat laukaista tähden lähellä.",
+  "durationMs": 6040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 25
+    },
+    {
+      "startMs": 150,
+      "endMs": 2160,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2400,
+      "startChar": 28,
+      "endChar": 34
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2800,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3520,
+      "startChar": 42,
+      "endChar": 49
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4040,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4680,
+      "startChar": 59,
+      "endChar": 66
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5240,
+      "startChar": 66,
+      "endChar": 74
+    }
+  ]
+}

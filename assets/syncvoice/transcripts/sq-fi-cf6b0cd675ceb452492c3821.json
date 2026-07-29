@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cf6b0cd675ceb452492c3821",
+  "text": "Kolmiulotteinen kuvio · säikeiden ja tyhjiöiden kerroksia",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 16
+    },
+    {
+      "startMs": 75,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1920,
+      "startChar": 22,
+      "endChar": 24
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2280,
+      "startChar": 24,
+      "endChar": 34
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3240,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3480,
+      "startChar": 37,
+      "endChar": 48
+    },
+    {
+      "startMs": 3480,
+      "endMs": 4360,
+      "startChar": 48,
+      "endChar": 57
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c0f54dface62aa009ea096c7",
+  "text": "Painopiste voi olla asemassa, ominaisuudessa, esineessä, tehtävässä tai ajatuksessa.",
+  "durationMs": 7560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 15,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 30
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2200,
+      "startChar": 30,
+      "endChar": 46
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3600,
+      "startChar": 46,
+      "endChar": 57
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4920,
+      "startChar": 57,
+      "endChar": 68
+    },
+    {
+      "startMs": 4920,
+      "endMs": 6040,
+      "startChar": 68,
+      "endChar": 72
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6440,
+      "startChar": 72,
+      "endChar": 84
+    }
+  ]
+}

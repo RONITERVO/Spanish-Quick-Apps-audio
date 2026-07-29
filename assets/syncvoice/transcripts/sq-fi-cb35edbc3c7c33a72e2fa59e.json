@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cb35edbc3c7c33a72e2fa59e",
+  "text": "neljä pientä kuuta",
+  "durationMs": 1560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 520,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 520,
+      "endMs": 1040,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1560,
+      "startChar": 13,
+      "endChar": 18
+    }
+  ]
+}

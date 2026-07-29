@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b59df5854b0ebdd9ab382431",
+  "text": "Noin 2,1–3,3 AU Auringosta",
+  "durationMs": 6000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1500,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 1500,
+      "endMs": 3000,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 3000,
+      "endMs": 4500,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 4500,
+      "endMs": 6000,
+      "startChar": 16,
+      "endChar": 26
+    }
+  ]
+}

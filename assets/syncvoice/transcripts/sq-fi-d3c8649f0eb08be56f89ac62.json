@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d3c8649f0eb08be56f89ac62",
+  "text": "Data, säiliöt ja jakelukeskukset koordinoivat planeettaketjuja.",
+  "durationMs": 5200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1640,
+      "startChar": 14,
+      "endChar": 17
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1880,
+      "startChar": 17,
+      "endChar": 33
+    },
+    {
+      "startMs": 1880,
+      "endMs": 3080,
+      "startChar": 33,
+      "endChar": 46
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3920,
+      "startChar": 46,
+      "endChar": 63
+    }
+  ]
+}

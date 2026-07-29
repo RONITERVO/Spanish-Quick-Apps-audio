@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d261a299c4dc34e5d5e13c2f",
+  "text": "Syvä kosminen verkko",
+  "durationMs": 1920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 640,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 640,
+      "endMs": 1280,
+      "startChar": 5,
+      "endChar": 14
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1920,
+      "startChar": 14,
+      "endChar": 20
+    }
+  ]
+}

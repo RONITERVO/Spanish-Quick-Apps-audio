@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bcd53f6aae681dcdb24bcbbd",
+  "text": "autonominen ajoneuvo",
+  "durationMs": 1740,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 870,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 870,
+      "endMs": 1740,
+      "startChar": 12,
+      "endChar": 20
+    }
+  ]
+}

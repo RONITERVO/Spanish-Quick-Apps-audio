@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c5f85bc43a0db18fa0ab25db",
+  "text": "Pystyvämpi äly ei ole automaattisesti tietoisempi, hyväntahtoisempi tai hallittavampi.",
+  "durationMs": 7000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 18
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 38
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2880,
+      "startChar": 38,
+      "endChar": 51
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3960,
+      "startChar": 51,
+      "endChar": 68
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5440,
+      "startChar": 68,
+      "endChar": 72
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5760,
+      "startChar": 72,
+      "endChar": 86
+    }
+  ]
+}

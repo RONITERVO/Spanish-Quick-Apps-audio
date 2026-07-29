@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c2bd3dc8f7caf35fb286a180",
+  "text": "Raiteet, veturit ja aikataulut yhdistävät tuotannon ja maakuljetukset.",
+  "durationMs": 6480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1960,
+      "startChar": 17,
+      "endChar": 20
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2280,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3200,
+      "startChar": 31,
+      "endChar": 42
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3960,
+      "startChar": 42,
+      "endChar": 52
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4800,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5080,
+      "startChar": 55,
+      "endChar": 70
+    }
+  ]
+}

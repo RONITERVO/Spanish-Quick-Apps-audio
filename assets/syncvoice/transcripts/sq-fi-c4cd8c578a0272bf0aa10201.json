@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c4cd8c578a0272bf0aa10201",
+  "text": "Ammattitaitoinen henkilö voi vähitellen lisätä vaikeutta ja vetää apua.",
+  "durationMs": 5400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 17
+    },
+    {
+      "startMs": 75,
+      "endMs": 1240,
+      "startChar": 17,
+      "endChar": 25
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1720,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 1720,
+      "endMs": 1960,
+      "startChar": 29,
+      "endChar": 40
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2640,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3080,
+      "startChar": 47,
+      "endChar": 57
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3500,
+      "startChar": 57,
+      "endChar": 60
+    },
+    {
+      "startMs": 3500,
+      "endMs": 3920,
+      "startChar": 60,
+      "endChar": 66
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4680,
+      "startChar": 66,
+      "endChar": 71
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c8ed829eaa678cd1bd171ef3",
+  "text": "Kerätyt kuidut mahdollistavat jännityksen, liittämisen, noston, mittauksen ja voiman siirron.",
+  "durationMs": 8520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 15,
+      "endChar": 30
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2120,
+      "startChar": 30,
+      "endChar": 43
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3240,
+      "startChar": 43,
+      "endChar": 56
+    },
+    {
+      "startMs": 3240,
+      "endMs": 4680,
+      "startChar": 56,
+      "endChar": 64
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5720,
+      "startChar": 64,
+      "endChar": 75
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6880,
+      "startChar": 75,
+      "endChar": 78
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7200,
+      "startChar": 78,
+      "endChar": 85
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7640,
+      "startChar": 85,
+      "endChar": 93
+    }
+  ]
+}

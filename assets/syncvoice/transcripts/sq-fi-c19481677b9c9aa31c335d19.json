@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c19481677b9c9aa31c335d19",
+  "text": "Painovoima keskittää aineen ja sytyttää tähdet ilman aikomusta tai todistusta.",
+  "durationMs": 6840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1680,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2360,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2560,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3200,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3880,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4520,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5360,
+      "startChar": 63,
+      "endChar": 67
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5760,
+      "startChar": 67,
+      "endChar": 78
+    }
+  ]
+}

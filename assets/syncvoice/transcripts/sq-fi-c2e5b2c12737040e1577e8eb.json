@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c2e5b2c12737040e1577e8eb",
+  "text": "Häiriö voi levitä paikallisella kytkennällä ilman, että samoja komponentteja kuljetetaan pysyvästi.",
+  "durationMs": 7000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1160,
+      "startChar": 18,
+      "endChar": 32
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2120,
+      "startChar": 32,
+      "endChar": 44
+    },
+    {
+      "startMs": 2120,
+      "endMs": 3000,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3680,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3960,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4440,
+      "startChar": 63,
+      "endChar": 77
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5280,
+      "startChar": 77,
+      "endChar": 89
+    },
+    {
+      "startMs": 5280,
+      "endMs": 6080,
+      "startChar": 89,
+      "endChar": 99
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c625f1335e64fffa3ea7adf7",
+  "text": "Tiedon esittäminen erillisillä tiloilla helpottaa korjaamista, kopioimista ja käsittelyä.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 19
+    },
+    {
+      "startMs": 150,
+      "endMs": 1320,
+      "startChar": 19,
+      "endChar": 31
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2200,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2800,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3640,
+      "startChar": 50,
+      "endChar": 63
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4640,
+      "startChar": 63,
+      "endChar": 75
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5840,
+      "startChar": 75,
+      "endChar": 78
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6160,
+      "startChar": 78,
+      "endChar": 89
+    }
+  ]
+}

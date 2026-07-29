@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d6943593063dd88e837f011e",
+  "text": "Ylivuodot, kvantisointi, pakkaus tai muistivirheet voivat luoda jaksollisuutta ilman ulkoista fyysistä signaalia.",
+  "durationMs": 9640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 1120,
+      "startChar": 11,
+      "endChar": 25
+    },
+    {
+      "startMs": 1120,
+      "endMs": 2480,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3600,
+      "startChar": 33,
+      "endChar": 37
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3960,
+      "startChar": 37,
+      "endChar": 51
+    },
+    {
+      "startMs": 3960,
+      "endMs": 5080,
+      "startChar": 51,
+      "endChar": 58
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5480,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5800,
+      "startChar": 64,
+      "endChar": 79
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6840,
+      "startChar": 79,
+      "endChar": 85
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7440,
+      "startChar": 85,
+      "endChar": 94
+    },
+    {
+      "startMs": 7440,
+      "endMs": 8080,
+      "startChar": 94,
+      "endChar": 103
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8640,
+      "startChar": 103,
+      "endChar": 113
+    }
+  ]
+}

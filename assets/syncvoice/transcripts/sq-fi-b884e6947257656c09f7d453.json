@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b884e6947257656c09f7d453",
+  "text": "Lisääntyminen jatkaa sukulinjoja, mutta ei takaa jokaisen yksilön selviytymistä.",
+  "durationMs": 5800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 21
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 21,
+      "endChar": 34
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2320,
+      "startChar": 34,
+      "endChar": 40
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2960,
+      "startChar": 40,
+      "endChar": 43
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3240,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3680,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4200,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4680,
+      "startChar": 66,
+      "endChar": 80
+    }
+  ]
+}

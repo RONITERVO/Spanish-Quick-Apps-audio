@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d010b4e998d711cb276db138",
+  "text": "stabiili tai epävakaa aine",
+  "durationMs": 3000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2360,
+      "startChar": 22,
+      "endChar": 26
+    }
+  ]
+}

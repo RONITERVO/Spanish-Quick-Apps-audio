@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bb95baccb3f88d035ec12b26",
+  "text": "Jokainen elämä vie pienen osan kosmoksesta ja sisältää silti kokemusmaailman.",
+  "durationMs": 7080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1400,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1720,
+      "startChar": 19,
+      "endChar": 26
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2440,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2880,
+      "startChar": 31,
+      "endChar": 43
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3360,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3840,
+      "startChar": 46,
+      "endChar": 55
+    },
+    {
+      "startMs": 3840,
+      "endMs": 5000,
+      "startChar": 55,
+      "endChar": 61
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5480,
+      "startChar": 61,
+      "endChar": 77
+    }
+  ]
+}

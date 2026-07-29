@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cdc1f550c64d223749ce5343",
+  "text": "Nykyinen perustavanlaatuinen viitekehys",
+  "durationMs": 3070,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1023,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 1023,
+      "endMs": 2047,
+      "startChar": 9,
+      "endChar": 29
+    },
+    {
+      "startMs": 2047,
+      "endMs": 3070,
+      "startChar": 29,
+      "endChar": 39
+    }
+  ]
+}

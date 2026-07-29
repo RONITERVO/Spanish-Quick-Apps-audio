@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d3e5e10b394450ca54a178ac",
+  "text": "läpäisevä raja",
+  "durationMs": 1350,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 675,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 675,
+      "endMs": 1350,
+      "startChar": 10,
+      "endChar": 14
+    }
+  ]
+}

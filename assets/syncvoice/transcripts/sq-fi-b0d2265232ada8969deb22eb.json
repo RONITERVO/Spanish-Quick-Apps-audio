@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b0d2265232ada8969deb22eb",
+  "text": "Akut, lämpö, polttoaineet, pumppaus ja muut tekniikat siirtävät energiaa runsauden ja tarpeen välillä.",
+  "durationMs": 8480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1520,
+      "startChar": 13,
+      "endChar": 27
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2800,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3280,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3760,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4240,
+      "startChar": 44,
+      "endChar": 54
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4880,
+      "startChar": 54,
+      "endChar": 64
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5520,
+      "startChar": 64,
+      "endChar": 73
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6240,
+      "startChar": 73,
+      "endChar": 83
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6640,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7040,
+      "startChar": 86,
+      "endChar": 94
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7760,
+      "startChar": 94,
+      "endChar": 102
+    }
+  ]
+}

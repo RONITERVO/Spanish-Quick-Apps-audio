@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b61e10b3d2db956c0eb73e59",
+  "text": "Seismiset aallot muuttuvat äkillisesti kulkiessaan mineraalien faasimuutosten läpi.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 10
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1360,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1960,
+      "startChar": 27,
+      "endChar": 39
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2760,
+      "startChar": 39,
+      "endChar": 51
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3640,
+      "startChar": 51,
+      "endChar": 63
+    },
+    {
+      "startMs": 3640,
+      "endMs": 4440,
+      "startChar": 63,
+      "endChar": 78
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5520,
+      "startChar": 78,
+      "endChar": 83
+    }
+  ]
+}

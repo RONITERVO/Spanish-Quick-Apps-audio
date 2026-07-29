@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b4bb42401ba5c51f3e2c1e42",
+  "text": "Havaitseminen liittyy toimintamahdollisuuksiin: tavoittamiseen, välttämiseen, seuraamiseen, manipulointiin tai kommunikointiin.",
+  "durationMs": 8760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 14
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 14,
+      "endChar": 22
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 22,
+      "endChar": 48
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2300,
+      "startChar": 48,
+      "endChar": 64
+    },
+    {
+      "startMs": 2300,
+      "endMs": 3120,
+      "startChar": 64,
+      "endChar": 78
+    },
+    {
+      "startMs": 3120,
+      "endMs": 4520,
+      "startChar": 78,
+      "endChar": 92
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5800,
+      "startChar": 92,
+      "endChar": 107
+    },
+    {
+      "startMs": 5800,
+      "endMs": 7000,
+      "startChar": 107,
+      "endChar": 111
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7520,
+      "startChar": 111,
+      "endChar": 127
+    }
+  ]
+}

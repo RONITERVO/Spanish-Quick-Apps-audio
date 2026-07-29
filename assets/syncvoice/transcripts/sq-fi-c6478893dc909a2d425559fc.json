@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-c6478893dc909a2d425559fc",
+  "text": "Kuuman kaasun täyttämä ontelo Auringon ympärillä",
+  "durationMs": 4600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 14,
+      "endChar": 23
+    },
+    {
+      "startMs": 1240,
+      "endMs": 2000,
+      "startChar": 23,
+      "endChar": 30
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2760,
+      "startChar": 30,
+      "endChar": 39
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3560,
+      "startChar": 39,
+      "endChar": 48
+    }
+  ]
+}

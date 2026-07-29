@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-d6a1360f314a1116bab6ff6f",
+  "text": "Neptunuksen painovoima järjestää monet kappaleet vakaisiin kiertoradan rytmeihin.",
+  "durationMs": 5760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 12,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1560,
+      "startChar": 23,
+      "endChar": 33
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2240,
+      "startChar": 33,
+      "endChar": 39
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2680,
+      "startChar": 39,
+      "endChar": 49
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3360,
+      "startChar": 49,
+      "endChar": 59
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4080,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4800,
+      "startChar": 71,
+      "endChar": 81
+    }
+  ]
+}

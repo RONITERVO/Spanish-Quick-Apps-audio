@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b0ab35fd8dfb48267411a4f2",
+  "text": "Luonnollinen ympäristö voi yhdistää muistin, mittakaavan, värin ja kuulumisen.",
+  "durationMs": 7200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 13
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 36
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2640,
+      "startChar": 36,
+      "endChar": 45
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3360,
+      "startChar": 45,
+      "endChar": 58
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4680,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5520,
+      "startChar": 64,
+      "endChar": 67
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6000,
+      "startChar": 67,
+      "endChar": 78
+    }
+  ]
+}

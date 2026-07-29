@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b1e12e14d62506420c4636ca",
+  "text": "puhevallan eriarvoisuus",
+  "durationMs": 2460,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 1230,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 1230,
+      "endMs": 2460,
+      "startChar": 11,
+      "endChar": 23
+    }
+  ]
+}

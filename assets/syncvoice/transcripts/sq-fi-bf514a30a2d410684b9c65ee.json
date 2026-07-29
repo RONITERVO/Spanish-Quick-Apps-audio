@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-bf514a30a2d410684b9c65ee",
+  "text": "geenin säätely",
+  "durationMs": 1200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 600,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 600,
+      "endMs": 1200,
+      "startChar": 7,
+      "endChar": 14
+    }
+  ]
+}

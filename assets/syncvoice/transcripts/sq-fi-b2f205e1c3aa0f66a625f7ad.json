@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b2f205e1c3aa0f66a625f7ad",
+  "text": "Linnunradan reuna",
+  "durationMs": 1440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 720,
+      "startChar": 0,
+      "endChar": 12
+    },
+    {
+      "startMs": 720,
+      "endMs": 1440,
+      "startChar": 12,
+      "endChar": 17
+    }
+  ]
+}

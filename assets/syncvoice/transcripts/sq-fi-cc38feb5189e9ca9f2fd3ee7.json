@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-cc38feb5189e9ca9f2fd3ee7",
+  "text": "Suurin planeetta sisältää enemmän massaa kuin kaikki muut planeetat yhteensä.",
+  "durationMs": 5720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 17
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1960,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2480,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 2480,
+      "endMs": 3160,
+      "startChar": 41,
+      "endChar": 46
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3520,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3960,
+      "startChar": 53,
+      "endChar": 58
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4240,
+      "startChar": 58,
+      "endChar": 68
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4840,
+      "startChar": 68,
+      "endChar": 77
+    }
+  ]
+}

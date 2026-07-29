@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b8fd2104c08a9958875b15ce",
+  "text": "Jaettu voi parantaa, mutta se voi sisältää myös virheitä, harhoja ja unohtamista.",
+  "durationMs": 7040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 21
+    },
+    {
+      "startMs": 225,
+      "endMs": 1680,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2000,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2320,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2640,
+      "startChar": 34,
+      "endChar": 43
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3200,
+      "startChar": 43,
+      "endChar": 48
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3520,
+      "startChar": 48,
+      "endChar": 58
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4440,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4940,
+      "startChar": 66,
+      "endChar": 69
+    },
+    {
+      "startMs": 4940,
+      "endMs": 5440,
+      "startChar": 69,
+      "endChar": 81
+    }
+  ]
+}

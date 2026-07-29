@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-caa8009c02ef4ae10ba0cb4d",
+  "text": "kosminen pöly",
+  "durationMs": 1130,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 565,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 565,
+      "endMs": 1130,
+      "startChar": 9,
+      "endChar": 13
+    }
+  ]
+}

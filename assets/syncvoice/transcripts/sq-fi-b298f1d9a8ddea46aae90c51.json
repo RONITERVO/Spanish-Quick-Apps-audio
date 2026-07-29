@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-b298f1d9a8ddea46aae90c51",
+  "text": "Jokainen kaupunki tarvitsee ruokaa, materiaaleja ja energiaa muualta.",
+  "durationMs": 6120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 9
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 150,
+      "endMs": 1480,
+      "startChar": 18,
+      "endChar": 28
+    },
+    {
+      "startMs": 1480,
+      "endMs": 2160,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2160,
+      "endMs": 3000,
+      "startChar": 36,
+      "endChar": 49
+    },
+    {
+      "startMs": 3000,
+      "endMs": 4280,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4560,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5240,
+      "startChar": 61,
+      "endChar": 69
+    }
+  ]
+}

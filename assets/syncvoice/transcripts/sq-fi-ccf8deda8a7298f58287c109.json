@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "externalId": "sq-fi-ccf8deda8a7298f58287c109",
+  "text": "hiilen kiinnitys",
+  "durationMs": 1600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 800,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 800,
+      "endMs": 1600,
+      "startChar": 7,
+      "endChar": 16
+    }
+  ]
+}
